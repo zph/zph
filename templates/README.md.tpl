@@ -1,4 +1,4 @@
-# 👋 Heyo, it's me Zander 👋 (aka [ZPH](https://github.com/zph) and [ZPH](https://twitter.com/_zph))
+# 👋 Heyo, it's me Zander 👋
 
 ## `whois`
 Polyglot, problem solver and remote-worker, and engineering leader.  I enjoy solving problems according to their technical specifications, ecosystem support, business longevity[^1].
@@ -10,7 +10,7 @@ Database Platform Team as the Tech Lead Manager.
 I'm deeply interested in results and less interested in the exact tools/technology we use.
 
 #### 📜 My recent blog posts
-{{range rss "https://blog.xargs.io/index.xml" 5}}
+{{range rss "https://blog.xargs.io/index.xml" 9}}
 - [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
 {{- end}}
 
