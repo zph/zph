@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
-- [zph/chain](https://github.com/zph/chain) -  (4 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 
 #### 🌱 My latest projects
 
 - [zph/til](https://github.com/zph/til) - Today I learned
-- [zph/chain](https://github.com/zph/chain) - 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - 
+- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 3 days ago) - 
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 3 days ago) - Local secure storage of credentials ala envchain and aws-vault
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
 #### 🔨 My recent Pull Requests
