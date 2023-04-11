@@ -1,4 +1,4 @@
-# 👋 Heyo, it's me Zander 👋 (aka [ZPH](https://github.com/zph) and [ZPH](https://twitter.com/_zph))
+# 👋 Heyo, it's me Zander 👋
 
 ## `whois`
 Polyglot, problem solver and remote-worker, and engineering leader.  I enjoy solving problems according to their technical specifications, ecosystem support, business longevity[^1].
@@ -16,6 +16,10 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 days ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (2 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (4 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (5 months ago)
+- [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (5 months ago)
+- [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (5 months ago)
+- [One hour on blog post and two hours fixing blog builds](https://blog.xargs.io/post/2022-11-02-one-hour-on-blog-post-and-one-hour-fixing-old-npm-deps/) (5 months ago)
 
 #### 👷 What I'm currently working on
 
