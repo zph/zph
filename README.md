@@ -11,6 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (today)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (6 days ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (6 days ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (6 days ago)
@@ -19,7 +20,6 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (5 months ago)
 - [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (5 months ago)
 - [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (5 months ago)
-- [One hour on blog post and two hours fixing blog builds](https://blog.xargs.io/post/2022-11-02-one-hour-on-blog-post-and-one-hour-fixing-old-npm-deps/) (5 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -90,15 +90,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
+- [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (today)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (6 days ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (1 year ago)
-- [Pull request helper script](https://gist.github.com/9fc03790c0146f4d181bdfc28db8b799) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [CoreDB-io/coredb](https://github.com/CoreDB-io/coredb) - Postgres for Everything (1 day ago)
-- [bootrino/arniesmtpbufferserver](https://github.com/bootrino/arniesmtpbufferserver) -  (1 day ago)
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md) (2 days ago)
+- [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh. (today)
+- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (today)
+- [gpasq/deno-exec](https://github.com/gpasq/deno-exec) -  (today)
 
 #### 📫 How to reach me
 
