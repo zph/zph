@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 day ago)
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (5 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [nats-io/nats.deno](https://github.com/nats-io/nats.deno) - Deno client for NATS, the cloud native messaging system (today)
 - [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh. (2 days ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 days ago)
-- [gpasq/deno-exec](https://github.com/gpasq/deno-exec) -  (2 days ago)
 
 #### 📫 How to reach me
 
