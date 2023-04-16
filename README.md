@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (2 days ago)
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 day ago)
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (today)
+- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (today)
 - [ISSUE 3: Fix env variable merging](https://github.com/zph/chain/pull/6) on [zph/chain](https://github.com/zph/chain) (3 weeks ago)
-- [Add tests](https://github.com/zph/chain/pull/2) on [zph/chain](https://github.com/zph/chain) (3 months ago)
-- [Add age store](https://github.com/zph/chain/pull/1) on [zph/chain](https://github.com/zph/chain) (3 months ago)
 
 #### 📓 Gists
 
