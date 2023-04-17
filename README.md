@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (today)
+- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk / Help Scout alternative) (today)
 - [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service integrated with Internet Archive, archive.today, IPFS and beyond. (1 day ago)
-- [nats-io/nats.deno](https://github.com/nats-io/nats.deno) - Deno client for NATS, the cloud native messaging system (2 days ago)
-- [denoland/saaskit](https://github.com/denoland/saaskit) - A modern SaaS template built on Fresh. (4 days ago)
 
 #### 📫 How to reach me
 
