@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (today)
 - [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (1 day ago)
 - [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk / Help Scout alternative) (1 day ago)
-- [wabarc/wayback](https://github.com/wabarc/wayback) - A self-hosted archiving service with an IM-style interface, integrated with various archival services including Internet Archive, archive.today, IPFS, Telegraph, and file systems. (2 days ago)
 
 #### 📫 How to reach me
 
