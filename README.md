@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (6 days ago)
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 week ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 week ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 week ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 week ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (4 days ago)
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (5 days ago)
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -84,21 +84,21 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 days ago)
-- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (3 days ago)
+- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (4 days ago)
+- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (4 days ago)
 - [ISSUE 3: Fix env variable merging](https://github.com/zph/chain/pull/6) on [zph/chain](https://github.com/zph/chain) (4 weeks ago)
 
 #### 📓 Gists
 
-- [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (6 days ago)
+- [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 week ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 week ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (1 day ago)
-- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (2 days ago)
-- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk / Help Scout alternative) (2 days ago)
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (2 days ago)
+- [paperless-ngx/paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) - A community-supported supercharged version of paperless: scan, index and archive all your physical documents (3 days ago)
+- [freescout-helpdesk/freescout](https://github.com/freescout-helpdesk/freescout) - FreeScout — Free self-hosted help desk &amp; shared mailbox (Zendesk / Help Scout alternative) (3 days ago)
 
 #### 📫 How to reach me
 
