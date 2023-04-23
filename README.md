@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (6 days ago)
-- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (6 days ago)
+- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
+- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (1 week ago)
 - [ISSUE 3: Fix env variable merging](https://github.com/zph/chain/pull/6) on [zph/chain](https://github.com/zph/chain) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rust-lang/mdBook](https://github.com/rust-lang/mdBook) - Create book from markdown files. Like Gitbook but implemented in Rust (1 day ago)
-- [strongdm/comply](https://github.com/strongdm/comply) - Compliance automation framework, focused on SOC2 (1 day ago)
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system. (4 days ago)
+- [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell (1 day ago)
+- [hashicorp/horizon](https://github.com/hashicorp/horizon) - Location Independent Routing Mesh (1 day ago)
+- [hashicorp/waypoint-hzn](https://github.com/hashicorp/waypoint-hzn) - Waypoint URL Service API (Horizon &#34;Frontend&#34;) (1 day ago)
 
 #### 📫 How to reach me
 
