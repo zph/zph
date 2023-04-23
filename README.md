@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jamesob/desk](https://github.com/jamesob/desk) - A lightweight workspace manager for the shell (1 day ago)
-- [hashicorp/horizon](https://github.com/hashicorp/horizon) - Location Independent Routing Mesh (1 day ago)
-- [hashicorp/waypoint-hzn](https://github.com/hashicorp/waypoint-hzn) - Waypoint URL Service API (Horizon &#34;Frontend&#34;) (1 day ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (today)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (today)
+- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
 
 #### 📫 How to reach me
 
