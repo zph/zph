@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 week ago)
-- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (1 week ago)
+- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (today)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (today)
-- [highlight/highlight](https://github.com/highlight/highlight) - highlight.io: The open source, full-stack monitoring platform. Error monitoring, session replay, logging and more. (today)
+- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS (1 day ago)
+- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 day ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 day ago)
 
 #### 📫 How to reach me
 
