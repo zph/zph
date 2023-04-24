@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (today)
 - [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS (1 day ago)
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 day ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (1 day ago)
 
 #### 📫 How to reach me
 
