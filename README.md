@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 week ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 week ago)
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (2 weeks ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -80,6 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 2 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.0](https://github.com/japiirainen/vl/releases/tag/0.1.0), 1 year ago) - Shell scripting in typescript. Powered by deno.
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (today)
-- [koekeishiya/skhd](https://github.com/koekeishiya/skhd) -  Simple hotkey daemon for macOS (1 day ago)
-- [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps (1 day ago)
+- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (1 day ago)
+- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (1 day ago)
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (1 day ago)
 
 #### 📫 How to reach me
 
