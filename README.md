@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (1 day ago)
-- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (1 day ago)
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (1 day ago)
+- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (2 days ago)
+- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (2 days ago)
+- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (2 days ago)
 
 #### 📫 How to reach me
 
