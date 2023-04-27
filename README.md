@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 week ago)
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (2 weeks ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (2 weeks ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (2 weeks ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (2 weeks ago)
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 week ago)
+- [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 weeks ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 weeks ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (2 days ago)
-- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (2 days ago)
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) -  an experimental alternative to poetry/pip/pipenv/pyenv/venv/virtualenv/pdm/hatch/…  (2 days ago)
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (1 day ago)
+- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (3 days ago)
+- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (3 days ago)
 
 #### 📫 How to reach me
 
