@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 week ago)
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 week ago)
+- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (2 weeks ago)
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 2 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 3 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.0](https://github.com/japiirainen/vl/releases/tag/0.1.0), 1 year ago) - Shell scripting in typescript. Powered by deno.
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (2 days ago)
-- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (4 days ago)
-- [fahad19/featurevisor](https://github.com/fahad19/featurevisor) - Feature flags and experimentation management solution for developers (4 days ago)
+- [metrico/qryn](https://github.com/metrico/qryn) - qryn is a polyglot, high-performance observability stack. Ingest and analyze logs, metrics and traces from any agent supporting Loki, Prometheus, OTLP, Tempo, Elastic, InfluxDB and more! (formerly cLoki) (1 day ago)
+- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (3 days ago)
+- [derwiki/layoff-runbook](https://github.com/derwiki/layoff-runbook) - Being laid off can be overwhelming and it&#39;s easy to miss important tasks. This runbook will help make sure you stay on track. (5 days ago)
 
 #### 📫 How to reach me
 
