@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (1 day ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (2 weeks ago)
-- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault (2 weeks ago)
+- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
 
 #### 🌱 My latest projects
 
+- [zph/shortlink](https://github.com/zph/shortlink) - 
 - [zph/til](https://github.com/zph/til) - Today I learned
 - [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (today)
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (today)
 - [ostinelli/syn](https://github.com/ostinelli/syn) - A scalable global Process Registry and Process Group manager for Erlang and Elixir. (1 day ago)
-- [metrico/qryn](https://github.com/metrico/qryn) - qryn is a polyglot, high-performance observability stack. Ingest and analyze logs, metrics and traces from any agent supporting Loki, Prometheus, OTLP, Tempo, Elastic, InfluxDB and more! (formerly cLoki) (2 days ago)
-- [cloudflare/wildebeest](https://github.com/cloudflare/wildebeest) - Wildebeest is an ActivityPub and Mastodon-compatible server (4 days ago)
 
 #### 📫 How to reach me
 
