@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (5 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (5 months ago)
 - [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (5 months ago)
-- [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (5 months ago)
+- [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (6 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -93,13 +93,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 weeks ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (3 weeks ago)
-- [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (1 year ago)
+- [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (today)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (today)
-- [ostinelli/syn](https://github.com/ostinelli/syn) - A scalable global Process Registry and Process Group manager for Erlang and Elixir. (1 day ago)
+- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (1 day ago)
+- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to turn scripts into workflows and UIs. Open-source alternative to Airplane and Retool. (1 day ago)
+- [ostinelli/syn](https://github.com/ostinelli/syn) - A scalable global Process Registry and Process Group manager for Erlang and Elixir. (2 days ago)
 
 #### 📫 How to reach me
 
