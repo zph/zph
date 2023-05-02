@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [nestybox/sysbox](https://github.com/nestybox/sysbox) - An open-source, next-generation &#34;runc&#34; that empowers rootless containers to run workloads such as Systemd, Docker, Kubernetes, just like VMs. (today)
 - [gilbertchen/duplicacy](https://github.com/gilbertchen/duplicacy) - A new generation cloud backup tool  (1 day ago)
 - [rogpeppe/go-internal](https://github.com/rogpeppe/go-internal) - Selected Go-internal packages factored out from the standard library (1 day ago)
-- [pelikan-io/pelikan](https://github.com/pelikan-io/pelikan) - Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. (2 days ago)
 
 #### 📫 How to reach me
 
