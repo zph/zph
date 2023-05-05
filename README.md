@@ -12,18 +12,18 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (3 weeks ago)
-- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (3 weeks ago)
-- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (3 weeks ago)
-- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (3 weeks ago)
+- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (4 weeks ago)
+- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (4 weeks ago)
+- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 weeks ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (3 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (5 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (5 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (6 months ago)
 - [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (6 months ago)
 - [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (6 months ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/shortlink](https://github.com/zph/shortlink) -  (4 days ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (5 days ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (2 weeks ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
 
@@ -92,14 +92,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 📓 Gists
 
 - [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (3 weeks ago)
-- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (3 weeks ago)
+- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (4 weeks ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (1 day ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 day ago)
-- [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks. (1 day ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (2 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 days ago)
+- [release-argus/Argus](https://github.com/release-argus/Argus) - Argus is a lightweight monitor to notify of new software releases via Gotify/Slack/other messages and/or WebHooks. (2 days ago)
 
 #### 📫 How to reach me
 
