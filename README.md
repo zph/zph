@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/shortlink](https://github.com/zph/shortlink) -  (5 days ago)
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (2 weeks ago)
-- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (6 days ago)
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (3 weeks ago)
+- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 3 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 4 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.0](https://github.com/japiirainen/vl/releases/tag/0.1.0), 1 year ago) - Shell scripting in typescript. Powered by deno.
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (today)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (2 days ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (2 days ago)
+- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 day ago)
+- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (3 days ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (3 days ago)
 
 #### 📫 How to reach me
 
