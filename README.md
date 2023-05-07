@@ -12,9 +12,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (3 weeks ago)
-- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (4 weeks ago)
-- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (4 weeks ago)
-- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 weeks ago)
+- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
+- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
+- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 month ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (3 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (5 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (6 months ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/shortlink](https://github.com/zph/shortlink) -  (6 days ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (1 week ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (3 weeks ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (3 weeks ago)
 
@@ -85,21 +85,21 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 weeks ago)
-- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (2 weeks ago)
+- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 weeks ago)
+- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (3 weeks ago)
 - [ISSUE 3: Fix env variable merging](https://github.com/zph/chain/pull/6) on [zph/chain](https://github.com/zph/chain) (1 month ago)
 
 #### 📓 Gists
 
 - [](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (3 weeks ago)
-- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (4 weeks ago)
+- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 month ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [drakkan/sftpgo](https://github.com/drakkan/sftpgo) - Fully featured and highly configurable SFTP server with optional HTTP/S, FTP/S and WebDAV support - S3, Google Cloud Storage, Azure Blob (1 day ago)
-- [questdb/questdb](https://github.com/questdb/questdb) - An open source time-series database for fast ingest and SQL queries (3 days ago)
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (3 days ago)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 day ago)
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (1 day ago)
+- [djyde/cusdis](https://github.com/djyde/cusdis) - lightweight, privacy-friendly alternative to Disqus. (1 day ago)
 
 #### 📫 How to reach me
 
