@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 4 weeks ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 1 month ago) - Local secure storage of credentials ala envchain and aws-vault
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.0](https://github.com/japiirainen/vl/releases/tag/0.1.0), 1 year ago) - Shell scripting in typescript. Powered by deno.
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cneira/firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - nomad task driver that uses firecracker to start micro-vms (today)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (1 day ago)
-- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (1 day ago)
+- [cneira/firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - nomad task driver that uses firecracker to start micro-vms (1 day ago)
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (2 days ago)
+- [go-shiori/shiori](https://github.com/go-shiori/shiori) - Simple bookmark manager built with Go (2 days ago)
 
 #### 📫 How to reach me
 
