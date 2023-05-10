@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [vadimdemedes/ink](https://github.com/vadimdemedes/ink) - 🌈 React for interactive command-line apps (2 days ago)
-- [cneira/firecracker-task-driver](https://github.com/cneira/firecracker-task-driver) - nomad task driver that uses firecracker to start micro-vms (3 days ago)
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a simple, fast, privacy-focused alternative to Google Analytics. (4 days ago)
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (today)
+- [daknob/eldim](https://github.com/daknob/eldim) - A Secure File Upload Proxy (today)
+- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (today)
 
 #### 📫 How to reach me
 
