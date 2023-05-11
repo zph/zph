@@ -11,6 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (today)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (4 weeks ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
@@ -19,7 +20,6 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (5 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (6 months ago)
 - [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (6 months ago)
-- [Dune&#39;s Litany on Reliability](https://blog.xargs.io/post/2022-11-02-dune-s-litany-on-reliability/) (6 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno (today)
 - [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (1 day ago)
 - [daknob/eldim](https://github.com/daknob/eldim) - A Secure File Upload Proxy (1 day ago)
-- [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories (1 day ago)
 
 #### 📫 How to reach me
 
