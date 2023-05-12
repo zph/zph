@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (today)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 day ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (4 weeks ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno (today)
-- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (1 day ago)
-- [daknob/eldim](https://github.com/daknob/eldim) - A Secure File Upload Proxy (1 day ago)
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (1 day ago)
+- [lucacasonato/deno-puppeteer](https://github.com/lucacasonato/deno-puppeteer) - A port of puppeteer running on Deno (1 day ago)
+- [ublue-os/fleek](https://github.com/ublue-os/fleek) - Own your $HOME (2 days ago)
 
 #### 📫 How to reach me
 
