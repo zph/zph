@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 days ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (3 days ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 month ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/shortlink](https://github.com/zph/shortlink) -  (1 week ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (2 weeks ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (4 weeks ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (4 weeks ago)
 
@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 weeks ago)
-- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (3 weeks ago)
+- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (4 weeks ago)
+- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (4 weeks ago)
 - [ISSUE 3: Fix env variable merging](https://github.com/zph/chain/pull/6) on [zph/chain](https://github.com/zph/chain) (1 month ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (today)
-- [psarna/edgemail](https://github.com/psarna/edgemail) -  (1 day ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (2 days ago)
+- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (1 day ago)
+- [psarna/edgemail](https://github.com/psarna/edgemail) -  (2 days ago)
+- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (3 days ago)
 
 #### 📫 How to reach me
 
