@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [intel/intel-one-mono](https://github.com/intel/intel-one-mono) - Intel One Mono font repository (2 days ago)
-- [psarna/edgemail](https://github.com/psarna/edgemail) -  (3 days ago)
-- [timvisee/send](https://github.com/timvisee/send) - :mailbox_with_mail: Simple, private file sharing. Mirror of https://gitlab.com/timvisee/send (4 days ago)
+- [cashapp/blip](https://github.com/cashapp/blip) - Sublime MySQL monitoring (today)
+- [go-mysql/hotswap-dsn-driver](https://github.com/go-mysql/hotswap-dsn-driver) - Go MySQL driver that can hot swap the DSN (today)
+- [square/etre](https://github.com/square/etre) - Entity API for managing primitive entities with labels (today)
 
 #### 📫 How to reach me
 
