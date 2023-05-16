@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [capillariesio/capillaries](https://github.com/capillariesio/capillaries) - Distributed batch data processing framework (today)
 - [aquasecurity/tfsec](https://github.com/aquasecurity/tfsec) - Security scanner for your Terraform code (1 day ago)
 - [robherley/snips.sh](https://github.com/robherley/snips.sh) - ✂️ passwordless, anonymous SSH-powered pastebin with a human-friendly TUI and web UI (1 day ago)
-- [cashapp/blip](https://github.com/cashapp/blip) - Sublime MySQL monitoring (1 day ago)
 
 #### 📫 How to reach me
 
