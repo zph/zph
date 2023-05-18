@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - DevPod is a client-only tool to create developer environments based on a devcontainer.json on any backend (today)
+- [facebook/kuduraft](https://github.com/facebook/kuduraft) - A Raft Library in C&#43;&#43; based on the Raft implementation in Apache Kudu (today)
 - [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (1 day ago)
-- [taxilang/taxilang](https://github.com/taxilang/taxilang) - Taxi is a language for describing APIs, data models, and how everything relates (1 day ago)
-- [capillariesio/capillaries](https://github.com/capillariesio/capillaries) - Distributed batch data processing framework (2 days ago)
 
 #### 📫 How to reach me
 
