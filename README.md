@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (6 days ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 week ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 month ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (today)
-- [taxilang/taxilang](https://github.com/taxilang/taxilang) - Taxi is a language for describing APIs, data models, and how everything relates (today)
-- [capillariesio/capillaries](https://github.com/capillariesio/capillaries) - Distributed batch data processing framework (1 day ago)
+- [89luca89/distrobox](https://github.com/89luca89/distrobox) - Use any linux distribution inside your terminal. Enable both backward and forward compatibility with software and freedom to use whatever distribution you’re more comfortable with. Mirror available at: https://gitlab.com/89luca89/distrobox (1 day ago)
+- [taxilang/taxilang](https://github.com/taxilang/taxilang) - Taxi is a language for describing APIs, data models, and how everything relates (1 day ago)
+- [capillariesio/capillaries](https://github.com/capillariesio/capillaries) - Distributed batch data processing framework (2 days ago)
 
 #### 📫 How to reach me
 
