@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [supabase/gotrue](https://github.com/supabase/gotrue) - A JWT based API for managing users and issuing JWT tokens (1 day ago)
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens. (1 day ago)
-- [GyulyVGC/sniffnet](https://github.com/GyulyVGC/sniffnet) - Application to comfortably monitor your network traffic (2 days ago)
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (today)
+- [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs (today)
+- [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale. (today)
 
 #### 📫 How to reach me
 
