@@ -17,7 +17,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 month ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (3 months ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (5 months ago)
+- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (6 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (6 months ago)
 - [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (6 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (today)
-- [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs (today)
-- [paypal/junodb](https://github.com/paypal/junodb) - JunoDB is PayPal&#39;s home-grown secure, consistent and highly available key-value store providing low, single digit millisecond, latency at any scale. (today)
+- [skytable/skytable](https://github.com/skytable/skytable) - Skytable is a fast, secure and reliable realtime NoSQL database with keyspaces, tables, data types, authn/authz, snapshots and more to build powerful apps (1 day ago)
+- [Snapchat/KeyDB](https://github.com/Snapchat/KeyDB) - A Multithreaded Fork of Redis (1 day ago)
+- [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI for managing the battery charging status for M1 Macs (1 day ago)
 
 #### 📫 How to reach me
 
