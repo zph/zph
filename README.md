@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (today)
 - [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (1 day ago)
 - [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (2 days ago)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (5 days ago)
 
 #### 📫 How to reach me
 
