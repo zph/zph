@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/shortlink](https://github.com/zph/shortlink) -  (4 weeks ago)
+- [zph/shortlink](https://github.com/zph/shortlink) -  (1 month ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 month ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (today)
-- [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (1 day ago)
-- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (4 days ago)
+- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (1 day ago)
+- [nodesocket/jsonlite](https://github.com/nodesocket/jsonlite) - A simple, self-contained, serverless, zero-configuration, json document store. (2 days ago)
+- [patte/fly-tailscale-exit](https://github.com/patte/fly-tailscale-exit) - Run a VPN with global exit nodes with fly.io, tailscale and github! (5 days ago)
 
 #### 📫 How to reach me
 
