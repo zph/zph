@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 weeks ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (3 weeks ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 month ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 month ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 month ago)
@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (4 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (6 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (6 months ago)
-- [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (6 months ago)
+- [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (7 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (today)
-- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (1 day ago)
-- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (2 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (1 day ago)
+- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (2 days ago)
+- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (3 days ago)
 
 #### 📫 How to reach me
 
