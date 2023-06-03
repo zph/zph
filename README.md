@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (2 days ago)
-- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (3 days ago)
-- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (4 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (3 days ago)
+- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (4 days ago)
+- [noamelf/googlemeet.spoon](https://github.com/noamelf/googlemeet.spoon) - Automate your Google Meet workflow (5 days ago)
 
 #### 📫 How to reach me
 
