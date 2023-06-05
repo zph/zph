@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby (1 day ago)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (4 days ago)
-- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (5 days ago)
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby (2 days ago)
+- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (5 days ago)
+- [acaloiaro/env-sample-sync](https://github.com/acaloiaro/env-sample-sync) - Automatically and safely synchronize .env files with env.sample  (6 days ago)
 
 #### 📫 How to reach me
 
