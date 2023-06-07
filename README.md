@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 1 month ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 2 months ago) - Local secure storage of credentials ala envchain and aws-vault
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.0](https://github.com/japiirainen/vl/releases/tag/0.1.0), 1 year ago) - Shell scripting in typescript. Powered by deno.
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mactat/framed](https://github.com/mactat/framed) - CLI tool for projects management (1 day ago)
-- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby (3 days ago)
-- [makeplane/plane](https://github.com/makeplane/plane) - 🔥 🔥 🔥 Open Source JIRA, Linear and Height Alternative. Plane helps you track your issues, epics, and product roadmaps in the simplest way possible. (6 days ago)
+- [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search (1 day ago)
+- [mactat/framed](https://github.com/mactat/framed) - CLI tool for projects management (2 days ago)
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C&#43;&#43; / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby (4 days ago)
 
 #### 📫 How to reach me
 
