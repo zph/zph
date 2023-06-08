@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (today)
+- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (today)
 - [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (1 day ago)
-- [boyter/cs](https://github.com/boyter/cs) - command line codespelunker or code search (2 days ago)
-- [mactat/framed](https://github.com/mactat/framed) - CLI tool for projects management (3 days ago)
 
 #### 📫 How to reach me
 
