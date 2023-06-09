@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (today)
-- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (today)
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (1 day ago)
+- [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (1 day ago)
+- [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (1 day ago)
+- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (2 days ago)
 
 #### 📫 How to reach me
 
