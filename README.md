@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (1 day ago)
 - [zph/shortlink](https://github.com/zph/shortlink) -  (1 month ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 month ago)
-- [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 month ago)
 
 #### 🌱 My latest projects
 
+- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser
 - [zph/shortlink](https://github.com/zph/shortlink) - 
 - [zph/til](https://github.com/zph/til) - Today I learned
-- [zph/chain](https://github.com/zph/chain) - Local secure storage of credentials ala envchain and aws-vault
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [release-it/release-it](https://github.com/release-it/release-it) - 🚀 Automate versioning and package publishing (today)
 - [ArroyoSystems/arroyo](https://github.com/ArroyoSystems/arroyo) - Distributed stream processing engine in Rust (3 days ago)
 - [stevelr/age-op](https://github.com/stevelr/age-op) - simple CLI encryption without the footguns: age &#43; 1password (3 days ago)
-- [oceanbase/oceanbase](https://github.com/oceanbase/oceanbase) - OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards. (4 days ago)
 
 #### 📫 How to reach me
 
