@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (today)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 day ago)
 - [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 month ago)
-- [Update README.md to include alternate execution method](https://github.com/zph/vl/pull/1) on [zph/vl](https://github.com/zph/vl) (1 month ago)
 
 #### 📓 Gists
 
