@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sbdchd/squawk](https://github.com/sbdchd/squawk) - 🐘 linter for PostgreSQL, focused on migrations (2 days ago)
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway (2 days ago)
-- [openobserve/openobserve](https://github.com/openobserve/openobserve) - 🚀 10x easier, 🚀 140x lower storage cost, 🚀 high performance,  🚀 petabyte scale - Elasticsearch/Splunk/Datadog alternative for 🚀 (logs, metrics, traces). (4 days ago)
+- [rundeck/rundeck](https://github.com/rundeck/rundeck) - Enable Self-Service Operations: Give specific users access to your existing tools, services, and scripts (today)
+- [braintree/runbook](https://github.com/braintree/runbook) - A framework for gradual system automation (today)
+- [TypeCellOS/TypeCell](https://github.com/TypeCellOS/TypeCell) -  (today)
 
 #### 📫 How to reach me
 
