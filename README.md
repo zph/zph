@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 days ago)
-- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (6 days ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (4 days ago)
+- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (1 week ago)
 - [zph/shortlink](https://github.com/zph/shortlink) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 days ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 days ago)
+- [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 days ago)
+- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (4 days ago)
 - [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 months ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework (today)
-- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (today)
-- [rundeck/terraform-provider-rundeck](https://github.com/rundeck/terraform-provider-rundeck) - Terraform Rundeck provider (1 day ago)
+- [takluyver/bash_kernel](https://github.com/takluyver/bash_kernel) - A bash kernel for IPython (1 day ago)
+- [echoboomer/incident-bot](https://github.com/echoboomer/incident-bot) - The Open Source Incident Management Framework (1 day ago)
+- [livebook-dev/livebook](https://github.com/livebook-dev/livebook) - Automate code &amp; data workflows with interactive Elixir notebooks (1 day ago)
 
 #### 📫 How to reach me
 
