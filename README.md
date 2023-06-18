@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ab6d/deno-kv-private-note](https://github.com/ab6d/deno-kv-private-note) - Zero Knowledge Private Note Service (today)
+- [kubermatic/kubeone](https://github.com/kubermatic/kubeone) - Kubermatic KubeOne automate cluster operations on all your cloud, on-prem, edge, and IoT environments.   (today)
 - [gitless-vcs/gitless](https://github.com/gitless-vcs/gitless) - A simple version control system built on top of Git (1 day ago)
-- [askonomm/marky](https://github.com/askonomm/marky) - A modular and extensible ESM and Deno Markdown parser. (1 day ago)
-- [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages. (1 day ago)
 
 #### 📫 How to reach me
 
