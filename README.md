@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [postgresml/pgcat](https://github.com/postgresml/pgcat) - PostgreSQL pooler with sharding, load balancing and failover support. (today)
+- [PostHog/HouseWatch](https://github.com/PostHog/HouseWatch) - Open source tool for monitoring and managing ClickHouse clusters (today)
 - [xwmx/nb](https://github.com/xwmx/nb) - CLI and local web plain text note‑taking, bookmarking, and archiving with linking, tagging, filtering, search, Git versioning &amp; syncing, Pandoc conversion, &#43; more, in a single portable script. (1 day ago)
-- [open-job/openjob](https://github.com/open-job/openjob) - Distributed high performance task scheduling framework (1 day ago)
-- [ab6d/deno-kv-private-note](https://github.com/ab6d/deno-kv-private-note) - Zero Knowledge Private Note Service (2 days ago)
 
 #### 📫 How to reach me
 
