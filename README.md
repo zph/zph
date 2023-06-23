@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 day ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 week ago)
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (1 week ago)
 
 #### 🌱 My latest projects
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (today)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
-- [Update README.md to include alternate execution method](https://github.com/japiirainen/vl/pull/1) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (today)
 - [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 days ago)
 - [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework. (2 days ago)
-- [shayonj/pg_easy_replicate](https://github.com/shayonj/pg_easy_replicate) - Easily setup logical replication and switchover to new database with minimal downtime (3 days ago)
 
 #### 📫 How to reach me
 
