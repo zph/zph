@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 day ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 days ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 week ago)
-- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (1 week ago)
+- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 6 days ago) - Shell scripting in typescript. Powered by deno.
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 1 week ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 2 months ago) - Local secure storage of credentials ala envchain and aws-vault
 - [zph/joplin-plugin-auto-alarm](https://github.com/zph/joplin-plugin-auto-alarm) ([v1.0.7-rc10](https://github.com/zph/joplin-plugin-auto-alarm/releases/tag/v1.0.7-rc10), 1 year ago) - Joplin plugin for auto-setting alarm based on Natural Language in Title
 
 #### 🔨 My recent Pull Requests
 
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (today)
+- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 day ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (today)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (2 days ago)
-- [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework. (2 days ago)
+- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (1 day ago)
+- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (3 days ago)
+- [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework. (3 days ago)
 
 #### 📫 How to reach me
 
