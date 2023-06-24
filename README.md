@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rust-build/rust-build.action](https://github.com/rust-build/rust-build.action) - Automate publishing Rust build artifacts for GitHub releases through GitHub Actions (1 day ago)
-- [kysely-org/kysely](https://github.com/kysely-org/kysely) - A type-safe typescript SQL query builder (3 days ago)
-- [grammyjs/grammY](https://github.com/grammyjs/grammY) - The Telegram Bot Framework. (3 days ago)
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (today)
+- [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma. (today)
+- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac. (today)
 
 #### 📫 How to reach me
 
