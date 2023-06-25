@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 days ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 days ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (1 week ago)
 - [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser (2 weeks ago)
 
@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 day ago)
+- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (2 days ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (today)
-- [skoshx/pentagon](https://github.com/skoshx/pentagon) - Prisma-like ORM built on top of Deno KV. Allows you to write your database schemas and relations using Zod schemas, and run queries using familiar syntax from Prisma. (today)
-- [linearmouse/linearmouse](https://github.com/linearmouse/linearmouse) - The mouse and trackpad utility for Mac. (today)
+- [c4pt0r/tidb-aws-terraform](https://github.com/c4pt0r/tidb-aws-terraform) - handy terraform scripts for running TiDB on AWS (1 day ago)
+- [binpash/try](https://github.com/binpash/try) - &#34;Do, or do not. There is no try.&#34;  We&#39;re setting out to change that. (1 day ago)
+- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (1 day ago)
 
 #### 📫 How to reach me
 
