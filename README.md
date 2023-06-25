@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (today)
+- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (today)
 - [c4pt0r/tidb-aws-terraform](https://github.com/c4pt0r/tidb-aws-terraform) - handy terraform scripts for running TiDB on AWS (1 day ago)
-- [binpash/try](https://github.com/binpash/try) - &#34;Do, or do not. There is no try.&#34;  We&#39;re setting out to change that. (1 day ago)
-- [google/nsjail](https://github.com/google/nsjail) - A light-weight process isolation tool, making use of Linux namespaces and seccomp-bpf syscall filters (with help of the kafel bpf language) (1 day ago)
 
 #### 📫 How to reach me
 
