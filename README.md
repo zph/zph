@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ansible-semaphore/semaphore](https://github.com/ansible-semaphore/semaphore) - Modern UI for Ansible (1 day ago)
-- [leptos-rs/leptos](https://github.com/leptos-rs/leptos) - Build fast web applications with Rust. (1 day ago)
-- [c4pt0r/tidb-aws-terraform](https://github.com/c4pt0r/tidb-aws-terraform) - handy terraform scripts for running TiDB on AWS (2 days ago)
+- [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups (today)
+- [torstenvl/tmutils](https://github.com/torstenvl/tmutils) - Time Machine Utilities (today)
+- [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another. (today)
 
 #### 📫 How to reach me
 
