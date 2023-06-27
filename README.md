@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [winglang/wing](https://github.com/winglang/wing) - The Wing Programming Language (today)
+- [aws/jsii](https://github.com/aws/jsii) - jsii allows code in any language to naturally interact with JavaScript classes. It is the technology that enables the AWS Cloud Development Kit to deliver polyglot libraries from a single codebase! (today)
 - [stevegrunwell/asimov](https://github.com/stevegrunwell/asimov) - Automatically exclude development dependencies from Apple Time Machine backups (1 day ago)
-- [torstenvl/tmutils](https://github.com/torstenvl/tmutils) - Time Machine Utilities (1 day ago)
-- [mycelial/mycelite](https://github.com/mycelial/mycelite) - Mycelite is a SQLite extension that allows you to synchronize changes from one instance of SQLite to another. (1 day ago)
 
 #### 📫 How to reach me
 
