@@ -11,6 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 day ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 month ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (2 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (2 months ago)
@@ -19,11 +20,10 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (5 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (7 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (7 months ago)
-- [Export OSX Settings using `defaults` tool](https://blog.xargs.io/post/2022-11-02-export-osx-settings-using-defaults/) (8 months ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (2 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (1 day ago)
-- [shanemhansen/gossl](https://github.com/shanemhansen/gossl) - Go bindings to the openssl library (1 day ago)
-- [squidowl/halloy](https://github.com/squidowl/halloy) - IRC application written in Rust (1 day ago)
+- [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself. (1 day ago)
+- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 days ago)
+- [shanemhansen/gossl](https://github.com/shanemhansen/gossl) - Go bindings to the openssl library (2 days ago)
 
 #### 📫 How to reach me
 
