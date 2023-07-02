@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (today)
+- [apache/kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. (today)
 - [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself. (1 day ago)
-- [cloudflare/cfssl](https://github.com/cloudflare/cfssl) - CFSSL: Cloudflare&#39;s PKI and TLS toolkit (2 days ago)
-- [shanemhansen/gossl](https://github.com/shanemhansen/gossl) - Go bindings to the openssl library (2 days ago)
 
 #### 📫 How to reach me
 
