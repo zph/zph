@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (6 days ago)
-- [apache/kvrocks](https://github.com/apache/kvrocks) - Kvrocks is a distributed key value NoSQL database that uses RocksDB as storage engine and is compatible with Redis protocol. (6 days ago)
-- [hayd/deno-lambda](https://github.com/hayd/deno-lambda) - A deno runtime for AWS Lambda. Deploy deno via docker, SAM, serverless, or bundle it yourself. (1 week ago)
+- [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (1 day ago)
+- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (1 day ago)
+- [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (1 week ago)
 
 #### 📫 How to reach me
 
