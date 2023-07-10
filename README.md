@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 week ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 month ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (2 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (3 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (3 months ago)
@@ -97,8 +97,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (1 day ago)
-- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (1 day ago)
+- [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (2 days ago)
+- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (2 days ago)
 - [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (1 week ago)
 
 #### 📫 How to reach me
