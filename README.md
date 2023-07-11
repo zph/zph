@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 weeks ago)
 - [japiirainen/vl](https://github.com/japiirainen/vl) - Shell scripting in typescript. Powered by deno. (3 weeks ago)
 
@@ -87,7 +87,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (2 weeks ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 weeks ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 weeks ago)
+- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (4 weeks ago)
 
 #### 📓 Gists
 
@@ -97,8 +97,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (2 days ago)
-- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (2 days ago)
+- [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (3 days ago)
+- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (3 days ago)
 - [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (1 week ago)
 
 #### 📫 How to reach me
