@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (today)
+- [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup (today)
 - [corbinbs/solarshed](https://github.com/corbinbs/solarshed) - A Python library to help monitor solar charge controllers typically used in off the grid applications. (3 days ago)
-- [Olen/solar-monitor](https://github.com/Olen/solar-monitor) -  (3 days ago)
-- [RocksLabs/kvrocks_controller](https://github.com/RocksLabs/kvrocks_controller) - Kvrocks cluster controller (1 week ago)
 
 #### 📫 How to reach me
 
