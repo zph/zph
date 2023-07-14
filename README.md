@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [igo95862/bubblejail](https://github.com/igo95862/bubblejail) - Bubblewrap based sandboxing for desktop applications (2 days ago)
-- [containers/bubblewrap](https://github.com/containers/bubblewrap) - Low-level unprivileged sandboxing tool used by Flatpak and similar projects (2 days ago)
-- [lima-vm/lima](https://github.com/lima-vm/lima) - Linux virtual machines, typically on macOS, for running containerd (3 days ago)
+- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc (today)
+- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) - wrap autotools configure scripts to build with Cosmopolitan Libc (today)
+- [yammer/circuitbox](https://github.com/yammer/circuitbox) - Circuit breaker built with large Ruby apps in mind. (today)
 
 #### 📫 How to reach me
 
