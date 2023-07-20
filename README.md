@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age (2 days ago)
-- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc (5 days ago)
-- [ahgamut/superconfigure](https://github.com/ahgamut/superconfigure) - wrap autotools configure scripts to build with Cosmopolitan Libc (5 days ago)
+- [square/finch](https://github.com/square/finch) - MySQL Benchmarking: Declarative, Distributed, and Amazing (1 day ago)
+- [Foxboron/age-plugin-tpm](https://github.com/Foxboron/age-plugin-tpm) - :key: TPM 2.0 plugin for age (3 days ago)
+- [ahgamut/rust-ape-example](https://github.com/ahgamut/rust-ape-example) - A simple example with Rust and Cosmopolitan Libc (6 days ago)
 
 #### 📫 How to reach me
 
