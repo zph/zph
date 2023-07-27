@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (2 weeks ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
 #### 🌱 My latest projects
 
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery
 - [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser
-- [zph/shortlink](https://github.com/zph/shortlink) - 
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
