@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (1 day ago)
-- [square/sharkey](https://github.com/square/sharkey) - Sharkey is a service for managing certificates for use by OpenSSH (2 days ago)
-- [artie-labs/transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs (2 days ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (2 days ago)
+- [square/sharkey](https://github.com/square/sharkey) - Sharkey is a service for managing certificates for use by OpenSSH (3 days ago)
+- [artie-labs/transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs (3 days ago)
 
 #### 📫 How to reach me
 
