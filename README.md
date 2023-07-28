@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (today)
 - [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (2 days ago)
 - [square/sharkey](https://github.com/square/sharkey) - Sharkey is a service for managing certificates for use by OpenSSH (3 days ago)
-- [artie-labs/transfer](https://github.com/artie-labs/transfer) - Real-time data replication from OLTP to OLAP dbs (3 days ago)
 
 #### 📫 How to reach me
 
