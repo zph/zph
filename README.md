@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (today)
+- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (today)
 - [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-tpm-agent (4 days ago)
-- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (5 days ago)
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (1 week ago)
 
 #### 📫 How to reach me
 
