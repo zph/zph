@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (6 days ago)
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 week ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (2 weeks ago)
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-tpm-agent (3 days ago)
-- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (4 days ago)
-- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (6 days ago)
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-tpm-agent (4 days ago)
+- [bloomberg/blazingmq](https://github.com/bloomberg/blazingmq) - A modern high-performance open source message queuing system (5 days ago)
+- [borgo-lang/borgo](https://github.com/borgo-lang/borgo) - Borgo is a statically typed programming language that looks like Rust and compiles to Go. (1 week ago)
 
 #### 📫 How to reach me
 
