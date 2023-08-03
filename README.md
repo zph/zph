@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (3 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (6 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (8 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (8 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (9 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (today)
-- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (today)
-- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-tpm-agent (4 days ago)
+- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (1 day ago)
+- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (1 day ago)
+- [Foxboron/ssh-tpm-agent](https://github.com/Foxboron/ssh-tpm-agent) - :computer: :key: ssh-tpm-agent (5 days ago)
 
 #### 📫 How to reach me
 
