@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 week ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (today)
-- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (1 day ago)
-- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (1 day ago)
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (1 day ago)
+- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (2 days ago)
+- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (2 days ago)
 
 #### 📫 How to reach me
 
