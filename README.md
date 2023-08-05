@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js. (today)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (2 days ago)
 - [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (3 days ago)
-- [pingcap/TiProxy](https://github.com/pingcap/TiProxy) -  (3 days ago)
 
 #### 📫 How to reach me
 
