@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 1 month ago) - Shell scripting in typescript. Powered by deno.
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 3 months ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 4 months ago) - Local secure storage of credentials ala envchain and aws-vault
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.9.0](https://github.com/toumorokoshi/tome/releases/tag/v0.9.0), 1 year ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js. (today)
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (2 days ago)
-- [Shopify/mybench](https://github.com/Shopify/mybench) - A high-performance framework for rapid prototyping of database benchmarks (3 days ago)
+- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform. (1 day ago)
+- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js. (1 day ago)
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (3 days ago)
 
 #### 📫 How to reach me
 
