@@ -87,7 +87,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 month ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 month ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 month ago)
+- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots. (2 days ago)
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (5 days ago)
-- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform. (6 days ago)
+- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (1 day ago)
+- [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots. (3 days ago)
+- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux) (6 days ago)
 
 #### 📫 How to reach me
 
