@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (2 days ago)
-- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (3 days ago)
-- [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots. (5 days ago)
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (3 days ago)
+- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (4 days ago)
+- [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots. (6 days ago)
 
 #### 📫 How to reach me
 
