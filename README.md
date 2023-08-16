@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (2 weeks ago)
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (3 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 1 month ago) - Shell scripting in typescript. Powered by deno.
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 2 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 4 months ago) - Local secure storage of credentials ala envchain and aws-vault
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.9.0](https://github.com/toumorokoshi/tome/releases/tag/v0.9.0), 1 year ago) - convert any directory of scripts into your own fully-featured command.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (3 days ago)
-- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (4 days ago)
-- [adriancooney/puppeteer-heap-snapshot](https://github.com/adriancooney/puppeteer-heap-snapshot) - API and CLI tool to fetch and query Chome DevTools heap snapshots. (6 days ago)
+- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (1 day ago)
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (4 days ago)
+- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (5 days ago)
 
 #### 📫 How to reach me
 
