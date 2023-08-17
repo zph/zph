@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (1 day ago)
-- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (4 days ago)
-- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (5 days ago)
+- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (2 days ago)
+- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (5 days ago)
+- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (6 days ago)
 
 #### 📫 How to reach me
 
