@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (3 days ago)
-- [denosaurs/deno_python](https://github.com/denosaurs/deno_python) - 🐍 Python interpreter bindings for Deno. (6 days ago)
-- [google/git-appraise](https://github.com/google/git-appraise) - Distributed code review system for Git repos (1 week ago)
+- [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function. (1 day ago)
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (1 day ago)
+- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (4 days ago)
 
 #### 📫 How to reach me
 
