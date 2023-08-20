@@ -18,13 +18,13 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (4 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (6 months ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (8 months ago)
+- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (9 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (9 months ago)
 
 #### 👷 What I'm currently working on
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (3 weeks ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (1 month ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function. (1 day ago)
-- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (1 day ago)
-- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (4 days ago)
+- [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function. (2 days ago)
+- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (2 days ago)
+- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (5 days ago)
 
 #### 📫 How to reach me
 
