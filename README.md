@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [orlp/polymur-hash](https://github.com/orlp/polymur-hash) - The PolymurHash universal hash function. (6 days ago)
-- [tembo-io/pg_later](https://github.com/tembo-io/pg_later) - Execute SQL now and get the results later. (6 days ago)
-- [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd (1 week ago)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (today)
+- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. (today)
+- [BPI-SINOVOIP/BPI-R4-bsp](https://github.com/BPI-SINOVOIP/BPI-R4-bsp) -  (today)
 
 #### 📫 How to reach me
 
