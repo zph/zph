@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (7 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (9 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (9 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (10 months ago)
 
 #### 👷 What I'm currently working on
 
