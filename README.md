@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (1 week ago)
-- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. (1 week ago)
-- [BPI-SINOVOIP/BPI-R4-bsp](https://github.com/BPI-SINOVOIP/BPI-R4-bsp) -  (1 week ago)
+- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 weeks ago)
+- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. (2 weeks ago)
+- [BPI-SINOVOIP/BPI-R4-bsp](https://github.com/BPI-SINOVOIP/BPI-R4-bsp) -  (2 weeks ago)
 
 #### 📫 How to reach me
 
