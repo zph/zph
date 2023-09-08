@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 months ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (3 months ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (4 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (4 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (5 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (5 months ago)
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (1 day ago)
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 weeks ago)
 - [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. (2 weeks ago)
-- [BPI-SINOVOIP/BPI-R4-bsp](https://github.com/BPI-SINOVOIP/BPI-R4-bsp) -  (2 weeks ago)
 
 #### 📫 How to reach me
 
