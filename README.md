@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (today)
 - [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (2 days ago)
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 weeks ago)
-- [ergomake/layerform](https://github.com/ergomake/layerform) - Layerform helps engineers create reusable environment stacks using plain .tf files. Ideal for multiple &#34;staging&#34; environments. (2 weeks ago)
 
 #### 📫 How to reach me
 
