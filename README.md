@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (4 months ago)
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (4 months ago)
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (5 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (5 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (5 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (5 months ago)
@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 month ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (1 month ago)
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -91,14 +91,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (4 months ago)
+- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (5 months ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (5 months ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (today)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (2 days ago)
+- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (1 day ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 days ago)
 - [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 weeks ago)
 
 #### 📫 How to reach me
