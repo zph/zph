@@ -87,7 +87,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (2 months ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 months ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (2 months ago)
+- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (1 day ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (3 days ago)
-- [antonmedv/walk](https://github.com/antonmedv/walk) - Terminal file manager (2 weeks ago)
+- [nginx/unit](https://github.com/nginx/unit) -  NGINX Unit – universal web app server – a lightweight and versatile open source server project that works as a reverse proxy, serves static assets, and runs applications in multiple languages.  (1 day ago)
+- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (2 days ago)
+- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (4 days ago)
 
 #### 📫 How to reach me
 
