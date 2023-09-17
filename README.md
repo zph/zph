@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 2 days ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 3 days ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 3 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 5 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes. (6 days ago)
-- [hotelcaliforniabm/arc](https://github.com/hotelcaliforniabm/arc) - Modular off grid solar power system (1 week ago)
-- [eza-community/eza](https://github.com/eza-community/eza) - A modern, maintained replacement for ls (1 week ago)
+- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (1 day ago)
+- [jesseduffield/horcrux](https://github.com/jesseduffield/horcrux) - Split your file into encrypted fragments so that you don&#39;t need to remember a passcode (1 day ago)
+- [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming language runtimes. (1 week ago)
 
 #### 📫 How to reach me
 
