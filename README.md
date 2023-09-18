@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 3 days ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 4 days ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 3 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 5 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (today)
-- [pawurb/rails-brotli-cache](https://github.com/pawurb/rails-brotli-cache) - Drop-in enhancement for Rails cache, offering better performance and compression with Brotli algorithm (today)
-- [m3db/m3](https://github.com/m3db/m3) - M3 monorepo - Distributed TSDB, Aggregator and Query Engine, Prometheus Sidecar, Graphite Compatible, Metrics Platform (1 day ago)
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification (1 day ago)
+- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (1 day ago)
+- [pawurb/rails-brotli-cache](https://github.com/pawurb/rails-brotli-cache) - Drop-in enhancement for Rails cache, offering better performance and compression with Brotli algorithm (1 day ago)
 
 #### 📫 How to reach me
 
