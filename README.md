@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (today)
+- [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator) - A kubernetes operator for FoundationDB (today)
 - [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification (2 days ago)
-- [letsencrypt/openzfs-nvme-databases](https://github.com/letsencrypt/openzfs-nvme-databases) -  (2 days ago)
-- [pawurb/rails-brotli-cache](https://github.com/pawurb/rails-brotli-cache) - Drop-in enhancement for Rails cache, offering better performance and compression with Brotli algorithm (2 days ago)
 
 #### 📫 How to reach me
 
