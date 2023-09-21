@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
-- [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator) - A kubernetes operator for FoundationDB (2 days ago)
-- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification (4 days ago)
+- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (today)
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (today)
+- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. (today)
 
 #### 📫 How to reach me
 
