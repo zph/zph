@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 6 days ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 1 week ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 3 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 5 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
 
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (2 months ago)
+- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (3 months ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 months ago)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (1 day ago)
-- [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator) - A kubernetes operator for FoundationDB (1 day ago)
-- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification (3 days ago)
+- [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration (2 days ago)
+- [FoundationDB/fdb-kubernetes-operator](https://github.com/FoundationDB/fdb-kubernetes-operator) - A kubernetes operator for FoundationDB (2 days ago)
+- [CatalaLang/catala](https://github.com/CatalaLang/catala) - Programming language for literate programming law specification (4 days ago)
 
 #### 📫 How to reach me
 
