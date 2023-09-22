@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (today)
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (today)
-- [electric-sql/electric](https://github.com/electric-sql/electric) - Local-first sync layer for web and mobile apps. Build reactive, realtime, local-first apps directly on Postgres. (today)
+- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data (1 day ago)
+- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (1 day ago)
+- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (1 day ago)
 
 #### 📫 How to reach me
 
