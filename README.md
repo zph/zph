@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data (1 day ago)
-- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (1 day ago)
-- [tailscale/golink](https://github.com/tailscale/golink) - A private shortlink service for tailnets (1 day ago)
+- [momentohq/momento-bulk-writer](https://github.com/momentohq/momento-bulk-writer) - Momento Cache ETL for users from any data source (1 day ago)
+- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data (2 days ago)
+- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (2 days ago)
 
 #### 📫 How to reach me
 
