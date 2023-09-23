@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [momentohq/momento-bulk-writer](https://github.com/momentohq/momento-bulk-writer) - Momento Cache ETL for users from any data source (1 day ago)
-- [facebookarchive/LogDevice](https://github.com/facebookarchive/LogDevice) - Distributed storage for sequential data (2 days ago)
-- [tailscale/tmemes](https://github.com/tailscale/tmemes) - A meme generator for your tailnet! (2 days ago)
+- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (today)
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich terminal tool for monitoring MySQL in real-time (today)
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (today)
 
 #### 📫 How to reach me
 
