@@ -17,7 +17,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (5 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (5 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (5 months ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (7 months ago)
+- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (8 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (10 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (10 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (1 day ago)
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich terminal tool for monitoring MySQL in real-time (1 day ago)
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (1 day ago)
+- [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (2 days ago)
+- [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich terminal tool for monitoring MySQL in real-time (2 days ago)
+- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (2 days ago)
 
 #### 📫 How to reach me
 
