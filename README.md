@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
+- [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer) - Install Nix and flakes with the fast and reliable Determinate Nix Installer, with over 500,000 installs. (today)
 - [rxin/db-readings](https://github.com/rxin/db-readings) - Readings in Databases (4 days ago)
-- [charles-001/dolphie](https://github.com/charles-001/dolphie) - An intuitive feature-rich terminal tool for monitoring MySQL in real-time (4 days ago)
-- [schollz/croc](https://github.com/schollz/croc) - Easily and securely send things from one computer to another :crocodile: :package: (4 days ago)
 
 #### 📫 How to reach me
 
