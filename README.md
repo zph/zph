@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (5 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (8 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (10 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (10 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (11 months ago)
 
 #### 👷 What I'm currently working on
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. (2 days ago)
-- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (2 days ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 days ago)
+- [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. (3 days ago)
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (3 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (5 days ago)
 
 #### 📫 How to reach me
 
