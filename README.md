@@ -87,7 +87,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (3 months ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 months ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (3 months ago)
+- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (4 months ago)
 
 #### 📓 Gists
 
@@ -99,7 +99,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. (1 week ago)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (1 week ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 weeks ago)
 
 #### 📫 How to reach me
 
