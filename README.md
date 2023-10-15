@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.0](https://github.com/toumorokoshi/tome/releases/tag/v0.11.0), 1 month ago) - convert any directory of scripts into your own fully-featured command.
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 3 months ago) - Shell scripting in typescript. Powered by deno.
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 4 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 6 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
