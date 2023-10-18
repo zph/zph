@@ -99,7 +99,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. (2 weeks ago)
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data (2 weeks ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 weeks ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 weeks ago)
 
 #### 📫 How to reach me
 
