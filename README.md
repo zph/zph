@@ -18,13 +18,13 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (6 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (6 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (8 months ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (10 months ago)
+- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (11 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (11 months ago)
 
 #### 👷 What I'm currently working on
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (2 months ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 months ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (3 months ago)
 
 #### 🌱 My latest projects
