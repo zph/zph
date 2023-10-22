@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [stealthrocket/coroutine](https://github.com/stealthrocket/coroutine) - Durable coroutines for Go (1 day ago)
-- [Shopify/ruvy](https://github.com/Shopify/ruvy) -  (1 day ago)
-- [apenwarr/redo](https://github.com/apenwarr/redo) - Smaller, easier, more powerful, and more reliable than make.  An implementation of djb&#39;s redo. (3 weeks ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (today)
+- [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 (today)
+- [bytesparadise/libasciidoc](https://github.com/bytesparadise/libasciidoc) - A Golang library for processing Asciidoc files. (today)
 
 #### 📫 How to reach me
 
