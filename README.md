@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (today)
 - [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (1 day ago)
 - [inlets/mixctl](https://github.com/inlets/mixctl) - A tiny TCP load balancer 🍸 (1 day ago)
-- [bytesparadise/libasciidoc](https://github.com/bytesparadise/libasciidoc) - A Golang library for processing Asciidoc files. (1 day ago)
 
 #### 📫 How to reach me
 
