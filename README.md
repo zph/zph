@@ -17,7 +17,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (6 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (6 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (6 months ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (8 months ago)
+- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (9 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (11 months ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (11 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [widdix/ec2-network-benchmark](https://github.com/widdix/ec2-network-benchmark) -  (1 day ago)
-- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (1 day ago)
-- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (2 days ago)
+- [widdix/ec2-network-benchmark](https://github.com/widdix/ec2-network-benchmark) -  (2 days ago)
+- [qishibo/AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - 🚀🚀🚀A faster, better and more stable Redis desktop manager [GUI client], compatible with Linux, Windows, Mac. (2 days ago)
+- [a-h/templ](https://github.com/a-h/templ) - A language for writing HTML user interfaces in Go. (3 days ago)
 
 #### 📫 How to reach me
 
