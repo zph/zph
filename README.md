@@ -19,7 +19,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (6 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (9 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (11 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (11 months ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
 
 #### 👷 What I'm currently working on
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 days ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 3 days ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 4 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 6 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [TjitteS/OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter) -  (2 days ago)
-- [AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE) - An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus &amp; more! (2 days ago)
-- [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode. (5 days ago)
+- [TjitteS/OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter) -  (3 days ago)
+- [AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE) - An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus &amp; more! (3 days ago)
+- [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode. (6 days ago)
 
 #### 📫 How to reach me
 
