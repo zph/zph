@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System (1 day ago)
 - [TjitteS/OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter) -  (1 week ago)
 - [AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE) - An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus &amp; more! (1 week ago)
-- [ColinFinck/ntfs](https://github.com/ColinFinck/ntfs) - An implementation of the NTFS filesystem in a Rust crate, usable from firmware level up to user-mode. (1 week ago)
 
 #### 📫 How to reach me
 
