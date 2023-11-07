@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (4 months ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (5 months ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (6 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (6 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (7 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (7 months ago)
@@ -97,7 +97,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System (1 day ago)
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System (2 days ago)
 - [TjitteS/OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter) -  (1 week ago)
 - [AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE](https://github.com/AngeloCasi/FUGU-ARDUINO-MPPT-FIRMWARE) - An open source Arduino ESP32 MPPT Charger firmware equipped with charging algorithms, WiFi, LCD menus &amp; more! (1 week ago)
 
