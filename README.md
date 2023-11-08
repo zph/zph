@@ -97,8 +97,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (today)
-- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System (2 days ago)
+- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (1 day ago)
+- [domoticz/domoticz](https://github.com/domoticz/domoticz) - Open source Home Automation System (3 days ago)
 - [TjitteS/OpenSmartEnergyConverter](https://github.com/TjitteS/OpenSmartEnergyConverter) -  (1 week ago)
 
 #### 📫 How to reach me
