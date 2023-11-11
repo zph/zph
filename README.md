@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dalathegreat/BYD-Battery-Emulator-For-Gen24](https://github.com/dalathegreat/BYD-Battery-Emulator-For-Gen24) - This software enables EV battery packs to be used for stationary storage in combination with solar inverters. (3 days ago)
-- [uber-go/automaxprocs](https://github.com/uber-go/automaxprocs) - Automatically set GOMAXPROCS to match Linux container CPU quota. (3 days ago)
-- [syssi/esphome-jk-bms](https://github.com/syssi/esphome-jk-bms) - ESPHome component to monitor and control a Jikong Battery Management System (JK-BMS) via UART-TTL or BLE (4 days ago)
+- [Ralim/OpenMPPT](https://github.com/Ralim/OpenMPPT) - Open Source MPPT for Lithium Batteries. Based on TI controller (today)
+- [openenergymonitor/emonhub](https://github.com/openenergymonitor/emonhub) - Python service linking and decoding input to MQTT &amp; Emoncms  (today)
+- [foxharp/ve.direct](https://github.com/foxharp/ve.direct) - support for the VE.Direct serial protocol supported by many Victron Energy products (today)
 
 #### 📫 How to reach me
 
