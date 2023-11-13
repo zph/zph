@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (1 day ago)
-- [Ralim/OpenMPPT](https://github.com/Ralim/OpenMPPT) - Open Source MPPT for Lithium Batteries. Based on TI controller (1 day ago)
-- [openenergymonitor/emonhub](https://github.com/openenergymonitor/emonhub) - Python service linking and decoding input to MQTT &amp; Emoncms  (1 day ago)
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (2 days ago)
+- [Ralim/OpenMPPT](https://github.com/Ralim/OpenMPPT) - Open Source MPPT for Lithium Batteries. Based on TI controller (2 days ago)
+- [openenergymonitor/emonhub](https://github.com/openenergymonitor/emonhub) - Python service linking and decoding input to MQTT &amp; Emoncms  (2 days ago)
 
 #### 📫 How to reach me
 
