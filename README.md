@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 weeks ago) - convert any directory of scripts into your own fully-featured command.
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 4 months ago) - Shell scripting in typescript. Powered by deno.
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 5 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 7 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (2 days ago)
-- [Ralim/OpenMPPT](https://github.com/Ralim/OpenMPPT) - Open Source MPPT for Lithium Batteries. Based on TI controller (2 days ago)
-- [openenergymonitor/emonhub](https://github.com/openenergymonitor/emonhub) - Python service linking and decoding input to MQTT &amp; Emoncms  (2 days ago)
+- [shakthisachintha/SRNE-Hybrid-Inverter-Monitor](https://github.com/shakthisachintha/SRNE-Hybrid-Inverter-Monitor) - Python based remote monitoring and controlling system for SRNE hybrid inverters. (today)
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (3 days ago)
+- [Ralim/OpenMPPT](https://github.com/Ralim/OpenMPPT) - Open Source MPPT for Lithium Batteries. Based on TI controller (3 days ago)
 
 #### 📫 How to reach me
 
