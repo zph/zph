@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (today)
-- [shakthisachintha/SRNE-Hybrid-Inverter-Monitor](https://github.com/shakthisachintha/SRNE-Hybrid-Inverter-Monitor) - Python based remote monitoring and controlling system for SRNE hybrid inverters. (today)
-- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (3 days ago)
+- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (1 day ago)
+- [shakthisachintha/SRNE-Hybrid-Inverter-Monitor](https://github.com/shakthisachintha/SRNE-Hybrid-Inverter-Monitor) - Python based remote monitoring and controlling system for SRNE hybrid inverters. (1 day ago)
+- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (4 days ago)
 
 #### 📫 How to reach me
 
