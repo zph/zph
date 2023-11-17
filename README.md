@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (today)
+- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (today)
 - [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (3 days ago)
-- [shakthisachintha/SRNE-Hybrid-Inverter-Monitor](https://github.com/shakthisachintha/SRNE-Hybrid-Inverter-Monitor) - Python based remote monitoring and controlling system for SRNE hybrid inverters. (3 days ago)
-- [philippta/flyscrape](https://github.com/philippta/flyscrape) - A standalone and scriptable web scraper in Go (6 days ago)
 
 #### 📫 How to reach me
 
