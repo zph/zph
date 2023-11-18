@@ -18,13 +18,13 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (7 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (7 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (9 months ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (11 months ago)
+- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (1 year ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
 
 #### 👷 What I'm currently working on
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (3 months ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 months ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (4 months ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (today)
-- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (today)
-- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (3 days ago)
+- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (1 day ago)
+- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (1 day ago)
+- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (4 days ago)
 
 #### 📫 How to reach me
 
