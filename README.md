@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (today)
 - [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (2 days ago)
 - [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (2 days ago)
-- [Fabian-Schmidt/esphome-victron_ble](https://github.com/Fabian-Schmidt/esphome-victron_ble) - Use official Victron BLE endpoint for fetching data from Victron devices via Bluetooth LE via ESPHome. (5 days ago)
 
 #### 📫 How to reach me
 
