@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (4 months ago)
+- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (5 months ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (5 months ago)
 - [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (5 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (today)
-- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (2 days ago)
-- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (2 days ago)
+- [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (1 day ago)
+- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (3 days ago)
+- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (3 days ago)
 
 #### 📫 How to reach me
 
