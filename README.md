@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (3 months ago)
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (4 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 months ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (4 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (3 days ago)
-- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (5 days ago)
-- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (5 days ago)
+- [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (4 days ago)
+- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (6 days ago)
+- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (6 days ago)
 
 #### 📫 How to reach me
 
