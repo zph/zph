@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jesseaster/xt60board](https://github.com/jesseaster/xt60board) - This is a XT60 Board with 12 connectors designed using KiCad. (today)
+- [makervan/powerhub-xt60](https://github.com/makervan/powerhub-xt60) - Distribution board for up to 6 XT60 connectors (today)
 - [OpenFAST/openfast](https://github.com/OpenFAST/openfast) - Main repository for the NREL-supported OpenFAST whole-turbine and FAST.Farm wind farm simulation codes. (5 days ago)
-- [jblance/mpp-solar](https://github.com/jblance/mpp-solar) - Python package to communicate to MPP Solar PIP-4048MS inverters (and similar) (1 week ago)
-- [ClassicDIY/PylonToMQTT](https://github.com/ClassicDIY/PylonToMQTT) - Reads data from the Sage BMS console port and publishes to MQTT (1 week ago)
 
 #### 📫 How to reach me
 
