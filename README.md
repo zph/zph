@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (4 days ago)
-- [jesseaster/xt60board](https://github.com/jesseaster/xt60board) - This is a XT60 Board with 12 connectors designed using KiCad. (4 days ago)
-- [makervan/powerhub-xt60](https://github.com/makervan/powerhub-xt60) - Distribution board for up to 6 XT60 connectors (4 days ago)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (5 days ago)
+- [jesseaster/xt60board](https://github.com/jesseaster/xt60board) - This is a XT60 Board with 12 connectors designed using KiCad. (5 days ago)
+- [makervan/powerhub-xt60](https://github.com/makervan/powerhub-xt60) - Distribution board for up to 6 XT60 connectors (5 days ago)
 
 #### 📫 How to reach me
 
