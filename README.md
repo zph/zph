@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - This is the official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (6 days ago)
-- [jesseaster/xt60board](https://github.com/jesseaster/xt60board) - This is a XT60 Board with 12 connectors designed using KiCad. (6 days ago)
-- [makervan/powerhub-xt60](https://github.com/makervan/powerhub-xt60) - Distribution board for up to 6 XT60 connectors (6 days ago)
+- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (today)
+- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (today)
+- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (today)
 
 #### 📫 How to reach me
 
