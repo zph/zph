@@ -14,9 +14,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (5 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (6 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (7 months ago)
-- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (7 months ago)
-- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (7 months ago)
-- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (7 months ago)
+- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (8 months ago)
+- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (8 months ago)
+- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (8 months ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (10 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (1 year ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
@@ -92,14 +92,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 📓 Gists
 
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (7 months ago)
-- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (7 months ago)
+- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (8 months ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (2 days ago)
-- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (2 days ago)
-- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (2 days ago)
+- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (3 days ago)
+- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (3 days ago)
+- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (3 days ago)
 
 #### 📫 How to reach me
 
