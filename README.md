@@ -81,7 +81,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 1 month ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 5 months ago) - Shell scripting in typescript. Powered by deno.
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 7 months ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 8 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (3 days ago)
-- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (3 days ago)
-- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (3 days ago)
+- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (4 days ago)
+- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (4 days ago)
+- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (4 days ago)
 
 #### 📫 How to reach me
 
