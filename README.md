@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (5 days ago)
-- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (5 days ago)
-- [alex3dbros/batterypacker](https://github.com/alex3dbros/batterypacker) - A project for sorting 18650 faster and choose where they get placed in the pack (5 days ago)
+- [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (1 day ago)
+- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (6 days ago)
+- [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (6 days ago)
 
 #### 📫 How to reach me
 
