@@ -97,7 +97,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (2 days ago)
+- [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (3 days ago)
 - [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (1 week ago)
 - [alex3dbros/BatteryMonitoring](https://github.com/alex3dbros/BatteryMonitoring) - A small PCB that monitors the voltage of Lithium Ion batteries (1 week ago)
 
