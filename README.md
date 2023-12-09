@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (today)
 - [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (1 day ago)
 - [beeper/self-host](https://github.com/beeper/self-host) - Learn how to self-host Beeper (4 days ago)
-- [alex3dbros/megacellcharger-lib](https://github.com/alex3dbros/megacellcharger-lib) -  (1 week ago)
 
 #### 📫 How to reach me
 
