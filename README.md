@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 1 month ago) - convert any directory of scripts into your own fully-featured command.
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 5 months ago) - Shell scripting in typescript. Powered by deno.
+- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 6 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 8 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rin67630/Victron_VE_on_Steroids](https://github.com/rin67630/Victron_VE_on_Steroids) - Use an ESP to log values from Victron devices and much more... (today)
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (4 days ago)
-- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (5 days ago)
+- [rin67630/Victron_VE_on_Steroids](https://github.com/rin67630/Victron_VE_on_Steroids) - Use an ESP to log values from Victron devices and much more... (1 day ago)
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (5 days ago)
+- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (6 days ago)
 
 #### 📫 How to reach me
 
