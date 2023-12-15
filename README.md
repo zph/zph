@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rin67630/Victron_VE_on_Steroids](https://github.com/rin67630/Victron_VE_on_Steroids) - Use an ESP to log values from Victron devices and much more... (1 day ago)
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (5 days ago)
-- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (6 days ago)
+- [rin67630/Victron_VE_on_Steroids](https://github.com/rin67630/Victron_VE_on_Steroids) - Use an ESP to log values from Victron devices and much more... (2 days ago)
+- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (6 days ago)
+- [standard-webhooks/standard-webhooks](https://github.com/standard-webhooks/standard-webhooks) - The Standard Webhooks specification (1 week ago)
 
 #### 📫 How to reach me
 
