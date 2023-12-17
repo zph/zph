@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mbevand/ledthemfight](https://github.com/mbevand/ledthemfight) - A controller for addressable LED strings. It runs on Raspberry Pi hardware; LED strings are connected directly to GPIO pins. It is easy to use and customize through its built-in web server. (today)
-- [rin67630/Victron_VE_on_Steroids](https://github.com/rin67630/Victron_VE_on_Steroids) - Use an ESP to log values from Victron devices and much more... (3 days ago)
-- [philips-labs/terraform-aws-github-runner](https://github.com/philips-labs/terraform-aws-github-runner) - Terraform module for scalable GitHub action runners on AWS (1 week ago)
+- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a database proxy that cares about your application, the development experience, and supports OnlineDDL. (1 day ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf (1 day ago)
+- [mbevand/ledthemfight](https://github.com/mbevand/ledthemfight) - A controller for addressable LED strings. It runs on Raspberry Pi hardware; LED strings are connected directly to GPIO pins. It is easy to use and customize through its built-in web server. (1 day ago)
 
 #### 📫 How to reach me
 
