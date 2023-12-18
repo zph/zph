@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (4 months ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 months ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 months ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (5 months ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a database proxy that cares about your application, the development experience, and supports OnlineDDL. (1 day ago)
-- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf (1 day ago)
-- [mbevand/ledthemfight](https://github.com/mbevand/ledthemfight) - A controller for addressable LED strings. It runs on Raspberry Pi hardware; LED strings are connected directly to GPIO pins. It is easy to use and customize through its built-in web server. (1 day ago)
+- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a database proxy that cares about your application, the development experience, and supports OnlineDDL. (2 days ago)
+- [francoismichel/ssh3](https://github.com/francoismichel/ssh3) - SSH3: faster and rich secure shell using HTTP/3, checkout our article here: https://arxiv.org/pdf/2312.08396.pdf (2 days ago)
+- [mbevand/ledthemfight](https://github.com/mbevand/ledthemfight) - A controller for addressable LED strings. It runs on Raspberry Pi hardware; LED strings are connected directly to GPIO pins. It is easy to use and customize through its built-in web server. (2 days ago)
 
 #### 📫 How to reach me
 
