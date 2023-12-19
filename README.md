@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [rails/solid_cache](https://github.com/rails/solid_cache) - A database-backed ActiveSupport::Cache::Store (today)
 - [emporia-vue-local/esphome](https://github.com/emporia-vue-local/esphome) - Custom component for ESPHome to add support for the Emporia Vue 2 energy monitor (1 day ago)
 - [thingsboard/tbmq](https://github.com/thingsboard/tbmq) - Open-source MQTT broker - facilitates MQTT client connectivity, message publishing, and distribution among subscribers. (1 day ago)
-- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a database proxy that cares about your application, the development experience, and supports OnlineDDL. (3 days ago)
 
 #### 📫 How to reach me
 
