@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (4 months ago)
+- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 months ago)
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (5 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ccadic/HW775](https://github.com/ccadic/HW775) - tem Type: Lipo Battery Module Material: ABS &#43; Chip Input Voltage: DC 4.65V-5.5V Overcharge Protection Voltage: 4.2V±1% Overdischarge Protection Voltage: 3±1%V Charging Current: 0-2.1A Discharge Current: 0-2.4A Output Voltage: 5V Input Protection: Over Current, Over Voltage, Short Circuit Protection (today)
-- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (1 day ago)
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs! (3 days ago)
+- [ccadic/HW775](https://github.com/ccadic/HW775) - tem Type: Lipo Battery Module Material: ABS &#43; Chip Input Voltage: DC 4.65V-5.5V Overcharge Protection Voltage: 4.2V±1% Overdischarge Protection Voltage: 3±1%V Charging Current: 0-2.1A Discharge Current: 0-2.4A Output Voltage: 5V Input Protection: Over Current, Over Voltage, Short Circuit Protection (1 day ago)
+- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (2 days ago)
+- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs! (4 days ago)
 
 #### 📫 How to reach me
 
