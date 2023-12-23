@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (today)
 - [ccadic/HW775](https://github.com/ccadic/HW775) - tem Type: Lipo Battery Module Material: ABS &#43; Chip Input Voltage: DC 4.65V-5.5V Overcharge Protection Voltage: 4.2V±1% Overdischarge Protection Voltage: 3±1%V Charging Current: 0-2.1A Discharge Current: 0-2.4A Output Voltage: 5V Input Protection: Over Current, Over Voltage, Short Circuit Protection (1 day ago)
 - [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (2 days ago)
-- [gokrazy/gokrazy](https://github.com/gokrazy/gokrazy) - turn your Go program(s) into an appliance running on the Raspberry Pi 3, Pi 4, Pi Zero 2 W, or amd64 PCs! (4 days ago)
 
 #### 📫 How to reach me
 
