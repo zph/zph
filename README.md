@@ -17,7 +17,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (8 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (8 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (8 months ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (10 months ago)
+- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (11 months ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (1 year ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (today)
-- [ccadic/HW775](https://github.com/ccadic/HW775) - tem Type: Lipo Battery Module Material: ABS &#43; Chip Input Voltage: DC 4.65V-5.5V Overcharge Protection Voltage: 4.2V±1% Overdischarge Protection Voltage: 3±1%V Charging Current: 0-2.1A Discharge Current: 0-2.4A Output Voltage: 5V Input Protection: Over Current, Over Voltage, Short Circuit Protection (1 day ago)
-- [saucelabs/forwarder](https://github.com/saucelabs/forwarder) - Fast HTTP proxy with MITM and PAC (2 days ago)
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (1 day ago)
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (1 day ago)
+- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (1 day ago)
 
 #### 📫 How to reach me
 
