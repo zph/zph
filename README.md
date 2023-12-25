@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (1 day ago)
-- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (1 day ago)
-- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (1 day ago)
+- [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (2 days ago)
+- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (2 days ago)
+- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (2 days ago)
 
 #### 📫 How to reach me
 
