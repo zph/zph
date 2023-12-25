@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (today)
+- [misdoro/Electronic_load_px100](https://github.com/misdoro/Electronic_load_px100) - 150W Electronic load / Battery discharge capacity tester PX-100 v2.70 protocol and control software. (today)
 - [mathaou/termdbms](https://github.com/mathaou/termdbms) - A TUI for viewing and editing database files. (2 days ago)
-- [maypok86/otter](https://github.com/maypok86/otter) - Fastest golang in-memory cache library based on S3-FIFO algorithm. many times faster than Ristretto and friends (2 days ago)
-- [tinfever/FU-Dyson-BMS](https://github.com/tinfever/FU-Dyson-BMS) - (Unofficial) Firmware Upgrade for Dyson V6/V7 Vacuum Battery Management System (2 days ago)
 
 #### 📫 How to reach me
 
