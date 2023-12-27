@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [MindFreeze/dalybms](https://github.com/MindFreeze/dalybms) - Scripts for interfacing with Daly Smart BMS (1 day ago)
-- [dreadnought/python-daly-bms](https://github.com/dreadnought/python-daly-bms) - Python module for Daly BMS devices (1 day ago)
-- [gmanic/daly_bms_bt](https://github.com/gmanic/daly_bms_bt) - BT data retrieval utility for Daly Smart BMS (1 day ago)
+- [dimas/DL24-python](https://github.com/dimas/DL24-python) - Python library to interface with DL24-style electronic loads (1 day ago)
+- [MindFreeze/dalybms](https://github.com/MindFreeze/dalybms) - Scripts for interfacing with Daly Smart BMS (2 days ago)
+- [dreadnought/python-daly-bms](https://github.com/dreadnought/python-daly-bms) - Python module for Daly BMS devices (2 days ago)
 
 #### 📫 How to reach me
 
