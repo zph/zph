@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (5 months ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (6 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (7 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (8 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (8 months ago)
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 1 month ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 6 months ago) - Shell scripting in typescript. Powered by deno.
 - [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 8 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dimas/DL24-python](https://github.com/dimas/DL24-python) - Python library to interface with DL24-style electronic loads (1 day ago)
-- [MindFreeze/dalybms](https://github.com/MindFreeze/dalybms) - Scripts for interfacing with Daly Smart BMS (2 days ago)
-- [dreadnought/python-daly-bms](https://github.com/dreadnought/python-daly-bms) - Python module for Daly BMS devices (2 days ago)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (1 day ago)
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 day ago)
+- [dimas/DL24-python](https://github.com/dimas/DL24-python) - Python library to interface with DL24-style electronic loads (2 days ago)
 
 #### 📫 How to reach me
 
