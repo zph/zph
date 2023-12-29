@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (1 day ago)
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (1 day ago)
-- [dimas/DL24-python](https://github.com/dimas/DL24-python) - Python library to interface with DL24-style electronic loads (2 days ago)
+- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (1 day ago)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (2 days ago)
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (2 days ago)
 
 #### 📫 How to reach me
 
