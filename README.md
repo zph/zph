@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (3 days ago)
-- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (4 days ago)
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (4 days ago)
+- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (4 days ago)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (5 days ago)
+- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (5 days ago)
 
 #### 📫 How to reach me
 
