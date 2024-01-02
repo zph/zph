@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (today)
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (5 days ago)
 - [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (6 days ago)
-- [hrvach/deskhop](https://github.com/hrvach/deskhop) - Fast Desktop Switching Device (6 days ago)
 
 #### 📫 How to reach me
 
