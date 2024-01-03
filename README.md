@@ -81,7 +81,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 6 months ago) - Shell scripting in typescript. Powered by deno.
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 8 months ago) - Local secure storage of credentials ala envchain and aws-vault
+- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 9 months ago) - Local secure storage of credentials ala envchain and aws-vault
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (today)
-- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (5 days ago)
-- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (6 days ago)
+- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (1 day ago)
+- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (6 days ago)
+- [skylot/jadx](https://github.com/skylot/jadx) - Dex to Java decompiler (1 week ago)
 
 #### 📫 How to reach me
 
