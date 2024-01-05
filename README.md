@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [airbnb/hammerspace](https://github.com/airbnb/hammerspace) - Off-heap large object storage (today)
+- [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (today)
 - [spotify/sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts. (1 day ago)
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. (1 day ago)
-- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (3 days ago)
 
 #### 📫 How to reach me
 
