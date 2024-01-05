@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. (today)
-- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (2 days ago)
-- [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go &#43; HTML5 (1 week ago)
+- [spotify/sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts. (1 day ago)
+- [bettercap/bettercap](https://github.com/bettercap/bettercap) - The Swiss Army knife for 802.11, BLE, IPv4 and IPv6 networks reconnaissance and MITM attacks. (1 day ago)
+- [Syonyk/TEC06](https://github.com/Syonyk/TEC06) - Serial decoder for the TEC06 battery tester (3 days ago)
 
 #### 📫 How to reach me
 
