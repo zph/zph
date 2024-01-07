@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (today)
 - [airbnb/hammerspace](https://github.com/airbnb/hammerspace) - Off-heap large object storage (2 days ago)
 - [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (2 days ago)
-- [spotify/sparkey](https://github.com/spotify/sparkey) - Simple constant key/value storage library, for read-heavy systems with infrequent large bulk inserts. (3 days ago)
 
 #### 📫 How to reach me
 
