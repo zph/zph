@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (6 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (8 months ago)
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (8 months ago)
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (9 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (9 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (9 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (9 months ago)
@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 months ago)
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (5 months ago)
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (8 months ago)
+- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (9 months ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (9 months ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (today)
-- [airbnb/hammerspace](https://github.com/airbnb/hammerspace) - Off-heap large object storage (2 days ago)
-- [akrylysov/pogreb](https://github.com/akrylysov/pogreb) - Embedded key-value store for read-heavy workloads written in Go (2 days ago)
+- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (1 day ago)
+- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (1 day ago)
+- [airbnb/hammerspace](https://github.com/airbnb/hammerspace) - Off-heap large object storage (3 days ago)
 
 #### 📫 How to reach me
 
