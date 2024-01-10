@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image (2 days ago)
-- [pocketbase/pocketbase](https://github.com/pocketbase/pocketbase) - Open Source realtime backend in 1 file (3 days ago)
-- [YS-L/csvlens](https://github.com/YS-L/csvlens) - Command line csv viewer (3 days ago)
+- [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Write high-level Deno FFI libraries in Rust. (today)
+- [faradayio/exec-rs](https://github.com/faradayio/exec-rs) - Rust wrapper around the C execvp function, which replaces the current process with the specified program and arguments. (today)
+- [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools (today)
 
 #### 📫 How to reach me
 
