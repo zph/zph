@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 day ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 months ago)
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (6 months ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [denoland/deno_bindgen](https://github.com/denoland/deno_bindgen) - Write high-level Deno FFI libraries in Rust. (today)
-- [faradayio/exec-rs](https://github.com/faradayio/exec-rs) - Rust wrapper around the C execvp function, which replaces the current process with the specified program and arguments. (today)
-- [frida/frida-tools](https://github.com/frida/frida-tools) - Frida CLI tools (today)
+- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits (1 day ago)
+- [googleapis/release-please](https://github.com/googleapis/release-please) - generate release PRs based on the conventionalcommits.org spec (1 day ago)
+- [bytecodealliance/cap-std](https://github.com/bytecodealliance/cap-std) - Capability-oriented version of the Rust standard library (1 day ago)
 
 #### 📫 How to reach me
 
