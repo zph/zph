@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alexellis/actions-batch](https://github.com/alexellis/actions-batch) - Time-sharing supercomputer built on GitHub Actions (2 days ago)
-- [denodrivers/mongo](https://github.com/denodrivers/mongo) - MongoDB driver for Deno (2 days ago)
-- [google-github-actions/release-please-action](https://github.com/google-github-actions/release-please-action) - automated releases based on conventional commits (3 days ago)
+- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (today)
+- [OliverHi/smarthomeserver](https://github.com/OliverHi/smarthomeserver) - A simple setup for your own smart home server (on a Raspberry Pi) (today)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. (today)
 
 #### 📫 How to reach me
 
