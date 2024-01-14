@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy (1 day ago)
-- [OliverHi/smarthomeserver](https://github.com/OliverHi/smarthomeserver) - A simple setup for your own smart home server (on a Raspberry Pi) (1 day ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git. (1 day ago)
+- [denoland/deno-gfm](https://github.com/denoland/deno-gfm) - Server-side GitHub Flavored Markdown rendering for Deno (today)
+- [denoland/deno_ast](https://github.com/denoland/deno_ast) - Source text parsing, lexing, and AST related functionality for Deno (today)
+- [nteract/papermill](https://github.com/nteract/papermill) - 📚 Parameterize, execute, and analyze notebooks (today)
 
 #### 📫 How to reach me
 
