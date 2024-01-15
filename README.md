@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Contextualist/shx](https://github.com/Contextualist/shx) - Enjoyable scripting experience with Python (today)
+- [lamerman/shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python (today)
 - [sshirokov/pydvice](https://github.com/sshirokov/pydvice) - An attempt at &#34;porting&#34; Elisp&#39;s (defadvice) to Python. (1 day ago)
-- [executablebooks/jupyter-book](https://github.com/executablebooks/jupyter-book) - Create beautiful, publication-quality books and documents from computational content. (1 day ago)
-- [jupyter/nbformat](https://github.com/jupyter/nbformat) - Reference implementation of the Jupyter Notebook format (1 day ago)
 
 #### 📫 How to reach me
 
