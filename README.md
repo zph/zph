@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (5 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 4 days ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 5 days ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 7 months ago) - Shell scripting in typescript. Powered by deno.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Contextualist/shx](https://github.com/Contextualist/shx) - Enjoyable scripting experience with Python (today)
-- [lamerman/shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python (today)
-- [sshirokov/pydvice](https://github.com/sshirokov/pydvice) - An attempt at &#34;porting&#34; Elisp&#39;s (defadvice) to Python. (1 day ago)
+- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts. (1 day ago)
+- [Contextualist/shx](https://github.com/Contextualist/shx) - Enjoyable scripting experience with Python (1 day ago)
+- [lamerman/shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python (1 day ago)
 
 #### 📫 How to reach me
 
