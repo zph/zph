@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and simplifying automation scripts. (1 day ago)
-- [Contextualist/shx](https://github.com/Contextualist/shx) - Enjoyable scripting experience with Python (1 day ago)
-- [lamerman/shellpy](https://github.com/lamerman/shellpy) - A tool for convenient shell scripting in python (1 day ago)
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑 (today)
+- [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell (today)
+- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (today)
 
 #### 📫 How to reach me
 
