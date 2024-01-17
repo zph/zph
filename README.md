@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (6 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 5 days ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 6 days ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 7 months ago) - Shell scripting in typescript. Powered by deno.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑 (today)
-- [sharkdp/shell-functools](https://github.com/sharkdp/shell-functools) - Functional programming tools for the shell (today)
-- [sharkdp/hexyl](https://github.com/sharkdp/hexyl) - A command-line hex viewer (today)
+- [stateful/runme](https://github.com/stateful/runme) - Execute your runbooks, docs, and READMEs. (1 day ago)
+- [buzzm/postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON (1 day ago)
+- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑 (1 day ago)
 
 #### 📫 How to reach me
 
