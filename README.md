@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. (today)
+- [TechnitiumSoftware/DnsServer](https://github.com/TechnitiumSoftware/DnsServer) - Technitium DNS Server (today)
 - [stateful/runme](https://github.com/stateful/runme) - Execute your runbooks, docs, and READMEs. (1 day ago)
-- [buzzm/postgresbson](https://github.com/buzzm/postgresbson) - postgres support for BSON (1 day ago)
-- [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - CLI tool to easily setup a new resume 📑 (1 day ago)
 
 #### 📫 How to reach me
 
