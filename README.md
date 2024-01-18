@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that&#39;s embedded in Python (today)
+- [RobbeSneyders/Jupyter-skip-extension](https://github.com/RobbeSneyders/Jupyter-skip-extension) - Jupyter notebook extension to skip execution of cells (today)
 - [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (1 day ago)
-- [joouha/euporie](https://github.com/joouha/euporie) - Jupyter notebooks in the terminal (1 day ago)
-- [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser. (1 day ago)
 
 #### 📫 How to reach me
 
