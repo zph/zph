@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jsonnet-bundler/jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler) - A jsonnet package manager. (today)
+- [grafana/grafonnet](https://github.com/grafana/grafonnet) - Jsonnet library for generating Grafana dashboards. (today)
 - [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that&#39;s embedded in Python (1 day ago)
-- [RobbeSneyders/Jupyter-skip-extension](https://github.com/RobbeSneyders/Jupyter-skip-extension) - Jupyter notebook extension to skip execution of cells (1 day ago)
-- [Textualize/frogmouth](https://github.com/Textualize/frogmouth) - A Markdown browser for your terminal (2 days ago)
 
 #### 📫 How to reach me
 
