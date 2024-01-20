@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (5 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jsonnet-bundler/jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler) - A jsonnet package manager. (today)
-- [grafana/grafonnet](https://github.com/grafana/grafonnet) - Jsonnet library for generating Grafana dashboards. (today)
-- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that&#39;s embedded in Python (1 day ago)
+- [jsonnet-bundler/jsonnet-bundler](https://github.com/jsonnet-bundler/jsonnet-bundler) - A jsonnet package manager. (1 day ago)
+- [grafana/grafonnet](https://github.com/grafana/grafonnet) - Jsonnet library for generating Grafana dashboards. (1 day ago)
+- [hylang/hy](https://github.com/hylang/hy) - A dialect of Lisp that&#39;s embedded in Python (2 days ago)
 
 #### 📫 How to reach me
 
