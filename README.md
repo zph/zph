@@ -17,13 +17,13 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (9 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (9 months ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (9 months ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (11 months ago)
+- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (1 year ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (1 year ago)
 - [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (6 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (1 day ago)
-- [nteract/bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses (2 days ago)
-- [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron. (2 days ago)
+- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (2 days ago)
+- [nteract/bookstore](https://github.com/nteract/bookstore) - 📚 Notebook storage and publishing workflows for the masses (3 days ago)
+- [jupyterlab/jupyterlab-desktop](https://github.com/jupyterlab/jupyterlab-desktop) - JupyterLab desktop application, based on Electron. (3 days ago)
 
 #### 📫 How to reach me
 
