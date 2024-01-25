@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 1 week ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 2 weeks ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 7 months ago) - Shell scripting in typescript. Powered by deno.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (1 day ago)
-- [embrasure-secrets/embrasure](https://github.com/embrasure-secrets/embrasure) - An open-source external secrets management solution  (1 day ago)
-- [KRTirtho/spotube](https://github.com/KRTirtho/spotube) - 🎧 Open source Spotify client that doesn&#39;t require Premium nor uses Electron! Available for both desktop &amp; mobile! (3 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (1 day ago)
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (2 days ago)
+- [embrasure-secrets/embrasure](https://github.com/embrasure-secrets/embrasure) - An open-source external secrets management solution  (2 days ago)
 
 #### 📫 How to reach me
 
