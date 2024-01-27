@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (6 months ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (7 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (8 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (9 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (9 months ago)
@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 2 weeks ago) - msh - mongo shell for large clusters with auto-discovery
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 2 months ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 3 months ago) - convert any directory of scripts into your own fully-featured command.
 - [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 7 months ago) - Shell scripting in typescript. Powered by deno.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (1 day ago)
-- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (2 days ago)
-- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (3 days ago)
+- [joaomdmoura/crewAI](https://github.com/joaomdmoura/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. (2 days ago)
+- [goenning/google-indexing-script](https://github.com/goenning/google-indexing-script) - Script to get your site indexed on Google in less than 48 hours (3 days ago)
+- [rajnandan1/kener](https://github.com/rajnandan1/kener) - Kener is a Modern Self hosted Status Page, batteries included (4 days ago)
 
 #### 📫 How to reach me
 
