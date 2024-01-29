@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (today)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nteract/nteract-next](https://github.com/nteract/nteract-next) - Iterating on the next version of nteract (1 day ago)
-- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic (1 day ago)
-- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (1 day ago)
+- [nteract/nteract-next](https://github.com/nteract/nteract-next) - Iterating on the next version of nteract (2 days ago)
+- [assafelovic/gpt-researcher](https://github.com/assafelovic/gpt-researcher) - GPT based autonomous agent that does online comprehensive research on any given topic (2 days ago)
+- [ollama/ollama-python](https://github.com/ollama/ollama-python) - Ollama Python library (2 days ago)
 
 #### 📫 How to reach me
 
