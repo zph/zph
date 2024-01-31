@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (3 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 weeks ago)
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
-- [davidbrochart/jpterm](https://github.com/davidbrochart/jpterm) - Jupyter in the terminal. (1 day ago)
-- [davidbrochart/nbterm](https://github.com/davidbrochart/nbterm) - Jupyter Notebooks in the terminal. (1 day ago)
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, and managed Postgres services in public alpha. (1 day ago)
+- [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu) - Quickly create and run optimised Windows, macOS and Linux desktop virtual machines. (1 day ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (2 days ago)
 
 #### 📫 How to reach me
 
