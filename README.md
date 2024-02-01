@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tokern/piicatcher](https://github.com/tokern/piicatcher) - Scan databases and data warehouses for PII data. Tag tables and columns in data catalogs like Amundsen and Datahub (today)
+- [mkjt2/lockbox](https://github.com/mkjt2/lockbox) - Lockbox is a forward proxy for making third party API calls. (today)
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A free, open-source SaaS app template for React &amp; Node.js with superpowers. Production-ready. Community-driven. (1 day ago)
-- [sindresorhus/type-fest](https://github.com/sindresorhus/type-fest) - A collection of essential TypeScript types (1 day ago)
-- [pingcap/diag](https://github.com/pingcap/diag) - A tool to collect diagnostic data from TiDB Clusters (1 day ago)
 
 #### 📫 How to reach me
 
