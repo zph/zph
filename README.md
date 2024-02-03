@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tembo-io/clerk_fdw](https://github.com/tembo-io/clerk_fdw) - Postgres Foreign Data Wrapper for Clerk.com Backend API (1 day ago)
-- [tembo-io/prometheus_fdw](https://github.com/tembo-io/prometheus_fdw) - Postgres Foreign Data Wrapper for Prometheus Data (1 day ago)
-- [caronc/apprise](https://github.com/caronc/apprise) - Apprise - Push Notifications that work with just about every platform! (1 day ago)
+- [square/mongo-lock](https://github.com/square/mongo-lock) - Distributed locking with MongoDB. (today)
+- [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages (today)
+- [jrhouston/k8slock](https://github.com/jrhouston/k8slock) - A distributed locking module for Go using the Lease resource from the Kubernetes coordination API (today)
 
 #### 📫 How to reach me
 
