@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (6 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [square/mongo-lock](https://github.com/square/mongo-lock) - Distributed locking with MongoDB. (today)
-- [sourcegraph/checkup](https://github.com/sourcegraph/checkup) - Distributed, lock-free, self-hosted health checks and status pages (today)
-- [jrhouston/k8slock](https://github.com/jrhouston/k8slock) - A distributed locking module for Go using the Lease resource from the Kubernetes coordination API (today)
+- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL, CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations. (1 day ago)
+- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 day ago)
+- [apple/pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language (1 day ago)
 
 #### 📫 How to reach me
 
