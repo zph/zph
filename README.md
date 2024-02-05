@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sensedeep/dynamodb-onetable](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB access and management for one table designs with NodeJS (1 day ago)
-- [rlyders/dynamodb-lock-manager](https://github.com/rlyders/dynamodb-lock-manager) - NodeJS module to manage distributed locks in DynamoDB with the AWS SDK. This package allows the caller to create locks, auto-refresh locks via heartbeats, takeover expired locks, and release locks. (1 day ago)
-- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL, CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations. (2 days ago)
+- [oslabs-beta/Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno&#39;s first lightweight, secure distributed lock manager utilizing the Redlock algorithm (today)
+- [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - Pure Go native and database/sql driver for YDB (today)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (today)
 
 #### 📫 How to reach me
 
