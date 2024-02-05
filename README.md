@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (7 months ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (8 months ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (9 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (9 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (10 months ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (10 months ago)
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL, CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations. (1 day ago)
-- [apple/pkl](https://github.com/apple/pkl) - A configuration as code language with rich validation and tooling. (1 day ago)
-- [apple/pkl-go](https://github.com/apple/pkl-go) - Pkl bindings for the Go programming language (1 day ago)
+- [sensedeep/dynamodb-onetable](https://github.com/sensedeep/dynamodb-onetable) - DynamoDB access and management for one table designs with NodeJS (1 day ago)
+- [rlyders/dynamodb-lock-manager](https://github.com/rlyders/dynamodb-lock-manager) - NodeJS module to manage distributed locks in DynamoDB with the AWS SDK. This package allows the caller to create locks, auto-refresh locks via heartbeats, takeover expired locks, and release locks. (1 day ago)
+- [dtgorski/typex](https://github.com/dtgorski/typex) - [TOOL, CLI] - Filter and examine Go type structures, interfaces and their transitive dependencies and relationships. Export structural types as TypeScript value object or bare type representations. (2 days ago)
 
 #### 📫 How to reach me
 
