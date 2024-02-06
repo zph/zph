@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [oslabs-beta/Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno&#39;s first lightweight, secure distributed lock manager utilizing the Redlock algorithm (today)
-- [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - Pure Go native and database/sql driver for YDB (today)
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (today)
+- [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (1 day ago)
+- [oslabs-beta/Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno&#39;s first lightweight, secure distributed lock manager utilizing the Redlock algorithm (1 day ago)
+- [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - Pure Go native and database/sql driver for YDB (1 day ago)
 
 #### 📫 How to reach me
 
