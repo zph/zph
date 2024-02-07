@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (today)
+- [parallelvirtualcluster/pvc](https://github.com/parallelvirtualcluster/pvc) -   Parallel Virtual Cluster - A KVM/Zookeeper/Ceph-based hyperconverged infrastructure manager (today)
 - [restatedev/restate](https://github.com/restatedev/restate) - Restate is the platform for building resilient applications that tolerate all infrastructure faults w/o the need for a PhD. (2 days ago)
-- [oslabs-beta/Deno-Redlock](https://github.com/oslabs-beta/Deno-Redlock) - Deno&#39;s first lightweight, secure distributed lock manager utilizing the Redlock algorithm (2 days ago)
-- [ydb-platform/ydb-go-sdk](https://github.com/ydb-platform/ydb-go-sdk) - Pure Go native and database/sql driver for YDB (2 days ago)
 
 #### 📫 How to reach me
 
