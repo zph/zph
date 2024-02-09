@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LunarVim/LunarVim](https://github.com/LunarVim/LunarVim) - 🌙 LunarVim is an IDE layer for Neovim. Completely free and community driven. (1 day ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (1 day ago)
-- [cli-guidelines/cli-guidelines](https://github.com/cli-guidelines/cli-guidelines) - A guide to help you write better command-line programs, taking traditional UNIX principles and updating them for the modern day. (2 days ago)
+- [tristanls/dynamodb-lock-client](https://github.com/tristanls/dynamodb-lock-client) - A general purpose distributed locking library built for AWS DynamoDB. (today)
+- [pepmartinez/mongo-dlock](https://github.com/pepmartinez/mongo-dlock) - distributed lock on top of mongodb for node.js (today)
+- [johnsabath/dynamodb-fifo-lock-client](https://github.com/johnsabath/dynamodb-fifo-lock-client) - AWS DynamoDB distributed locking client with fencing tokens and FIFO acquisition queuing.  Written in TypeScript. (today)
 
 #### 📫 How to reach me
 
