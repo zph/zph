@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (today)
 - [tristanls/dynamodb-lock-client](https://github.com/tristanls/dynamodb-lock-client) - A general purpose distributed locking library built for AWS DynamoDB. (1 day ago)
 - [pepmartinez/mongo-dlock](https://github.com/pepmartinez/mongo-dlock) - distributed lock on top of mongodb for node.js (1 day ago)
-- [johnsabath/dynamodb-fifo-lock-client](https://github.com/johnsabath/dynamodb-fifo-lock-client) - AWS DynamoDB distributed locking client with fencing tokens and FIFO acquisition queuing.  Written in TypeScript. (1 day ago)
 
 #### 📫 How to reach me
 
