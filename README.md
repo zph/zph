@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (2 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (today)
-- [tristanls/dynamodb-lock-client](https://github.com/tristanls/dynamodb-lock-client) - A general purpose distributed locking library built for AWS DynamoDB. (1 day ago)
-- [pepmartinez/mongo-dlock](https://github.com/pepmartinez/mongo-dlock) - distributed lock on top of mongodb for node.js (1 day ago)
+- [Textualize/toolong](https://github.com/Textualize/toolong) - A terminal application to view, tail, merge, and search log files (plus JSONL). (1 day ago)
+- [dsherret/dax](https://github.com/dsherret/dax) - Cross-platform shell tools for Deno and Node.js inspired by zx. (1 day ago)
+- [tristanls/dynamodb-lock-client](https://github.com/tristanls/dynamodb-lock-client) - A general purpose distributed locking library built for AWS DynamoDB. (2 days ago)
 
 #### 📫 How to reach me
 
