@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (today)
 - [impactaky/dax_extras](https://github.com/impactaky/dax_extras) -  (2 days ago)
 - [grafana/k6-template-typescript](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6 (2 days ago)
-- [dprint/dprint](https://github.com/dprint/dprint) - Pluggable and configurable code formatting platform written in Rust. (2 days ago)
 
 #### 📫 How to reach me
 
