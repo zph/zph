@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (3 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 weeks ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 2 days ago) - Library for interactive runbooks and surrounding toolkit
+- [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 3 days ago) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 3 months ago) - convert any directory of scripts into your own fully-featured command.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (today)
-- [impactaky/dax_extras](https://github.com/impactaky/dax_extras) -  (2 days ago)
-- [grafana/k6-template-typescript](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6 (2 days ago)
+- [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (1 day ago)
+- [impactaky/dax_extras](https://github.com/impactaky/dax_extras) -  (3 days ago)
+- [grafana/k6-template-typescript](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6 (3 days ago)
 
 #### 📫 How to reach me
 
