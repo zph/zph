@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [gopherdata/gophernotes](https://github.com/gopherdata/gophernotes) - The Go kernel for Jupyter notebooks and nteract. (today)
 - [tstack/lnav](https://github.com/tstack/lnav) - Log file navigator (2 days ago)
 - [impactaky/dax_extras](https://github.com/impactaky/dax_extras) -  (4 days ago)
-- [grafana/k6-template-typescript](https://github.com/grafana/k6-template-typescript) - Template to use TypeScript with k6 (4 days ago)
 
 #### 📫 How to reach me
 
