@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mitsuhiko/rye](https://github.com/mitsuhiko/rye) - a Hassle-Free Python Experience (1 day ago)
-- [maoxiaoke/setup-a-mac-for-frontend-dev](https://github.com/maoxiaoke/setup-a-mac-for-frontend-dev) - How I setup a Mac, with lots of productivity tools, step-by-step guide (2 days ago)
-- [boustrophedon/pgtemp](https://github.com/boustrophedon/pgtemp) - Rust library and daemon for easily starting postgres databases per-test without Docker (2 days ago)
+- [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go (today)
+- [m-elbably/slide-limiter](https://github.com/m-elbably/slide-limiter) - Slide Limiter: A TypeScript rate limiting library offering sliding window rate limiting with support for multiple storage mechanisms, including in-memory and Redis. (1 day ago)
+- [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis (1 day ago)
 
 #### 📫 How to reach me
 
