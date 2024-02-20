@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [klauspost/reedsolomon](https://github.com/klauspost/reedsolomon) - Reed-Solomon Erasure Coding in Go (today)
-- [m-elbably/slide-limiter](https://github.com/m-elbably/slide-limiter) - Slide Limiter: A TypeScript rate limiting library offering sliding window rate limiting with support for multiple storage mechanisms, including in-memory and Redis. (1 day ago)
-- [twitter/twemproxy](https://github.com/twitter/twemproxy) - A fast, light-weight proxy for memcached and redis (1 day ago)
+- [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter&#39;s unified cache backend (today)
+- [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter) (today)
+- [udoprog/leaky-bucket](https://github.com/udoprog/leaky-bucket) - A token-based rate limiter based on the leaky bucket algorithm. (today)
 
 #### 📫 How to reach me
 
