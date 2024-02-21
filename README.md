@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter&#39;s unified cache backend (today)
-- [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter) (today)
-- [udoprog/leaky-bucket](https://github.com/udoprog/leaky-bucket) - A token-based rate limiter based on the leaky bucket algorithm. (today)
+- [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter&#39;s unified cache backend (1 day ago)
+- [boinkor-net/governor](https://github.com/boinkor-net/governor) - A rate-limiting library for Rust (f.k.a. ratelimit_meter) (1 day ago)
+- [udoprog/leaky-bucket](https://github.com/udoprog/leaky-bucket) - A token-based rate limiter based on the leaky bucket algorithm. (1 day ago)
 
 #### 📫 How to reach me
 
