@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (2 days ago)
-- [readysettech/readyset](https://github.com/readysettech/readyset) - Readyset is a MySQL and Postgres wire-compatible caching layer that sits in front of existing databases to speed up queries and horizontally scale read throughput. Under the hood, ReadySet caches the results of cached select statements and incrementally updates these results over time as the underlying data changes. (4 days ago)
-- [twitter/pelikan](https://github.com/twitter/pelikan) - Pelikan is Twitter&#39;s unified cache backend (5 days ago)
+- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot (today)
+- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (today)
+- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (today)
 
 #### 📫 How to reach me
 
