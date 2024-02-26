@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (1 day ago)
-- [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 day ago)
-- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. (1 day ago)
+- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (today)
+- [google/guava](https://github.com/google/guava) - Google core libraries for Java (today)
+- [goburrow/cache](https://github.com/goburrow/cache) - Mango Cache 🥭 - Partial implementation of Guava Cache in Go (golang). (today)
 
 #### 📫 How to reach me
 
