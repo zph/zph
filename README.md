@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (7 months ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (8 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (9 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (10 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (10 months ago)
@@ -81,7 +81,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 2 weeks ago) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 3 months ago) - convert any directory of scripts into your own fully-featured command.
+- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 4 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Drakkar-Software/OctoBot](https://github.com/Drakkar-Software/OctoBot) - Open source crypto trading bot (today)
-- [mementum/backtrader](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies (today)
-- [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot (today)
+- [alash3al/redix](https://github.com/alash3al/redix) - a very simple pure key =&gt; value storage system that speaks Redis protocol with Postgres as storage engine and more (1 day ago)
+- [microsoft/FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store &#43; cache, in C# and C&#43;&#43;. (1 day ago)
+- [osquery/osquery](https://github.com/osquery/osquery) - SQL powered operating system instrumentation, monitoring, and analytics. (1 day ago)
 
 #### 📫 How to reach me
 
