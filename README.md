@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (today)
-- [google/guava](https://github.com/google/guava) - Google core libraries for Java (today)
-- [goburrow/cache](https://github.com/goburrow/cache) - Mango Cache 🥭 - Partial implementation of Guava Cache in Go (golang). (today)
+- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (1 day ago)
+- [google/guava](https://github.com/google/guava) - Google core libraries for Java (1 day ago)
+- [goburrow/cache](https://github.com/goburrow/cache) - Mango Cache 🥭 - Partial implementation of Guava Cache in Go (golang). (1 day ago)
 
 #### 📫 How to reach me
 
