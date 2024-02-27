@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go. (1 day ago)
-- [google/guava](https://github.com/google/guava) - Google core libraries for Java (1 day ago)
-- [goburrow/cache](https://github.com/goburrow/cache) - Mango Cache 🥭 - Partial implementation of Guava Cache in Go (golang). (1 day ago)
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (today)
+- [google/easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way (today)
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing (today)
 
 #### 📫 How to reach me
 
