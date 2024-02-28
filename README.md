@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (2 weeks ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zph/msh](https://github.com/zph/msh) ([0.2.1](https://github.com/zph/msh/releases/tag/0.2.1), 1 day ago) - msh - mongo shell for large clusters with auto-discovery
 - [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 2 weeks ago) - Library for interactive runbooks and surrounding toolkit
-- [zph/msh](https://github.com/zph/msh) ([0.1.3](https://github.com/zph/msh/releases/tag/0.1.3), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 4 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (today)
-- [google/easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way (today)
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing (today)
+- [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (1 day ago)
+- [google/easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way (1 day ago)
+- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing (1 day ago)
 
 #### 📫 How to reach me
 
