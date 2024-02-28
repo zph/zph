@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [cachelot/cachelot](https://github.com/cachelot/cachelot) - Cache library and distributed caching server. Memcached compatible. (today)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (today)
 - [sqlc-dev/sqlc](https://github.com/sqlc-dev/sqlc) - Generate type-safe code from SQL (1 day ago)
-- [google/easypki](https://github.com/google/easypki) - Creating a certificate authority the easy way (1 day ago)
-- [allmonday/pydantic-resolve](https://github.com/allmonday/pydantic-resolve) - a hierarchical solution for data fetching and processing (1 day ago)
 
 #### 📫 How to reach me
 
