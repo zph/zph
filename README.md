@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services. (1 day ago)
-- [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source &amp; self-hostable Heroku / Netlify / Vercel alternative. (1 day ago)
-- [runreveal/pql](https://github.com/runreveal/pql) - Pipelined Query Language (1 day ago)
+- [hashicorp/go-netaddrs](https://github.com/hashicorp/go-netaddrs) -  (today)
+- [hashicorp/go-discover](https://github.com/hashicorp/go-discover) - Discover nodes in cloud environments (today)
+- [buraksezer/olric-cloud-plugin](https://github.com/buraksezer/olric-cloud-plugin) - Discover Olric nodes in cloud environments (today)
 
 #### 📫 How to reach me
 
