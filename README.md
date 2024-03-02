@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) - tidb-tools are some useful tool collections for TiDB. (1 day ago)
-- [houseabsolute/actions-rust-cross](https://github.com/houseabsolute/actions-rust-cross) - GitHub Action to compile Rust with cross (1 day ago)
-- [houseabsolute/ubi](https://github.com/houseabsolute/ubi) - The Universal Binary Installer (1 day ago)
+- [tobymao/saq](https://github.com/tobymao/saq) - Simple Async Queues (today)
+- [rq/rq](https://github.com/rq/rq) - Simple job queues for Python (today)
+- [GoogleCloudPlatform/professional-services-data-validator](https://github.com/GoogleCloudPlatform/professional-services-data-validator) - Utility to compare data between homogeneous or heterogeneous environments to ensure source and target tables match (today)
 
 #### 📫 How to reach me
 
