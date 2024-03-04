@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru) (today)
 - [sublimehq/Packages](https://github.com/sublimehq/Packages) - Syntax highlighting files shipped with Sublime Text and Sublime Merge (1 day ago)
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗 (1 day ago)
-- [charmbracelet/gum](https://github.com/charmbracelet/gum) - A tool for glamorous shell scripts 🎀 (1 day ago)
 
 #### 📫 How to reach me
 
