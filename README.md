@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NilsIrl/dockerc](https://github.com/NilsIrl/dockerc) - container image to single executable compiler (1 day ago)
-- [gethyas/doks](https://github.com/gethyas/doks) - Everything you need to build a stellar documentation website. Fast, accessible, and easy to use. (1 day ago)
-- [cp-algorithms/cp-algorithms](https://github.com/cp-algorithms/cp-algorithms) - Algorithm and data structure articles for https://cp-algorithms.com (based on http://e-maxx.ru) (3 days ago)
+- [ente-io/ente](https://github.com/ente-io/ente) - Fully open source, End to End Encrypted alternative to Google Photos and Apple Photos (today)
+- [jchester/spc-kit](https://github.com/jchester/spc-kit) - A toolkit for statistical process control using SQL (today)
+- [daytonaio/daytona](https://github.com/daytonaio/daytona) - The Open Source Dev Environment Manager. (today)
 
 #### 📫 How to reach me
 
