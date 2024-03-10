@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [go-redis/redis_rate](https://github.com/go-redis/redis_rate) - Rate limiting for go-redis (today)
+- [flonatel/pipexec](https://github.com/flonatel/pipexec) - Handling pipe of commands like a single command (today)
 - [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (1 day ago)
-- [dolthub/vitess](https://github.com/dolthub/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL. (1 day ago)
-- [tiket-oss/go-pxld](https://github.com/tiket-oss/go-pxld) - A ProxySQL query log decoder. (1 day ago)
 
 #### 📫 How to reach me
 
