@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (today)
+- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution (today)
 - [ntindall/sql-gen-doc](https://github.com/ntindall/sql-gen-doc) - a tool to automatically generate sql documentation! :crystal_ball: (1 day ago)
-- [arkadiyt/protodump](https://github.com/arkadiyt/protodump) - A utility to dump all Protobuf file descriptors from a given binary as *.proto files (1 day ago)
-- [tomarrell/miniqueue](https://github.com/tomarrell/miniqueue) - A simple, single binary, message queue. Supports HTTP/2 and Redis Protocol. (1 day ago)
 
 #### 📫 How to reach me
 
