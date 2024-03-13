@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 6 days ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 week ago) - msh - mongo shell for large clusters with auto-discovery
 - [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 1 month ago) - Library for interactive runbooks and surrounding toolkit
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 4 months ago) - convert any directory of scripts into your own fully-featured command.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (today)
-- [flipt-io/flipt](https://github.com/flipt-io/flipt) - Enterprise-ready, GitOps enabled, CloudNative feature management solution (today)
-- [ntindall/sql-gen-doc](https://github.com/ntindall/sql-gen-doc) - a tool to automatically generate sql documentation! :crystal_ball: (1 day ago)
+- [scratchdata/scratchdata](https://github.com/scratchdata/scratchdata) - Scratch is an open-source alternative to BigQuery, Redshift, and Snowflake. Runs on Clickhouse. (1 day ago)
+- [OnedocLabs/react-print-pdf](https://github.com/OnedocLabs/react-print-pdf) - Build and generate PDF using React 📄 UI kit for PDFs and print documents. Simple, reusable components and templates to create great invoices, docs, brochures. Use your favorite front-end framework React to build your next PDF. (1 day ago)
+- [usememos/memos](https://github.com/usememos/memos) - An open source, lightweight note-taking service. Easily capture and share your great thoughts. (1 day ago)
 
 #### 📫 How to reach me
 
