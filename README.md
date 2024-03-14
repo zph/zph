@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [flox/flox](https://github.com/flox/flox) - Developer environments you can take with you (1 day ago)
-- [VoltDB/voltdb](https://github.com/VoltDB/voltdb) - Volt Active Data (1 day ago)
-- [gjbae1212/gossm](https://github.com/gjbae1212/gossm) - 💻Interactive CLI tool that you can connect to ec2 using commands same as start-session, ssh in AWS SSM Session Manager (1 day ago)
+- [maragudk/migrate](https://github.com/maragudk/migrate) - A simple database migration tool. (today)
+- [maragudk/gomponents-htmx](https://github.com/maragudk/gomponents-htmx) - HTMX attributes and helpers for gomponents. (today)
+- [maragudk/gomponents](https://github.com/maragudk/gomponents) - View components in pure Go, that render to HTML 5. (today)
 
 #### 📫 How to reach me
 
