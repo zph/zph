@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [maragudk/migrate](https://github.com/maragudk/migrate) - A simple database migration tool. (1 day ago)
-- [maragudk/gomponents-htmx](https://github.com/maragudk/gomponents-htmx) - HTMX attributes and helpers for gomponents. (1 day ago)
-- [maragudk/gomponents](https://github.com/maragudk/gomponents) - View components in pure Go, that render to HTML 5. (1 day ago)
+- [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL (1 day ago)
+- [maragudk/migrate](https://github.com/maragudk/migrate) - A simple database migration tool. (2 days ago)
+- [maragudk/gomponents-htmx](https://github.com/maragudk/gomponents-htmx) - HTMX attributes and helpers for gomponents. (2 days ago)
 
 #### 📫 How to reach me
 
