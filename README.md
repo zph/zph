@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [pretzelai/pretzelai](https://github.com/pretzelai/pretzelai) - Open-source, browser-local data exploration using DuckDB-Wasm and PRQL (1 day ago)
-- [maragudk/migrate](https://github.com/maragudk/migrate) - A simple database migration tool. (2 days ago)
-- [maragudk/gomponents-htmx](https://github.com/maragudk/gomponents-htmx) - HTMX attributes and helpers for gomponents. (2 days ago)
+- [benjamine/jsondiffpatch](https://github.com/benjamine/jsondiffpatch) - Diff &amp; patch JavaScript objects (today)
+- [kviklet/kviklet](https://github.com/kviklet/kviklet) - A tool to provide engineers with secure access to production databases without impairing productivity. (today)
+- [xataio/pgzx](https://github.com/xataio/pgzx) - Create PostgreSQL extensions using Zig. (today)
 
 #### 📫 How to reach me
 
