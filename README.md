@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (2 weeks ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 week ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 2 weeks ago) - msh - mongo shell for large clusters with auto-discovery
 - [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 1 month ago) - Library for interactive runbooks and surrounding toolkit
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 4 months ago) - convert any directory of scripts into your own fully-featured command.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [microsoft/garnet](https://github.com/microsoft/garnet) - Garnet is a remote cache-store from Microsoft Research that offers strong performance (throughput and latency), scalability, storage, recovery, cluster sharding, key migration, and replication features. Garnet can work with existing Redis clients. (today)
-- [Kaginari/terraform-provider-mongodb](https://github.com/Kaginari/terraform-provider-mongodb) - Terraform provider for mongodb instance (selfhosted, AWS documentDB and cloud instances ) (today)
-- [grafana/grafonnet-lib](https://github.com/grafana/grafonnet-lib) - Jsonnet library for generating Grafana dashboard files. (1 day ago)
+- [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications (1 day ago)
+- [blackflux/s3-cached](https://github.com/blackflux/s3-cached) - S3 File Access Abstraction providing Memory and Disk Caching Layer (1 day ago)
+- [ehmpathy/simple-on-disk-cache](https://github.com/ehmpathy/simple-on-disk-cache) - A simple on-disk cache, supporting local and remote filesystem targets, with time based expiration policies. (1 day ago)
 
 #### 📫 How to reach me
 
