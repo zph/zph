@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ynqa/jnv](https://github.com/ynqa/jnv) - interactive JSON filter using jq (today)
 - [Julien-R44/bentocache](https://github.com/Julien-R44/bentocache) - 🍱 Bentocache is a robust multi-tier caching solution for Node.js applications (1 day ago)
 - [blackflux/s3-cached](https://github.com/blackflux/s3-cached) - S3 File Access Abstraction providing Memory and Disk Caching Layer (1 day ago)
-- [ehmpathy/simple-on-disk-cache](https://github.com/ehmpathy/simple-on-disk-cache) - A simple on-disk cache, supporting local and remote filesystem targets, with time based expiration policies. (1 day ago)
 
 #### 📫 How to reach me
 
