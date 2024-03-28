@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs) (1 day ago)
-- [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router (3 days ago)
-- [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool (5 days ago)
+- [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY (today)
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. (today)
+- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app. (today)
 
 #### 📫 How to reach me
 
