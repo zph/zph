@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs) (today)
-- [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router (2 days ago)
-- [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool (4 days ago)
+- [jpalardy/vim-slime](https://github.com/jpalardy/vim-slime) - A vim plugin to give you some slime. (Emacs) (1 day ago)
+- [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router (3 days ago)
+- [koct9i/ioping](https://github.com/koct9i/ioping) - simple disk I/0 latency measuring tool (5 days ago)
 
 #### 📫 How to reach me
 
