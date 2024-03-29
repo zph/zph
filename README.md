@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 month ago)
 
@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Setup goreleaser](https://github.com/toumorokoshi/tome/pull/51) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (3 weeks ago)
+- [Setup goreleaser](https://github.com/toumorokoshi/tome/pull/51) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (4 weeks ago)
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (9 months ago)
 - [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (9 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY (today)
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. (today)
-- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app. (today)
+- [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY (1 day ago)
+- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. (1 day ago)
+- [c100k/rebootx-on-prem](https://github.com/c100k/rebootx-on-prem) - RebootX On-Prem is an open source specification for defining a custom server in order to manage on-premise runnables in the RebootX app. (1 day ago)
 
 #### 📫 How to reach me
 
