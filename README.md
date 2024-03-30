@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [minrk/singlecell](https://github.com/minrk/singlecell) - Demo of Single-cell IPython webapps (1 day ago)
-- [refl3ction/tfgen](https://github.com/refl3ction/tfgen) - Terraform code generator for consistent codebase and DRY (2 days ago)
-- [gruntwork-io/terragrunt](https://github.com/gruntwork-io/terragrunt) - Terragrunt is a thin wrapper for Terraform that provides extra tools for working with multiple Terraform modules. (2 days ago)
+- [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. (today)
+- [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -  (today)
+- [rustdesk/rustdesk-server](https://github.com/rustdesk/rustdesk-server) - RustDesk Server Program (today)
 
 #### 📫 How to reach me
 
