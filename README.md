@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package installer and resolver, written in Rust. (1 day ago)
-- [jupyter/nbdime](https://github.com/jupyter/nbdime) - Tools for diffing and merging of Jupyter notebooks. (1 day ago)
-- [kasmtech/workspaces-core-images](https://github.com/kasmtech/workspaces-core-images) -  (1 day ago)
+- [zabawaba99/go-gitignore](https://github.com/zabawaba99/go-gitignore) - gitignore implementation in go (today)
+- [nathankleyn/gitignore.rs](https://github.com/nathankleyn/gitignore.rs) - Implementation of .gitignore file parsing and glob testing in Rust. (today)
+- [jlkiri/gitignored](https://github.com/jlkiri/gitignored) - A Rust implementation of gitignore algorithm (today)
 
 #### 📫 How to reach me
 
