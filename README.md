@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), today) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 3 weeks ago) - msh - mongo shell for large clusters with auto-discovery
-- [zph/runbook](https://github.com/zph/runbook) ([0.2.2](https://github.com/zph/runbook/releases/tag/0.2.2), 1 month ago) - Library for interactive runbooks and surrounding toolkit
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 5 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zabawaba99/go-gitignore](https://github.com/zabawaba99/go-gitignore) - gitignore implementation in go (1 day ago)
-- [nathankleyn/gitignore.rs](https://github.com/nathankleyn/gitignore.rs) - Implementation of .gitignore file parsing and glob testing in Rust. (1 day ago)
-- [jlkiri/gitignored](https://github.com/jlkiri/gitignored) - A Rust implementation of gitignore algorithm (1 day ago)
+- [masonr/yet-another-bench-script](https://github.com/masonr/yet-another-bench-script) - YABS - a simple bash script to estimate Linux server performance using fio, iperf3, &amp; Geekbench (today)
+- [robertknight/ocrs](https://github.com/robertknight/ocrs) - Rust library and CLI tool for OCR (extracting text from images) (today)
+- [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment. (today)
 
 #### 📫 How to reach me
 
