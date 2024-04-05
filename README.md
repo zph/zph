@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (9 months ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (10 months ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (11 months ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (11 months ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 year ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 year ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 3 days ago) - Library for interactive runbooks and surrounding toolkit
-- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 4 weeks ago) - msh - mongo shell for large clusters with auto-discovery
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 4 days ago) - Library for interactive runbooks and surrounding toolkit
+- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 5 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
 
-- [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (4 days ago)
+- [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (5 days ago)
 - [Setup goreleaser](https://github.com/toumorokoshi/tome/pull/51) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 month ago)
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (9 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go (1 day ago)
-- [stephenc/envsub](https://github.com/stephenc/envsub) - An alternative envsubst that allows for ${foo:-default} expansion too  (1 day ago)
-- [PagerDuty/go-pagerduty](https://github.com/PagerDuty/go-pagerduty) - go client library for PagerDuty v2 API (1 day ago)
+- [codingjoe/relint](https://github.com/codingjoe/relint) - Write your own linting rules using regular expressions. (1 day ago)
+- [sabledb-io/sabledb](https://github.com/sabledb-io/sabledb) - Ultra fast, persistent database supporting Redis API (1 day ago)
+- [a8m/envsubst](https://github.com/a8m/envsubst) - Environment variables substitution for Go (2 days ago)
 
 #### 📫 How to reach me
 
