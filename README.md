@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [j50n/deno-proc](https://github.com/j50n/deno-proc) - A better way to work with processes in Deno. (1 day ago)
-- [ammario/superlint](https://github.com/ammario/superlint) - A language-agnostic framework for lint rules written in Go (1 day ago)
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (2 days ago)
+- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go (today)
+- [bep/gojap](https://github.com/bep/gojap) - This is a small library that wraps goja and adds a VM pool and compilation cache. (today)
+- [d5/tengo](https://github.com/d5/tengo) - A fast script language for Go (today)
 
 #### 📫 How to reach me
 
