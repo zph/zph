@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (9 months ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (11 months ago)
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (11 months ago)
+- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 year ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 year ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 year ago)
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 year ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,27 +79,27 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 5 days ago) - Library for interactive runbooks and surrounding toolkit
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 6 days ago) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 - [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 5 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
 
-- [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (6 days ago)
+- [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (1 week ago)
 - [Setup goreleaser](https://github.com/toumorokoshi/tome/pull/51) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 month ago)
 - [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (9 months ago)
 
 #### 📓 Gists
 
-- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (11 months ago)
+- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 year ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 year ago)
 - [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [j50n/deno-proc](https://github.com/j50n/deno-proc) - A better way to work with processes in Deno. (today)
-- [ammario/superlint](https://github.com/ammario/superlint) - A language-agnostic framework for lint rules written in Go (today)
-- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (1 day ago)
+- [j50n/deno-proc](https://github.com/j50n/deno-proc) - A better way to work with processes in Deno. (1 day ago)
+- [ammario/superlint](https://github.com/ammario/superlint) - A language-agnostic framework for lint rules written in Go (1 day ago)
+- [runtipi/runtipi](https://github.com/runtipi/runtipi) - Runtipi is a homeserver for everyone! One command setup, one click installs for your favorites self-hosted apps. ✨ (2 days ago)
 
 #### 📫 How to reach me
 
