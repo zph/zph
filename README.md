@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience. (1 day ago)
-- [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go (1 day ago)
-- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go (1 day ago)
+- [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience. (2 days ago)
+- [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go (2 days ago)
+- [rogchap/v8go](https://github.com/rogchap/v8go) - Execute JavaScript from Go (2 days ago)
 
 #### 📫 How to reach me
 
