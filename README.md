@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
+- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
 - [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (1 week ago)
-- [Setup goreleaser](https://github.com/toumorokoshi/tome/pull/51) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 month ago)
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (9 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (1 day ago)
-- [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience. (3 days ago)
-- [google/starlark-go](https://github.com/google/starlark-go) - Starlark in Go: the Starlark configuration language, implemented in Go (3 days ago)
+- [innotop/innotop](https://github.com/innotop/innotop) - A realtime terminal-based top-like monitor for MySQL (1 day ago)
+- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (2 days ago)
+- [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience. (4 days ago)
 
 #### 📫 How to reach me
 
