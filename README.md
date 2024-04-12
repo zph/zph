@@ -24,14 +24,14 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit
 - [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
-- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
 - [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [innotop/innotop](https://github.com/innotop/innotop) - A realtime terminal-based top-like monitor for MySQL (1 day ago)
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (2 days ago)
-- [metacall/core](https://github.com/metacall/core) - MetaCall: The ultimate polyglot programming experience. (4 days ago)
+- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 day ago)
+- [innotop/innotop](https://github.com/innotop/innotop) - A realtime terminal-based top-like monitor for MySQL (2 days ago)
+- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (3 days ago)
 
 #### 📫 How to reach me
 
