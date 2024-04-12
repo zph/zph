@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (today)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 
 #### 🌱 My latest projects
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.1](https://github.com/zph/polylint/releases/tag/v0.0.1), today) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 1 week ago) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.11.1](https://github.com/toumorokoshi/tome/releases/tag/v0.11.1), 5 months ago) - convert any directory of scripts into your own fully-featured command.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hydradatabase/hydra](https://github.com/hydradatabase/hydra) - Hydra: Column-oriented Postgres. Add scalable analytics to your project in minutes. (1 day ago)
-- [innotop/innotop](https://github.com/innotop/innotop) - A realtime terminal-based top-like monitor for MySQL (2 days ago)
-- [dolthub/go-mysql-server](https://github.com/dolthub/go-mysql-server) - A MySQL-compatible relational database with a storage agnostic query engine. Implemented in pure Go. (3 days ago)
+- [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. (today)
+- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool. (today)
+- [dprint/dprint-plugin-exec](https://github.com/dprint/dprint-plugin-exec) - Formatting plugin for dprint that formats code via other formatting CLI tools. (today)
 
 #### 📫 How to reach me
 
