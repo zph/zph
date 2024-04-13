@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (today)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. (1 day ago)
-- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool. (1 day ago)
-- [dprint/dprint-plugin-exec](https://github.com/dprint/dprint-plugin-exec) - Formatting plugin for dprint that formats code via other formatting CLI tools. (1 day ago)
+- [remotemobprogramming/mob](https://github.com/remotemobprogramming/mob) - Tool for smooth git handover. (today)
+- [octo-sts/action](https://github.com/octo-sts/action) -  (today)
+- [mgp/book-notes](https://github.com/mgp/book-notes) - Notes from books and other interesting things that I&#39;ve read. Table of contents at the end 👇 (today)
 
 #### 📫 How to reach me
 
