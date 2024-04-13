@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (today)
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.1](https://github.com/zph/polylint/releases/tag/v0.0.1), today) - Extensible generic linter framework
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.0](https://github.com/zph/runbook/releases/tag/0.3.0), 1 week ago) - Library for interactive runbooks and surrounding toolkit
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.2](https://github.com/zph/polylint/releases/tag/v0.0.2), 1 day ago) - Extensible generic linter framework
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.1](https://github.com/zph/runbook/releases/tag/0.3.1), 1 day ago) - Library for interactive runbooks and surrounding toolkit
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
-- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
+- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
 - [Implement .tomeignore ala .gitignore mechanics](https://github.com/zph/tome/pull/1) on [zph/tome](https://github.com/zph/tome) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. (today)
-- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool. (today)
-- [dprint/dprint-plugin-exec](https://github.com/dprint/dprint-plugin-exec) - Formatting plugin for dprint that formats code via other formatting CLI tools. (today)
+- [volllly/rotz](https://github.com/volllly/rotz) - Fully cross platform dotfile manager and dev environment bootstrapper written in Rust. (1 day ago)
+- [denoland/dnt](https://github.com/denoland/dnt) - Deno to npm package build tool. (1 day ago)
+- [dprint/dprint-plugin-exec](https://github.com/dprint/dprint-plugin-exec) - Formatting plugin for dprint that formats code via other formatting CLI tools. (1 day ago)
 
 #### 📫 How to reach me
 
