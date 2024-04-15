@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.2](https://github.com/zph/runbook/releases/tag/0.3.2), today) - Library for interactive runbooks and surrounding toolkit
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 1 day ago) - Extensible generic linter framework
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.2](https://github.com/zph/runbook/releases/tag/0.3.2), 1 day ago) - Library for interactive runbooks and surrounding toolkit
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 2 days ago) - Extensible generic linter framework
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (today)
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
-- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
+- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (1 day ago)
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (5 days ago)
+- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (today)
-- [1Password/op-js](https://github.com/1Password/op-js) - A JS library powered by the 1Password CLI (today)
-- [jrnl-org/jrnl](https://github.com/jrnl-org/jrnl) - Collect your thoughts and notes without leaving the command line. (1 day ago)
+- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (today)
+- [nalgeon/redka](https://github.com/nalgeon/redka) - Redis re-implemented with SQLite (1 day ago)
+- [F1bonacc1/process-compose](https://github.com/F1bonacc1/process-compose) - Process Compose is a simple and flexible scheduler and orchestrator to manage non-containerized applications. (1 day ago)
 
 #### 📫 How to reach me
 
