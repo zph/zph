@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 day ago)
+- [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library (1 day ago)
 - [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 day ago)
 
 #### 🌱 My latest projects
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (today)
 - [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (2 days ago)
 - [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
-- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
 
 #### 📓 Gists
 
