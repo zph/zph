@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (today)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (today)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 day ago)
+- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 day ago)
 
 #### 🌱 My latest projects
 
+- [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library
 - [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework
-- [zph/runbook](https://github.com/zph/runbook) - Library for interactive runbooks and surrounding toolkit
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.2](https://github.com/zph/runbook/releases/tag/0.3.2), 1 day ago) - Library for interactive runbooks and surrounding toolkit
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 2 days ago) - Extensible generic linter framework
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 3 days ago) - Extensible generic linter framework
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (1 day ago)
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (5 days ago)
-- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (5 days ago)
+- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (2 days ago)
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
+- [Update papermill to use let not var for Typescript notebooks](https://github.com/zph/runbook/pull/8) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alecthomas/shreq](https://github.com/alecthomas/shreq) - This utility verifies all commands used by a shell script against an allow list (today)
-- [subfuzion/envtpl](https://github.com/subfuzion/envtpl) - Render Go templates on the command line with shell environment variables  (today)
-- [therootcompany/serviceman](https://github.com/therootcompany/serviceman) - Cross-platform service management for Mac, Linux, and Windows. (today)
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (1 day ago)
+- [oh-my-fish/plugin-foreign-env](https://github.com/oh-my-fish/plugin-foreign-env) - Run foreign bash scripts and capture exported environment variables (1 day ago)
+- [alecthomas/shreq](https://github.com/alecthomas/shreq) - This utility verifies all commands used by a shell script against an allow list (1 day ago)
 
 #### 📫 How to reach me
 
