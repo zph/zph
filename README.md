@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 day ago)
-- [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library (1 day ago)
-- [zph/homebrew-zph](https://github.com/zph/homebrew-zph) -  (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 3 days ago) - Extensible generic linter framework
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 4 days ago) - Extensible generic linter framework
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (today)
-- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (2 days ago)
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
+- [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
+- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (3 days ago)
+- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (1 day ago)
-- [oh-my-fish/plugin-foreign-env](https://github.com/oh-my-fish/plugin-foreign-env) - Run foreign bash scripts and capture exported environment variables (1 day ago)
-- [alecthomas/shreq](https://github.com/alecthomas/shreq) - This utility verifies all commands used by a shell script against an allow list (1 day ago)
+- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
+- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 day ago)
+- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (2 days ago)
 
 #### 📫 How to reach me
 
