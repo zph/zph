@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Zh add ubi forge](https://github.com/zph/mise/pull/1) on [zph/mise](https://github.com/zph/mise) (today)
 - [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
 - [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (3 days ago)
-- [Issue #5: Allow for custom suffix on planned runbook name with --iden…](https://github.com/zph/runbook/pull/9) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [DarthSim/hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications (today)
 - [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
 - [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 day ago)
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API. (2 days ago)
 
 #### 📫 How to reach me
 
