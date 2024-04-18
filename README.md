@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 4 days ago) - Extensible generic linter framework
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 5 days ago) - Extensible generic linter framework
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [Zh add ubi forge](https://github.com/zph/mise/pull/1) on [zph/mise](https://github.com/zph/mise) (today)
-- [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
-- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (3 days ago)
+- [Zh add ubi forge](https://github.com/zph/mise/pull/1) on [zph/mise](https://github.com/zph/mise) (1 day ago)
+- [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (4 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [DarthSim/hivemind](https://github.com/DarthSim/hivemind) - Process manager for Procfile-based applications (today)
-- [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch) - The best free and open-source automated time tracker. Cross-platform, extensible, privacy-focused. (1 day ago)
-- [ianyh/Amethyst](https://github.com/ianyh/Amethyst) - Automatic tiling window manager for macOS à la xmonad. (1 day ago)
+- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (1 day ago)
+- [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively. (1 day ago)
+- [devops-works/binenv](https://github.com/devops-works/binenv) - One binary to rule them all. Manage all those pesky binaries (kubectl, helm, terraform, ...) easily. (1 day ago)
 
 #### 📫 How to reach me
 
