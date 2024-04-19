@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (4 days ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (today)
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (1 day ago)
 - [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (2 days ago)
-- [egoist/bget](https://github.com/egoist/bget) - Download and install binaries from GitHub Releases, interactively. (2 days ago)
 
 #### 📫 How to reach me
 
