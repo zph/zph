@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Implementation of Pipx Backend](https://github.com/jdx/mise/pull/1923) on [jdx/mise](https://github.com/jdx/mise) (today)
 - [Zh add ubi forge](https://github.com/zph/mise/pull/1) on [zph/mise](https://github.com/zph/mise) (3 days ago)
 - [Add mechanism for prefixing all cells with a prompt mechanism when transformed to TS](https://github.com/zph/runbook/pull/12) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
-- [WIP](https://github.com/zph/deno/pull/1) on [zph/deno](https://github.com/zph/deno) (6 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable. (today)
 - [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (1 day ago)
 - [jdx/usage](https://github.com/jdx/usage) - A specification for CLIs (2 days ago)
-- [mitchellh/libxev](https://github.com/mitchellh/libxev) - libxev is a cross-platform, high-performance event loop that provides abstractions for non-blocking IO, timers, events, and more and works on Linux (io_uring or epoll), macOS (kqueue), and Wasm &#43; WASI. Available as both a Zig and C API. (3 days ago)
 
 #### 📫 How to reach me
 
