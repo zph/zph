@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Spike on building out a releases backend called `bin`](https://github.com/jdx/mise/pull/1932) on [jdx/mise](https://github.com/jdx/mise) (today)
 - [[bug] Fix `mise x cargo:eza` not installing during run when tool&#39;s version is unqualified](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
 - [Add ubi backend](https://github.com/zph/mise/pull/2) on [zph/mise](https://github.com/zph/mise) (2 days ago)
-- [Implementation of Pipx Backend](https://github.com/jdx/mise/pull/1923) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications. (today)
 - [MythicalCow/vayu](https://github.com/MythicalCow/vayu) - a simple command line interface like taskwarrior for task management. will eventually be expanded to include more features. (1 day ago)
 - [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader (1 day ago)
-- [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage. (1 day ago)
 
 #### 📫 How to reach me
 
