@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 6 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 1 week ago) - Extensible generic linter framework
 - [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [[bug] Fix `mise x cargo:eza` not installing during run when tool&#39;s version is unqualified](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
-- [Add ubi backend](https://github.com/zph/mise/pull/2) on [zph/mise](https://github.com/zph/mise) (1 day ago)
-- [Implementation of Pipx Backend](https://github.com/jdx/mise/pull/1923) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
+- [[bug] Fix `mise x cargo:eza` not installing during run when tool&#39;s version is unqualified](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
+- [Add ubi backend](https://github.com/zph/mise/pull/2) on [zph/mise](https://github.com/zph/mise) (2 days ago)
+- [Implementation of Pipx Backend](https://github.com/jdx/mise/pull/1923) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LingDong-/wax](https://github.com/LingDong-/wax) - A tiny programming language that transpiles to C, C&#43;&#43;, Java, TypeScript, Python, C#, Swift, Lua and WebAssembly 🚀 (1 day ago)
-- [RazrFalcon/cargo-bloat](https://github.com/RazrFalcon/cargo-bloat) - Find out what takes most of the space in your executable. (1 day ago)
-- [extism/extism](https://github.com/extism/extism) - The framework for building with WebAssembly (wasm). Easily load wasm modules, move data, call functions, and build extensible apps. (2 days ago)
+- [MythicalCow/vayu](https://github.com/MythicalCow/vayu) - a simple command line interface like taskwarrior for task management. will eventually be expanded to include more features. (1 day ago)
+- [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader (1 day ago)
+- [cyphar/paperback](https://github.com/cyphar/paperback) - Paper backup generator suitable for long-term storage. (1 day ago)
 
 #### 📫 How to reach me
 
