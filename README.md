@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.7](https://github.com/jdx/mise/releases/tag/v2024.4.7), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), today) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 1 week ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
+- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (today)
+- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (today)
 - [Include e2e folder in shfmt editorconfig for 2 spaces indenting](https://github.com/jdx/mise/pull/1937) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
-- [Spike on building out a releases backend called `bin`](https://github.com/jdx/mise/pull/1932) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
-- [fix(exec): default to @latest version](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (3 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications. (1 day ago)
-- [MythicalCow/vayu](https://github.com/MythicalCow/vayu) - a simple command line interface like taskwarrior for task management. will eventually be expanded to include more features. (2 days ago)
-- [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader (2 days ago)
+- [charmbracelet/melt](https://github.com/charmbracelet/melt) - 🧊 Backup and restore Ed25519 SSH keys with seed words. (today)
+- [eth-p/bat-extras](https://github.com/eth-p/bat-extras) - Bash scripts that integrate bat with various command line tools. (today)
+- [carapace-sh/carapace-bin](https://github.com/carapace-sh/carapace-bin) - multi-shell multi-command argument completer (today)
 
 #### 📫 How to reach me
 
