@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (4 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.7](https://github.com/jdx/mise/releases/tag/v2024.4.7), 1 day ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 1 week ago) - Extensible generic linter framework
-- [zph/msh](https://github.com/zph/msh) ([0.2.2](https://github.com/zph/msh/releases/tag/0.2.2), 1 month ago) - msh - mongo shell for large clusters with auto-discovery
 
 #### 🔨 My recent Pull Requests
 
-- [Spike on building out a releases backend called `bin`](https://github.com/jdx/mise/pull/1932) on [jdx/mise](https://github.com/jdx/mise) (today)
-- [[bug] Fix `mise x cargo:eza` not installing during run when tool&#39;s version is unqualified](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (2 days ago)
-- [Add ubi backend](https://github.com/zph/mise/pull/2) on [zph/mise](https://github.com/zph/mise) (2 days ago)
+- [Include e2e folder in shfmt editorconfig for 2 spaces indenting](https://github.com/jdx/mise/pull/1937) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
+- [Spike on building out a releases backend called `bin`](https://github.com/jdx/mise/pull/1932) on [jdx/mise](https://github.com/jdx/mise) (1 day ago)
+- [fix(exec): default to @latest version](https://github.com/jdx/mise/pull/1926) on [jdx/mise](https://github.com/jdx/mise) (3 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications. (today)
-- [MythicalCow/vayu](https://github.com/MythicalCow/vayu) - a simple command line interface like taskwarrior for task management. will eventually be expanded to include more features. (1 day ago)
-- [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader (1 day ago)
+- [abiosoft/ishell](https://github.com/abiosoft/ishell) - Library for creating interactive cli applications. (1 day ago)
+- [MythicalCow/vayu](https://github.com/MythicalCow/vayu) - a simple command line interface like taskwarrior for task management. will eventually be expanded to include more features. (2 days ago)
+- [vektah/dataloaden](https://github.com/vektah/dataloaden) - go generate based DataLoader (2 days ago)
 
 #### 📫 How to reach me
 
