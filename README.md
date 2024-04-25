@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (2 days ago)
+- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 2 days ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 1 week ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (1 day ago)
-- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (1 day ago)
-- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (1 day ago)
+- [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (2 days ago)
+- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (2 days ago)
+- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (today)
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (1 day ago)
-- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (1 day ago)
+- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (1 day ago)
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The GitLab/GitHub for database DevOps. World&#39;s most advanced database DevOps and CI/CD for Developer, DBA and Platform Engineering teams. (2 days ago)
+- [trpc/trpc](https://github.com/trpc/trpc) - 🧙‍♀️  Move Fast and Break Nothing. End-to-end typesafe APIs made easy.  (2 days ago)
 
 #### 📫 How to reach me
 
