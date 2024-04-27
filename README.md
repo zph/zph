@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (4 days ago)
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
 
