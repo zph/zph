@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
 - [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (5 days ago)
 
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Handle Inputs in Jupyter Notebooks](https://github.com/zph/deno/pull/2) on [zph/deno](https://github.com/zph/deno) (today)
 - [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (5 days ago)
 - [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (5 days ago)
-- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (5 days ago)
 
 #### 📓 Gists
 
