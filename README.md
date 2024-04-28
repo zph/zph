@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (4 days ago)
-- [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
+- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 4 days ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 day ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 5 days ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.3](https://github.com/zph/polylint/releases/tag/v0.0.3), 2 weeks ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (4 days ago)
-- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (4 days ago)
-- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (4 days ago)
+- [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (5 days ago)
+- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (5 days ago)
+- [Add docs for pipx and ubi backends](https://github.com/zph/mise-docs/pull/1) on [zph/mise-docs](https://github.com/zph/mise-docs) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cube-js/cube](https://github.com/cube-js/cube) - 📊  Cube — The Semantic Layer for Building Data Applications (1 day ago)
-- [AstroNvim/AstroNvim](https://github.com/AstroNvim/AstroNvim) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins  (2 days ago)
-- [uber-go/zap](https://github.com/uber-go/zap) - Blazing fast, structured, leveled logging in Go. (3 days ago)
+- [jupyter/echo_kernel](https://github.com/jupyter/echo_kernel) - A simple example kernel for Jupyter (1 day ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (1 day ago)
+- [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting (1 day ago)
 
 #### 📫 How to reach me
 
