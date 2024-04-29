@@ -19,13 +19,13 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 year ago)
 - [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (1 year ago)
 - [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (1 year ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (1 year ago)
+- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (1 day ago)
-- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (2 days ago)
+- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 day ago) - Extensible generic linter framework
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 5 days ago) - dev tools, env vars, task runner
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 2 days ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.8](https://github.com/jdx/mise/releases/tag/v2024.4.8), 6 days ago) - dev tools, env vars, task runner
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Handle Inputs in Jupyter Notebooks](https://github.com/zph/deno/pull/2) on [zph/deno](https://github.com/zph/deno) (today)
-- [Working wasm plugin model](https://github.com/zph/polylint/pull/2) on [zph/polylint](https://github.com/zph/polylint) (5 days ago)
-- [Add docs for pipx and ubi backends](https://github.com/jdx/mise-docs/pull/54) on [jdx/mise-docs](https://github.com/jdx/mise-docs) (5 days ago)
+- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (1 day ago)
+- [ feat(cli/tools/jupyter) support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (1 day ago)
+- [Handle Inputs in Jupyter Notebooks](https://github.com/zph/deno/pull/2) on [zph/deno](https://github.com/zph/deno) (1 day ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jupyter/echo_kernel](https://github.com/jupyter/echo_kernel) - A simple example kernel for Jupyter (1 day ago)
-- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (1 day ago)
-- [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting (1 day ago)
+- [jupyter/echo_kernel](https://github.com/jupyter/echo_kernel) - A simple example kernel for Jupyter (2 days ago)
+- [Infisical/infisical](https://github.com/Infisical/infisical) - ♾ Infisical is the open-source secret management platform: Sync secrets across your team/infrastructure and prevent secret leaks. (2 days ago)
+- [abrahamjuliot/creepjs](https://github.com/abrahamjuliot/creepjs) - Creepy device and browser fingerprinting (2 days ago)
 
 #### 📫 How to reach me
 
