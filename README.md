@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (today)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (2 days ago)
 - [ feat(cli/tools/jupyter) support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (2 days ago)
-- [Handle Inputs in Jupyter Notebooks](https://github.com/zph/deno/pull/2) on [zph/deno](https://github.com/zph/deno) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [microsoft/typespec](https://github.com/microsoft/typespec) -  (today)
 - [runtimed/runtimed](https://github.com/runtimed/runtimed) - RuntimeD (1 day ago)
 - [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line (1 day ago)
-- [jupyter/echo_kernel](https://github.com/jupyter/echo_kernel) - A simple example kernel for Jupyter (3 days ago)
 
 #### 📫 How to reach me
 
