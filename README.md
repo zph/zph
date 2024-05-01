@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (3 days ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (4 days ago)
 - [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.10](https://github.com/jdx/mise/releases/tag/v2024.4.10), 1 day ago) - dev tools, env vars, task runner
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 3 days ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.4.12](https://github.com/jdx/mise/releases/tag/v2024.4.12), 1 day ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 4 days ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (today)
-- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (2 days ago)
-- [ feat(cli/tools/jupyter) support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (2 days ago)
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 day ago)
+- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (3 days ago)
+- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (3 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [microsoft/typespec](https://github.com/microsoft/typespec) -  (today)
-- [runtimed/runtimed](https://github.com/runtimed/runtimed) - RuntimeD (1 day ago)
-- [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line (1 day ago)
+- [microsoft/typespec](https://github.com/microsoft/typespec) -  (1 day ago)
+- [runtimed/runtimed](https://github.com/runtimed/runtimed) - RuntimeD (2 days ago)
+- [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line (2 days ago)
 
 #### 📫 How to reach me
 
