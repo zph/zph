@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [microsoft/typespec](https://github.com/microsoft/typespec) -  (1 day ago)
-- [runtimed/runtimed](https://github.com/runtimed/runtimed) - RuntimeD (2 days ago)
-- [rcoh/angle-grinder](https://github.com/rcoh/angle-grinder) - Slice and dice logs on the command line (2 days ago)
+- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) - Web UI for Asynq task queue (today)
+- [bitleak/lmstfy](https://github.com/bitleak/lmstfy) - A task queue with REST API (today)
+- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue (today)
 
 #### 📫 How to reach me
 
