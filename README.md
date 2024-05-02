@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.0](https://github.com/jdx/mise/releases/tag/v2024.5.0), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), today) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 5 days ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hibiken/asynqmon](https://github.com/hibiken/asynqmon) - Web UI for Asynq task queue (1 day ago)
-- [bitleak/lmstfy](https://github.com/bitleak/lmstfy) - A task queue with REST API (1 day ago)
-- [hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet) - A distributed, fault-tolerant task queue (1 day ago)
+- [jaredwray/cache-manager](https://github.com/jaredwray/cache-manager) - Cache module for Node.JS (today)
+- [maxpert/node-cache-manager-sqlite](https://github.com/maxpert/node-cache-manager-sqlite) - A modern SQLite store for node-cache-manager (today)
+- [next-boost/hybrid-disk-cache](https://github.com/next-boost/hybrid-disk-cache) - A hybrid disk cache library that utilized both the solid SQLite3 and file system. (today)
 
 #### 📫 How to reach me
 
