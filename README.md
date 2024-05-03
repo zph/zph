@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (5 days ago)
-- [jdx/mise-docs](https://github.com/jdx/mise-docs) -  (1 week ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), today) - dev tools, env vars, task runner
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 5 days ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 1 day ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 6 days ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (2 days ago)
-- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (4 days ago)
-- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (4 days ago)
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (3 days ago)
+- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (5 days ago)
+- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jaredwray/cache-manager](https://github.com/jaredwray/cache-manager) - Cache module for Node.JS (today)
-- [maxpert/node-cache-manager-sqlite](https://github.com/maxpert/node-cache-manager-sqlite) - A modern SQLite store for node-cache-manager (today)
-- [next-boost/hybrid-disk-cache](https://github.com/next-boost/hybrid-disk-cache) - A hybrid disk cache library that utilized both the solid SQLite3 and file system. (today)
+- [jaredwray/cache-manager](https://github.com/jaredwray/cache-manager) - Cache module for Node.JS (1 day ago)
+- [maxpert/node-cache-manager-sqlite](https://github.com/maxpert/node-cache-manager-sqlite) - A modern SQLite store for node-cache-manager (1 day ago)
+- [next-boost/hybrid-disk-cache](https://github.com/next-boost/hybrid-disk-cache) - A hybrid disk cache library that utilized both the solid SQLite3 and file system. (1 day ago)
 
 #### 📫 How to reach me
 
