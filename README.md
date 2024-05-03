@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [lambdalisue/deno-async](https://github.com/lambdalisue/deno-async) - 🦕 Asynchronous primitive modules for Deno. (today)
+- [douglascayers/promise-coalesce](https://github.com/douglascayers/promise-coalesce) - Coalesces multiple promises for the same identifier into a single request (today)
 - [jaredwray/cache-manager](https://github.com/jaredwray/cache-manager) - Cache module for Node.JS (1 day ago)
-- [maxpert/node-cache-manager-sqlite](https://github.com/maxpert/node-cache-manager-sqlite) - A modern SQLite store for node-cache-manager (1 day ago)
-- [next-boost/hybrid-disk-cache](https://github.com/next-boost/hybrid-disk-cache) - A hybrid disk cache library that utilized both the solid SQLite3 and file system. (1 day ago)
 
 #### 📫 How to reach me
 
