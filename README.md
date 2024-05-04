@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework (6 days ago)
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (1 day ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno
 - [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library
 - [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 1 day ago) - dev tools, env vars, task runner
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 6 days ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 2 days ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 week ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (3 days ago)
-- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (5 days ago)
-- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (5 days ago)
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (4 days ago)
+- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (6 days ago)
+- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (6 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [lambdalisue/deno-async](https://github.com/lambdalisue/deno-async) - 🦕 Asynchronous primitive modules for Deno. (today)
-- [douglascayers/promise-coalesce](https://github.com/douglascayers/promise-coalesce) - Coalesces multiple promises for the same identifier into a single request (today)
-- [jaredwray/cache-manager](https://github.com/jaredwray/cache-manager) - Cache module for Node.JS (1 day ago)
+- [launchdarkly/ldcli](https://github.com/launchdarkly/ldcli) - The official command line interface for managing LaunchDarkly feature flags. (1 day ago)
+- [huijiewei/cache-manager-sqlite](https://github.com/huijiewei/cache-manager-sqlite) - SQLite store for node cache manager (1 day ago)
+- [lambdalisue/deno-async](https://github.com/lambdalisue/deno-async) - 🦕 Asynchronous primitive modules for Deno. (1 day ago)
 
 #### 📫 How to reach me
 
