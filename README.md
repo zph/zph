@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (2 days ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (3 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating
 - [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno
 - [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library
-- [zph/polylint](https://github.com/zph/polylint) - Extensible generic linter framework
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 4 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 week ago) - Extensible generic linter framework
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (5 days ago)
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (6 days ago)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
 - [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [antoine-coulon/digraph-js](https://github.com/antoine-coulon/digraph-js) - JavaScript library to make Directed Acyclic Graph construction and traversal easy, including deep circular dependency detection ♽ (1 day ago)
-- [asteris-llc/converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system. (1 day ago)
-- [DAGWorks-Inc/hamilton](https://github.com/DAGWorks-Inc/hamilton) - Hamilton helps data scientists and engineers define testable, modular, self-documenting dataflows, that encode lineage and metadata. Runs and scales everywhere python does. (1 day ago)
+- [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more (1 day ago)
+- [antoine-coulon/digraph-js](https://github.com/antoine-coulon/digraph-js) - JavaScript library to make Directed Acyclic Graph construction and traversal easy, including deep circular dependency detection ♽ (2 days ago)
+- [asteris-llc/converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system. (2 days ago)
 
 #### 📫 How to reach me
 
