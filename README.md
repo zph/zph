@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (today)
 - [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more (1 day ago)
 - [antoine-coulon/digraph-js](https://github.com/antoine-coulon/digraph-js) - JavaScript library to make Directed Acyclic Graph construction and traversal easy, including deep circular dependency detection ♽ (2 days ago)
-- [asteris-llc/converge](https://github.com/asteris-llc/converge) - A powerful and easy-to-use configuration management system. (2 days ago)
 
 #### 📫 How to reach me
 
