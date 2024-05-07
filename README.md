@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (3 days ago)
+- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 4 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.2](https://github.com/jdx/mise/releases/tag/v2024.5.2), 5 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 week ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (6 days ago)
+- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 week ago)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
 - [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (today)
-- [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more (1 day ago)
-- [antoine-coulon/digraph-js](https://github.com/antoine-coulon/digraph-js) - JavaScript library to make Directed Acyclic Graph construction and traversal easy, including deep circular dependency detection ♽ (2 days ago)
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency. (1 day ago)
+- [blakeembrey/change-case](https://github.com/blakeembrey/change-case) - Convert strings between camelCase, PascalCase, Capital Case, snake_case and more (2 days ago)
+- [antoine-coulon/digraph-js](https://github.com/antoine-coulon/digraph-js) - JavaScript library to make Directed Acyclic Graph construction and traversal easy, including deep circular dependency detection ♽ (3 days ago)
 
 #### 📫 How to reach me
 
