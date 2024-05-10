@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (today)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (5 days ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (today)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 week ago)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
-- [feat(jupyter): support `confirm` and `prompt` in notebooks](https://github.com/denoland/deno/pull/23592) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [gittuf/gittuf](https://github.com/gittuf/gittuf) - A security layer for Git repositories (today)
+- [johnmanjiro13/gh-bump](https://github.com/johnmanjiro13/gh-bump) - gh extension for bumping version of a repository (today)
 - [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (1 day ago)
-- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (1 day ago)
-- [temporalio/cli](https://github.com/temporalio/cli) - Command-line interface for running Temporal Server and interacting with Workflows, Activities, Namespaces, and other parts of Temporal (1 day ago)
 
 #### 📫 How to reach me
 
