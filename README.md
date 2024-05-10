@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (4 days ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (5 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.3](https://github.com/jdx/mise/releases/tag/v2024.5.3), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.3](https://github.com/jdx/mise/releases/tag/v2024.5.3), 3 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 week ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim config providing solid defaults and a beautiful UI, enhancing your neovim experience. (2 days ago)
-- [yukinarit/pyserde](https://github.com/yukinarit/pyserde) - Yet another serialization library on top of dataclasses, inspired by serde-rs. (2 days ago)
-- [EvWilson/slimux.nvim](https://github.com/EvWilson/slimux.nvim) - Send content from the current Neovim buffer to a configurable tmux pane. (2 days ago)
+- [slok/grafterm](https://github.com/slok/grafterm) - Metrics dashboards on terminal (a grafana inspired terminal version) (1 day ago)
+- [nalbury/promql-cli](https://github.com/nalbury/promql-cli) - Prometheus Query CLI (1 day ago)
+- [temporalio/cli](https://github.com/temporalio/cli) - Command-line interface for running Temporal Server and interacting with Workflows, Activities, Namespaces, and other parts of Temporal (1 day ago)
 
 #### 📫 How to reach me
 
