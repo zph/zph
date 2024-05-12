@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.3](https://github.com/jdx/mise/releases/tag/v2024.5.3), 4 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.4](https://github.com/jdx/mise/releases/tag/v2024.5.4), 1 day ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 2 weeks ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 day ago)
+- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (2 days ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 week ago)
-- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (1 week ago)
+- [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (2 weeks ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust (1 day ago)
-- [Hexagon/pup](https://github.com/Hexagon/pup) - Universal process manager built in Deno (1 day ago)
-- [eram/typescript-fsm](https://github.com/eram/typescript-fsm) - TS-FSM is a strongly typed finite state machine for TypeScript that is using async operations. Library uses generics to take the user states and events. Zero dependencies! (1 day ago)
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA (1 day ago)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.  (1 day ago)
+- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust (2 days ago)
 
 #### 📫 How to reach me
 
