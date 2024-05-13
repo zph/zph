@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating (1 week ago)
+- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems
 - [zph/terraform-generator](https://github.com/zph/terraform-generator) - Experiment in reducing Terraform boilerplate with deno and jinja templating
 - [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno
-- [zph/wait-until](https://github.com/zph/wait-until) - wait-until helper script and micro-library
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.5](https://github.com/jdx/mise/releases/tag/v2024.5.5), today) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.9](https://github.com/jdx/mise/releases/tag/v2024.5.9), 1 day ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 2 weeks ago) - Extensible generic linter framework
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 3 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 4 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (2 days ago)
+- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (3 days ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 week ago)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (2 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA (1 day ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.  (1 day ago)
-- [dalance/procs](https://github.com/dalance/procs) - A modern replacement for ps written in Rust (2 days ago)
+- [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno (1 day ago)
+- [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA (2 days ago)
+- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.  (2 days ago)
 
 #### 📫 How to reach me
 
