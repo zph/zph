@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [josephg/node-foundationdb](https://github.com/josephg/node-foundationdb) - Modern Node.js FoundationDB bindings (today)
 - [lino-levan/astral](https://github.com/lino-levan/astral) - A high-level puppeteer/playwright-like library for Deno (1 day ago)
 - [NHAS/wag](https://github.com/NHAS/wag) - Simple Wireguard 2FA (2 days ago)
-- [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, execute as a script, deploy as an app, and version with git.  (2 days ago)
 
 #### 📫 How to reach me
 
