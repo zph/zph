@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises (today)
+- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js (today)
 - [yshurik/momyre](https://github.com/yshurik/momyre) - MOngo to MYsql simple REplicator. The package is the missing link to run replication process from the mongo cluster to the mysql databse (2 days ago)
-- [MaterializeInc/materialize](https://github.com/MaterializeInc/materialize) - The data warehouse for operational workloads. (2 days ago)
-- [DeviceFarmer/stf](https://github.com/DeviceFarmer/stf) - Control and manage Android devices from your browser. (2 days ago)
 
 #### 📫 How to reach me
 
