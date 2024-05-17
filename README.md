@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.16](https://github.com/jdx/mise/releases/tag/v2024.5.16), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.16](https://github.com/jdx/mise/releases/tag/v2024.5.16), 2 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 2 weeks ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 month ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (6 days ago)
+- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 week ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (2 weeks ago)
 - [feat(cli/tools/jupyter) Add --directory flag to control where jupyter kernelspec installs](https://github.com/denoland/deno/pull/23595) on [denoland/deno](https://github.com/denoland/deno) (2 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises (today)
-- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js (today)
-- [yshurik/momyre](https://github.com/yshurik/momyre) - MOngo to MYsql simple REplicator. The package is the missing link to run replication process from the mongo cluster to the mysql databse (2 days ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers (1 day ago)
+- [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises (1 day ago)
+- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js (1 day ago)
 
 #### 📫 How to reach me
 
