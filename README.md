@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.16](https://github.com/jdx/mise/releases/tag/v2024.5.16), 2 days ago) - dev tools, env vars, task runner
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 2 weeks ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.16](https://github.com/jdx/mise/releases/tag/v2024.5.16), 3 days ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 3 weeks ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 month ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers (1 day ago)
-- [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises (1 day ago)
-- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js (1 day ago)
+- [quarylabs/quary](https://github.com/quarylabs/quary) - Open-source BI for engineers (2 days ago)
+- [steelbrain/node-ssh](https://github.com/steelbrain/node-ssh) - SSH2 with Promises (2 days ago)
+- [mscdex/ssh2](https://github.com/mscdex/ssh2) - SSH2 client and server modules written in pure JavaScript for node.js (2 days ago)
 
 #### 📫 How to reach me
 
