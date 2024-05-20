@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fabtools/fabtools](https://github.com/fabtools/fabtools) - Tools for writing awesome Fabric files (1 day ago)
-- [fabric/patchwork](https://github.com/fabric/patchwork) - Common deployment/sysadmin operations, built on Fabric (1 day ago)
-- [Miyoshi-Ryota/fclicache](https://github.com/Miyoshi-Ryota/fclicache) - fclicache is a command-line utility that caches the output of resource-intensive commands, enabling faster retrieval of results when the same commands are executed repeatedly within a specified Time-to-Live (TTL) period. (1 day ago)
+- [poolifier/poolifier-web-worker](https://github.com/poolifier/poolifier-web-worker) - Fast and small web worker pool (today)
+- [pmndrs/valtio](https://github.com/pmndrs/valtio) - 💊 Valtio makes proxy-state simple  for React and Vanilla (today)
+- [Im-Beast/deno_tui](https://github.com/Im-Beast/deno_tui) - 🦕 Deno module for creating Terminal User Interfaces (today)
 
 #### 📫 How to reach me
 
