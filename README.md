@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script. (today)
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500&#43;) management and classic command extensions (today)
 - [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (1 day ago)
-- [dalance/amber](https://github.com/dalance/amber) - A code search / replace tool (1 day ago)
-- [context-labs/mactop](https://github.com/context-labs/mactop) - mactop - Apple Silicon Monitor Top written in pure Golang! Under 1,000 lines of code. (1 day ago)
 
 #### 📫 How to reach me
 
