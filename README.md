@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (today)
 - [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script. (1 day ago)
 - [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500&#43;) management and classic command extensions (1 day ago)
-- [ast-grep/ast-grep](https://github.com/ast-grep/ast-grep) - ⚡A CLI tool for code structural search, lint and rewriting. Written in Rust (2 days ago)
 
 #### 📫 How to reach me
 
