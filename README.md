@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating (1 week ago)
 - [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (1 week ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.22](https://github.com/jdx/mise/releases/tag/v2024.5.22), 1 day ago) - dev tools, env vars, task runner
-- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 4 weeks ago) - Extensible generic linter framework
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.5.22](https://github.com/jdx/mise/releases/tag/v2024.5.22), 2 days ago) - dev tools, env vars, task runner
+- [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 month ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (1 day ago)
-- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script. (2 days ago)
-- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500&#43;) management and classic command extensions (2 days ago)
+- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (2 days ago)
+- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script. (3 days ago)
+- [x-cmd/x-cmd](https://github.com/x-cmd/x-cmd) - Opensource lightweight posix script for tools (500&#43;) management and classic command extensions (3 days ago)
 
 #### 📫 How to reach me
 
