@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [porkg/porkg](https://github.com/porkg/porkg) -  (today)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
 - [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (1 week ago)
-- [megastep/makeself](https://github.com/megastep/makeself) - A self-extracting archiving tool for Unix systems, in 100% shell script. (1 week ago)
 
 #### 📫 How to reach me
 
