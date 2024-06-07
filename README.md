@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating (2 weeks ago)
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.1](https://github.com/jdx/mise/releases/tag/v2024.6.1), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.1](https://github.com/jdx/mise/releases/tag/v2024.6.1), 4 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 month ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
 - [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (2 weeks ago)
-- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (3 weeks ago)
+- [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (4 weeks ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 month ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [porkg/porkg](https://github.com/porkg/porkg) -  (2 days ago)
+- [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS (1 day ago)
+- [porkg/porkg](https://github.com/porkg/porkg) -  (3 days ago)
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A beautiful CLI dashboard for GitHub 🚀  (1 week ago)
-- [roblillack/spot](https://github.com/roblillack/spot) - React-like desktop GUI toolkit for Go (1 week ago)
 
 #### 📫 How to reach me
 
