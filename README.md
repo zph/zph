@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.2](https://github.com/jdx/mise/releases/tag/v2024.6.2), today) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.2](https://github.com/jdx/mise/releases/tag/v2024.6.2), 1 day ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.3](https://github.com/zph/runbook/releases/tag/0.3.3), 1 month ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform plans (today)
-- [shortcutui/sui](https://github.com/shortcutui/sui) -  (today)
-- [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS (today)
+- [areguera/terraform-aws-ssm](https://github.com/areguera/terraform-aws-ssm) - Terraform module to compose AWS Systems Manager (SSM) configurations (1 day ago)
+- [danvergara/dblab](https://github.com/danvergara/dblab) - The database client every command line junkie deserves. (1 day ago)
+- [RoseSecurity/Terramaid](https://github.com/RoseSecurity/Terramaid) - A utility for generating Mermaid diagrams from Terraform plans (1 day ago)
 
 #### 📫 How to reach me
 
