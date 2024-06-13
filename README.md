@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating (3 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (today)
 - [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework. (4 days ago)
 - [batfish/batfish](https://github.com/batfish/batfish) - Batfish is a network configuration analysis tool that can find bugs and guarantee the correctness of (planned or current) network configurations. It enables network engineers to rapidly and safely evolve their network, without fear of outages or security breaches. (4 days ago)
-- [areguera/terraform-aws-ssm](https://github.com/areguera/terraform-aws-ssm) - Terraform module to compose AWS Systems Manager (SSM) configurations (6 days ago)
 
 #### 📫 How to reach me
 
