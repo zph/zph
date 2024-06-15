@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.4](https://github.com/zph/runbook/releases/tag/0.3.4), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), today) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.6.3](https://github.com/jdx/mise/releases/tag/v2024.6.3), 5 days ago) - dev tools, env vars, task runner
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
