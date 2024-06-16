@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), today) - 📖 Library for interactive runbooks and surrounding toolkit 💻
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.3](https://github.com/jdx/mise/releases/tag/v2024.6.3), 5 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.4](https://github.com/jdx/mise/releases/tag/v2024.6.4), 1 day ago) - dev tools, env vars, task runner
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (3 weeks ago)
+- [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (4 weeks ago)
 - [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 month ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [benma/visual-regexp.el](https://github.com/benma/visual-regexp.el) - A regexp/replace command for Emacs with interactive visual feedback (2 days ago)
-- [paradedb/paradedb](https://github.com/paradedb/paradedb) - Postgres for Search and Analytics (2 days ago)
-- [teodevgroup/teo](https://github.com/teodevgroup/teo) - Schema-driven web server framework. (6 days ago)
+- [tmccombs/hcl2json](https://github.com/tmccombs/hcl2json) - Convert hcl2 to json (1 day ago)
+- [datastrato/gravitino](https://github.com/datastrato/gravitino) - World&#39;s most powerful open data catalog for building a high-performance, geo-distributed and federated metadata lake. (1 day ago)
+- [Percona-Lab/pg_tde](https://github.com/Percona-Lab/pg_tde) -  (1 day ago)
 
 #### 📫 How to reach me
 
