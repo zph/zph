@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (3 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.4](https://github.com/jdx/mise/releases/tag/v2024.6.4), 2 days ago) - dev tools, env vars, task runner
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 2 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.4](https://github.com/jdx/mise/releases/tag/v2024.6.4), 3 days ago) - dev tools, env vars, task runner
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 3 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (4 weeks ago)
+- [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 - [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 month ago)
 - [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (today)
-- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (today)
-- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (today)
+- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (1 day ago)
+- [xo/usql](https://github.com/xo/usql) - Universal command-line interface for SQL databases (1 day ago)
+- [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust (1 day ago)
 
 #### 📫 How to reach me
 
