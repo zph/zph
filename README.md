@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.5](https://github.com/jdx/mise/releases/tag/v2024.6.5), 1 day ago) - dev tools, env vars, task runner
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 4 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.5](https://github.com/jdx/mise/releases/tag/v2024.6.5), 2 days ago) - dev tools, env vars, task runner
+- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 5 days ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (1 day ago)
-- [dbos-inc/dbos-transact](https://github.com/dbos-inc/dbos-transact) - The Transactional TypeScript Framework (1 day ago)
-- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (2 days ago)
+- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (2 days ago)
+- [dbos-inc/dbos-transact](https://github.com/dbos-inc/dbos-transact) - The Transactional TypeScript Framework (2 days ago)
+- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (3 days ago)
 
 #### 📫 How to reach me
 
