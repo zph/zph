@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (today)
 - [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (3 days ago)
 - [dbos-inc/dbos-transact](https://github.com/dbos-inc/dbos-transact) - The Transactional TypeScript Framework (3 days ago)
-- [tikv/agatedb](https://github.com/tikv/agatedb) - A persistent key-value storage in rust. (4 days ago)
 
 #### 📫 How to reach me
 
