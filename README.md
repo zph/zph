@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (today)
 - [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 - [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 month ago)
-- [Zh jupyter 2](https://github.com/zph/deno/pull/3) on [zph/deno](https://github.com/zph/deno) (1 month ago)
 
 #### 📓 Gists
 
