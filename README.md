@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures (1 day ago)
-- [vjeantet/alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line. (1 day ago)
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (2 days ago)
+- [VikParuchuri/marker](https://github.com/VikParuchuri/marker) - Convert PDF to markdown quickly with high accuracy (today)
+- [jodevsa/wireguard-operator](https://github.com/jodevsa/wireguard-operator) - Painless deployment of wireguard on kubernetes (today)
+- [amphi-ai/amphi-etl](https://github.com/amphi-ai/amphi-etl) - Low-code ETL for structured and unstructured data. Generates Python code you can deploy anywhere. (today)
 
 #### 📫 How to reach me
 
