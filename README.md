@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 3 days ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (today)
+- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (1 day ago)
 - [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 - [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [vjeantet/alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line. (today)
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (1 day ago)
-- [bazelbuild/starlark](https://github.com/bazelbuild/starlark) - Starlark Language (4 days ago)
+- [nkaz001/hftbacktest](https://github.com/nkaz001/hftbacktest) - A high-frequency trading and market-making backtesting tool in Python and Rust, which accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books, with real-world crypto market-making examples for Binance Futures (1 day ago)
+- [vjeantet/alerter](https://github.com/vjeantet/alerter) - Send User Alert Notification on Mac OS X from the command-line. (1 day ago)
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (2 days ago)
 
 #### 📫 How to reach me
 
