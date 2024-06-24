@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zbeekman/launchctl-tasks](https://github.com/zbeekman/launchctl-tasks) - A set of short &amp; sweet `launchctl` plists for automating boring tasks on macOS 🤖🍏 (1 day ago)
-- [stephen-fox/launchctlutil](https://github.com/stephen-fox/launchctlutil) - A Go library that provides functionality for working with the launchctl application and launchd. (1 day ago)
-- [Oxen-AI/oxen-release](https://github.com/Oxen-AI/oxen-release) - Lightning fast data version control system for structured and unstructured machine learning datasets. We aim to make versioning datasets as easy as versioning code. (1 day ago)
+- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (today)
+- [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl (today)
+- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Cursive TUI that queries XPC to peek at launchd state (today)
 
 #### 📫 How to reach me
 
