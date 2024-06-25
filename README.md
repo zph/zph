@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (11 months ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 year ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 year ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 4 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 5 days ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [zph/polylint](https://github.com/zph/polylint) ([v0.0.5](https://github.com/zph/polylint/releases/tag/v0.0.5), 1 month ago) - Extensible generic linter framework
 
 #### 🔨 My recent Pull Requests
 
-- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (2 days ago)
+- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (3 days ago)
 - [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 - [Add http header support for auth](https://github.com/zph/promql-cli/pull/1) on [zph/promql-cli](https://github.com/zph/promql-cli) (1 month ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (today)
-- [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl (today)
-- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Cursive TUI that queries XPC to peek at launchd state (today)
+- [glowinthedark/pylaunchd](https://github.com/glowinthedark/pylaunchd) - MacOS launchd/launchctl GUI (1 day ago)
+- [eddiezane/lunchy](https://github.com/eddiezane/lunchy) - A friendly wrapper for launchctl (1 day ago)
+- [mach-kernel/launchk](https://github.com/mach-kernel/launchk) - Cursive TUI that queries XPC to peek at launchd state (1 day ago)
 
 #### 📫 How to reach me
 
