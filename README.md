@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 day ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [testcontainers/testcontainers-node](https://github.com/testcontainers/testcontainers-node) - Testcontainers is a NodeJS library that supports tests, providing lightweight, throwaway instances of common databases, Selenium web browsers, or anything else that can run in a Docker container. (today)
+- [testcontainers/testcontainers-go](https://github.com/testcontainers/testcontainers-go) - Testcontainers for Go is a Go package that makes it simple to create and clean up container-based dependencies for automated integration/smoke tests. The clean, easy-to-use API enables developers to programmatically define containers that should be run as part of a test and clean up those resources when the test is done. (today)
 - [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 day ago)
-- [xiaomi-mt6789-devs/releases](https://github.com/xiaomi-mt6789-devs/releases) - LineageOS releases (1 day ago)
-- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (2 days ago)
 
 #### 📫 How to reach me
 
