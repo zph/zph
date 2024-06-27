@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys. (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 day ago) - cache-manager stores for Deno
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 6 days ago) - dev tools, env vars, task runner
+- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 days ago) - cache-manager stores for Deno
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 1 week ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 1 week ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Change collation lookup to be durable across additional engine/versions](https://github.com/petoju/terraform-provider-mysql/pull/158) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (1 day ago)
-- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (4 days ago)
-- [Break out modules](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
+- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
+- [Change collation lookup to be durable across additional engine/versions](https://github.com/petoju/terraform-provider-mysql/pull/158) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (2 days ago)
+- [Fix issue where CustomSeverities are not respected in config](https://github.com/thoughtworks/talisman/pull/459) on [thoughtworks/talisman](https://github.com/thoughtworks/talisman) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (today)
-- [xiaomi-mt6789-devs/releases](https://github.com/xiaomi-mt6789-devs/releases) - LineageOS releases (today)
-- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (1 day ago)
+- [glasskube/glasskube](https://github.com/glasskube/glasskube) - 🧊 The next generation Package Manager for Kubernetes 📦 Featuring a GUI and a CLI. Glasskube packages are dependency aware, GitOps ready and can get automatic updates via a central public package repository. (1 day ago)
+- [xiaomi-mt6789-devs/releases](https://github.com/xiaomi-mt6789-devs/releases) - LineageOS releases (1 day ago)
+- [JFryy/qq](https://github.com/JFryy/qq) - jq inspired interoperable config format transcoder with interactive querying. (2 days ago)
 
 #### 📫 How to reach me
 
