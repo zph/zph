@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 5 days ago) - cache-manager stores for Deno
+- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 6 days ago) - cache-manager stores for Deno
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 1 week ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (2 days ago)
-- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (2 days ago)
-- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (4 days ago)
+- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (3 days ago)
+- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (3 days ago)
+- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (1 day ago)
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) -  (1 day ago)
-- [gphoto/libgphoto2](https://github.com/gphoto/libgphoto2) - The libgphoto2 camera access and control library. (1 day ago)
+- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
+- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (2 days ago)
+- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) -  (2 days ago)
 
 #### 📫 How to reach me
 
