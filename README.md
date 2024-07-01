@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [fatkodima/online_migrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc). (today)
+- [sethvargo/go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware. (today)
 - [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
-- [maragudk/goqite](https://github.com/maragudk/goqite) - Go queue library built on SQLite and inspired by AWS SQS. (2 days ago)
-- [kvcache-ai/Mooncake](https://github.com/kvcache-ai/Mooncake) -  (2 days ago)
 
 #### 📫 How to reach me
 
