@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 6 days ago) - cache-manager stores for Deno
+- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 1 week ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (3 days ago)
-- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (3 days ago)
-- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
+- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (4 days ago)
+- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (4 days ago)
+- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fatkodima/online_migrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc). (today)
-- [sethvargo/go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware. (today)
-- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.  (1 day ago)
+- [fatkodima/online_migrations](https://github.com/fatkodima/online_migrations) - Catch unsafe PostgreSQL migrations in development and run them easier in production (code helpers for table/column renaming, changing column type, adding columns with default, background migrations, etc). (1 day ago)
+- [sethvargo/go-limiter](https://github.com/sethvargo/go-limiter) - A supersonic rate limiting package for Go with HTTP middleware. (1 day ago)
+- [poundifdef/SmoothMQ](https://github.com/poundifdef/SmoothMQ) - A drop-in replacement for SQS designed for great developer experience and efficiency.  (2 days ago)
 
 #### 📫 How to reach me
 
