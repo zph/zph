@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (4 days ago)
-- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (4 days ago)
-- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
+- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
+- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
+- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (today)
-- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are. (today)
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (today)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 day ago)
+- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are. (1 day ago)
+- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (1 day ago)
 
 #### 📫 How to reach me
 
