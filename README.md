@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (5 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 1 day ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.6.6](https://github.com/jdx/mise/releases/tag/v2024.6.6), 1 week ago) - dev tools, env vars, task runner
 - [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 
 #### 🔨 My recent Pull Requests
 
-- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
-- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (5 days ago)
+- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
+- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
 - [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (1 day ago)
-- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are. (1 day ago)
-- [clidey/whodb](https://github.com/clidey/whodb) - A lightweight next-gen database explorer - Postgres, MySQL, SQLite, MongoDB, &amp; Redis (1 day ago)
+- [datafuselabs/databend](https://github.com/datafuselabs/databend) - 𝗗𝗮𝘁𝗮, 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 &amp; 𝗔𝗜. Modern alternative to Snowflake. Cost-effective and simple for massive-scale analytics. https://databend.com (1 day ago)
+- [dominikh/gotraceui](https://github.com/dominikh/gotraceui) - Go execution trace frontend (2 days ago)
+- [metatypedev/metatype](https://github.com/metatypedev/metatype) - Declarative API development platform. Build backend components with WASM, Typescript and Python, no matter where and how your (legacy) systems are. (2 days ago)
 
 #### 📫 How to reach me
 
