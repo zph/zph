@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (6 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 2 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
-- [zph/runbook](https://github.com/zph/runbook) ([0.3.5](https://github.com/zph/runbook/releases/tag/0.3.5), 2 weeks ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [denoland/deno](https://github.com/denoland/deno) ([v1.44.4](https://github.com/denoland/deno/releases/tag/v1.44.4), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [(feat) Add service block to goreleaser brew config](https://github.com/dagu-dev/dagu/pull/597) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
-- [(ui) Improve UI when using long values in params](https://github.com/dagu-dev/dagu/pull/596) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
-- [Fix issue with socket length &gt; 108 due to long task names](https://github.com/dagu-dev/dagu/pull/593) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 week ago)
+- [Zh strip ansi codes from display](https://github.com/zph/dagu/pull/1) on [zph/dagu](https://github.com/zph/dagu) (1 day ago)
+- [(feat) Publish homebrew formula to main repository](https://github.com/dagu-dev/dagu/pull/599) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
+- [Add TiDB Resource Controls](https://github.com/zph/terraform-provider-mysql/pull/1) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer &amp; processor (today)
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (today)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (today)
+- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer &amp; processor (1 day ago)
+- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (1 day ago)
+- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
 
 #### 📫 How to reach me
 
