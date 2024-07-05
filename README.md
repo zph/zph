@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (today)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (today)
+- [(bug) Remove ansi escape codes from UI Log Display](https://github.com/dagu-dev/dagu/pull/600) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (today)
 - [Zh strip ansi codes from display](https://github.com/zph/dagu/pull/1) on [zph/dagu](https://github.com/zph/dagu) (1 day ago)
-- [(feat) Publish homebrew formula to main repository](https://github.com/dagu-dev/dagu/pull/599) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
-- [Add TiDB Resource Controls](https://github.com/zph/terraform-provider-mysql/pull/1) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [antonmedv/fx](https://github.com/antonmedv/fx) - Terminal JSON viewer &amp; processor (1 day ago)
-- [Byron/dua-cli](https://github.com/Byron/dua-cli) - View disk space usage and delete unwanted data, fast. (1 day ago)
-- [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼 (1 day ago)
+- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code (today)
+- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫 (today)
+- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (today)
 
 #### 📫 How to reach me
 
