@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (today)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [denoland/deno](https://github.com/denoland/deno) - A modern runtime for JavaScript and TypeScript. (2 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 3 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
 - [denoland/deno](https://github.com/denoland/deno) ([v1.44.4](https://github.com/denoland/deno/releases/tag/v1.44.4), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (today)
-- [(bug) Remove ansi escape codes from UI Log Display](https://github.com/dagu-dev/dagu/pull/600) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (today)
-- [Zh strip ansi codes from display](https://github.com/zph/dagu/pull/1) on [zph/dagu](https://github.com/zph/dagu) (1 day ago)
+- [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
+- [(bug) Remove ansi escape codes from UI Log Display](https://github.com/dagu-dev/dagu/pull/600) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code (today)
-- [JoshuaKGoldberg/TypeStat](https://github.com/JoshuaKGoldberg/TypeStat) - Converts JavaScript to TypeScript and TypeScript to better TypeScript. 🧫 (today)
-- [andmarti1424/sc-im](https://github.com/andmarti1424/sc-im) - sc-im - Spreadsheet Calculator Improvised -- An ncurses spreadsheet program for terminal (today)
+- [rustyconover/duckdb-shellfs-extension](https://github.com/rustyconover/duckdb-shellfs-extension) - DuckDB extension allowing shell commands to be used for input and output. (1 day ago)
+- [alex-shpak/hugo-book](https://github.com/alex-shpak/hugo-book) - Hugo documentation theme as simple as plain book (1 day ago)
+- [hashicorp/ghaction-terraform-provider-release](https://github.com/hashicorp/ghaction-terraform-provider-release) - Reusable GitHub Action Workflows for releasing HashiCorp, partner, and community Terraform Providers (1 day ago)
 
 #### 📫 How to reach me
 
