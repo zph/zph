@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 4 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
 - [denoland/deno](https://github.com/denoland/deno) ([v1.44.4](https://github.com/denoland/deno/releases/tag/v1.44.4), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
-- [(bug) Remove ansi escape codes from UI Log Display](https://github.com/dagu-dev/dagu/pull/600) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 day ago)
+- [Zh add shard configuration](https://github.com/zph/terraform-provider-mongodb/pull/3) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 day ago)
+- [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (today)
-- [juju/replicaset](https://github.com/juju/replicaset) - Create and manage mongodb replicasets. (today)
-- [rustyconover/duckdb-shellfs-extension](https://github.com/rustyconover/duckdb-shellfs-extension) - DuckDB extension allowing shell commands to be used for input and output. (1 day ago)
+- [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 day ago)
+- [juju/replicaset](https://github.com/juju/replicaset) - Create and manage mongodb replicasets. (1 day ago)
+- [rustyconover/duckdb-shellfs-extension](https://github.com/rustyconover/duckdb-shellfs-extension) - DuckDB extension allowing shell commands to be used for input and output. (2 days ago)
 
 #### 📫 How to reach me
 
