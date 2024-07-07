@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [kivy/kivy](https://github.com/kivy/kivy) - Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS (today)
 - [apecloud/kubeblocks](https://github.com/apecloud/kubeblocks) - KubeBlocks is an open-source control plane software that runs and manages databases, message queues and other stateful applications on K8s. (1 day ago)
 - [juju/replicaset](https://github.com/juju/replicaset) - Create and manage mongodb replicasets. (1 day ago)
-- [rustyconover/duckdb-shellfs-extension](https://github.com/rustyconover/duckdb-shellfs-extension) - DuckDB extension allowing shell commands to be used for input and output. (2 days ago)
 
 #### 📫 How to reach me
 
