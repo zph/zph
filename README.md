@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.0](https://github.com/jdx/mise/releases/tag/v2024.7.0), 5 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), today) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 1 week ago) - cache-manager stores for Deno
 - [denoland/deno](https://github.com/denoland/deno) ([v1.44.4](https://github.com/denoland/deno/releases/tag/v1.44.4), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
