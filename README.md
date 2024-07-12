@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (6 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 week ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -79,27 +79,27 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.0](https://github.com/denoland/deno/releases/tag/v1.45.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), 3 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.1](https://github.com/denoland/deno/releases/tag/v1.45.1), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), 4 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 weeks ago) - cache-manager stores for Deno
 
 #### 🔨 My recent Pull Requests
 
-- [Zh add shard configuration](https://github.com/zph/terraform-provider-mongodb/pull/3) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (5 days ago)
-- [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
-- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (6 days ago)
+- [Zh add shard configuration](https://github.com/zph/terraform-provider-mongodb/pull/3) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (6 days ago)
+- [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
+- [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 week ago)
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (today)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (1 day ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 year ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics (today)
-- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C&#43;&#43; library (today)
-- [leg100/pug](https://github.com/leg100/pug) - Drive terraform at terminal velocity. (today)
+- [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics (1 day ago)
+- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C&#43;&#43; library (1 day ago)
+- [leg100/pug](https://github.com/leg100/pug) - Drive terraform at terminal velocity. (1 day ago)
 
 #### 📫 How to reach me
 
