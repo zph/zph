@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory. (today)
+- [alisdair/tfvars-json](https://github.com/alisdair/tfvars-json) - Reads Terraform .tfvars files and outputs JSON (today)
 - [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics (1 day ago)
-- [confluentinc/librdkafka](https://github.com/confluentinc/librdkafka) - The Apache Kafka C/C&#43;&#43; library (1 day ago)
-- [leg100/pug](https://github.com/leg100/pug) - Drive terraform at terminal velocity. (1 day ago)
 
 #### 📫 How to reach me
 
