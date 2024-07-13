@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.2](https://github.com/jdx/mise/releases/tag/v2024.7.2), today) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), 5 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 weeks ago) - cache-manager stores for Deno
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (1 day ago)
-- [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory. (1 day ago)
-- [alisdair/tfvars-json](https://github.com/alisdair/tfvars-json) - Reads Terraform .tfvars files and outputs JSON (1 day ago)
+- [viltgroup/bucket-restore](https://github.com/viltgroup/bucket-restore) - Point in time restores for buckets in Amazon Web Services (AWS) S3 and Google Cloud Platform (GCP) Storage. (today)
+- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (today)
+- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (today)
 
 #### 📫 How to reach me
 
