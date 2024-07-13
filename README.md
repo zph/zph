@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -79,27 +79,27 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.1](https://github.com/denoland/deno/releases/tag/v1.45.1), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), 4 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.1](https://github.com/jdx/mise/releases/tag/v2024.7.1), 5 days ago) - dev tools, env vars, task runner
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 weeks ago) - cache-manager stores for Deno
 
 #### 🔨 My recent Pull Requests
 
-- [Zh add shard configuration](https://github.com/zph/terraform-provider-mongodb/pull/3) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (6 days ago)
+- [Zh add shard configuration](https://github.com/zph/terraform-provider-mongodb/pull/3) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 week ago)
 - [Use GitHub actions for release](https://github.com/zph/terraform-provider-mysql/pull/2) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [(bug) Fix params quoting when using quotes on value](https://github.com/dagu-dev/dagu/pull/602) on [dagu-dev/dagu](https://github.com/dagu-dev/dagu) (1 week ago)
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (1 day ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (2 days ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 year ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory. (today)
-- [alisdair/tfvars-json](https://github.com/alisdair/tfvars-json) - Reads Terraform .tfvars files and outputs JSON (today)
-- [prometheus/mysqld_exporter](https://github.com/prometheus/mysqld_exporter) - Exporter for MySQL server metrics (1 day ago)
+- [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative. (1 day ago)
+- [aws/aws-secretsmanager-agent](https://github.com/aws/aws-secretsmanager-agent) - The AWS Secrets Manager Agent is a local HTTP service that you can install and use in your compute environments to read secrets from Secrets Manager and cache them in memory. (1 day ago)
+- [alisdair/tfvars-json](https://github.com/alisdair/tfvars-json) - Reads Terraform .tfvars files and outputs JSON (1 day ago)
 
 #### 📫 How to reach me
 
