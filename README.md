@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.2](https://github.com/jdx/mise/releases/tag/v2024.7.2), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.3](https://github.com/jdx/mise/releases/tag/v2024.7.3), today) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 weeks ago) - cache-manager stores for Deno
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [viltgroup/bucket-restore](https://github.com/viltgroup/bucket-restore) - Point in time restores for buckets in Amazon Web Services (AWS) S3 and Google Cloud Platform (GCP) Storage. (1 day ago)
-- [creativeprojects/resticprofile](https://github.com/creativeprojects/resticprofile) - Configuration profiles manager and scheduler for restic backup (1 day ago)
-- [lldap/lldap](https://github.com/lldap/lldap) - Light LDAP implementation (1 day ago)
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (today)
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust (today)
+- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
 
 #### 📫 How to reach me
 
