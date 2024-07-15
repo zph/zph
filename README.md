@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.3](https://github.com/jdx/mise/releases/tag/v2024.7.3), today) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [zph/multi-cache](https://github.com/zph/multi-cache) ([v0.1.1](https://github.com/zph/multi-cache/releases/tag/v0.1.1), 2 weeks ago) - cache-manager stores for Deno
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.13.1](https://github.com/dagu-dev/dagu/releases/tag/v1.13.1), 1 day ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.3](https://github.com/jdx/mise/releases/tag/v2024.7.3), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (3 days ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (4 days ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 year ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (today)
-- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust (today)
-- [siderolabs/talos](https://github.com/siderolabs/talos) - Talos Linux is a modern Linux distribution built for Kubernetes. (today)
+- [infrahouse/infrahouse-toolkit](https://github.com/infrahouse/infrahouse-toolkit) - InfraHouse Toolkit. (1 day ago)
+- [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app. (1 day ago)
+- [bitwhip/bitwhip](https://github.com/bitwhip/bitwhip) - CLI Native WebRTC Agent in Rust (1 day ago)
 
 #### 📫 How to reach me
 
