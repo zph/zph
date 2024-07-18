@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js. (1 day ago)
-- [cu/silicon](https://github.com/cu/silicon) - Silicon Notes, a web-based personal knowledge base with few frills (2 days ago)
-- [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands (3 days ago)
+- [Wirebrass/kubernetes-the-hard-way-on-proxmox](https://github.com/Wirebrass/kubernetes-the-hard-way-on-proxmox) - Bootstrap Kubernetes the hard way on Google Cloud Platform. No scripts. (today)
+- [dy2k/proxmox-kubernetes](https://github.com/dy2k/proxmox-kubernetes) - Deploy Kubernetes on Proxmox Ubuntu LXCs and VMs (today)
+- [zellij-org/zellij](https://github.com/zellij-org/zellij) - A terminal workspace with batteries included (today)
 
 #### 📫 How to reach me
 
