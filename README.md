@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format (today)
 - [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus. (1 day ago)
 - [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and &#34;nothing&#34;-handling in TypeScript. (1 day ago)
-- [quackduck/devzat](https://github.com/quackduck/devzat) - The devs are over here at devzat, chat over SSH! (1 day ago)
 
 #### 📫 How to reach me
 
