@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kattouf/ProgressLine](https://github.com/kattouf/ProgressLine) - ⏳Track commands progress in a compact one-line format (1 day ago)
-- [justwatchcom/sql_exporter](https://github.com/justwatchcom/sql_exporter) - Flexible SQL Exporter for Prometheus. (2 days ago)
-- [true-myth/true-myth](https://github.com/true-myth/true-myth) - A library for safer and smarter error- and &#34;nothing&#34;-handling in TypeScript. (2 days ago)
+- [dhth/hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds (today)
+- [dhth/omm](https://github.com/dhth/omm) - &#34;on-my-mind&#34;: A keyboard-driven task manager for the command line (today)
+- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (today)
 
 #### 📫 How to reach me
 
