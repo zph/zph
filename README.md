@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 2 days ago) - dev tools, env vars, task runner
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.0](https://github.com/dagu-dev/dagu/releases/tag/v1.14.0), 3 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 3 days ago) - dev tools, env vars, task runner
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.0](https://github.com/dagu-dev/dagu/releases/tag/v1.14.0), 4 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
-- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (2 days ago)
-- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (2 days ago)
+- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 days ago)
+- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (3 days ago)
+- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (3 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dhth/hours](https://github.com/dhth/hours) - A no-frills time tracking toolkit for command line nerds (today)
-- [dhth/omm](https://github.com/dhth/omm) - &#34;on-my-mind&#34;: A keyboard-driven task manager for the command line (today)
-- [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts (today)
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. (1 day ago)
+- [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (1 day ago)
+- [rkoosaar/terraform-proxmox-vm](https://github.com/rkoosaar/terraform-proxmox-vm) - Terraform module for creating and managing VM Qemu resources (1 day ago)
 
 #### 📫 How to reach me
 
