@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems. (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.1](https://github.com/dagu-dev/dagu/releases/tag/v1.14.1), today) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 3 days ago) - dev tools, env vars, task runner
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.0](https://github.com/dagu-dev/dagu/releases/tag/v1.14.0), 4 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories (today)
 - [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. (1 day ago)
 - [bpg/terraform-provider-proxmox](https://github.com/bpg/terraform-provider-proxmox) - Terraform Provider for Proxmox (1 day ago)
-- [rkoosaar/terraform-proxmox-vm](https://github.com/rkoosaar/terraform-proxmox-vm) - Terraform module for creating and managing VM Qemu resources (1 day ago)
 
 #### 📫 How to reach me
 
