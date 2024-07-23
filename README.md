@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.3](https://github.com/denoland/deno/releases/tag/v1.45.3), today) - A modern runtime for JavaScript and TypeScript.
 - [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.1](https://github.com/dagu-dev/dagu/releases/tag/v1.14.1), 1 day ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 4 days ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.2](https://github.com/denoland/deno/releases/tag/v1.45.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
