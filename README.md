@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.3](https://github.com/denoland/deno/releases/tag/v1.45.3), today) - A modern runtime for JavaScript and TypeScript.
-- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.1](https://github.com/dagu-dev/dagu/releases/tag/v1.14.1), 1 day ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 4 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.3](https://github.com/denoland/deno/releases/tag/v1.45.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-dev/dagu](https://github.com/dagu-dev/dagu) ([v1.14.1](https://github.com/dagu-dev/dagu/releases/tag/v1.14.1), 2 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 5 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
-- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
-- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (4 days ago)
-- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (4 days ago)
+- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
+- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (5 days ago)
+- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator (1 day ago)
-- [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories (1 day ago)
-- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. (2 days ago)
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator (2 days ago)
+- [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories (2 days ago)
+- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. (3 days ago)
 
 #### 📫 How to reach me
 
