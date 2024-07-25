@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (today)
 - [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator (3 days ago)
-- [mrmekon/itsy-gitsy](https://github.com/mrmekon/itsy-gitsy) - A static site generator for Git repositories (3 days ago)
-- [gyptazy/ProxLB](https://github.com/gyptazy/ProxLB) - ProxLB - (Re)Balance VM Workloads Across Nodes in Proxmox Clusters. (4 days ago)
 
 #### 📫 How to reach me
 
