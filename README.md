@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (4 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.3](https://github.com/denoland/deno/releases/tag/v1.45.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 3 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 6 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.3](https://github.com/denoland/deno/releases/tag/v1.45.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 4 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 1 week ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
-- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
-- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (6 days ago)
-- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (6 days ago)
+- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
+- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (1 week ago)
+- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (today)
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (today)
-- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator (3 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (1 day ago)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (1 day ago)
+- [Netflix/maestro](https://github.com/Netflix/maestro) - Maestro: Netflix’s Workflow Orchestrator (4 days ago)
 
 #### 📫 How to reach me
 
