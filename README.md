@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
 
+- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff
 - [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems
 - [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating
-- [zph/multi-cache](https://github.com/zph/multi-cache) - cache-manager stores for Deno
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
