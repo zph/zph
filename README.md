@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (3 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [pingcap/tiup](https://github.com/pingcap/tiup) - A component manager for TiDB (6 days ago)
 
 #### 🌱 My latest projects
 
