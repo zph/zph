@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (4 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 
