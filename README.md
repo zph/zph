@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (3 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.4](https://github.com/denoland/deno/releases/tag/v1.45.4), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 6 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.4](https://github.com/denoland/deno/releases/tag/v1.45.4), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.7.4](https://github.com/jdx/mise/releases/tag/v2024.7.4), 1 week ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jupyterlab-contrib/jupyterlab-kernelspy](https://github.com/jupyterlab-contrib/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel (2 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (3 days ago)
-- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (3 days ago)
+- [jupyterlab-contrib/jupyterlab-kernelspy](https://github.com/jupyterlab-contrib/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel (3 days ago)
+- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (4 days ago)
+- [samber/do](https://github.com/samber/do) - ⚙️  A dependency injection toolkit based on Go 1.18&#43; Generics. (4 days ago)
 
 #### 📫 How to reach me
 
