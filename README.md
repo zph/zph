@@ -24,14 +24,14 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff (5 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno
 - [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff
 - [zph/capstan](https://github.com/zph/capstan) - Capstan&#39;s goal is to reduce the human labor and errors involved in safety checks when performing major changes to complex systems
-- [zph/templating](https://github.com/zph/templating) - Experiment in reducing Terraform boilerplate with deno and jinja templating
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
