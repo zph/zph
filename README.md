@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (today)
 - [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (1 day ago)
 - [fviard/svn_xternals](https://github.com/fviard/svn_xternals) - Tools to manage svn sub-components with externals or a dependency file and update externals in parallel. (1 day ago)
-- [audiotool/pasta](https://github.com/audiotool/pasta) - 🍝 copy files between repositories without pain (1 day ago)
 
 #### 📫 How to reach me
 
