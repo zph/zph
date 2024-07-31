@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.5](https://github.com/jdx/mise/releases/tag/v2024.7.5), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.4](https://github.com/denoland/deno/releases/tag/v1.45.4), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.5](https://github.com/jdx/mise/releases/tag/v2024.7.5), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.4](https://github.com/denoland/deno/releases/tag/v1.45.4), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [myzie/burrow](https://github.com/myzie/burrow) - Burrow is a globally distributed HTTP proxy via AWS Lambda (1 day ago)
-- [jupyterlab-contrib/jupyterlab-kernelspy](https://github.com/jupyterlab-contrib/jupyterlab-kernelspy) - A Jupyter Lab extension for inspecting messages to/from a kernel (4 days ago)
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18&#43; Generics (map, filter, contains, find...) (5 days ago)
+- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (1 day ago)
+- [fviard/svn_xternals](https://github.com/fviard/svn_xternals) - Tools to manage svn sub-components with externals or a dependency file and update externals in parallel. (1 day ago)
+- [audiotool/pasta](https://github.com/audiotool/pasta) - 🍝 copy files between repositories without pain (1 day ago)
 
 #### 📫 How to reach me
 
