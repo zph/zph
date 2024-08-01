@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.5](https://github.com/jdx/mise/releases/tag/v2024.7.5), 2 days ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.4](https://github.com/denoland/deno/releases/tag/v1.45.4), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.5](https://github.com/jdx/mise/releases/tag/v2024.7.5), 3 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (2 weeks ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (3 weeks ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (1 year ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (1 year ago)
 
 #### ⭐ Recent Stars
 
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (today)
-- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (1 day ago)
-- [fviard/svn_xternals](https://github.com/fviard/svn_xternals) - Tools to manage svn sub-components with externals or a dependency file and update externals in parallel. (1 day ago)
+- [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language (1 day ago)
+- [lithammer/dedent](https://github.com/lithammer/dedent) - Remove any common leading whitespace from multiline strings (1 day ago)
+- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 day ago)
 
 #### 📫 How to reach me
 
