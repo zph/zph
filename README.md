@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.1](https://github.com/jdx/mise/releases/tag/v2024.8.1), today) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.7.5](https://github.com/jdx/mise/releases/tag/v2024.7.5), 3 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [sv-tools/viper-template](https://github.com/sv-tools/viper-template) - An extension for Golang Viper library to use Go templates in viper config (today)
+- [codingconcepts/env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs (today)
 - [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language (1 day ago)
-- [lithammer/dedent](https://github.com/lithammer/dedent) - Remove any common leading whitespace from multiline strings (1 day ago)
-- [ssoready/ssoready](https://github.com/ssoready/ssoready) - Open-source dev tools for enterprise SSO. Ship SAML support this afternoon. (1 day ago)
 
 #### 📫 How to reach me
 
