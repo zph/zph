@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks (today)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog) - chglog is a changelog management library and tool (today)
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
-- [sv-tools/viper-template](https://github.com/sv-tools/viper-template) - An extension for Golang Viper library to use Go templates in viper config (1 day ago)
-- [codingconcepts/env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs (1 day ago)
 
 #### 📫 How to reach me
 
