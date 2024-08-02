@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.1](https://github.com/jdx/mise/releases/tag/v2024.8.1), today) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.3](https://github.com/jdx/mise/releases/tag/v2024.8.3), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
-- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (1 week ago)
-- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (1 week ago)
+- [Fix go mod tidy and disable doc building](https://github.com/zph/terraform-provider-mysql/pull/4) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
+- [Zh fix go mod tidy](https://github.com/petoju/terraform-provider-mysql/pull/165) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (2 weeks ago)
+- [cluster: Improve cluster restart messaging](https://github.com/pingcap/tiup/pull/2442) on [pingcap/tiup](https://github.com/pingcap/tiup) (2 weeks ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sv-tools/viper-template](https://github.com/sv-tools/viper-template) - An extension for Golang Viper library to use Go templates in viper config (today)
-- [codingconcepts/env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs (today)
-- [k0kubun/pp](https://github.com/k0kubun/pp) - Colored pretty printer for Go language (1 day ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
+- [sv-tools/viper-template](https://github.com/sv-tools/viper-template) - An extension for Golang Viper library to use Go templates in viper config (1 day ago)
+- [codingconcepts/env](https://github.com/codingconcepts/env) - Tag-based environment configuration for structs (1 day ago)
 
 #### 📫 How to reach me
 
