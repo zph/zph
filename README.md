@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.3](https://github.com/jdx/mise/releases/tag/v2024.8.3), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.1](https://github.com/daguflow/dagu/releases/tag/v1.14.1), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 1 day ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.4](https://github.com/jdx/mise/releases/tag/v2024.8.4), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.45.5](https://github.com/denoland/deno/releases/tag/v1.45.5), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks (today)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog) - chglog is a changelog management library and tool (today)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
+- [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (1 day ago)
+- [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks (1 day ago)
+- [goreleaser/chglog](https://github.com/goreleaser/chglog) - chglog is a changelog management library and tool (1 day ago)
 
 #### 📫 How to reach me
 
