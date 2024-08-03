@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (today)
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go (1 day ago)
 - [miekg/gitopper](https://github.com/miekg/gitopper) - Gitops for non-Kubernetes folks (1 day ago)
-- [goreleaser/chglog](https://github.com/goreleaser/chglog) - chglog is a changelog management library and tool (1 day ago)
 
 #### 📫 How to reach me
 
