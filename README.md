@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.0-rc4](https://github.com/zph/tome-cli/releases/tag/v0.1.0-rc4), today) - 
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 1 day ago) - dev tools, env vars, task runner
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.0.4](https://github.com/zph/tome-cli/releases/tag/v0.0.4), 1 day ago) - 
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 2 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jdrews/go-tailer](https://github.com/jdrews/go-tailer) - go-tailer is a Go library designed to help you tail files in a similar fashion to tail -f (today)
+- [cashapp/activate-hermit](https://github.com/cashapp/activate-hermit) - Github Action to activate a Hermit environment. (today)
 - [Admonstrator/glinet-tailscale-updater](https://github.com/Admonstrator/glinet-tailscale-updater) - This script updates the Tailscale installation on GL.iNet routers. (1 day ago)
-- [hyperspike/valkey-operator](https://github.com/hyperspike/valkey-operator) - A Kubernetes Operator to deploy and manage Valkey (1 day ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
 
 #### 📫 How to reach me
 
