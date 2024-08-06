@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.0-rc4](https://github.com/zph/tome-cli/releases/tag/v0.1.0-rc4), 2 days ago) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.0](https://github.com/zph/tome-cli/releases/tag/v0.1.0), today) - 
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 3 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 4 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
