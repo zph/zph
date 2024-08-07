@@ -11,20 +11,20 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 day ago)
+- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (1 day ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (3 months ago)
+- [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (1 year ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (1 year ago)
 - [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (1 year ago)
-- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (1 year ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (2 years ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (2 years ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 days ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.0](https://github.com/zph/tome-cli/releases/tag/v0.1.0), today) - 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 3 days ago) - dev tools, env vars, task runner
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 4 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.0](https://github.com/zph/tome-cli/releases/tag/v0.1.0), 1 day ago) - 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 4 days ago) - dev tools, env vars, task runner
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 5 days ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (1 day ago)
-- [jdrews/go-tailer](https://github.com/jdrews/go-tailer) - go-tailer is a Go library designed to help you tail files in a similar fashion to tail -f (2 days ago)
-- [cashapp/activate-hermit](https://github.com/cashapp/activate-hermit) - Github Action to activate a Hermit environment. (2 days ago)
+- [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (2 days ago)
+- [jdrews/go-tailer](https://github.com/jdrews/go-tailer) - go-tailer is a Go library designed to help you tail files in a similar fashion to tail -f (3 days ago)
+- [cashapp/activate-hermit](https://github.com/cashapp/activate-hermit) - Github Action to activate a Hermit environment. (3 days ago)
 
 #### 📫 How to reach me
 
