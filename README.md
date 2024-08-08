@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 week ago)
 
 #### 🌱 My latest projects
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [yardenlaif/balagan](https://github.com/yardenlaif/balagan) - Source code obfuscator for go (today)
+- [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (today)
 - [kcl-lang/kcl](https://github.com/kcl-lang/kcl) - KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io (3 days ago)
-- [jdrews/go-tailer](https://github.com/jdrews/go-tailer) - go-tailer is a Go library designed to help you tail files in a similar fashion to tail -f (4 days ago)
-- [cashapp/activate-hermit](https://github.com/cashapp/activate-hermit) - Github Action to activate a Hermit environment. (4 days ago)
 
 #### 📫 How to reach me
 
