@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.2](https://github.com/zph/tome-cli/releases/tag/v0.1.2), 1 day ago) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), today) - 
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 6 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
+- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (today)
+- [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (today)
 - [Respect SUMMARY: or USAGE:](https://github.com/zph/tome-cli/pull/5) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 days ago)
-- [Ensure tomeignore works during completions](https://github.com/zph/tome-cli/pull/4) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 days ago)
-- [Switch to using .tomeignore file](https://github.com/zph/tome-cli/pull/3) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zk-org/zk](https://github.com/zk-org/zk) - A plain text note-taking assistant (1 day ago)
-- [yardenlaif/balagan](https://github.com/yardenlaif/balagan) - Source code obfuscator for go (1 day ago)
-- [estuary/flow](https://github.com/estuary/flow) - 🌊 Continuously synchronize the systems where your data lives, to the systems where you _want_ it to live, with Estuary Flow. 🌊  (1 day ago)
+- [riverqueue/river](https://github.com/riverqueue/river) - Fast and reliable background jobs in Go (today)
+- [nebulabio/gluco](https://github.com/nebulabio/gluco) - An open source glucometer (today)
+- [DigitalBiomarkerDiscoveryPipeline/cgmquantify](https://github.com/DigitalBiomarkerDiscoveryPipeline/cgmquantify) - Functions to calculate glucose summary metrics, glucose variability metrics (as defined in clinical publications), and visualizations to visualize trends in CGM data.  (today)
 
 #### 📫 How to reach me
 
