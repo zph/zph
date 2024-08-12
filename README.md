@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.6](https://github.com/jdx/mise/releases/tag/v2024.8.6), today) - dev tools, env vars, task runner
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 3 days ago) - 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.5](https://github.com/jdx/mise/releases/tag/v2024.8.5), 1 week ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.2](https://github.com/daguflow/dagu/releases/tag/v1.14.2), 1 week ago) - Yet another cron alternative with a Web UI, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
