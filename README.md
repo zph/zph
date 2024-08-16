@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service (today)
+- [riyaz-ali/sqlean.go](https://github.com/riyaz-ali/sqlean.go) - Go bindings for sqlean (today)
 - [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (1 day ago)
-- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely (1 day ago)
-- [bytebase/gh-ost2](https://github.com/bytebase/gh-ost2) - GitHub&#39;s Online Schema-migration Tool for MySQL (2 days ago)
 
 #### 📫 How to reach me
 
