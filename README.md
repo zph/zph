@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.6](https://github.com/jdx/mise/releases/tag/v2024.8.6), 3 days ago) - dev tools, env vars, task runner
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 6 days ago) - 
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.6](https://github.com/jdx/mise/releases/tag/v2024.8.6), 4 days ago) - dev tools, env vars, task runner
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (6 days ago)
-- [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (6 days ago)
+- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
+- [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
 - [Respect SUMMARY: or USAGE:](https://github.com/zph/tome-cli/pull/5) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bytebase/gh-ost2](https://github.com/bytebase/gh-ost2) - GitHub&#39;s Online Schema-migration Tool for MySQL (1 day ago)
-- [WeeJeWel/node-google-backup](https://github.com/WeeJeWel/node-google-backup) - A Command-Line Utility to automatically backup Google Mail, Calendar &amp; Contacts to local files. (3 days ago)
-- [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability. (4 days ago)
+- [jupyterlite/jupyterlite](https://github.com/jupyterlite/jupyterlite) - Wasm powered Jupyter running in the browser 💡 (1 day ago)
+- [markqvist/NomadNet](https://github.com/markqvist/NomadNet) - Communicate Freely (1 day ago)
+- [bytebase/gh-ost2](https://github.com/bytebase/gh-ost2) - GitHub&#39;s Online Schema-migration Tool for MySQL (2 days ago)
 
 #### 📫 How to reach me
 
