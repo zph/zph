@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 weeks ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source &#43; Nix packages &#43; Docker = Image (2 days ago)
-- [supabase/wrappers](https://github.com/supabase/wrappers) - Postgres Foreign Data Wrapper development framework in Rust. (2 days ago)
-- [aenix-io/cozystack](https://github.com/aenix-io/cozystack) - Free and Open Source PaaS-platform for seamless management of virtual machines, managed Kubernetes, and Databases-as-a-Service (2 days ago)
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (today)
+- [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len. (today)
+- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (today)
 
 #### 📫 How to reach me
 
