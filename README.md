@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 weeks ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.8](https://github.com/jdx/mise/releases/tag/v2024.8.8), 1 day ago) - dev tools, env vars, task runner
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 4 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.9](https://github.com/jdx/mise/releases/tag/v2024.8.9), 1 day ago) - dev tools, env vars, task runner
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 5 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (today)
-- [elliotchance/orderedmap](https://github.com/elliotchance/orderedmap) - 🔃 An ordered map in Go with amortized O(1) for Set, Get, Delete and Len. (today)
-- [duckdb/pg_duckdb](https://github.com/duckdb/pg_duckdb) - DuckDB-powered Postgres for high performance apps &amp; analytics. (today)
+- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (1 day ago)
+- [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics (1 day ago)
+- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (1 day ago)
 
 #### 📫 How to reach me
 
