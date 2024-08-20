@@ -11,8 +11,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 week ago)
-- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (1 week ago)
+- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (2 weeks ago)
+- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (2 weeks ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (3 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
-- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 weeks ago)
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.11](https://github.com/jdx/mise/releases/tag/v2024.8.11), today) - dev tools, env vars, task runner
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 5 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.11](https://github.com/jdx/mise/releases/tag/v2024.8.11), 1 day ago) - dev tools, env vars, task runner
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (1 day ago)
-- [coroot/coroot-node-agent](https://github.com/coroot/coroot-node-agent) - A Prometheus exporter based on eBPF that gathers comprehensive container metrics (1 day ago)
-- [denoland/std](https://github.com/denoland/std) - The Deno Standard Library (1 day ago)
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (1 day ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres. (1 day ago)
+- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (2 days ago)
 
 #### 📫 How to reach me
 
