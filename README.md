@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 weeks ago)
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.11](https://github.com/jdx/mise/releases/tag/v2024.8.11), 1 day ago) - dev tools, env vars, task runner
-- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.12](https://github.com/jdx/mise/releases/tag/v2024.8.12), 1 day ago) - dev tools, env vars, task runner
+- [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
 - [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
 - [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
-- [Respect SUMMARY: or USAGE:](https://github.com/zph/tome-cli/pull/5) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
+- [Respect SUMMARY: or USAGE:](https://github.com/zph/tome-cli/pull/5) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 weeks ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (1 day ago)
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres. (1 day ago)
-- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (2 days ago)
+- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (2 days ago)
+- [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres. (2 days ago)
+- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (3 days ago)
 
 #### 📫 How to reach me
 
