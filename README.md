@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v1.46.0](https://github.com/denoland/deno/releases/tag/v1.46.0), today) - A modern runtime for JavaScript and TypeScript.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.8.12](https://github.com/jdx/mise/releases/tag/v2024.8.12), 2 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.1.3](https://github.com/zph/tome-cli/releases/tag/v0.1.3), 1 week ago) - 
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (today)
 - [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (3 days ago)
 - [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres. (3 days ago)
-- [stripe/veneur](https://github.com/stripe/veneur) - A distributed, fault-tolerant pipeline for observability data (4 days ago)
 
 #### 📫 How to reach me
 
