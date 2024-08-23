@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 weeks ago)
 
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.46.0](https://github.com/denoland/deno/releases/tag/v1.46.0), today) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.12](https://github.com/jdx/mise/releases/tag/v2024.8.12), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.46.1](https://github.com/denoland/deno/releases/tag/v1.46.1), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.12](https://github.com/jdx/mise/releases/tag/v2024.8.12), 3 days ago) - dev tools, env vars, task runner
 - [daguflow/dagu](https://github.com/daguflow/dagu) ([v1.14.3](https://github.com/daguflow/dagu/releases/tag/v1.14.3), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
-- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
-- [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
+- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 weeks ago)
+- [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 weeks ago)
 - [Respect SUMMARY: or USAGE:](https://github.com/zph/tome-cli/pull/5) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 weeks ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [AdguardTeam/AdGuardHome](https://github.com/AdguardTeam/AdGuardHome) - Network-wide ads &amp; trackers blocking DNS server (today)
-- [woutdp/live_svelte](https://github.com/woutdp/live_svelte) - Svelte inside Phoenix LiveView with seamless end-to-end reactivity (3 days ago)
-- [sequinstream/sequin](https://github.com/sequinstream/sequin) - An open source message stream built on Postgres. (3 days ago)
+- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease (1 day ago)
+- [deepfence/SecretScanner](https://github.com/deepfence/SecretScanner) - :unlock: :unlock: Find secrets and passwords in container images and file systems :unlock: :unlock: (1 day ago)
+- [youtube/doorman](https://github.com/youtube/doorman) - Doorman: Global Distributed Client Side Rate Limiting. (1 day ago)
 
 #### 📫 How to reach me
 
