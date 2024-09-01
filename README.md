@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (3 weeks ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (3 weeks ago)
-- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (3 months ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (4 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 month ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v1.46.2](https://github.com/denoland/deno/releases/tag/v1.46.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.15](https://github.com/jdx/mise/releases/tag/v2024.8.15), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.46.2](https://github.com/denoland/deno/releases/tag/v1.46.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.8.15](https://github.com/jdx/mise/releases/tag/v2024.8.15), 3 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.3](https://github.com/dagu-org/dagu/releases/tag/v1.14.3), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
