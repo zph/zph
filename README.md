@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 month ago)
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.0](https://github.com/jdx/mise/releases/tag/v2024.9.0), 4 days ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.0](https://github.com/jdx/mise/releases/tag/v2024.9.0), 5 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.3](https://github.com/dagu-org/dagu/releases/tag/v1.14.3), 3 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
-- [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
+- [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
 - [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 month ago)
 - [Speed improvements on parsing usage and help](https://github.com/zph/tome-cli/pull/10) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 month ago)
 
