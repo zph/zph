@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ergo-services/ergo](https://github.com/ergo-services/ergo) - An actor-based Framework with network transparency for creating event-driven architecture in Golang. Inspired by Erlang. Zero dependencies.  (today)
-- [hadijaveed/docker-compose-anywhere](https://github.com/hadijaveed/docker-compose-anywhere) - Effortlessly deploy Docker Compose apps in production with zero downtime using an opinionated template 🛠️ (1 day ago)
-- [will-moss/isaiah](https://github.com/will-moss/isaiah) - Self-hostable clone of lazydocker for the web. Manage your Docker fleet with ease (3 weeks ago)
+- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible mini-paas. (today)
+- [watermint/toolbox](https://github.com/watermint/toolbox) - The watermint toolbox is the multi-purpose utility command-line tool for web services including Dropbox, Figma, GitHub, etc. The purpose of the tool is to provide users of cloud services and system administrators with a way to automate workflows and provide a work-around for some issues. (today)
+- [paxdotdev/pax](https://github.com/paxdotdev/pax) - Build cross-platform GUIs with a vector design tool &#43; Rust (today)
 
 #### 📫 How to reach me
 
