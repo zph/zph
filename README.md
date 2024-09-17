@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (1 month ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.4](https://github.com/jdx/mise/releases/tag/v2024.9.4), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.4](https://github.com/dagu-org/dagu/releases/tag/v1.14.4), 5 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.4](https://github.com/jdx/mise/releases/tag/v2024.9.4), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.4](https://github.com/dagu-org/dagu/releases/tag/v1.14.4), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [satmihir/fair](https://github.com/satmihir/fair) - A Go library for serving resources fairly (2 days ago)
-- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing... (2 days ago)
-- [skateco/skate](https://github.com/skateco/skate) - Low resource, no daemon, kubernetes manifest compatible mini-paas. (2 days ago)
+- [tansu-io/tansu](https://github.com/tansu-io/tansu) - Tansu is an Apache Kafka API compatible broker written in async 🚀 Rust 🦀 (1 day ago)
+- [satmihir/fair](https://github.com/satmihir/fair) - A Go library for serving resources fairly (3 days ago)
+- [samber/slog-multi](https://github.com/samber/slog-multi) - 🚨 Design workflows of slog handlers: pipeline, middleware, fanout, routing, failover, load balancing... (3 days ago)
 
 #### 📫 How to reach me
 
