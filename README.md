@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), today) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.9.7](https://github.com/jdx/mise/releases/tag/v2024.9.7), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.4](https://github.com/dagu-org/dagu/releases/tag/v1.14.4), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
