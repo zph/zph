@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.11](https://github.com/jdx/mise/releases/tag/v2024.9.11), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 4 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.11](https://github.com/jdx/mise/releases/tag/v2024.9.11), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 5 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 3 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Tertiush/bmspace](https://github.com/Tertiush/bmspace) - Pace Battery Management System (1 day ago)
-- [celsworth/lxp-bridge](https://github.com/celsworth/lxp-bridge) - A bridge to MQTT/InfluxDB/Postgres for communications with LuxPower inverters (1 day ago)
-- [Sleeper85/esphome-jk-bms-can](https://github.com/Sleeper85/esphome-jk-bms-can) -  (2 days ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (1 day ago)
+- [Autossh/autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels (1 day ago)
+- [Tertiush/bmspace](https://github.com/Tertiush/bmspace) - Pace Battery Management System (2 days ago)
 
 #### 📫 How to reach me
 
