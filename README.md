@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 month ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (1 month ago)
-- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (4 months ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (5 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.13](https://github.com/jdx/mise/releases/tag/v2024.9.13), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.9.13](https://github.com/jdx/mise/releases/tag/v2024.9.13), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 3 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (2 days ago)
-- [Autossh/autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels (2 days ago)
-- [Tertiush/bmspace](https://github.com/Tertiush/bmspace) - Pace Battery Management System (3 days ago)
+- [syssi/esphome-pace-bms](https://github.com/syssi/esphome-pace-bms) - ESPHome component to monitor and control a PACE Battery Management System (PACE-BMS) via RS485 (Modbus) (1 day ago)
+- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (3 days ago)
+- [Autossh/autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels (3 days ago)
 
 #### 📫 How to reach me
 
