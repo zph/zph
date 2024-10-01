@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [syssi/esphome-pace-bms](https://github.com/syssi/esphome-pace-bms) - ESPHome component to monitor and control a PACE Battery Management System (PACE-BMS) via RS485 (Modbus) (1 day ago)
-- [maddalax/htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go &#43; htmx (3 days ago)
-- [Autossh/autossh](https://github.com/Autossh/autossh) - Automatically restart SSH sessions and tunnels (3 days ago)
+- [orhun/binsider](https://github.com/orhun/binsider) - Analyze ELF binaries like a boss 😼🕵️‍♂️ (today)
+- [bndr/pipreqs](https://github.com/bndr/pipreqs) - pipreqs - Generate pip requirements.txt file based on imports of any project. Looking for maintainers to move this project forward. (today)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (today)
 
 #### 📫 How to reach me
 
