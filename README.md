@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 months ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
 #### 🌱 My latest projects
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.0](https://github.com/jdx/mise/releases/tag/v2024.10.0), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.0](https://github.com/jdx/mise/releases/tag/v2024.10.0), 4 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 1 month ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (3 days ago)
-- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (3 days ago)
-- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning (4 days ago)
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (4 days ago)
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (4 days ago)
+- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning (5 days ago)
 
 #### 📫 How to reach me
 
