@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (today)
 - [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (4 days ago)
 - [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (4 days ago)
-- [feast-dev/feast](https://github.com/feast-dev/feast) - The Open Source Feature Store for Machine Learning (5 days ago)
 
 #### 📫 How to reach me
 
