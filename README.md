@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 months ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tarndt/shardedsingleflight](https://github.com/tarndt/shardedsingleflight) - A sharded wrapper for golang.org/x/sync/singleflight for high contention enviroments (today)
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (today)
 - [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool (1 day ago)
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (1 day ago)
-- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (5 days ago)
 
 #### 📫 How to reach me
 
