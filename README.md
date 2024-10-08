@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.0](https://github.com/jdx/mise/releases/tag/v2024.10.0), 4 days ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 1 month ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
 - [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 - [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
-- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 month ago)
+- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (today)
-- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (4 days ago)
-- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere. (4 days ago)
+- [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool (1 day ago)
+- [neilotoole/sq](https://github.com/neilotoole/sq) - sq data wrangler (1 day ago)
+- [alibaba/tengine](https://github.com/alibaba/tengine) - A distribution of Nginx with some advanced features (5 days ago)
 
 #### 📫 How to reach me
 
