@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 months ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.0](https://github.com/denoland/deno/releases/tag/v2.0.0), today) - A modern runtime for JavaScript and TypeScript.
 - [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 2 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 1 month ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
