@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 months ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 2 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v1.46.3](https://github.com/denoland/deno/releases/tag/v1.46.3), 1 month ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (2 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (3 months ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [tarndt/shardedsingleflight](https://github.com/tarndt/shardedsingleflight) - A sharded wrapper for golang.org/x/sync/singleflight for high contention enviroments (today)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (today)
-- [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool (1 day ago)
+- [tarndt/shardedsingleflight](https://github.com/tarndt/shardedsingleflight) - A sharded wrapper for golang.org/x/sync/singleflight for high contention enviroments (1 day ago)
+- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 day ago)
+- [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool (2 days ago)
 
 #### 📫 How to reach me
 
