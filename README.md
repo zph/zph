@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 months ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.0](https://github.com/denoland/deno/releases/tag/v2.0.0), today) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.0](https://github.com/denoland/deno/releases/tag/v2.0.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.1](https://github.com/jdx/mise/releases/tag/v2024.10.1), 3 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
+- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
 - [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tarndt/shardedsingleflight](https://github.com/tarndt/shardedsingleflight) - A sharded wrapper for golang.org/x/sync/singleflight for high contention enviroments (1 day ago)
-- [imfing/hextra](https://github.com/imfing/hextra) - 🔯 Modern, batteries-included Hugo theme for creating beautiful doc, blog and static websites (1 day ago)
-- [slok/agebox](https://github.com/slok/agebox) - Age based repository file encryption gitops tool (2 days ago)
+- [kristoff-it/ziggy](https://github.com/kristoff-it/ziggy) - A data serialization language for expressing clear API messages, config files, etc. (1 day ago)
+- [alebeck/boring](https://github.com/alebeck/boring) - The `boring`  SSH tunnel manager (1 day ago)
+- [tarndt/shardedsingleflight](https://github.com/tarndt/shardedsingleflight) - A sharded wrapper for golang.org/x/sync/singleflight for high contention enviroments (2 days ago)
 
 #### 📫 How to reach me
 
