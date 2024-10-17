@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (5 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (6 days ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
 #### 🌱 My latest projects
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.7](https://github.com/jdx/mise/releases/tag/v2024.10.7), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.7](https://github.com/jdx/mise/releases/tag/v2024.10.7), 3 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.0.0](https://github.com/denoland/deno/releases/tag/v2.0.0), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 3 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
+- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
 - [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client &#43; documentation for the Colmi R02 smart ring (2 days ago)
-- [Puxtril/colmi-docs](https://github.com/Puxtril/colmi-docs) - Documentation for Colmi smart devices (2 days ago)
-- [hbldh/bleak](https://github.com/hbldh/bleak) - A cross platform Bluetooth Low Energy Client for Python using asyncio (2 days ago)
+- [TobikoData/sqlmesh](https://github.com/TobikoData/sqlmesh) - Efficient data transformation and modeling framework that is backwards compatible with dbt. (1 day ago)
+- [tahnok/colmi_r02_client](https://github.com/tahnok/colmi_r02_client) - A python client &#43; documentation for the Colmi R02 smart ring (3 days ago)
+- [Puxtril/colmi-docs](https://github.com/Puxtril/colmi-docs) - Documentation for Colmi smart devices (3 days ago)
 
 #### 📫 How to reach me
 
