@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [RamboRogers/rfhunter](https://github.com/RamboRogers/rfhunter) - RFHunter is a device to find hidden Cameras at AirBNBs (today)
 - [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) -  An Open-source LTE Downlink/Uplink Eavesdropper (1 day ago)
 - [infrahouse/terraform-aws-secret](https://github.com/infrahouse/terraform-aws-secret) - Terraform module for a secret with owner/writer/reader roles. (1 day ago)
-- [srlabs/blue-merle](https://github.com/srlabs/blue-merle) - The blue-merle package enhances anonymity and reduces forensic traceability of the GL-E750 Mudi 4G mobile wi-fi router (2 days ago)
 
 #### 📫 How to reach me
 
