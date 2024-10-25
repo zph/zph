@@ -11,6 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 day ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (2 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (2 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (5 months ago)
@@ -19,11 +20,10 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (2 years ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (2 years ago)
-- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (2 months ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.9](https://github.com/jdx/mise/releases/tag/v2024.10.9), today) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.2](https://github.com/denoland/deno/releases/tag/v2.0.2), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.9](https://github.com/jdx/mise/releases/tag/v2024.10.9), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.2](https://github.com/denoland/deno/releases/tag/v2.0.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.5](https://github.com/dagu-org/dagu/releases/tag/v1.14.5), 1 month ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [srlabs/blue-merle](https://github.com/srlabs/blue-merle) - The blue-merle package enhances anonymity and reduces forensic traceability of the GL-E750 Mudi 4G mobile wi-fi router (1 day ago)
-- [oddforms-design/Dongled](https://github.com/oddforms-design/Dongled) - Source code of the Dongled iPadOS App for UVC streaming (1 day ago)
-- [facebookincubator/velox](https://github.com/facebookincubator/velox) - A C&#43;&#43; vectorized database acceleration library aimed to optimizing query engines and data processing systems. (2 days ago)
+- [SysSec-KAIST/LTESniffer](https://github.com/SysSec-KAIST/LTESniffer) -  An Open-source LTE Downlink/Uplink Eavesdropper (1 day ago)
+- [infrahouse/terraform-aws-secret](https://github.com/infrahouse/terraform-aws-secret) - Terraform module for a secret with owner/writer/reader roles. (1 day ago)
+- [srlabs/blue-merle](https://github.com/srlabs/blue-merle) - The blue-merle package enhances anonymity and reduces forensic traceability of the GL-E750 Mudi 4G mobile wi-fi router (2 days ago)
 
 #### 📫 How to reach me
 
