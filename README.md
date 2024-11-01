@@ -17,15 +17,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (6 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (1 year ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 - [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (2 years ago)
 - [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
-- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), today) - A component manager for TiDB
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.13](https://github.com/jdx/mise/releases/tag/v2024.10.13), 3 days ago) - dev tools, env vars, task runner
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 1 day ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.13](https://github.com/jdx/mise/releases/tag/v2024.10.13), 4 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (1 day ago)
-- [guycipher/k4](https://github.com/guycipher/k4) - High-performance open-source, durable, transactional embedded storage engine designed for low-latency, and optimized read and write efficiency. (1 day ago)
-- [drizzle-team/waddler](https://github.com/drizzle-team/waddler) - Modern SQL client for DuckDB (2 days ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (1 day ago)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (2 days ago)
+- [guycipher/k4](https://github.com/guycipher/k4) - High-performance open-source, durable, transactional embedded storage engine designed for low-latency, and optimized read and write efficiency. (2 days ago)
 
 #### 📫 How to reach me
 
