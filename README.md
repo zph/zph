@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.0](https://github.com/jdx/mise/releases/tag/v2024.11.0), today) - dev tools, env vars, task runner
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 1 day ago) - A component manager for TiDB
 - [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.10.13](https://github.com/jdx/mise/releases/tag/v2024.10.13), 4 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
