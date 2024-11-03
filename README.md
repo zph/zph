@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.0](https://github.com/jdx/mise/releases/tag/v2024.11.0), 1 day ago) - dev tools, env vars, task runner
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 2 days ago) - A component manager for TiDB
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.0](https://github.com/jdx/mise/releases/tag/v2024.11.0), 2 days ago) - dev tools, env vars, task runner
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 3 days ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (2 days ago)
-- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (3 days ago)
-- [guycipher/k4](https://github.com/guycipher/k4) - High-performance open-source, durable, transactional embedded storage engine designed for low-latency, and optimized read and write efficiency. (3 days ago)
+- [dhaus67/openfeature-posthog-go](https://github.com/dhaus67/openfeature-posthog-go) - OpenFeature provider for PostHog (1 day ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (3 days ago)
+- [andrearaponi/dito](https://github.com/andrearaponi/dito) - an advanced reverse proxy server written in Go  (4 days ago)
 
 #### 📫 How to reach me
 
