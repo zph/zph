@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (5 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.0](https://github.com/jdx/mise/releases/tag/v2024.11.0), 3 days ago) - dev tools, env vars, task runner
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 4 days ago) - A component manager for TiDB
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.0](https://github.com/jdx/mise/releases/tag/v2024.11.0), 4 days ago) - dev tools, env vars, task runner
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 5 days ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ulrischa/mail2github](https://github.com/ulrischa/mail2github) - Send E-Mail and create files in Github with E-Mail content (1 day ago)
-- [kvc0/rmemstore](https://github.com/kvc0/rmemstore) - Fast, type-aware data structure cache (1 day ago)
-- [kvc0/protosocket](https://github.com/kvc0/protosocket) -  (1 day ago)
+- [ulrischa/mail2github](https://github.com/ulrischa/mail2github) - Send E-Mail and create files in Github with E-Mail content. Perfect for saving your ChatGPT or other AI results to GitHub  (2 days ago)
+- [kvc0/rmemstore](https://github.com/kvc0/rmemstore) - Fast, type-aware data structure cache (2 days ago)
+- [kvc0/protosocket](https://github.com/kvc0/protosocket) -  (2 days ago)
 
 #### 📫 How to reach me
 
