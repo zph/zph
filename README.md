@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.1](https://github.com/jdx/mise/releases/tag/v2024.11.1), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.2](https://github.com/jdx/mise/releases/tag/v2024.11.2), today) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.5](https://github.com/denoland/deno/releases/tag/v2.0.5), today) - A modern runtime for JavaScript and TypeScript.
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 6 days ago) - A component manager for TiDB
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.4](https://github.com/denoland/deno/releases/tag/v2.0.4), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces (today)
 - [ulrischa/mail2github](https://github.com/ulrischa/mail2github) - Send E-Mail and create files in Github with E-Mail content. Perfect for saving your ChatGPT or other AI results to GitHub  (3 days ago)
 - [kvc0/rmemstore](https://github.com/kvc0/rmemstore) - Fast, type-aware data structure cache (3 days ago)
-- [kvc0/protosocket](https://github.com/kvc0/protosocket) -  (3 days ago)
 
 #### 📫 How to reach me
 
