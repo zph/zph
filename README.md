@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 week ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 weeks ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (3 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (3 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (6 months ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (6 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 week ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.2](https://github.com/jdx/mise/releases/tag/v2024.11.2), today) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.5](https://github.com/denoland/deno/releases/tag/v2.0.5), today) - A modern runtime for JavaScript and TypeScript.
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.1](https://github.com/pingcap/tiup/releases/tag/v1.16.1), 6 days ago) - A component manager for TiDB
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.4](https://github.com/jdx/mise/releases/tag/v2024.11.4), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.6](https://github.com/dagu-org/dagu/releases/tag/v1.14.6), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.5](https://github.com/denoland/deno/releases/tag/v2.0.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
 - [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
-- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 months ago)
+- [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (3 months ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces (today)
-- [ulrischa/mail2github](https://github.com/ulrischa/mail2github) - Send E-Mail and create files in Github with E-Mail content. Perfect for saving your ChatGPT or other AI results to GitHub  (3 days ago)
-- [kvc0/rmemstore](https://github.com/kvc0/rmemstore) - Fast, type-aware data structure cache (3 days ago)
+- [Mati365/hetzner-podman-bunjs-deploy](https://github.com/Mati365/hetzner-podman-bunjs-deploy) - Example of standalone application deployment to Hetzner Cloud using Rootless Podman quadlet systemd services and Ansible as IaC (1 day ago)
+- [sveinbjornt/hear](https://github.com/sveinbjornt/hear) - Command line speech recognition and transcription for macOS (1 day ago)
+- [jamesmcm/vopono](https://github.com/jamesmcm/vopono) - Run applications through VPN tunnels with temporary network namespaces (1 day ago)
 
 #### 📫 How to reach me
 
