@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), today) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.5](https://github.com/jdx/mise/releases/tag/v2024.11.5), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.7](https://github.com/dagu-org/dagu/releases/tag/v1.14.7), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.6](https://github.com/jdx/mise/releases/tag/v2024.11.6), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.7](https://github.com/dagu-org/dagu/releases/tag/v1.14.7), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hundredwatt/tuki](https://github.com/hundredwatt/tuki) - Safely Run Commands in Productions (today)
-- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (today)
-- [CISOfy/lynis](https://github.com/CISOfy/lynis) - Lynis - Security auditing tool for Linux, macOS, and UNIX-based systems. Assists with compliance testing (HIPAA/ISO27001/PCI DSS) and system hardening. Agentless, and installation optional. (1 day ago)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (1 day ago)
+- [hundredwatt/tuki](https://github.com/hundredwatt/tuki) - Safely Run Commands in Productions (1 day ago)
+- [ironcalc/IronCalc](https://github.com/ironcalc/IronCalc) - Main engine of the IronCalc ecosystem (1 day ago)
 
 #### 📫 How to reach me
 
