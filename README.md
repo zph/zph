@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.9](https://github.com/jdx/mise/releases/tag/v2024.11.9), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.12](https://github.com/jdx/mise/releases/tag/v2024.11.12), today) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [mr-smith-org/mr](https://github.com/mr-smith-org/mr) - Framework for creating scaffolds for any existing programming language with a customizable TUI. (today)
 - [olivierloverde/gmail-agent](https://github.com/olivierloverde/gmail-agent) - AI-based Telegram agent with memory that will help you reach inbox 0 in no time.  (2 days ago)
 - [spite-driven-development/Truck-Factor](https://github.com/spite-driven-development/Truck-Factor) - A tool that estimates the Truck Factor of GitHub projects (2 days ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 📫 How to reach me
 
