@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 weeks ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (3 weeks ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (3 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (3 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (6 months ago)
@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 week ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (2 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.9](https://github.com/jdx/mise/releases/tag/v2024.11.9), today) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.9](https://github.com/jdx/mise/releases/tag/v2024.11.9), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [olivierloverde/gmail-agent](https://github.com/olivierloverde/gmail-agent) - AI-based Telegram agent with memory that will help you reach inbox 0 in no time.  (1 day ago)
-- [spite-driven-development/Truck-Factor](https://github.com/spite-driven-development/Truck-Factor) - A tool that estimates the Truck Factor of GitHub projects (1 day ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (3 days ago)
+- [olivierloverde/gmail-agent](https://github.com/olivierloverde/gmail-agent) - AI-based Telegram agent with memory that will help you reach inbox 0 in no time.  (2 days ago)
+- [spite-driven-development/Truck-Factor](https://github.com/spite-driven-development/Truck-Factor) - A tool that estimates the Truck Factor of GitHub projects (2 days ago)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
 
 #### 📫 How to reach me
 
