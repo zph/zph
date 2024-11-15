@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [redking00/vscode-nbts](https://github.com/redking00/vscode-nbts) - DenoNBTS is a fork of the original VSCode Deno extension from denoland and adds support for deno lsp on notebooks. It also defines a new type of notebook (*.nb.ts) and provides a kernel to run them without Python. (today)
+- [dockur/macos](https://github.com/dockur/macos) - OSX (macOS) inside a Docker container. (today)
 - [voxoco/nqlite](https://github.com/voxoco/nqlite) - Easy, lightweight, relational database using SQLite and NATS JetStream (1 day ago)
-- [mr-smith-org/mr](https://github.com/mr-smith-org/mr) - Framework for creating scaffolds for any existing programming language with a customizable TUI. (1 day ago)
-- [olivierloverde/gmail-agent](https://github.com/olivierloverde/gmail-agent) - AI-based Telegram agent with memory that will help you reach inbox 0 in no time.  (3 days ago)
 
 #### 📫 How to reach me
 
