@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.15](https://github.com/jdx/mise/releases/tag/v2024.11.15), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 5 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.15](https://github.com/jdx/mise/releases/tag/v2024.11.15), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
+- [Update README.md](https://github.com/zph/terraform-provider-mysql/pull/9) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 - [Zh r3.0.62 temp](https://github.com/zph/terraform-provider-mysql/pull/8) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 - [Zero args to the wrapper means call help](https://github.com/zph/tome-cli/pull/11) on [zph/tome-cli](https://github.com/zph/tome-cli) (3 months ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (2 days ago)
-- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (2 days ago)
-- [alibaba/MongoShake](https://github.com/alibaba/MongoShake) - MongoShake is a universal data replication platform based on MongoDB&#39;s oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能。 (2 days ago)
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (3 days ago)
+- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (3 days ago)
+- [alibaba/MongoShake](https://github.com/alibaba/MongoShake) - MongoShake is a universal data replication platform based on MongoDB&#39;s oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能。 (3 days ago)
 
 #### 📫 How to reach me
 
