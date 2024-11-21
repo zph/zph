@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (3 weeks ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (4 weeks ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (3 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (3 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (6 months ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (2 weeks ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (3 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.18](https://github.com/jdx/mise/releases/tag/v2024.11.18), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.19](https://github.com/jdx/mise/releases/tag/v2024.11.19), 1 day ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.0.6](https://github.com/denoland/deno/releases/tag/v2.0.6), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (5 days ago)
-- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (5 days ago)
-- [alibaba/MongoShake](https://github.com/alibaba/MongoShake) - MongoShake is a universal data replication platform based on MongoDB&#39;s oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能。 (5 days ago)
+- [hashicorp/golang-lru](https://github.com/hashicorp/golang-lru) - Golang LRU cache (6 days ago)
+- [apache/incubator-xtable](https://github.com/apache/incubator-xtable) - Apache XTable (incubating) is a cross-table converter for lakehouse table formats that facilitates interoperability across data processing systems and query engines. (6 days ago)
+- [alibaba/MongoShake](https://github.com/alibaba/MongoShake) - MongoShake is a universal data replication platform based on MongoDB&#39;s oplog. Redundant replication and active-active replication are two most important functions. 基于mongodb oplog的集群复制工具，可以满足迁移和同步的需求，进一步实现灾备和多活功能。 (6 days ago)
 
 #### 📫 How to reach me
 
