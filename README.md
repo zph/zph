@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (3 weeks ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 weeks ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 
 #### 🌱 My latest projects
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.26](https://github.com/jdx/mise/releases/tag/v2024.11.26), today) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.27](https://github.com/jdx/mise/releases/tag/v2024.11.27), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (2 days ago)
-- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (2 days ago)
-- [hauntsaninja/nginx_pypi_cache](https://github.com/hauntsaninja/nginx_pypi_cache) - A PyPI cache using nginx (2 days ago)
+- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (3 days ago)
+- [apache/datafusion](https://github.com/apache/datafusion) - Apache DataFusion SQL Query Engine (3 days ago)
+- [hauntsaninja/nginx_pypi_cache](https://github.com/hauntsaninja/nginx_pypi_cache) - A PyPI cache using nginx (3 days ago)
 
 #### 📫 How to reach me
 
