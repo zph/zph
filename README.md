@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source. (1 day ago)
-- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (1 day ago)
-- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a Modern MySQL proxy that supports read-write-split, read-after-write-consistency, load balancing and OnlineDDL. (1 day ago)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (today)
+- [elastic/go-freelru](https://github.com/elastic/go-freelru) -  (today)
+- [janderland/fql](https://github.com/janderland/fql) - Foundation DB Query Language (today)
 
 #### 📫 How to reach me
 
