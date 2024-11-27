@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.29](https://github.com/jdx/mise/releases/tag/v2024.11.29), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.30](https://github.com/jdx/mise/releases/tag/v2024.11.30), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go (today)
-- [spr-networks/super](https://github.com/spr-networks/super) - 📡 SPR: Open Source, secure, user friendly and fast wifi routers for your home. One wifi password per device. Ad Blocking &amp; Privacy Blocklists. Policy Based Network Access (2 days ago)
-- [apache/doris](https://github.com/apache/doris) - Apache Doris is an easy-to-use, high performance and unified analytics database. (5 days ago)
+- [captn3m0/jekyll-sqlite](https://github.com/captn3m0/jekyll-sqlite) - A Jekyll plugin to use SQLite databases as a data source. (1 day ago)
+- [apecloud/myduckserver](https://github.com/apecloud/myduckserver) - MySQL &amp; Postgres Analytics, Reimagined (1 day ago)
+- [wesql/wescale](https://github.com/wesql/wescale) - WeScale is a Modern MySQL proxy that supports read-write-split, read-after-write-consistency, load balancing and OnlineDDL. (1 day ago)
 
 #### 📫 How to reach me
 
