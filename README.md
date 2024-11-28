@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (3 weeks ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (4 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 
@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.30](https://github.com/jdx/mise/releases/tag/v2024.11.30), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.11.32](https://github.com/jdx/mise/releases/tag/v2024.11.32), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.1](https://github.com/denoland/deno/releases/tag/v2.1.1), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.14.8](https://github.com/dagu-org/dagu/releases/tag/v1.14.8), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (today)
-- [elastic/go-freelru](https://github.com/elastic/go-freelru) -  (today)
-- [janderland/fql](https://github.com/janderland/fql) - Foundation DB Query Language (today)
+- [get-glu/glu](https://github.com/get-glu/glu) - A deployment pipeline framework that sticks (1 day ago)
+- [elastic/go-freelru](https://github.com/elastic/go-freelru) -  (1 day ago)
+- [janderland/fql](https://github.com/janderland/fql) - Foundation DB Query Language (1 day ago)
 
 #### 📫 How to reach me
 
