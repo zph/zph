@@ -23,15 +23,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (today)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (today)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 month ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 
 #### 🌱 My latest projects
 
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) - 
 - [zph/tome-cli](https://github.com/zph/tome-cli) - 
 - [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno
-- [zph/data-diff](https://github.com/zph/data-diff) - Fork of datafold/data-diff
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [AutoMQ/automq](https://github.com/AutoMQ/automq) - AutoMQ is a cloud-first alternative to Kafka by decoupling durability to S3 and EBS. 10x Cost-Effective. No Cross-AZ Traffic Cost. Autoscale in seconds. Single-digit ms latency. (3 days ago)
-- [terrateamio/terrateam](https://github.com/terrateamio/terrateam) - Terrateam is an open-source GitOps CI/CD platform for automating infrastructure workflows. It integrates with GitHub to orchestrate Terraform, OpenTofu, CDKTF, and Terragrunt operations via pull requests. (1 week ago)
-- [warolv/github-actions-series](https://github.com/warolv/github-actions-series) - Github Actions Tutorials with examples (1 week ago)
+- [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow (today)
+- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (today)
+- [facebook/dotslash-publish-release](https://github.com/facebook/dotslash-publish-release) - Create DotSlash files for GitHub releases (today)
 
 #### 📫 How to reach me
 
