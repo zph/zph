@@ -11,7 +11,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (5 days ago)
+- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (6 days ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 week ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 month ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (4 months ago)
@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (today)
-- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (today)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (1 day ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 month ago)
 
 #### 🌱 My latest projects
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.1](https://github.com/jdx/mise/releases/tag/v2024.12.1), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.0](https://github.com/dagu-org/dagu/releases/tag/v1.15.0), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.3](https://github.com/denoland/deno/releases/tag/v2.1.3), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.2](https://github.com/jdx/mise/releases/tag/v2024.12.2), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.0](https://github.com/dagu-org/dagu/releases/tag/v1.15.0), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.3](https://github.com/denoland/deno/releases/tag/v2.1.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -91,15 +91,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (4 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (5 months ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow (today)
-- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (today)
-- [facebook/dotslash-publish-release](https://github.com/facebook/dotslash-publish-release) - Create DotSlash files for GitHub releases (today)
+- [RaphGL/Tuckr](https://github.com/RaphGL/Tuckr) - Super powered replacement for GNU Stow (1 day ago)
+- [ingydotnet/git-subrepo](https://github.com/ingydotnet/git-subrepo) -  (1 day ago)
+- [facebook/dotslash-publish-release](https://github.com/facebook/dotslash-publish-release) - Create DotSlash files for GitHub releases (1 day ago)
 
 #### 📫 How to reach me
 
