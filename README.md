@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (2 days ago)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.3](https://github.com/jdx/mise/releases/tag/v2024.12.3), 1 day ago) - dev tools, env vars, task runner
-- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 1 day ago) - Nim toy program to dedupe and absolute path the PATH env var
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.0](https://github.com/dagu-org/dagu/releases/tag/v1.15.0), 3 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.4](https://github.com/jdx/mise/releases/tag/v2024.12.4), 1 day ago) - dev tools, env vars, task runner
+- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 2 days ago) - Nim toy program to dedupe and absolute path the PATH env var
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.0](https://github.com/dagu-org/dagu/releases/tag/v1.15.0), 4 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (1 day ago)
-- [dmarkham/enumer](https://github.com/dmarkham/enumer) - A Go tool to auto generate methods for your enums (1 day ago)
-- [chenrui333/envtpl](https://github.com/chenrui333/envtpl) - Render Go templates on the command line with shell environment variables (1 day ago)
+- [FritsHoogland/procstat](https://github.com/FritsHoogland/procstat) -  (1 day ago)
+- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (2 days ago)
+- [dmarkham/enumer](https://github.com/dmarkham/enumer) - A Go tool to auto generate methods for your enums (2 days ago)
 
 #### 📫 How to reach me
 
