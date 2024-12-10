@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (3 days ago)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (3 days ago)
 
 #### 🌱 My latest projects
 
