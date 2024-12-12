@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [FritsHoogland/procstat](https://github.com/FritsHoogland/procstat) -  (3 days ago)
-- [alecthomas/participle](https://github.com/alecthomas/participle) - A parser library for Go (4 days ago)
-- [dmarkham/enumer](https://github.com/dmarkham/enumer) - A Go tool to auto generate methods for your enums (4 days ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (today)
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (today)
+- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
 
 #### 📫 How to reach me
 
