@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (5 days ago)
-- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (6 days ago)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.6](https://github.com/jdx/mise/releases/tag/v2024.12.6), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 2 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.8](https://github.com/jdx/mise/releases/tag/v2024.12.8), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 3 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (today)
-- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (today)
-- [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go (today)
+- [scynthiadunlop/WritingForDevelopersBook](https://github.com/scynthiadunlop/WritingForDevelopersBook) - About the book &#34;Writing for Developers: Blogs That Get Read,&#34; which is all about writing more compelling engineering blog posts. Available on Amazon as well as Manning.  By Piotr Sarna &amp; Cynthia Dunlop. (1 day ago)
+- [Zxilly/go-size-analyzer](https://github.com/Zxilly/go-size-analyzer) - A tool for analyzing the size of compiled Go binaries, offering cross-platform support, detailed breakdowns, and multiple output formats. (1 day ago)
+- [tursodatabase/limbo](https://github.com/tursodatabase/limbo) - Limbo is a work-in-progress, in-process OLTP database management system, compatible with SQLite. (1 day ago)
 
 #### 📫 How to reach me
 
