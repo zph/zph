@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [simplyblock-io/ebs-volume-usage-exporter](https://github.com/simplyblock-io/ebs-volume-usage-exporter) - Automatically Analyze Your EKS Storage Usage (today)
 - [launix-de/memcp](https://github.com/launix-de/memcp) -  (1 day ago)
 - [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices (1 day ago)
-- [bee-san/pyWhat](https://github.com/bee-san/pyWhat) - 🐸   Identify anything. pyWhat easily lets you identify emails, IP addresses, and more. Feed it a .pcap file or some text and it&#39;ll tell you what it is! 🧙‍♀️ (3 days ago)
 
 #### 📫 How to reach me
 
