@@ -18,12 +18,12 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (4 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (7 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (1 year ago)
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 year ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (2 weeks ago)
 - [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (2 weeks ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.16](https://github.com/jdx/mise/releases/tag/v2024.12.16), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.17](https://github.com/jdx/mise/releases/tag/v2024.12.17), 1 day ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [simplyblock-io/ebs-volume-usage-exporter](https://github.com/simplyblock-io/ebs-volume-usage-exporter) - Automatically Analyze Your EKS Storage Usage (today)
-- [launix-de/memcp](https://github.com/launix-de/memcp) -  (1 day ago)
-- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices (1 day ago)
+- [simplyblock-io/ebs-volume-usage-exporter](https://github.com/simplyblock-io/ebs-volume-usage-exporter) - Automatically Analyze Your EKS Storage Usage (1 day ago)
+- [launix-de/memcp](https://github.com/launix-de/memcp) -  (2 days ago)
+- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices (2 days ago)
 
 #### 📫 How to reach me
 
