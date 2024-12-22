@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [simplyblock-io/ebs-volume-usage-exporter](https://github.com/simplyblock-io/ebs-volume-usage-exporter) - Automatically Analyze Your EKS Storage Usage (1 day ago)
-- [launix-de/memcp](https://github.com/launix-de/memcp) -  (2 days ago)
-- [pwr-Solaar/Solaar](https://github.com/pwr-Solaar/Solaar) - Linux device manager for Logitech devices (2 days ago)
+- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - command argument completion generator for spf13/cobra (today)
+- [ept/hermitage](https://github.com/ept/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (today)
+- [marcbrooker/hermitage](https://github.com/marcbrooker/hermitage) - What are the differences between the transaction isolation levels in databases? This is a suite of test cases which differentiate isolation levels. (today)
 
 #### 📫 How to reach me
 
