@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tursodatabase/libsql-js](https://github.com/tursodatabase/libsql-js) - A better-sqlite3 compatible API for libSQL that supports Bun, Deno, and Node (today)
 - [bruth/rita](https://github.com/bruth/rita) - Toolkit for event-centric and reactive patterns leveraging https://nats.io. (1 day ago)
 - [rivet-gg/rivet](https://github.com/rivet-gg/rivet) - 🔩 Run and scale realtime applications with Rivet Actors. (1 day ago)
-- [carapace-sh/carapace](https://github.com/carapace-sh/carapace) - A multi-shell completion library. (2 days ago)
 
 #### 📫 How to reach me
 
