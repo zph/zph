@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (3 weeks ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (3 weeks ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (4 weeks ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (4 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (4 months ago)
@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (2 weeks ago)
-- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (2 weeks ago)
+- [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (3 weeks ago)
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.20](https://github.com/jdx/mise/releases/tag/v2024.12.20), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.21](https://github.com/jdx/mise/releases/tag/v2024.12.21), 1 day ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 2 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (today)
-- [go-zookeeper/zk](https://github.com/go-zookeeper/zk) - Native ZooKeeper client for Go (today)
-- [denizalti/openreplica](https://github.com/denizalti/openreplica) - Coordination Service for Distributed Systems (today)
+- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (1 day ago)
+- [go-zookeeper/zk](https://github.com/go-zookeeper/zk) - Native ZooKeeper client for Go (1 day ago)
+- [denizalti/openreplica](https://github.com/denizalti/openreplica) - Coordination Service for Distributed Systems (1 day ago)
 
 #### 📫 How to reach me
 
