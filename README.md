@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [MTKruto/MTKruto](https://github.com/MTKruto/MTKruto) - Cross-runtime JavaScript library for building Telegram clients (today)
-- [featbit/featbit](https://github.com/featbit/featbit) - Enterprise-level feature flag platform that you can self-host. Get started - free. (1 day ago)
-- [eBay/NuRaft](https://github.com/eBay/NuRaft) - C&#43;&#43; implementation of Raft core logic as a replication library (2 days ago)
+- [cloudevents/spec](https://github.com/cloudevents/spec) - CloudEvents Specification (today)
+- [Melkeydev/go-blueprint](https://github.com/Melkeydev/go-blueprint) - Go-blueprint allows users to spin up a quick Go project using a popular framework (today)
+- [dullage/flatnotes](https://github.com/dullage/flatnotes) - A self-hosted, database-less note taking web app that utilises a flat folder of markdown files for storage. (today)
 
 #### 📫 How to reach me
 
