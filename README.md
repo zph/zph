@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2024.12.24](https://github.com/jdx/mise/releases/tag/v2024.12.24), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.0](https://github.com/jdx/mise/releases/tag/v2025.1.0), 1 day ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 3 weeks ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 3 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust (1 day ago)
-- [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers (1 day ago)
-- [ziolko/spreadapi](https://github.com/ziolko/spreadapi) - Free REST API for Google Spreadsheet (1 day ago)
+- [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust (2 days ago)
+- [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers (2 days ago)
+- [ziolko/spreadapi](https://github.com/ziolko/spreadapi) - Free REST API for Google Spreadsheet (2 days ago)
 
 #### 📫 How to reach me
 
