@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zasper-io/zasper](https://github.com/zasper-io/zasper) - Supercharged IDE for Data Science (1 day ago)
-- [1Password/arboard](https://github.com/1Password/arboard) - A clipboard for Rust (3 days ago)
-- [libdns/libdns](https://github.com/libdns/libdns) - Core interfaces for universal DNS record manipulation across providers (3 days ago)
+- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to machine code. (today)
+- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (today)
+- [kuvasz-io/kuvasz-streamer](https://github.com/kuvasz-io/kuvasz-streamer) - Kuvasz-Streamer is a Postgres-to-Postgres data consolidation and change data capture project. (today)
 
 #### 📫 How to reach me
 
