@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (today)
 - [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to machine code. (1 day ago)
 - [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 day ago)
-- [kuvasz-io/kuvasz-streamer](https://github.com/kuvasz-io/kuvasz-streamer) - Kuvasz-Streamer is a Postgres-to-Postgres data consolidation and change data capture project. (1 day ago)
 
 #### 📫 How to reach me
 
