@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (4 weeks ago)
 - [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (4 weeks ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.0](https://github.com/jdx/mise/releases/tag/v2025.1.0), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.0](https://github.com/jdx/mise/releases/tag/v2025.1.0), 4 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 3 weeks ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 3 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (today)
-- [yassinebenaid/bunster](https://github.com/yassinebenaid/bunster) - Compile shell scripts to machine code. (1 day ago)
-- [connet-dev/connet](https://github.com/connet-dev/connet) - A p2p reverse proxy with NAT traversal. Inspired by frp, rathole and ngrok (1 day ago)
+- [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP. (today)
+- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech &amp; services (1 day ago)
+- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 day ago)
 
 #### 📫 How to reach me
 
