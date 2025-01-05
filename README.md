@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [openwisp/ansible-openwisp2](https://github.com/openwisp/ansible-openwisp2) - Ansible role that installs and upgrades OpenWISP. (today)
-- [jhuangtw/xg2xg](https://github.com/jhuangtw/xg2xg) - by ex-googlers, for ex-googlers - a lookup table of similar tech &amp; services (1 day ago)
-- [foyer-rs/foyer](https://github.com/foyer-rs/foyer) - Hybrid in-memory and disk cache in Rust (1 day ago)
+- [webpod/zurk](https://github.com/webpod/zurk) - A generic process spawner (today)
+- [auth70/salakala](https://github.com/auth70/salakala) - Easily generate .env files from various secret providers (today)
+- [iggy-rs/iggy](https://github.com/iggy-rs/iggy) - Iggy is the persistent message streaming platform written in Rust, supporting QUIC, TCP and HTTP transport protocols, capable of processing millions of messages per second. (today)
 
 #### 📫 How to reach me
 
