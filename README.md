@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [cloud-copilot/iam-simulate](https://github.com/cloud-copilot/iam-simulate) - An IAM Simulator that outputs detailed explains of how a request was evaluated. (today)
 - [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 day ago)
 - [nikeokoronkwo/grayprint](https://github.com/nikeokoronkwo/grayprint) - Grayprint: The fastest and easiest way to get started with your project! (1 day ago)
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
 
 #### 📫 How to reach me
 
