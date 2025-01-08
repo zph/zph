@@ -79,8 +79,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.1](https://github.com/jdx/mise/releases/tag/v2025.1.1), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 3 weeks ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.1](https://github.com/jdx/mise/releases/tag/v2025.1.1), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 4 weeks ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.15.1](https://github.com/dagu-org/dagu/releases/tag/v1.15.1), 4 weeks ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (today)
-- [FormBee/FormBee](https://github.com/FormBee/FormBee) - The open-source form backend for data privacy conscious developers. (today)
-- [g1ibby/auto-vpn](https://github.com/g1ibby/auto-vpn) - A simple, all-in-one tool for deploying on-demand WireGuard VPN servers on popular VPS providers—no ongoing subscriptions, effortless management, and automatic cleanup when you’re done. (2 days ago)
+- [homeport/dyff](https://github.com/homeport/dyff) - /ˈdʏf/ - diff tool for YAML files, and sometimes JSON (1 day ago)
+- [nikeokoronkwo/grayprint](https://github.com/nikeokoronkwo/grayprint) - Grayprint: The fastest and easiest way to get started with your project! (1 day ago)
+- [bcicen/ctop](https://github.com/bcicen/ctop) - Top-like interface for container metrics (1 day ago)
 
 #### 📫 How to reach me
 
