@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.0](https://github.com/dagu-org/dagu/releases/tag/v1.16.0), today) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.2](https://github.com/jdx/mise/releases/tag/v2025.1.2), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.4](https://github.com/denoland/deno/releases/tag/v2.1.4), 4 weeks ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.5](https://github.com/denoland/deno/releases/tag/v2.1.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.3](https://github.com/jdx/mise/releases/tag/v2025.1.3), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.0](https://github.com/dagu-org/dagu/releases/tag/v1.16.0), 1 day ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. (today)
-- [atinylittleshell/gsh](https://github.com/atinylittleshell/gsh) - A modern, POSIX-compatible, generative shell (today)
-- [coroot/coroot](https://github.com/coroot/coroot) - Coroot is an open-source APM &amp; Observability tool, a DataDog and NewRelic alternative 📊, 🖥️, 👉. Powered by eBPF for rapid insights into system performance. Monitor, analyze, and optimize your infrastructure effortlessly for peak reliability at any scale. (1 day ago)
+- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (1 day ago)
+- [stonith404/pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (1 day ago)
+- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (1 day ago)
 
 #### 📫 How to reach me
 
