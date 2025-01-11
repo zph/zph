@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [yusing/go-proxy](https://github.com/yusing/go-proxy) - Easy to use reverse proxy with docker integration (2 days ago)
-- [stonith404/pocket-id](https://github.com/stonith404/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services. (2 days ago)
-- [docmost/docmost](https://github.com/docmost/docmost) - Docmost is an open-source collaborative wiki and documentation software. It is an open-source alternative to Confluence and Notion. (2 days ago)
+- [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM (today)
+- [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) -  (today)
+- [quickwit-oss/chitchat](https://github.com/quickwit-oss/chitchat) - Cluster membership protocol with failure detection inspired by Cassandra and DynamoDB (today)
 
 #### 📫 How to reach me
 
