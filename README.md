@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (today)
 - [jank-lang/jank](https://github.com/jank-lang/jank) - The native Clojure dialect hosted on LLVM (1 day ago)
 - [awslabs/git-remote-s3](https://github.com/awslabs/git-remote-s3) -  (1 day ago)
-- [quickwit-oss/chitchat](https://github.com/quickwit-oss/chitchat) - Cluster membership protocol with failure detection inspired by Cassandra and DynamoDB (1 day ago)
 
 #### 📫 How to reach me
 
