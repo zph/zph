@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [gieoon/Days-Left-Reminder](https://github.com/gieoon/Days-Left-Reminder) - Tells you how many days or sunsets you have left (2 days ago)
-- [earthly/setup-ucacher](https://github.com/earthly/setup-ucacher) - Installs ucacher (Earthly Universal Caching) in a GHA job (2 days ago)
-- [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown. (2 days ago)
+- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges (today)
+- [aerugo/simplegantt](https://github.com/aerugo/simplegantt) - Gantt charts with only Javascript, CSS, HTML and YAML (today)
+- [simonask/werk](https://github.com/simonask/werk) - Simplistic command runner and build system (today)
 
 #### 📫 How to reach me
 
