@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 - [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.6](https://github.com/jdx/mise/releases/tag/v2025.1.6), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.7](https://github.com/jdx/mise/releases/tag/v2025.1.7), today) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.5](https://github.com/denoland/deno/releases/tag/v2.1.5), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.0](https://github.com/dagu-org/dagu/releases/tag/v1.16.0), 6 days ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bluewave-labs/checkmate](https://github.com/bluewave-labs/checkmate) - Checkmate is an open-source, self-hosted tool designed to track and monitor server hardware, uptime, response times, and incidents in real-time with beautiful visualizations. (1 day ago)
-- [git-bug/git-bug](https://github.com/git-bug/git-bug) - Distributed, offline-first bug tracker embedded in git, with bridges (1 day ago)
-- [aerugo/simplegantt](https://github.com/aerugo/simplegantt) - Gantt charts with only Javascript, CSS, HTML and YAML (1 day ago)
+- [datazip-inc/olake](https://github.com/datazip-inc/olake) - Fastest open-source tool for replicating Databases to Apache Iceberg or Data Lakehouse. ⚡ Efficient, quick and scalable data ingestion for real-time analytics. Starting with MongoDB (today)
+- [shyiko/kubetpl](https://github.com/shyiko/kubetpl) - Kubernetes templates made easy #keep-it-simple #no-server-component (today)
+- [ConradIrwin/aws-name-server](https://github.com/ConradIrwin/aws-name-server) - DNS server that lets you look up ec2 instances by instance name (today)
 
 #### 📫 How to reach me
 
