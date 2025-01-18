@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 - [zph/dotslash-packages](https://github.com/zph/dotslash-packages) -  (1 month ago)
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), today) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.8](https://github.com/jdx/mise/releases/tag/v2025.1.8), today) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.0](https://github.com/dagu-org/dagu/releases/tag/v1.16.0), 1 week ago) - Developer-friendly, minimalism Cron alternative, but with much more capabilities. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.0](https://github.com/dagu-org/dagu/releases/tag/v1.16.0), 1 week ago) - Developer-friendly minimalism Cron/Airflow alternative, but with much more capabilities. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames. (2 days ago)
-- [s2t2/gspread-models-py](https://github.com/s2t2/gspread-models-py) - Model based ORM interface into Google Sheets, in Python (2 days ago)
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (2 days ago)
+- [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames. (3 days ago)
+- [s2t2/gspread-models-py](https://github.com/s2t2/gspread-models-py) - Model based ORM interface into Google Sheets, in Python (3 days ago)
+- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (3 days ago)
 
 #### 📫 How to reach me
 
