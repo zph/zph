@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [aiguofer/gspread-pandas](https://github.com/aiguofer/gspread-pandas) - A package to easily open an instance of a Google spreadsheet and interact with worksheets through Pandas DataFrames. (3 days ago)
-- [s2t2/gspread-models-py](https://github.com/s2t2/gspread-models-py) - Model based ORM interface into Google Sheets, in Python (3 days ago)
-- [tisonkun/morax](https://github.com/tisonkun/morax) - Message queue and data streaming based on cloud native services. (3 days ago)
+- [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hashmap for read-heavy workloads. (today)
+- [block/ftl](https://github.com/block/ftl) - FTL - Towards a 𝝺-calculus for large-scale systems (today)
+- [pingcap/tipb](https://github.com/pingcap/tipb) - TiDB protobuf (today)
 
 #### 📫 How to reach me
 
