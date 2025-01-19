@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (1 day ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc1](https://github.com/zph/runbook/releases/tag/1.0.0-rc1), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2), today) - 📖 Library for interactive runbooks and surrounding toolkit 💻
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 2 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [fxamacker/cbor](https://github.com/fxamacker/cbor) - CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  (today)
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (today)
 - [ibraheemdev/papaya](https://github.com/ibraheemdev/papaya) - A fast and ergonomic concurrent hashmap for read-heavy workloads. (1 day ago)
-- [block/ftl](https://github.com/block/ftl) - FTL - Towards a 𝝺-calculus for large-scale systems (1 day ago)
-- [pingcap/tipb](https://github.com/pingcap/tipb) - TiDB protobuf (1 day ago)
 
 #### 📫 How to reach me
 
