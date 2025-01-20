@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 Library for interactive runbooks and surrounding toolkit 💻 (today)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2), 1 day ago) - 📖 Library for interactive runbooks and surrounding toolkit 💻
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.0](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.0), today) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 3 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -115,9 +115,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 [^confs]: I've stopped attending conferences due to competing life responsibilities and the talks ceasing to introduce as much novel and challenging content for me
 [^hiring-odds]: If I look at all offers/outreach, I've accepted around 1 in 500
 [^clojure]: It remains a niche language that I really enjoyed as a practitioner but I'd be reluctant to found a company on it
-[^elixir]: I'd likely only use elixir from the ground up in a company as adopting it into existing company was challenging and problematic.
+[^elixir]: At this point I'd be disinclined to choose Elixir unless the focus was realtime messaging and we were gaining key advantages from OTP.
 [^rust]: Rust is a language that can still help me grow as a software engineer and one I'd enjoy a sincere practical reason to become proficient with.
-[^mongodb]: Hundreds of TB cluster on EC2 for v3.x with strict reliability requirements and having to solve hard scaling problems including working around architectural limitations of the db itself by dropping down to reading the db code.
+[^mongodb]: Half Petabyte cluster self hosted on EC2 for v3.x with 99.99% availability SLA and having to solve hard scaling problems including working around architectural limitations of the db itself by dropping down to reading the db code.
 [^tigris]: If/when it gets off the ground it has the right foundation to be groundbreaking b/c of FDB.
 [^love-hate]: MongoDB and I have a complicated relationship. It helped successfully launch and scale three startups of mine and was a poor choice for datastore in 2 of 3. I've come to appreciate deeply what it accomplished in the 1 of 3 where it was the most correct choice available and also look forward to evolving onto a new platform that can learn from the architectural mistakes of MongoDB. Ironically, by knowing it deeply and the alternatives, I've become hawkish defender of Mongo when people throw around technically barbs about this datastore. It's as if the trauma I've experienced have bonded me to it like Gollum and The Ring.
 
