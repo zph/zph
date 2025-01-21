@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.0](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.0), today) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 3 days ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.0](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.0), 1 day ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 4 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.6](https://github.com/denoland/deno/releases/tag/v2.1.6), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (today)
-- [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
-- [Add auto prompting during plan if no args supplied](https://github.com/zph/runbook/pull/19) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
+- [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [Add auto prompting during plan if no args supplied](https://github.com/zph/runbook/pull/19) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kdeldycke/click-extra](https://github.com/kdeldycke/click-extra) - 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI (today)
-- [fxamacker/cbor](https://github.com/fxamacker/cbor) - CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  (1 day ago)
-- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (1 day ago)
+- [kdeldycke/click-extra](https://github.com/kdeldycke/click-extra) - 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI (1 day ago)
+- [fxamacker/cbor](https://github.com/fxamacker/cbor) - CBOR codec (RFC 8949) with CBOR tags, Go struct tags (toarray, keyasint, omitempty), float64/32/16, big.Int, and fuzz tested billions of execs.  (2 days ago)
+- [danielmiessler/fabric](https://github.com/danielmiessler/fabric) - fabric is an open-source framework for augmenting humans using AI. It provides a modular framework for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. (2 days ago)
 
 #### 📫 How to reach me
 
