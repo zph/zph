@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
 #### 🌱 My latest projects
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.7](https://github.com/denoland/deno/releases/tag/v2.1.7), today) - A modern runtime for JavaScript and TypeScript.
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 1 day ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 5 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.7](https://github.com/denoland/deno/releases/tag/v2.1.7), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 2 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 6 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
-- [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
-- [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
-- [Add auto prompting during plan if no args supplied](https://github.com/zph/runbook/pull/19) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
+- [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
+- [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
+- [Add auto prompting during plan if no args supplied](https://github.com/zph/runbook/pull/19) on [zph/runbook](https://github.com/zph/runbook) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (1 day ago)
-- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim (1 day ago)
-- [kdeldycke/click-extra](https://github.com/kdeldycke/click-extra) - 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI (2 days ago)
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
+- [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim (2 days ago)
+- [kdeldycke/click-extra](https://github.com/kdeldycke/click-extra) - 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI (3 days ago)
 
 #### 📫 How to reach me
 
