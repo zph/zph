@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [henrygd/beszel](https://github.com/henrygd/beszel) - Lightweight server monitoring hub with historical data, docker stats, and alerts. (today)
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku. (2 days ago)
 - [junegunn/goyo.vim](https://github.com/junegunn/goyo.vim) - :tulip: Distraction-free writing in Vim (2 days ago)
-- [kdeldycke/click-extra](https://github.com/kdeldycke/click-extra) - 🌈 Drop-in replacement for Click to make user-friendly and colorful CLI (3 days ago)
 
 #### 📫 How to reach me
 
