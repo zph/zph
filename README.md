@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.13](https://github.com/jdx/mise/releases/tag/v2025.1.13), today) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.7](https://github.com/denoland/deno/releases/tag/v2.1.7), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 3 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.9](https://github.com/jdx/mise/releases/tag/v2025.1.9), 1 week ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
