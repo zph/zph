@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 week ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.15](https://github.com/jdx/mise/releases/tag/v2025.1.15), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.7](https://github.com/denoland/deno/releases/tag/v2.1.7), 5 days ago) - A modern runtime for JavaScript and TypeScript.
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 6 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.15](https://github.com/jdx/mise/releases/tag/v2025.1.15), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.7](https://github.com/denoland/deno/releases/tag/v2.1.7), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (1 day ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (4 days ago)
-- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (4 days ago)
+- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (2 days ago)
+- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (5 days ago)
+- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (5 days ago)
 
 #### 📫 How to reach me
 
