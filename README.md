@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), today) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.16](https://github.com/jdx/mise/releases/tag/v2025.1.16), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.17](https://github.com/jdx/mise/releases/tag/v2025.1.17), 1 day ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
+- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (1 day ago)
 - [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 - [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
-- [Add auto prompting during plan if no args supplied](https://github.com/zph/runbook/pull/19) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tokio-rs/turmoil](https://github.com/tokio-rs/turmoil) - Add hardship to your tests (5 days ago)
-- [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative (1 week ago)
-- [microsoft/documentdb](https://github.com/microsoft/documentdb) - DocumentDB offers a native implementation of document-oriented NoSQL database, enabling seamless CRUD operations on BSON data types within a PostgreSQL framework. Powering vCore-based Azure Cosmos DB for MongoDB. (1 week ago)
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
+- [siddontang/mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go (1 day ago)
+- [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch  (1 day ago)
 
 #### 📫 How to reach me
 
