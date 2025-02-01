@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (today)
 - [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (1 day ago)
 - [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
-- [Add e2e testing and restructure the README in preparations for v1 release](https://github.com/zph/runbook/pull/23) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [voidDB/voidDB](https://github.com/voidDB/voidDB) - A transactional key-value database written in Go for 64-bit Linux. Seemingly faster and more compact than lmdb-go, bbolt, Badger, and goleveldb. &lt;2K LOC (today)
+- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (today)
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
-- [siddontang/mixer](https://github.com/siddontang/mixer) - a MySQL proxy powered by Go (1 day ago)
-- [go-mysql-org/go-mysql-elasticsearch](https://github.com/go-mysql-org/go-mysql-elasticsearch) - Sync MySQL data into elasticsearch  (1 day ago)
 
 #### 📫 How to reach me
 
