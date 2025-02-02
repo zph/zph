@@ -14,8 +14,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (2 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (2 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (3 months ago)
-- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (5 months ago)
-- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (5 months ago)
+- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (6 months ago)
+- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (6 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (9 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 week ago)
 - [zph/pather](https://github.com/zph/pather) - Nim toy program to dedupe and absolute path the PATH env var (1 month ago)
 
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.17](https://github.com/jdx/mise/releases/tag/v2025.1.17), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.1.17](https://github.com/jdx/mise/releases/tag/v2025.1.17), 2 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.1](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.1), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (today)
-- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (1 day ago)
+- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (1 day ago)
+- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (2 days ago)
 - [Add prompter interface](https://github.com/zph/runbook/pull/25) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [voidDB/voidDB](https://github.com/voidDB/voidDB) - A transactional key-value database written in Go for 64-bit Linux. Seemingly faster and more compact than lmdb-go, bbolt, Badger, and goleveldb. &lt;2K LOC (today)
-- [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes (today)
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads. (1 day ago)
+- [turbot/tailpipe](https://github.com/turbot/tailpipe) - select * from logs! Tailpipe is an open source SIEM for instant log insights, powered by DuckDB. Analyze millions of events in seconds, right from your terminal. (1 day ago)
+- [turbot/flowpipe](https://github.com/turbot/flowpipe) - Flowpipe is a cloud scripting engine. Automation and workflow to connect your clouds to the people, systems and data that matters. (1 day ago)
+- [voidDB/voidDB](https://github.com/voidDB/voidDB) - A transactional key-value database written in Go for 64-bit Linux. Seemingly faster and more compact than lmdb-go, bbolt, Badger, and goleveldb. &lt;2K LOC (1 day ago)
 
 #### 📫 How to reach me
 
