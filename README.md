@@ -23,9 +23,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (1 day ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (2 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -79,15 +79,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.1](https://github.com/jdx/mise/releases/tag/v2025.2.1), 1 day ago) - dev tools, env vars, task runner
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 2 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.1](https://github.com/jdx/mise/releases/tag/v2025.2.1), 2 days ago) - dev tools, env vars, task runner
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 3 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.9](https://github.com/denoland/deno/releases/tag/v2.1.9), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
-- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (3 days ago)
-- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (4 days ago)
+- [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
+- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (4 days ago)
+- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (5 days ago)
 
 #### 📓 Gists
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (today)
-- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (today)
-- [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking &amp; other useful patterns for golang under one package. (1 day ago)
+- [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go (1 day ago)
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program (1 day ago)
+- [theHamdiz/it](https://github.com/theHamdiz/it) - A collection of helpful error handling, performance measuring, execution retrial, benchmarking &amp; other useful patterns for golang under one package. (2 days ago)
 
 #### 📫 How to reach me
 
