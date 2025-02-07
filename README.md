@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (today)
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (4 days ago)
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 
 #### 🌱 My latest projects
@@ -85,9 +85,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (today)
 - [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
 - [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (6 days ago)
-- [Allow max-execution-time parameter for SyncDiffInspector](https://github.com/pingcap/tidb-tools/pull/845) on [pingcap/tidb-tools](https://github.com/pingcap/tidb-tools) (1 week ago)
 
 #### 📓 Gists
 
