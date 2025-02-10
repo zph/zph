@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (today)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI&#39;s new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it&#39;ll auto adjust. (today)
 - [naveedharri/crewai-linkedIn-agent](https://github.com/naveedharri/crewai-linkedIn-agent) -  (1 day ago)
-- [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa&#39;s API for web search and Deepseek R1 for reasoning (1 day ago)
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (1 day ago)
 
 #### 📫 How to reach me
 
