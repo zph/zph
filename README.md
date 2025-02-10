@@ -23,8 +23,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 days ago)
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (6 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
 #### 🌱 My latest projects
@@ -79,14 +79,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), today) - dev tools, env vars, task runner
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 3 days ago) - Simplified executable deployment
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), 1 day ago) - dev tools, env vars, task runner
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 4 days ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
-- [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (6 days ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
+- [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 - [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (1 week ago)
 
 #### 📓 Gists
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa&#39;s API for web search and Deepseek R1 for reasoning (today)
-- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (today)
-- [grafana/sobek](https://github.com/grafana/sobek) -  (2 days ago)
+- [naveedharri/crewai-linkedIn-agent](https://github.com/naveedharri/crewai-linkedIn-agent) -  (1 day ago)
+- [exa-labs/exa-deepseek-chat](https://github.com/exa-labs/exa-deepseek-chat) - A simple open-source chat app that uses Exa&#39;s API for web search and Deepseek R1 for reasoning (1 day ago)
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents. Agents write python code to call tools and orchestrate other agents. (1 day ago)
 
 #### 📫 How to reach me
 
