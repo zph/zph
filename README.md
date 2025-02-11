@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.1](https://github.com/dagu-org/dagu/releases/tag/v1.16.1), today) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), 2 days ago) - dev tools, env vars, task runner
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 5 days ago) - Simplified executable deployment
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (today)
 - [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (1 day ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI&#39;s new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it&#39;ll auto adjust. (1 day ago)
-- [naveedharri/crewai-linkedIn-agent](https://github.com/naveedharri/crewai-linkedIn-agent) -  (2 days ago)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (1 day ago)
 
 #### 📫 How to reach me
 
