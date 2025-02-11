@@ -23,7 +23,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (4 days ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -79,13 +79,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), 1 day ago) - dev tools, env vars, task runner
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 4 days ago) - Simplified executable deployment
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), 2 days ago) - dev tools, env vars, task runner
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 5 days ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 1 week ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (4 days ago)
 - [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (1 week ago)
 - [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (1 week ago)
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (today)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI&#39;s new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it&#39;ll auto adjust. (today)
-- [naveedharri/crewai-linkedIn-agent](https://github.com/naveedharri/crewai-linkedIn-agent) -  (1 day ago)
+- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (1 day ago)
+- [dzhng/deep-research](https://github.com/dzhng/deep-research) - My own open source implementation of OpenAI&#39;s new Deep Research agent. Get the same capability without paying $200.  You can even tweak the behavior of the agent with adjustable breadth and depth.  Run it for 5 min or 5 hours, it&#39;ll auto adjust. (1 day ago)
+- [naveedharri/crewai-linkedIn-agent](https://github.com/naveedharri/crewai-linkedIn-agent) -  (2 days ago)
 
 #### 📫 How to reach me
 
