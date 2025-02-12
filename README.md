@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [formalco/session-manager-plugin](https://github.com/formalco/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances (today)
+- [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances (today)
 - [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (1 day ago)
-- [wojciech-kulik/FlashSpace](https://github.com/wojciech-kulik/FlashSpace) - FlashSpace is a blazingly fast virtual workspace manager for macOS ⚡ (2 days ago)
-- [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simplest implementation of a deep research agent - e.g. an agent that can refine its research direction overtime and deep dive into a topic. (2 days ago)
 
 #### 📫 How to reach me
 
