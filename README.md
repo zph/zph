@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.10](https://github.com/denoland/deno/releases/tag/v2.1.10), today) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.1](https://github.com/dagu-org/dagu/releases/tag/v1.16.1), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.2.3](https://github.com/jdx/mise/releases/tag/v2025.2.3), 4 days ago) - dev tools, env vars, task runner
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.2](https://github.com/facebook/dotslash/releases/tag/v0.5.2), 1 week ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [lumeland/lume](https://github.com/lumeland/lume) - 🔥 Static site generator for Deno 🦕 (today)
 - [formalco/session-manager-plugin](https://github.com/formalco/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances (1 day ago)
 - [aws/session-manager-plugin](https://github.com/aws/session-manager-plugin) - This plugin helps you to use the AWS Command Line Interface (AWS CLI) to start and end sessions to your managed instances (1 day ago)
-- [felixmosh/bull-board](https://github.com/felixmosh/bull-board) - 🎯 Queue background jobs inspector  (2 days ago)
 
 #### 📫 How to reach me
 
