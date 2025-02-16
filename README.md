@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.4](https://github.com/jdx/mise/releases/tag/v2025.2.4), 2 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.5](https://github.com/jdx/mise/releases/tag/v2025.2.5), today) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.2](https://github.com/dagu-org/dagu/releases/tag/v1.16.2), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.1.10](https://github.com/denoland/deno/releases/tag/v2.1.10), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [HeavyHorst/remco](https://github.com/HeavyHorst/remco) - remco is a lightweight configuration management tool (today)
 - [kleene-project/kleened](https://github.com/kleene-project/kleened) - Container management in FreeBSD. (1 day ago)
 - [yandex/perforator](https://github.com/yandex/perforator) - Perforator is a cluster-wide continuous profiling tool designed for large data centers (1 day ago)
-- [pingcap/tidb-dashboard](https://github.com/pingcap/tidb-dashboard) - A Web UI for monitoring, diagnosing and managing the TiDB cluster. (2 days ago)
 
 #### 📫 How to reach me
 
