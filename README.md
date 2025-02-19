@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.0](https://github.com/denoland/deno/releases/tag/v2.2.0), today) - A modern runtime for JavaScript and TypeScript.
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.2.6](https://github.com/jdx/mise/releases/tag/v2025.2.6), 3 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.2](https://github.com/dagu-org/dagu/releases/tag/v1.16.2), 6 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.1.10](https://github.com/denoland/deno/releases/tag/v2.1.10), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
