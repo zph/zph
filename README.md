@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode) - An assistant for users of the Johnny Decimal file organization system. (today)
+- [graysonarts/jdexmd](https://github.com/graysonarts/jdexmd) - A Command Line Tool that creates a Johnny Decimal structure for Obsidian and your Documents folder (today)
 - [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim (2 days ago)
-- [tkellogg/target-practice](https://github.com/tkellogg/target-practice) - An AI-driven resume manager that takes a human-written verbose resume and crafts it to fit a specific job role (2 days ago)
-- [hypermodeinc/ristretto](https://github.com/hypermodeinc/ristretto) - A high performance memory-bound Go cache (6 days ago)
 
 #### 📫 How to reach me
 
