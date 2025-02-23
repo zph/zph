@@ -79,9 +79,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.1](https://github.com/denoland/deno/releases/tag/v2.2.1), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.7](https://github.com/jdx/mise/releases/tag/v2025.2.7), 3 days ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.1](https://github.com/denoland/deno/releases/tag/v2.2.1), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.7](https://github.com/jdx/mise/releases/tag/v2025.2.7), 4 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,9 +97,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode) - An assistant for users of the Johnny Decimal file organization system. (today)
-- [graysonarts/jdexmd](https://github.com/graysonarts/jdexmd) - A Command Line Tool that creates a Johnny Decimal structure for Obsidian and your Documents folder (today)
-- [augmentcode/augment.vim](https://github.com/augmentcode/augment.vim) - AI-augmented development in Vim and Neovim (2 days ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (1 day ago)
+- [SwissArmyWrench/johnnybgoode](https://github.com/SwissArmyWrench/johnnybgoode) - An assistant for users of the Johnny Decimal file organization system. (1 day ago)
+- [graysonarts/jdexmd](https://github.com/graysonarts/jdexmd) - A Command Line Tool that creates a Johnny Decimal structure for Obsidian and your Documents folder (1 day ago)
 
 #### 📫 How to reach me
 
