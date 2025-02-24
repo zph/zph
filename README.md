@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [denoland/deno](https://github.com/denoland/deno) ([v2.2.1](https://github.com/denoland/deno/releases/tag/v2.2.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.2.7](https://github.com/jdx/mise/releases/tag/v2025.2.7), 5 days ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (today)
+- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc (today)
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 day ago)
-- [Mr-1311/obsidian-age-encrypt](https://github.com/Mr-1311/obsidian-age-encrypt) - A plugin for Obsidian that provides age-based encryption for your notes. (1 day ago)
-- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (2 days ago)
 
 #### 📫 How to reach me
 
