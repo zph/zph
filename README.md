@@ -11,27 +11,27 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (1 month ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 months ago)
-- [Deno for Shell Scripting a Pagerduty helper](https://blog.xargs.io/post/2023-04-12-deno-for-shell-scripting-a-pagerduty-helper/) (3 months ago)
-- [Replacing inlined scripts with bundler inline](https://blog.xargs.io/post/2023-04-07-replacing-inlined-scripts-with-bundler-inline/) (4 months ago)
-- [Automatically Warm EBS Volumes from Snapshots](https://blog.xargs.io/post/2023-04-06-automatically-warm-ebs-volumes-from-snapshots/) (4 months ago)
-- [3x Faster Mongodb Controlled Failovers](https://blog.xargs.io/post/2023-04-06-3x-faster-mongod-controlled-failovers/) (4 months ago)
-- [Use GEM_HOME for bundler inline](https://blog.xargs.io/post/2023-01-28-use-gem-home-for-bundler-inline/) (6 months ago)
-- [Cost Optimizations](https://blog.xargs.io/post/2022-11-22-cost-optimizations/) (8 months ago)
-- [Hugo to 0.105.0](https://blog.xargs.io/post/2022-11-05-try-out-mermaid/) (9 months ago)
+- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (2 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (2 months ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (4 months ago)
+- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (6 months ago)
+- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (6 months ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (9 months ago)
+- [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
+- [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
+- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog (1 week ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) - convert any directory of scripts into your own fully-featured command. (3 weeks ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 day ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (3 weeks ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
 #### 🌱 My latest projects
 
-- [zph/blog-extras](https://github.com/zph/blog-extras) - Repo for wiring utteranc.es commenting system to my blog
-- [zph/msh](https://github.com/zph/msh) - msh - mongo shell for large clusters with auto-discovery
-- [zph/deno-releaser](https://github.com/zph/deno-releaser) - Experimental deno releaser ala go-releaser
+- [zph/dotslash-packages](https://github.com/zph/dotslash-packages) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) - 
+- [zph/exec](https://github.com/zph/exec) - Exec syscall wrapper via ffi for deno
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -79,27 +79,27 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [japiirainen/vl](https://github.com/japiirainen/vl) ([0.1.1](https://github.com/japiirainen/vl/releases/tag/0.1.1), 1 month ago) - Shell scripting in typescript. Powered by deno.
-- [zph/chain](https://github.com/zph/chain) ([v2.2.0](https://github.com/zph/chain/releases/tag/v2.2.0), 4 months ago) - Local secure storage of credentials ala envchain and aws-vault
-- [toumorokoshi/tome](https://github.com/toumorokoshi/tome) ([v0.9.0](https://github.com/toumorokoshi/tome/releases/tag/v0.9.0), 1 year ago) - convert any directory of scripts into your own fully-featured command.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.1](https://github.com/denoland/deno/releases/tag/v2.2.1), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.7](https://github.com/jdx/mise/releases/tag/v2025.2.7), 5 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems for developers.
 
 #### 🔨 My recent Pull Requests
 
-- [Update fish shell completions to match new cli interface](https://github.com/toumorokoshi/tome/pull/42) on [toumorokoshi/tome](https://github.com/toumorokoshi/tome) (1 month ago)
-- [String format of shell execution fails when &gt; 1 variable included](https://github.com/japiirainen/vl/pull/3) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 month ago)
-- [Adds sanitize wrapper for shell execution for sensitive information](https://github.com/japiirainen/vl/pull/2) on [japiirainen/vl](https://github.com/japiirainen/vl) (1 month ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 weeks ago)
+- [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (3 weeks ago)
+- [Pass through stderr in case of non-zero exit code from gh provider](https://github.com/facebook/dotslash/pull/43) on [facebook/dotslash](https://github.com/facebook/dotslash) (3 weeks ago)
 
 #### 📓 Gists
 
-- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (3 months ago)
-- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (4 months ago)
-- [Installs keyhole in the `./bin` folder relative to current directory](https://gist.github.com/717f627c2a914ebf28c9a58a23883879) (2 years ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (7 months ago)
+- [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
+- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [terramate-io/terramate](https://github.com/terramate-io/terramate) - Terramate adds powerful capabilities such as code generation, stacks, orchestration, change detection, data sharing and more to Terraform. (1 day ago)
-- [ahzhezhe/terraform-generator](https://github.com/ahzhezhe/terraform-generator) - Generate Terraform configurations with Node.js. (1 day ago)
-- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸 Web apps in pure Python 🐍 (3 days ago)
+- [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The OS for your personal finances (1 day ago)
+- [Mr-1311/obsidian-age-encrypt](https://github.com/Mr-1311/obsidian-age-encrypt) - A plugin for Obsidian that provides age-based encryption for your notes. (1 day ago)
+- [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons (2 days ago)
 
 #### 📫 How to reach me
 
@@ -115,9 +115,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 [^confs]: I've stopped attending conferences due to competing life responsibilities and the talks ceasing to introduce as much novel and challenging content for me
 [^hiring-odds]: If I look at all offers/outreach, I've accepted around 1 in 500
 [^clojure]: It remains a niche language that I really enjoyed as a practitioner but I'd be reluctant to found a company on it
-[^elixir]: I'd likely only use elixir from the ground up in a company as adopting it into existing company was challenging and problematic.
+[^elixir]: At this point I'd be disinclined to choose Elixir unless the focus was realtime messaging and we were gaining key advantages from OTP.
 [^rust]: Rust is a language that can still help me grow as a software engineer and one I'd enjoy a sincere practical reason to become proficient with.
-[^mongodb]: Hundreds of TB cluster on EC2 for v3.x with strict reliability requirements and having to solve hard scaling problems including working around architectural limitations of the db itself by dropping down to reading the db code.
+[^mongodb]: Half Petabyte cluster self hosted on EC2 for v3.x with 99.99% availability SLA and having to solve hard scaling problems including working around architectural limitations of the db itself by dropping down to reading the db code.
 [^tigris]: If/when it gets off the ground it has the right foundation to be groundbreaking b/c of FDB.
 [^love-hate]: MongoDB and I have a complicated relationship. It helped successfully launch and scale three startups of mine and was a poor choice for datastore in 2 of 3. I've come to appreciate deeply what it accomplished in the 1 of 3 where it was the most correct choice available and also look forward to evolving onto a new platform that can learn from the architectural mistakes of MongoDB. Ironically, by knowing it deeply and the alternatives, I've become hawkish defender of Mongo when people throw around technically barbs about this datastore. It's as if the trauma I've experienced have bonded me to it like Gollum and The Ring.
 
