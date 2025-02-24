@@ -5,7 +5,8 @@ Polyglot, problem solver and remote-worker, and engineering leader.  I enjoy sol
 
 I've been the CTO of a 50 person startup, a Sr. Director of Engineering, led a deeply technical
 platform group ~25 software engineers and ~3 managers and most recently built out our
-Database Platform Team as the Tech Lead Manager.
+Database Platform Team as the Tech Lead Manager and retired to being the Architecture Lead for
+Platform.
 
 I'm deeply interested in results and less interested in the exact tools/technology we use.
 
@@ -62,9 +63,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 * NewSQL, NoSQL, ClassicSQL
 	* TiDB
-	* ScyllaDB
 	* FoundationDB
-	* TigrisData[^tigris]
 	* Postgresql
 	* MySQL
   * MongoDB[^love-hate] tooling, operations and cluster management
@@ -118,7 +117,6 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 [^elixir]: At this point I'd be disinclined to choose Elixir unless the focus was realtime messaging and we were gaining key advantages from OTP.
 [^rust]: Rust is a language that can still help me grow as a software engineer and one I'd enjoy a sincere practical reason to become proficient with.
 [^mongodb]: Half Petabyte cluster self hosted on EC2 for v3.x with 99.99% availability SLA and having to solve hard scaling problems including working around architectural limitations of the db itself by dropping down to reading the db code.
-[^tigris]: If/when it gets off the ground it has the right foundation to be groundbreaking b/c of FDB.
 [^love-hate]: MongoDB and I have a complicated relationship. It helped successfully launch and scale three startups of mine and was a poor choice for datastore in 2 of 3. I've come to appreciate deeply what it accomplished in the 1 of 3 where it was the most correct choice available and also look forward to evolving onto a new platform that can learn from the architectural mistakes of MongoDB. Ironically, by knowing it deeply and the alternatives, I've become hawkish defender of Mongo when people throw around technically barbs about this datastore. It's as if the trauma I've experienced have bonded me to it like Gollum and The Ring.
 
 
