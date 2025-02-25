@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.1](https://github.com/denoland/deno/releases/tag/v2.2.1), 4 days ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.7](https://github.com/jdx/mise/releases/tag/v2025.2.7), 6 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), today) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.8](https://github.com/jdx/mise/releases/tag/v2025.2.8), today) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.3](https://github.com/dagu-org/dagu/releases/tag/v1.16.3), 6 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [chaisql/chai](https://github.com/chaisql/chai) - Modern embedded SQL database (1 day ago)
-- [vektra/mockery](https://github.com/vektra/mockery) - A mock code autogenerator for Go (1 day ago)
-- [yshavit/mdq](https://github.com/yshavit/mdq) - like jq but for Markdown: find specific elements in a md doc (1 day ago)
+- [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs) (today)
+- [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline (today)
+- [polarsource/polar](https://github.com/polarsource/polar) - An open source engine for your digital products. Sell SaaS and digital products in minutes. (today)
 
 #### 📫 How to reach me
 
