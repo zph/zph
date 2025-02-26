@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ykhli/mcp-send-email](https://github.com/ykhli/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server (today)
 - [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - Lightweight NoDB for Deno &amp; React (1 day ago)
 - [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs) (1 day ago)
-- [baehyunsol/ragit](https://github.com/baehyunsol/ragit) - git-like rag pipeline (1 day ago)
 
 #### 📫 How to reach me
 
