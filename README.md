@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (today)
 - [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation (1 day ago)
 - [iamtelescope/telescope](https://github.com/iamtelescope/telescope) - Web-based log viewer UI. Explore logs data stored in ClickHouse (1 day ago)
-- [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard (1 day ago)
 
 #### 📫 How to reach me
 
