@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (4 days ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.8](https://github.com/jdx/mise/releases/tag/v2025.2.8), 1 day ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.9](https://github.com/jdx/mise/releases/tag/v2025.2.9), 1 day ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 days ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 days ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 weeks ago)
 - [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (3 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ykhli/mcp-send-email](https://github.com/ykhli/mcp-send-email) - Send emails directly from Cursor with this email sending MCP server (today)
-- [goatplatform/goatdb](https://github.com/goatplatform/goatdb) - Lightweight NoDB for Deno &amp; React (1 day ago)
-- [tamatebako/tebako](https://github.com/tamatebako/tebako) - Tebako: an executable packager (for Ruby programs) (1 day ago)
+- [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation (1 day ago)
+- [iamtelescope/telescope](https://github.com/iamtelescope/telescope) - Web-based log viewer UI. Explore logs data stored in ClickHouse (1 day ago)
+- [eiannone/keyboard](https://github.com/eiannone/keyboard) - Simple library to listen for keystrokes from the keyboard (1 day ago)
 
 #### 📫 How to reach me
 
