@@ -13,18 +13,18 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (2 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (2 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (3 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (4 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (6 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (6 months ago)
-- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (9 months ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (10 months ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (4 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (5 days ago)
 - [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.9](https://github.com/jdx/mise/releases/tag/v2025.2.9), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.2.9](https://github.com/jdx/mise/releases/tag/v2025.2.9), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 days ago)
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 weeks ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (4 days ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 weeks ago)
 - [Use python embedding instead of base64 encoding of template files](https://github.com/zph/runbook/pull/26) on [zph/runbook](https://github.com/zph/runbook) (3 weeks ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (today)
-- [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation (1 day ago)
-- [iamtelescope/telescope](https://github.com/iamtelescope/telescope) - Web-based log viewer UI. Explore logs data stored in ClickHouse (1 day ago)
+- [michidk/vscli](https://github.com/michidk/vscli) - A CLI/TUI that simplifies launching VSCode projects, with a focus on dev containers (1 day ago)
+- [databrickslabs/remorph](https://github.com/databrickslabs/remorph) - Accelerates migrations to Databricks by automating code conversion and migration validation (2 days ago)
+- [iamtelescope/telescope](https://github.com/iamtelescope/telescope) - Web-based log viewer UI. Explore logs data stored in ClickHouse (2 days ago)
 
 #### 📫 How to reach me
 
