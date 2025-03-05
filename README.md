@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 week ago)
-- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (4 weeks ago)
+- [facebook/dotslash](https://github.com/facebook/dotslash) - Simplified executable deployment (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.0](https://github.com/jdx/mise/releases/tag/v2025.3.0), 3 days ago) - dev tools, env vars, task runner
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.0](https://github.com/jdx/mise/releases/tag/v2025.3.0), 4 days ago) - dev tools, env vars, task runner
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 1 week ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.2.2](https://github.com/denoland/deno/releases/tag/v2.2.2), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
-- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (2 days ago)
+- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (3 days ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 week ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (2 days ago)
-- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (2 days ago)
-- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (2 days ago)
+- [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads. (3 days ago)
+- [deepseek-ai/3FS](https://github.com/deepseek-ai/3FS) -  A high-performance distributed file system designed to address the challenges of AI training and inference workloads.  (3 days ago)
+- [deepseek-ai/smallpond](https://github.com/deepseek-ai/smallpond) - A lightweight data processing framework built on DuckDB and 3FS. (3 days ago)
 
 #### 📫 How to reach me
 
