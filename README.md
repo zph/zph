@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 weeks ago)
 
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.2](https://github.com/jdx/mise/releases/tag/v2025.3.2), 2 days ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.3](https://github.com/denoland/deno/releases/tag/v2.2.3), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.2](https://github.com/jdx/mise/releases/tag/v2025.3.2), 3 days ago) - dev tools, env vars, task runner
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.3](https://github.com/denoland/deno/releases/tag/v2.2.3), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.4](https://github.com/dagu-org/dagu/releases/tag/v1.16.4), 1 week ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (1 week ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 week ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 weeks ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) -  (1 day ago)
-- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (2 days ago)
-- [cashapp/spirit](https://github.com/cashapp/spirit) - Online Schema Change Tool for MySQL 8.0&#43; (3 days ago)
+- [NishantJoshi00/shelgon](https://github.com/NishantJoshi00/shelgon) -  (2 days ago)
+- [b3nj5m1n/xdg-ninja](https://github.com/b3nj5m1n/xdg-ninja) - A shell script which checks your $HOME for unwanted files and directories. (3 days ago)
+- [cashapp/spirit](https://github.com/cashapp/spirit) - Online Schema Change Tool for MySQL 8.0&#43; (4 days ago)
 
 #### 📫 How to reach me
 
