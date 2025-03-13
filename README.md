@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (6 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 weeks ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.32.1](https://github.com/thoughtworks/talisman/releases/tag/v1.32.1), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.2](https://github.com/jdx/mise/releases/tag/v2025.3.2), 5 days ago) - dev tools, env vars, task runner
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.32.1](https://github.com/thoughtworks/talisman/releases/tag/v1.32.1), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.2](https://github.com/jdx/mise/releases/tag/v2025.3.2), 6 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.2.3](https://github.com/denoland/deno/releases/tag/v2.2.3), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility (1 day ago)
-- [glasskube/distr](https://github.com/glasskube/distr) - Software Distribution Platform - Distr is the easiest way to distribute enterprise software to customer-controlled or shared-responsibility environments. (2 days ago)
-- [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) - An educational OLAP database system. (2 days ago)
+- [OpenCPN/OpenCPN](https://github.com/OpenCPN/OpenCPN) - A concise ChartPlotter/Navigator. A cross-platform ship-borne GUI application supporting * GPS/GPDS Postition Input * BSB Raster Chart Display * S57 Vector ENChart Display * AIS Input Decoding * Waypoint Autopilot Navigation (1 day ago)
+- [leahneukirchen/nq](https://github.com/leahneukirchen/nq) - Unix command line queue utility (2 days ago)
+- [glasskube/distr](https://github.com/glasskube/distr) - Software Distribution Platform - Distr is the easiest way to distribute enterprise software to customer-controlled or shared-responsibility environments. (3 days ago)
 
 #### 📫 How to reach me
 
