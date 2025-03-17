@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.71](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.71), 1 day ago) - Terraform MySQL provider – unofficial fork
 - [denoland/deno](https://github.com/denoland/deno) ([v2.2.4](https://github.com/denoland/deno/releases/tag/v2.2.4), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [jdx/mise](https://github.com/jdx/mise) ([v2025.3.3](https://github.com/jdx/mise/releases/tag/v2025.3.3), 3 days ago) - dev tools, env vars, task runner
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.32.1](https://github.com/thoughtworks/talisman/releases/tag/v1.32.1), 1 week ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [pgdogdev/pgdog](https://github.com/pgdogdev/pgdog) - Horizontal scaling for PostgreSQL. (today)
+- [Safe3/uuWAF](https://github.com/Safe3/uuWAF) - An industry-leading free, high-performance, AI and semantic technology Web Application Firewall and API Security Gateway (WAAP) - UUSEC WAF. (today)
 - [step-security/harden-runner](https://github.com/step-security/harden-runner) - Harden-Runner is a CI/CD security agent that works like an EDR for GitHub Actions runners. It monitors network egress, file integrity, and process activity on those runners, detecting threats in real-time. (2 days ago)
-- [marcboeker/go-duckdb](https://github.com/marcboeker/go-duckdb) - go-duckdb provides a database/sql driver for the DuckDB database engine. (3 days ago)
-- [varnish/tinykvm](https://github.com/varnish/tinykvm) - VMM for native-performance sandboxing (3 days ago)
 
 #### 📫 How to reach me
 
