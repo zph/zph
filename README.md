@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.32.2](https://github.com/thoughtworks/talisman/releases/tag/v1.32.2), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.6](https://github.com/jdx/mise/releases/tag/v2025.3.6), 3 days ago) - dev tools, env vars, task runner
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.71](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.71), 5 days ago) - Terraform MySQL provider – unofficial fork
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.7](https://github.com/jdx/mise/releases/tag/v2025.3.7), 1 day ago) - dev tools, env vars, task runner
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.0](https://github.com/thoughtworks/talisman/releases/tag/v1.33.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.5](https://github.com/denoland/deno/releases/tag/v2.2.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (2 days ago)
-- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (4 days ago)
-- [standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus](https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus) - Epub source for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, Archibald J. Wolfe, John Cournos, R. S. Townsend, and Maurice Magnus (4 days ago)
+- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (3 days ago)
+- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (5 days ago)
+- [standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus](https://github.com/standardebooks/leonid-andreyev_short-fiction_herman-bernstein_alexandra-linden_l-a-magnus_k-walter_w-h-lowe_the-rus) - Epub source for the Standard Ebooks edition of Short Fiction, by Leonid Andreyev. Translated by Herman Bernstein, Alexandra Linden, L. A. Magnus, K. Walter, W. H. Lowe, The Russian Review, Archibald J. Wolfe, John Cournos, R. S. Townsend, and Maurice Magnus (5 days ago)
 
 #### 📫 How to reach me
 
