@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.6](https://github.com/dagu-org/dagu/releases/tag/v1.16.6), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.7](https://github.com/jdx/mise/releases/tag/v2025.3.7), 4 days ago) - dev tools, env vars, task runner
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.0](https://github.com/thoughtworks/talisman/releases/tag/v1.33.0), 4 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.6](https://github.com/dagu-org/dagu/releases/tag/v1.16.6), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.7](https://github.com/jdx/mise/releases/tag/v2025.3.7), 5 days ago) - dev tools, env vars, task runner
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.0](https://github.com/thoughtworks/talisman/releases/tag/v1.33.0), 5 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (3 weeks ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (4 weeks ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 month ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (1 month ago)
 
 #### 📓 Gists
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (3 days ago)
-- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (6 days ago)
+- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (4 days ago)
+- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (1 week ago)
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (1 week ago)
 
 #### 📫 How to reach me
