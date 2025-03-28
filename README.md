@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.10](https://github.com/jdx/mise/releases/tag/v2025.3.10), 1 day ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.6](https://github.com/dagu-org/dagu/releases/tag/v1.16.6), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.0](https://github.com/thoughtworks/talisman/releases/tag/v1.33.0), 6 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.1](https://github.com/thoughtworks/talisman/releases/tag/v1.33.1), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.10](https://github.com/jdx/mise/releases/tag/v2025.3.10), 2 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.6](https://github.com/dagu-org/dagu/releases/tag/v1.16.6), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (5 days ago)
+- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (6 days ago)
 - [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (1 week ago)
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (1 week ago)
 
