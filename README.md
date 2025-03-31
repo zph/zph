@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 weeks ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.11](https://github.com/jdx/mise/releases/tag/v2025.3.11), 2 days ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.7](https://github.com/dagu-org/dagu/releases/tag/v1.16.7), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.6](https://github.com/denoland/deno/releases/tag/v2.2.6), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.11](https://github.com/jdx/mise/releases/tag/v2025.3.11), 3 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.7](https://github.com/dagu-org/dagu/releases/tag/v1.16.7), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.6](https://github.com/denoland/deno/releases/tag/v2.2.6), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -98,7 +98,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (1 week ago)
 - [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (1 week ago)
-- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (1 week ago)
+- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (2 weeks ago)
 
 #### 📫 How to reach me
 
