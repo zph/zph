@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.11](https://github.com/jdx/mise/releases/tag/v2025.3.11), 4 days ago) - dev tools, env vars, task runner
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.7](https://github.com/dagu-org/dagu/releases/tag/v1.16.7), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.6](https://github.com/denoland/deno/releases/tag/v2.2.6), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.3.11](https://github.com/jdx/mise/releases/tag/v2025.3.11), 5 days ago) - dev tools, env vars, task runner
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.7](https://github.com/dagu-org/dagu/releases/tag/v1.16.7), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.6](https://github.com/denoland/deno/releases/tag/v2.2.6), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -97,7 +97,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### ⭐ Recent Stars
 
 - [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (1 week ago)
-- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (1 week ago)
+- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (2 weeks ago)
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (2 weeks ago)
 
 #### 📫 How to reach me
