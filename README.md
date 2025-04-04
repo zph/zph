@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.7](https://github.com/denoland/deno/releases/tag/v2.2.7), today) - A modern runtime for JavaScript and TypeScript.
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.2](https://github.com/thoughtworks/talisman/releases/tag/v1.33.2), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 2 days ago) - A component manager for TiDB
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.0](https://github.com/jdx/mise/releases/tag/v2025.4.0), 2 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
