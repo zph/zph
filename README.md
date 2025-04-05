@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 weeks ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
 #### 🌱 My latest projects
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.7](https://github.com/denoland/deno/releases/tag/v2.2.7), today) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.33.2](https://github.com/thoughtworks/talisman/releases/tag/v1.33.2), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 2 days ago) - A component manager for TiDB
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.7](https://github.com/denoland/deno/releases/tag/v2.2.7), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 days ago) - A component manager for TiDB
 
 #### 🔨 My recent Pull Requests
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (1 week ago)
+- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (2 weeks ago)
 - [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (2 weeks ago)
 - [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (2 weeks ago)
 
