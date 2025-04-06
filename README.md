@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [politi/victron-ble-monitor](https://github.com/politi/victron-ble-monitor) - A software stack that allow to save and monitor the status of Victron devices (using MQTT, InfluxDB and Grafana) (today)
+- [victronenergy/venus-grafana](https://github.com/victronenergy/venus-grafana) - Default Grafana dashboards, for docker solution and Venus OS Large (today)
 - [BerndCirotzki/raymarine_autopilot_pi](https://github.com/BerndCirotzki/raymarine_autopilot_pi) - Raymarine Autopilot Plugin for OpenCPN (1 day ago)
-- [victronenergy/venus](https://github.com/victronenergy/venus) - Victron Energy Unix/Linux OS (1 day ago)
-- [rgleason/celestial_navigation_pi](https://github.com/rgleason/celestial_navigation_pi) - celestial navigation plugin for opencpn (1 day ago)
 
 #### 📫 How to reach me
 
