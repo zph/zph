@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), today) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 days ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 4 days ago) - A component manager for TiDB
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fast/fastrace](https://github.com/fast/fastrace) - A tracing library 10~100x faster than others. (2 weeks ago)
-- [bytedance/videx](https://github.com/bytedance/videx) - Virtual Index for MySQL (2 weeks ago)
-- [sfu-db/connector-x](https://github.com/sfu-db/connector-x) - Fastest library to load data from DB to DataFrames in Rust and Python (2 weeks ago)
+- [BerndCirotzki/raymarine_autopilot_pi](https://github.com/BerndCirotzki/raymarine_autopilot_pi) - Raymarine Autopilot Plugin for OpenCPN (1 day ago)
+- [victronenergy/venus](https://github.com/victronenergy/venus) - Victron Energy Unix/Linux OS (1 day ago)
+- [rgleason/celestial_navigation_pi](https://github.com/rgleason/celestial_navigation_pi) - celestial navigation plugin for opencpn (1 day ago)
 
 #### 📫 How to reach me
 
