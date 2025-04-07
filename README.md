@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 4 days ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 5 days ago) - A component manager for TiDB
 
 #### 🔨 My recent Pull Requests
 
@@ -90,15 +90,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (8 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (9 months ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [politi/victron-ble-monitor](https://github.com/politi/victron-ble-monitor) - A software stack that allow to save and monitor the status of Victron devices (using MQTT, InfluxDB and Grafana) (today)
-- [victronenergy/venus-grafana](https://github.com/victronenergy/venus-grafana) - Default Grafana dashboards, for docker solution and Venus OS Large (today)
-- [BerndCirotzki/raymarine_autopilot_pi](https://github.com/BerndCirotzki/raymarine_autopilot_pi) - Raymarine Autopilot Plugin for OpenCPN (1 day ago)
+- [antipole2/JavaScripts-shared](https://github.com/antipole2/JavaScripts-shared) - JavaScripts being shared via GitHub (1 day ago)
+- [jieter/orc-data](https://github.com/jieter/orc-data) - Display/visualize some freely available ORC certificate sailboat data. (1 day ago)
+- [politi/victron-ble-monitor](https://github.com/politi/victron-ble-monitor) - A software stack that allow to save and monitor the status of Victron devices (using MQTT, InfluxDB and Grafana) (1 day ago)
 
 #### 📫 How to reach me
 
