@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 5 days ago) - A component manager for TiDB
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 4 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 6 days ago) - A component manager for TiDB
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (1 month ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 month ago)
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (1 month ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 months ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [antipole2/JavaScripts-shared](https://github.com/antipole2/JavaScripts-shared) - JavaScripts being shared via GitHub (1 day ago)
-- [jieter/orc-data](https://github.com/jieter/orc-data) - Display/visualize some freely available ORC certificate sailboat data. (1 day ago)
-- [politi/victron-ble-monitor](https://github.com/politi/victron-ble-monitor) - A software stack that allow to save and monitor the status of Victron devices (using MQTT, InfluxDB and Grafana) (1 day ago)
+- [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats (today)
+- [antipole2/JavaScripts-shared](https://github.com/antipole2/JavaScripts-shared) - JavaScripts being shared via GitHub (2 days ago)
+- [jieter/orc-data](https://github.com/jieter/orc-data) - Display/visualize some freely available ORC certificate sailboat data. (2 days ago)
 
 #### 📫 How to reach me
 
