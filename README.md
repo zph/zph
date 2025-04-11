@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.1](https://github.com/jdx/mise/releases/tag/v2025.4.1), 1 day ago) - dev tools, env vars, task runner
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.8](https://github.com/denoland/deno/releases/tag/v2.2.8), 5 days ago) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 6 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.1.11](https://github.com/denoland/deno/releases/tag/v2.1.11), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.1](https://github.com/jdx/mise/releases/tag/v2025.4.1), 2 days ago) - dev tools, env vars, task runner
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.34.0](https://github.com/thoughtworks/talisman/releases/tag/v1.34.0), 1 week ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (1 day ago)
-- [Thomas-GeDaD/SignalK_raspberry_MCS](https://github.com/Thomas-GeDaD/SignalK_raspberry_MCS) - SignalK Plugin to provide MCS functionality to SignalK (2 days ago)
-- [bareboat-necessities/my-bareboat](https://github.com/bareboat-necessities/my-bareboat) - Opensource hardware and software solutions for sailing and sailboats (2 days ago)
+- [StarRocks/starrocks](https://github.com/StarRocks/starrocks) - The world&#39;s fastest open query engine for sub-second analytics both on and off the data lakehouse. With the flexibility to support nearly any scenario, StarRocks provides best-in-class performance for multi-dimensional analytics, real-time analytics, and ad-hoc queries. A Linux Foundation project. (1 day ago)
+- [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (2 days ago)
+- [Thomas-GeDaD/SignalK_raspberry_MCS](https://github.com/Thomas-GeDaD/SignalK_raspberry_MCS) - SignalK Plugin to provide MCS functionality to SignalK (3 days ago)
 
 #### 📫 How to reach me
 
