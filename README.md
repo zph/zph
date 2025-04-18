@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.5](https://github.com/jdx/mise/releases/tag/v2025.4.5), today) - dev tools, env vars, task runner
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.0](https://github.com/thoughtworks/talisman/releases/tag/v1.35.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.4](https://github.com/jdx/mise/releases/tag/v2025.4.4), 3 days ago) - dev tools, env vars, task runner
 - [denoland/deno](https://github.com/denoland/deno) ([v2.2.10](https://github.com/denoland/deno/releases/tag/v2.2.10), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
