@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.5](https://github.com/jdx/mise/releases/tag/v2025.4.5), 2 days ago) - dev tools, env vars, task runner
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.0](https://github.com/thoughtworks/talisman/releases/tag/v1.35.0), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.5](https://github.com/jdx/mise/releases/tag/v2025.4.5), 3 days ago) - dev tools, env vars, task runner
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.0](https://github.com/thoughtworks/talisman/releases/tag/v1.35.0), 4 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (5 days ago)
-- [Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO](https://github.com/Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO) - UI written for the LilyGo-EPD47-S3 project (5 days ago)
-- [JohnySeven/TWatchSK](https://github.com/JohnySeven/TWatchSK) - TTGO T-Watch 2020 v1 supporting Signal K features for displaying boat data and controlling devices on board. (5 days ago)
+- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (6 days ago)
+- [Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO](https://github.com/Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO) - UI written for the LilyGo-EPD47-S3 project (6 days ago)
+- [JohnySeven/TWatchSK](https://github.com/JohnySeven/TWatchSK) - TTGO T-Watch 2020 v1 supporting Signal K features for displaying boat data and controlling devices on board. (6 days ago)
 
 #### 📫 How to reach me
 
