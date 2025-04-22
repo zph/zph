@@ -14,7 +14,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (4 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (4 months ago)
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (5 months ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (6 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (8 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (8 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (11 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.5](https://github.com/jdx/mise/releases/tag/v2025.4.5), 3 days ago) - dev tools, env vars, task runner
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.0](https://github.com/thoughtworks/talisman/releases/tag/v1.35.0), 4 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.1](https://github.com/thoughtworks/talisman/releases/tag/v1.35.1), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [jdx/mise](https://github.com/jdx/mise) ([v2025.4.5](https://github.com/jdx/mise/releases/tag/v2025.4.5), 4 days ago) - dev tools, env vars, task runner
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (6 days ago)
-- [Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO](https://github.com/Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO) - UI written for the LilyGo-EPD47-S3 project (6 days ago)
-- [JohnySeven/TWatchSK](https://github.com/JohnySeven/TWatchSK) - TTGO T-Watch 2020 v1 supporting Signal K features for displaying boat data and controlling devices on board. (6 days ago)
+- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (1 week ago)
+- [Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO](https://github.com/Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO) - UI written for the LilyGo-EPD47-S3 project (1 week ago)
+- [JohnySeven/TWatchSK](https://github.com/JohnySeven/TWatchSK) - TTGO T-Watch 2020 v1 supporting Signal K features for displaying boat data and controlling devices on board. (1 week ago)
 
 #### 📫 How to reach me
 
