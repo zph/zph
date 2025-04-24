@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 1 day ago) - Terraform MySQL provider – unofficial fork
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.35.1](https://github.com/thoughtworks/talisman/releases/tag/v1.35.1), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 2 days ago) - Terraform MySQL provider – unofficial fork
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
