@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.12](https://github.com/denoland/deno/releases/tag/v2.2.12), today) - A modern runtime for JavaScript and TypeScript.
 - [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 3 days ago) - Terraform MySQL provider – unofficial fork
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
