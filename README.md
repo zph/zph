@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 2 days ago) - Terraform MySQL provider – unofficial fork
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 3 days ago) - Terraform MySQL provider – unofficial fork
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.11](https://github.com/denoland/deno/releases/tag/v2.2.11), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (1 month ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 month ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 months ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (2 months ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (1 day ago)
+- [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (1 day ago)
 - [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (1 week ago)
-- [Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO](https://github.com/Xinyuan-LilyGO/T5S3-4.7-e-paper-PRO) - UI written for the LilyGo-EPD47-S3 project (1 week ago)
-- [JohnySeven/TWatchSK](https://github.com/JohnySeven/TWatchSK) - TTGO T-Watch 2020 v1 supporting Signal K features for displaying boat data and controlling devices on board. (1 week ago)
 
 #### 📫 How to reach me
 
