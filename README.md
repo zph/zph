@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.12](https://github.com/denoland/deno/releases/tag/v2.2.12), today) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 3 days ago) - Terraform MySQL provider – unofficial fork
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.12](https://github.com/denoland/deno/releases/tag/v2.2.12), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 3 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 4 days ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (1 day ago)
-- [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (1 day ago)
+- [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (2 days ago)
+- [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (2 days ago)
 - [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (1 week ago)
 
 #### 📫 How to reach me
