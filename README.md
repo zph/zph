@@ -13,18 +13,18 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (4 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (4 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (5 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (6 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (8 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (8 months ago)
-- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (11 months ago)
+- [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (1 year ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
 - [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.12](https://github.com/denoland/deno/releases/tag/v2.2.12), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 5 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 6 days ago) - Terraform MySQL provider – unofficial fork
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.12](https://github.com/denoland/deno/releases/tag/v2.2.12), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.0](https://github.com/thoughtworks/talisman/releases/tag/v1.36.0), 6 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.72](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.72), 1 week ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (4 days ago)
-- [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (4 days ago)
-- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (1 week ago)
+- [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (5 days ago)
+- [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (5 days ago)
+- [jhirner/pi-frame](https://github.com/jhirner/pi-frame) - An e-ink picture frame powered by a Raspberry Pi (2 weeks ago)
 
 #### 📫 How to reach me
 
