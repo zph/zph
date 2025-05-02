@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), today) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.1](https://github.com/thoughtworks/talisman/releases/tag/v1.36.1), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.1](https://github.com/denoland/deno/releases/tag/v2.3.1), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.36.1](https://github.com/thoughtworks/talisman/releases/tag/v1.36.1), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.1](https://github.com/denoland/deno/releases/tag/v2.3.1), 2 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
