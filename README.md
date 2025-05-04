@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 1 day ago) - Terraform MySQL provider – unofficial fork
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.37.0](https://github.com/thoughtworks/talisman/releases/tag/v1.37.0), 1 day ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 2 days ago) - Terraform MySQL provider – unofficial fork
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.37.0](https://github.com/thoughtworks/talisman/releases/tag/v1.37.0), 2 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
