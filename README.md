@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 4 days ago) - Terraform MySQL provider – unofficial fork
-- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.37.0](https://github.com/thoughtworks/talisman/releases/tag/v1.37.0), 4 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 5 days ago) - Terraform MySQL provider – unofficial fork
+- [thoughtworks/talisman](https://github.com/thoughtworks/talisman) ([v1.37.0](https://github.com/thoughtworks/talisman/releases/tag/v1.37.0), 5 days ago) - Using a pre-commit hook, Talisman validates the outgoing changeset for things that look suspicious — such as tokens, passwords, and private keys.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.8](https://github.com/dagu-org/dagu/releases/tag/v1.16.8), 6 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 
 #### 🔨 My recent Pull Requests
 
@@ -90,13 +90,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (9 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (10 months ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (1 day ago)
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (2 days ago)
 - [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (1 week ago)
 - [tabeaeggler/MarineGRIB-InReach-Transmitter](https://github.com/tabeaeggler/MarineGRIB-InReach-Transmitter) - This tool enables sailors to fetch crucial GRIB weather files via messages over the Garmin inReach Satellite device while out on open seas without internet connection. (1 week ago)
 
