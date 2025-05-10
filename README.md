@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! (1 day ago)
-- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (4 days ago)
+- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! (2 days ago)
+- [wulkano/Kap](https://github.com/wulkano/Kap) - An open-source screen recorder built with web technology (5 days ago)
 - [labynocle/slack_emoji_downloader](https://github.com/labynocle/slack_emoji_downloader) - Tiny go script to download all custom emoji of a given Slack space (2 weeks ago)
 
 #### 📫 How to reach me
