@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [SmartBoatInnovations/ha-smart-anchor](https://github.com/SmartBoatInnovations/ha-smart-anchor) -  (today)
 - [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework. (1 day ago)
 - [AK-Homberger/Seatalk-Autopilot-Remote-Control](https://github.com/AK-Homberger/Seatalk-Autopilot-Remote-Control) - This repository shows how to build a Seatalk Autopilot Remote Control device based on an Arduino ProMicro and a simple 433 MHz KeyFob. (1 day ago)
-- [bentoml/BentoML](https://github.com/bentoml/BentoML) - The easiest way to serve AI apps and models - Build Model Inference APIs, Job queues, LLM apps, Multi-model pipelines, and more! (5 days ago)
 
 #### 📫 How to reach me
 
