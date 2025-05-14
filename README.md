@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [SmartBoatInnovations/ha-smart-anchor](https://github.com/SmartBoatInnovations/ha-smart-anchor) -  (1 day ago)
-- [open-mmlab/mmtracking](https://github.com/open-mmlab/mmtracking) - OpenMMLab Video Perception Toolbox. It supports Video Object Detection (VID), Multiple Object Tracking (MOT), Single Object Tracking (SOT), Video Instance Segmentation (VIS) with a unified framework. (2 days ago)
-- [AK-Homberger/Seatalk-Autopilot-Remote-Control](https://github.com/AK-Homberger/Seatalk-Autopilot-Remote-Control) - This repository shows how to build a Seatalk Autopilot Remote Control device based on an Arduino ProMicro and a simple 433 MHz KeyFob. (2 days ago)
+- [factoidforrest/anchor-alarm-lora](https://github.com/factoidforrest/anchor-alarm-lora) - An anchor alarm/buzzer for boats and a slaved remote that can be taken ashore. (today)
+- [pypilot/pypilot](https://github.com/pypilot/pypilot) - free autopilot for sailboats written in python supporting signalk (today)
+- [jeff-burright/Autopilot_ESP32_wifi](https://github.com/jeff-burright/Autopilot_ESP32_wifi) - Sailboat compass autopilot for ESP32 (arduino/C). Control via wifi HTML interface, ESP32 smartwatch, IR remote, or toggle button. Based on the arduino autopilot built by Jack Edwards (https://github.com/CoyoteWaits/Jack_Edwards_Autopilot). (today)
 
 #### 📫 How to reach me
 
