@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.13](https://github.com/denoland/deno/releases/tag/v2.2.13), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.9](https://github.com/dagu-org/dagu/releases/tag/v1.16.9), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.2.13](https://github.com/denoland/deno/releases/tag/v2.2.13), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.9](https://github.com/dagu-org/dagu/releases/tag/v1.16.9), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 1 week ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [factoidforrest/anchor-alarm-lora](https://github.com/factoidforrest/anchor-alarm-lora) - An anchor alarm/buzzer for boats and a slaved remote that can be taken ashore. (today)
-- [pypilot/pypilot](https://github.com/pypilot/pypilot) - free autopilot for sailboats written in python supporting signalk (today)
-- [jeff-burright/Autopilot_ESP32_wifi](https://github.com/jeff-burright/Autopilot_ESP32_wifi) - Sailboat compass autopilot for ESP32 (arduino/C). Control via wifi HTML interface, ESP32 smartwatch, IR remote, or toggle button. Based on the arduino autopilot built by Jack Edwards (https://github.com/CoyoteWaits/Jack_Edwards_Autopilot). (today)
+- [factoidforrest/anchor-alarm-lora](https://github.com/factoidforrest/anchor-alarm-lora) - An anchor alarm/buzzer for boats and a slaved remote that can be taken ashore. (1 day ago)
+- [pypilot/pypilot](https://github.com/pypilot/pypilot) - free autopilot for sailboats written in python supporting signalk (1 day ago)
+- [jeff-burright/Autopilot_ESP32_wifi](https://github.com/jeff-burright/Autopilot_ESP32_wifi) - Sailboat compass autopilot for ESP32 (arduino/C). Control via wifi HTML interface, ESP32 smartwatch, IR remote, or toggle button. Based on the arduino autopilot built by Jack Edwards (https://github.com/CoyoteWaits/Jack_Edwards_Autopilot). (1 day ago)
 
 #### 📫 How to reach me
 
