@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [dgandiaga/boat_detector](https://github.com/dgandiaga/boat_detector) - Boat Detection and Tracking on videos using YOLOv5 and CSRT tracking (today)
 - [factoidforrest/anchor-alarm-lora](https://github.com/factoidforrest/anchor-alarm-lora) - An anchor alarm/buzzer for boats and a slaved remote that can be taken ashore. (1 day ago)
 - [pypilot/pypilot](https://github.com/pypilot/pypilot) - free autopilot for sailboats written in python supporting signalk (1 day ago)
-- [jeff-burright/Autopilot_ESP32_wifi](https://github.com/jeff-burright/Autopilot_ESP32_wifi) - Sailboat compass autopilot for ESP32 (arduino/C). Control via wifi HTML interface, ESP32 smartwatch, IR remote, or toggle button. Based on the arduino autopilot built by Jack Edwards (https://github.com/CoyoteWaits/Jack_Edwards_Autopilot). (1 day ago)
 
 #### 📫 How to reach me
 
