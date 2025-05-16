@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.2.13](https://github.com/denoland/deno/releases/tag/v2.2.13), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.2](https://github.com/denoland/deno/releases/tag/v2.3.2), today) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.9](https://github.com/dagu-org/dagu/releases/tag/v1.16.9), 5 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 2 weeks ago) - Terraform MySQL provider – unofficial fork
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [stripydog/kplex](https://github.com/stripydog/kplex) - kplex marine data multiplexer (1 day ago)
-- [ehedman/websocketNmea](https://github.com/ehedman/websocketNmea) - An application for marine virtual instrument (1 day ago)
-- [dgandiaga/boat_detector](https://github.com/dgandiaga/boat_detector) - Boat Detection and Tracking on videos using YOLOv5 and CSRT tracking (1 day ago)
+- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (today)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (today)
+- [Allopart/Maritme_Mask_RCNN](https://github.com/Allopart/Maritme_Mask_RCNN) - Mask-RCNN applied to DTU Maritime dataset for the autonomous navigation of vessels through image segmentation (today)
 
 #### 📫 How to reach me
 
