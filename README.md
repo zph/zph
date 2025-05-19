@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.10](https://github.com/dagu-org/dagu/releases/tag/v1.16.10), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.10](https://github.com/dagu-org/dagu/releases/tag/v1.16.10), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 2 weeks ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (2 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (2 days ago)
-- [Allopart/Maritme_Mask_RCNN](https://github.com/Allopart/Maritme_Mask_RCNN) - Mask-RCNN applied to DTU Maritime dataset for the autonomous navigation of vessels through image segmentation (2 days ago)
+- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (3 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
+- [Allopart/Maritme_Mask_RCNN](https://github.com/Allopart/Maritme_Mask_RCNN) - Mask-RCNN applied to DTU Maritime dataset for the autonomous navigation of vessels through image segmentation (3 days ago)
 
 #### 📫 How to reach me
 
