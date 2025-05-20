@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [daniel5151/osxhidtouch](https://github.com/daniel5151/osxhidtouch) - User-space HID multitouch touchscreen driver for Mac OS X (Adapted for XPS 15 9560 from kyewei/osxhidtouch) (1 day ago)
-- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (4 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
+- [nohal/dashboardsk_pi](https://github.com/nohal/dashboardsk_pi) - SignalK based dashboard plugin for OpenCPN (today)
+- [seandepagnier/autopilot_route_pi](https://github.com/seandepagnier/autopilot_route_pi) - autopilot route plugin for opencpn (today)
+- [peterantypas/maiana](https://github.com/peterantypas/maiana) - MAIANA™ is the first Open Source AIS transponder. It proudly raises an extra long middle finger to the marine electronics industry, government overregulation and everything else that gets in the way of innovation in this space. (today)
 
 #### 📫 How to reach me
 
