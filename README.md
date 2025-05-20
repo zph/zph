@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.10](https://github.com/dagu-org/dagu/releases/tag/v1.16.10), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.75](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.75), 2 weeks ago) - Terraform MySQL provider – unofficial fork
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 1 day ago) - Simplified executable deployment
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.10](https://github.com/dagu-org/dagu/releases/tag/v1.16.10), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (3 days ago)
-- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (3 days ago)
-- [Allopart/Maritme_Mask_RCNN](https://github.com/Allopart/Maritme_Mask_RCNN) - Mask-RCNN applied to DTU Maritime dataset for the autonomous navigation of vessels through image segmentation (3 days ago)
+- [daniel5151/osxhidtouch](https://github.com/daniel5151/osxhidtouch) - User-space HID multitouch touchscreen driver for Mac OS X (Adapted for XPS 15 9560 from kyewei/osxhidtouch) (1 day ago)
+- [meri-imperiumi/signalk-audio-notifications](https://github.com/meri-imperiumi/signalk-audio-notifications) - Spoken audio for Signal K alerts using text-to-speech (4 days ago)
+- [blakeblackshear/frigate](https://github.com/blakeblackshear/frigate) - NVR with realtime local object detection for IP cameras (4 days ago)
 
 #### 📫 How to reach me
 
