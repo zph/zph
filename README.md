@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [meri-imperiumi/signalk-infodisplay](https://github.com/meri-imperiumi/signalk-infodisplay) - Context-aware information display for Signal K (today)
 - [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (today)
 - [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library. (1 day ago)
-- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
 
 #### 📫 How to reach me
 
