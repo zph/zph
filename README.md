@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 1 day ago) - Simplified executable deployment
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.10](https://github.com/dagu-org/dagu/releases/tag/v1.16.10), 4 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 days ago) - Simplified executable deployment
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 5 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nohal/dashboardsk_pi](https://github.com/nohal/dashboardsk_pi) - SignalK based dashboard plugin for OpenCPN (today)
-- [seandepagnier/autopilot_route_pi](https://github.com/seandepagnier/autopilot_route_pi) - autopilot route plugin for opencpn (today)
-- [peterantypas/maiana](https://github.com/peterantypas/maiana) - MAIANA™ is the first Open Source AIS transponder. It proudly raises an extra long middle finger to the marine electronics industry, government overregulation and everything else that gets in the way of innovation in this space. (today)
+- [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (today)
+- [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library. (1 day ago)
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations. (1 day ago)
 
 #### 📫 How to reach me
 
