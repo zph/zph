@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (today)
 - [meri-imperiumi/signalk-infodisplay](https://github.com/meri-imperiumi/signalk-infodisplay) - Context-aware information display for Signal K (1 day ago)
 - [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 day ago)
-- [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library. (2 days ago)
 
 #### 📫 How to reach me
 
