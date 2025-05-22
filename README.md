@@ -14,7 +14,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (5 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (5 months ago)
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (6 months ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (7 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (9 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (9 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (1 year ago)
@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 
 #### 🌱 My latest projects
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 days ago) - Simplified executable deployment
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 5 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 3 days ago) - Simplified executable deployment
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 6 days ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [meri-imperiumi/signalk-infodisplay](https://github.com/meri-imperiumi/signalk-infodisplay) - Context-aware information display for Signal K (today)
-- [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (today)
-- [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library. (1 day ago)
+- [meri-imperiumi/signalk-infodisplay](https://github.com/meri-imperiumi/signalk-infodisplay) - Context-aware information display for Signal K (1 day ago)
+- [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 day ago)
+- [windycom/API](https://github.com/windycom/API) - 🏄Windy API, or Windy Leaflet Plugin, let you put animated weather map into your website and enjoy rich ecosystem of Leaflet library. (2 days ago)
 
 #### 📫 How to reach me
 
