@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (today)
+- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (today)
 - [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (6 days ago)
-- [meri-imperiumi/signalk-infodisplay](https://github.com/meri-imperiumi/signalk-infodisplay) - Context-aware information display for Signal K (1 week ago)
-- [guycipher/wildcat](https://github.com/guycipher/wildcat) - Embedded open-source storage engine for highly concurrent, transactional log-structured key-value storage. (1 week ago)
 
 #### 📫 How to reach me
 
