@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (5 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (5 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (6 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (7 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (9 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (9 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (today)
-- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (today)
-- [LizardByte/Sunshine](https://github.com/LizardByte/Sunshine) - Self-hosted game stream host for Moonlight. (6 days ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
+- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (1 day ago)
+- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (1 day ago)
 
 #### 📫 How to reach me
 
