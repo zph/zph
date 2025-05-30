@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 
@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 1 week ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 1 week ago) - Simplified executable deployment
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 1 week ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (1 day ago)
-- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (1 day ago)
-- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (1 day ago)
+- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (2 days ago)
+- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (2 days ago)
+- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (2 days ago)
 
 #### 📫 How to reach me
 
