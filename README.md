@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.4](https://github.com/denoland/deno/releases/tag/v2.3.4), today) - A modern runtime for JavaScript and TypeScript.
 - [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 1 week ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 1 week ago) - Simplified executable deployment
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.3](https://github.com/denoland/deno/releases/tag/v2.3.3), 2 weeks ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tkurki/signalk-mqtt-gw](https://github.com/tkurki/signalk-mqtt-gw) - Signal K server plugin that provides gateway functionality between Signal K and MQTT (today)
+- [tkurki/signalk-to-influxdb2](https://github.com/tkurki/signalk-to-influxdb2) -  (today)
 - [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (2 days ago)
-- [SignalK/signalk-autopilot](https://github.com/SignalK/signalk-autopilot) -  (2 days ago)
-- [canboat/canboatjs](https://github.com/canboat/canboatjs) - Native javascript NMEA 2000 decoder and encoder (2 days ago)
 
 #### 📫 How to reach me
 
