@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (5 months ago)
+- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (6 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (6 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (7 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (9 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.4](https://github.com/denoland/deno/releases/tag/v2.3.4), today) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.16.12](https://github.com/dagu-org/dagu/releases/tag/v1.16.12), 1 week ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.1](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.1), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 day ago) - A modern runtime for JavaScript and TypeScript.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 1 week ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
-- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (2 months ago)
+- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (3 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 months ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tkurki/signalk-mqtt-gw](https://github.com/tkurki/signalk-mqtt-gw) - Signal K server plugin that provides gateway functionality between Signal K and MQTT (today)
-- [tkurki/signalk-to-influxdb2](https://github.com/tkurki/signalk-to-influxdb2) -  (today)
-- [CloudCannon/pagefind](https://github.com/CloudCannon/pagefind) - Static low-bandwidth search at scale (2 days ago)
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform (1 day ago)
+- [tkurki/signalk-mqtt-gw](https://github.com/tkurki/signalk-mqtt-gw) - Signal K server plugin that provides gateway functionality between Signal K and MQTT (1 day ago)
+- [tkurki/signalk-to-influxdb2](https://github.com/tkurki/signalk-to-influxdb2) -  (1 day ago)
 
 #### 📫 How to reach me
 
