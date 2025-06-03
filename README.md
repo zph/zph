@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 months ago)
 
 #### 🌱 My latest projects
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.5](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.5), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.6](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.6), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 4 days ago) - A modern runtime for JavaScript and TypeScript.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 weeks ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Saillogger/signalk-windy-plugin](https://github.com/Saillogger/signalk-windy-plugin) - An project to enhance marine weather observations by transmitting boat data to Windy.com as weather reports (1 day ago)
-- [SignalK/signalk-js-client](https://github.com/SignalK/signalk-js-client) - Signal K JavaScript client library (2 days ago)
-- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform (3 days ago)
+- [Saillogger/signalk-windy-plugin](https://github.com/Saillogger/signalk-windy-plugin) - An project to enhance marine weather observations by transmitting boat data to Windy.com as weather reports (2 days ago)
+- [SignalK/signalk-js-client](https://github.com/SignalK/signalk-js-client) - Signal K JavaScript client library (3 days ago)
+- [koush/scrypted](https://github.com/koush/scrypted) - Scrypted is a high performance video integration and automation platform (4 days ago)
 
 #### 📫 How to reach me
 
