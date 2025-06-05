@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mxtommy/Kip](https://github.com/mxtommy/Kip) - SignalK Instrument package (2 days ago)
-- [Saillogger/signalk-windy-plugin](https://github.com/Saillogger/signalk-windy-plugin) - An project to enhance marine weather observations by transmitting boat data to Windy.com as weather reports (4 days ago)
-- [SignalK/signalk-js-client](https://github.com/SignalK/signalk-js-client) - Signal K JavaScript client library (5 days ago)
+- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (today)
+- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (today)
+- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (today)
 
 #### 📫 How to reach me
 
