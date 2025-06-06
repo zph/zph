@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.7](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.7), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.8](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.8), today) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 weeks ago) - Simplified executable deployment
 
