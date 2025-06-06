@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.7](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.7), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.7](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.7), 3 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 weeks ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
@@ -90,15 +90,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (10 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (11 months ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (today)
-- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (today)
-- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (today)
+- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (1 day ago)
+- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (1 day ago)
+- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (1 day ago)
 
 #### 📫 How to reach me
 
