@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.8](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.8), today) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 1 day ago) - Terraform MySQL provider – unofficial fork
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.8](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.8), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.4](https://github.com/facebook/dotslash/releases/tag/v0.5.4), 2 weeks ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (3 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 months ago)
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (3 months ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (4 months ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (1 day ago)
-- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (1 day ago)
-- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (1 day ago)
+- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (2 days ago)
+- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (2 days ago)
+- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (2 days ago)
 
 #### 📫 How to reach me
 
