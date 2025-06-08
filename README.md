@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 1 day ago) - Terraform MySQL provider – unofficial fork
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.8](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.8), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 2 days ago) - Terraform MySQL provider – unofficial fork
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.8](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.8), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (2 days ago)
-- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (2 days ago)
-- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (2 days ago)
+- [VladimirKalachikhin/Galadriel-map](https://github.com/VladimirKalachikhin/Galadriel-map) - Raster tiles chartplotter (3 days ago)
+- [VladimirKalachikhin/GaladrielMapSK](https://github.com/VladimirKalachikhin/GaladrielMapSK) - GaladrielMap SignalK edition (3 days ago)
+- [VladimirKalachikhin/collision-detector](https://github.com/VladimirKalachikhin/collision-detector) - SignalK server plugin that detects a  risk of collision with other vessels (3 days ago)
 
 #### 📫 How to reach me
 
