@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [xbgmsharp/postgsail](https://github.com/xbgmsharp/postgsail) - PostgSail backend. Effortlessly logs sails, automatically capturing trips, moorages, dockings and anchorages with no additional need to stop/start anything.  (1 day ago)
-- [openplotter/pi-gen](https://github.com/openplotter/pi-gen) - Tool used to create the official Raspberry Pi OS images (1 day ago)
-- [TrunkRecorder/trunk-recorder](https://github.com/TrunkRecorder/trunk-recorder) - Records calls from a Trunked Radio System (P25 &amp; SmartNet) (1 day ago)
+- [shbatm/MMM-KeyBindings](https://github.com/shbatm/MMM-KeyBindings) - MagicMirror² utility module that provides a method for accepting inputs from a bluetooth remote/keyboard. (today)
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (today)
+- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) -  (today)
 
 #### 📫 How to reach me
 
