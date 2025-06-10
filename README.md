@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [michaelliesenberg/OpenWind_Python](https://github.com/michaelliesenberg/OpenWind_Python) -  (today)
-- [shbatm/MMM-KeyBindings](https://github.com/shbatm/MMM-KeyBindings) - MagicMirror² utility module that provides a method for accepting inputs from a bluetooth remote/keyboard. (1 day ago)
-- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (1 day ago)
+- [tomer-w/ha-nmea2000](https://github.com/tomer-w/ha-nmea2000) - NMEA 2000 Home Assistant Integration (today)
+- [djjudas21/ecowitt-exporter](https://github.com/djjudas21/ecowitt-exporter) - EcoWitt exporter for Prometheus (today)
+- [bachya/ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) - Send data from Fine Offset weather stations (Ecowitt, Ambient Weather, Froggit, etc.) to MQTT! (today)
 
 #### 📫 How to reach me
 
