@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
 #### 🌱 My latest projects
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.9](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.9), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 3 days ago) - Terraform MySQL provider – unofficial fork
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.10](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.10), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 4 days ago) - Terraform MySQL provider – unofficial fork
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [shbatm/MMM-KeyBindings](https://github.com/shbatm/MMM-KeyBindings) - MagicMirror² utility module that provides a method for accepting inputs from a bluetooth remote/keyboard. (today)
-- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (today)
-- [waveshareteam/e-Paper](https://github.com/waveshareteam/e-Paper) -  (today)
+- [michaelliesenberg/OpenWind_Python](https://github.com/michaelliesenberg/OpenWind_Python) -  (today)
+- [shbatm/MMM-KeyBindings](https://github.com/shbatm/MMM-KeyBindings) - MagicMirror² utility module that provides a method for accepting inputs from a bluetooth remote/keyboard. (1 day ago)
+- [MagicMirrorOrg/MagicMirror](https://github.com/MagicMirrorOrg/MagicMirror) - MagicMirror² is an open source modular smart mirror platform. With a growing list of installable modules, the MagicMirror² allows you to convert your hallway or bathroom mirror into your personal assistant. (1 day ago)
 
 #### 📫 How to reach me
 
