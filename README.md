@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [TomFrost/Jexl](https://github.com/TomFrost/Jexl) - Javascript Expression Language: Powerful context-based expression parser and evaluator (today)
 - [tomer-w/ha-nmea2000](https://github.com/tomer-w/ha-nmea2000) - NMEA 2000 Home Assistant Integration (1 day ago)
 - [djjudas21/ecowitt-exporter](https://github.com/djjudas21/ecowitt-exporter) - EcoWitt exporter for Prometheus (1 day ago)
-- [bachya/ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) - Send data from Fine Offset weather stations (Ecowitt, Ambient Weather, Froggit, etc.) to MQTT! (1 day ago)
 
 #### 📫 How to reach me
 
