@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.10](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.10), 1 day ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 4 days ago) - Terraform MySQL provider – unofficial fork
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0-beta.10](https://github.com/dagu-org/dagu/releases/tag/v1.17.0-beta.10), 2 days ago) - A compact, portable, and language-agnostic workflow engine. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 5 days ago) - Terraform MySQL provider – unofficial fork
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.5](https://github.com/denoland/deno/releases/tag/v2.3.5), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tomer-w/ha-nmea2000](https://github.com/tomer-w/ha-nmea2000) - NMEA 2000 Home Assistant Integration (today)
-- [djjudas21/ecowitt-exporter](https://github.com/djjudas21/ecowitt-exporter) - EcoWitt exporter for Prometheus (today)
-- [bachya/ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) - Send data from Fine Offset weather stations (Ecowitt, Ambient Weather, Froggit, etc.) to MQTT! (today)
+- [tomer-w/ha-nmea2000](https://github.com/tomer-w/ha-nmea2000) - NMEA 2000 Home Assistant Integration (1 day ago)
+- [djjudas21/ecowitt-exporter](https://github.com/djjudas21/ecowitt-exporter) - EcoWitt exporter for Prometheus (1 day ago)
+- [bachya/ecowitt2mqtt](https://github.com/bachya/ecowitt2mqtt) - Send data from Fine Offset weather stations (Ecowitt, Ambient Weather, Froggit, etc.) to MQTT! (1 day ago)
 
 #### 📫 How to reach me
 
