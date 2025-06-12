@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [iopsystems/rezolus](https://github.com/iopsystems/rezolus) - High-resolution, low-overhead systems telemetry (today)
 - [codekilo/signalk-modbus-plugin](https://github.com/codekilo/signalk-modbus-plugin) -  (1 day ago)
 - [TomFrost/Jexl](https://github.com/TomFrost/Jexl) - Javascript Expression Language: Powerful context-based expression parser and evaluator (1 day ago)
-- [tomer-w/ha-nmea2000](https://github.com/tomer-w/ha-nmea2000) - NMEA 2000 Home Assistant Integration (2 days ago)
 
 #### 📫 How to reach me
 
