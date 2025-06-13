@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [nauti-control/STWirelessRemote](https://github.com/nauti-control/STWirelessRemote) - Open Source Wireless remote for Raymarine ST1000/ST2000 autopilots as well as ST60 speed timer. (today)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (today)
 - [iopsystems/rezolus](https://github.com/iopsystems/rezolus) - High-resolution, low-overhead systems telemetry (1 day ago)
-- [codekilo/signalk-modbus-plugin](https://github.com/codekilo/signalk-modbus-plugin) -  (2 days ago)
-- [TomFrost/Jexl](https://github.com/TomFrost/Jexl) - Javascript Expression Language: Powerful context-based expression parser and evaluator (2 days ago)
 
 #### 📫 How to reach me
 
