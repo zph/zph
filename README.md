@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.0](https://github.com/dagu-org/dagu/releases/tag/v1.17.0), 1 day ago) - A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.1](https://github.com/dagu-org/dagu/releases/tag/v1.17.1), 1 day ago) - A self-contained, local-first, and language-agnostic workflow engine, alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.6](https://github.com/denoland/deno/releases/tag/v2.3.6), 1 week ago) - A modern runtime for JavaScript and TypeScript.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 1 week ago) - Terraform MySQL provider – unofficial fork
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 2 weeks ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nimtable/nimtable](https://github.com/nimtable/nimtable) - The Control Plane for Apache Iceberg (1 day ago)
-- [nauti-control/STWirelessRemote](https://github.com/nauti-control/STWirelessRemote) - Open Source Wireless remote for Raymarine ST1000/ST2000 autopilots as well as ST60 speed timer. (6 days ago)
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (6 days ago)
+- [nimtable/nimtable](https://github.com/nimtable/nimtable) - The Control Plane for Apache Iceberg (2 days ago)
+- [nauti-control/STWirelessRemote](https://github.com/nauti-control/STWirelessRemote) - Open Source Wireless remote for Raymarine ST1000/ST2000 autopilots as well as ST60 speed timer. (1 week ago)
+- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 week ago)
 
 #### 📫 How to reach me
 
