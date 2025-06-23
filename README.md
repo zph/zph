@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nimtable/nimtable](https://github.com/nimtable/nimtable) - The Control Plane for Apache Iceberg (5 days ago)
-- [nauti-control/STWirelessRemote](https://github.com/nauti-control/STWirelessRemote) - Open Source Wireless remote for Raymarine ST1000/ST2000 autopilots as well as ST60 speed timer. (1 week ago)
-- [apple/containerization](https://github.com/apple/containerization) - Containerization is a Swift package for running Linux containers on macOS. (1 week ago)
+- [sbender9/signalk-anchoralarm-plugin](https://github.com/sbender9/signalk-anchoralarm-plugin) - SignalK Node Server Anchor Alarm Plugin (today)
+- [sbender9/signalk-alarm-silencer](https://github.com/sbender9/signalk-alarm-silencer) - Plugin to silence SignalK Alarms (today)
+- [itemir/signalk-starlink](https://github.com/itemir/signalk-starlink) - Control your Starlink Dishy to stow it automatically while in transit. Also a reference implementation for using the API to access Dishy. (today)
 
 #### 📫 How to reach me
 
