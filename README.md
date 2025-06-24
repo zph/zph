@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.2](https://github.com/dagu-org/dagu/releases/tag/v1.17.2), 3 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.2](https://github.com/dagu-org/dagu/releases/tag/v1.17.2), 4 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [denoland/deno](https://github.com/denoland/deno) ([v2.3.6](https://github.com/denoland/deno/releases/tag/v2.3.6), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 2 weeks ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (3 months ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 months ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (4 months ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (4 months ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sbender9/signalk-anchoralarm-plugin](https://github.com/sbender9/signalk-anchoralarm-plugin) - SignalK Node Server Anchor Alarm Plugin (today)
-- [sbender9/signalk-alarm-silencer](https://github.com/sbender9/signalk-alarm-silencer) - Plugin to silence SignalK Alarms (today)
-- [itemir/signalk-starlink](https://github.com/itemir/signalk-starlink) - Control your Starlink Dishy to stow it automatically while in transit. Also a reference implementation for using the API to access Dishy. (today)
+- [bytebase/dbhub](https://github.com/bytebase/dbhub) - Universal database MCP server connecting to MySQL, PostgreSQL, SQL Server, MariaDB. (1 day ago)
+- [sbender9/signalk-anchoralarm-plugin](https://github.com/sbender9/signalk-anchoralarm-plugin) - SignalK Node Server Anchor Alarm Plugin (1 day ago)
+- [sbender9/signalk-alarm-silencer](https://github.com/sbender9/signalk-alarm-silencer) - Plugin to silence SignalK Alarms (1 day ago)
 
 #### 📫 How to reach me
 
