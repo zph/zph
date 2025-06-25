@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), today) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.2](https://github.com/dagu-org/dagu/releases/tag/v1.17.2), 4 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.2](https://github.com/dagu-org/dagu/releases/tag/v1.17.2), 5 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 2 weeks ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sr99622/libonvif](https://github.com/sr99622/libonvif) - Onvif library with GUI implementation and built in YOLOX (today)
-- [tchellomello/python-amcrest](https://github.com/tchellomello/python-amcrest) - A Python 2.7/3.x module for Amcrest and Dahua Cameras using the SDK HTTP API. (today)
-- [ReolinkCameraAPI/reolinkapipy](https://github.com/ReolinkCameraAPI/reolinkapipy) - Reolink Camera API written in Python 3.6 (today)
+- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). (1 day ago)
+- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. (1 day ago)
+- [sr99622/libonvif](https://github.com/sr99622/libonvif) - Onvif library with GUI implementation and built in YOLOX (1 day ago)
 
 #### 📫 How to reach me
 
