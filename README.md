@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wkentaro/labelme](https://github.com/wkentaro/labelme) - Image Polygonal Annotation with Python (polygon, rectangle, circle, line, point and image-level flag annotation). (1 day ago)
-- [cvat-ai/cvat](https://github.com/cvat-ai/cvat) - Annotate better with CVAT, the industry-leading data engine for machine learning. Used and trusted by teams at any scale, for data of any scale. (1 day ago)
-- [sr99622/libonvif](https://github.com/sr99622/libonvif) - Onvif library with GUI implementation and built in YOLOX (1 day ago)
+- [Nightdragon2000/Interactive-Ship-Tracking-System](https://github.com/Nightdragon2000/Interactive-Ship-Tracking-System) - Interactive system for visualizing live AIS ship data on a physical 3D map using a projector and gesture-based interaction. Combines Python, PostgreSQL, and computer vision tools to decode AIS messages and display real-time vessel positions with intuitive user control. (today)
+- [romnegrillo/side-view-ship-detection](https://github.com/romnegrillo/side-view-ship-detection) - Computer vision project to detect a side view ship in a harbor with desktop application ported in Raspberry Pi. (today)
+- [rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection](https://github.com/rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection) - AquaSight leverages advanced computer vision techniques for the automated detection and analysis of ships in aerial and satellite imagery. (today)
 
 #### 📫 How to reach me
 
