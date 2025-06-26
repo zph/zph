@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.2](https://github.com/dagu-org/dagu/releases/tag/v1.17.2), 5 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.76](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.76), 2 weeks ago) - Terraform MySQL provider – unofficial fork
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([test-release-1](https://github.com/facebook/dotslash/releases/tag/test-release-1), 1 day ago) - Simplified executable deployment
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 1 day ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 1 day ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Nightdragon2000/Interactive-Ship-Tracking-System](https://github.com/Nightdragon2000/Interactive-Ship-Tracking-System) - Interactive system for visualizing live AIS ship data on a physical 3D map using a projector and gesture-based interaction. Combines Python, PostgreSQL, and computer vision tools to decode AIS messages and display real-time vessel positions with intuitive user control. (today)
-- [romnegrillo/side-view-ship-detection](https://github.com/romnegrillo/side-view-ship-detection) - Computer vision project to detect a side view ship in a harbor with desktop application ported in Raspberry Pi. (today)
-- [rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection](https://github.com/rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection) - AquaSight leverages advanced computer vision techniques for the automated detection and analysis of ships in aerial and satellite imagery. (today)
+- [Nightdragon2000/Interactive-Ship-Tracking-System](https://github.com/Nightdragon2000/Interactive-Ship-Tracking-System) - Interactive system for visualizing live AIS ship data on a physical 3D map using a projector and gesture-based interaction. Combines Python, PostgreSQL, and computer vision tools to decode AIS messages and display real-time vessel positions with intuitive user control. (1 day ago)
+- [romnegrillo/side-view-ship-detection](https://github.com/romnegrillo/side-view-ship-detection) - Computer vision project to detect a side view ship in a harbor with desktop application ported in Raspberry Pi. (1 day ago)
+- [rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection](https://github.com/rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection) - AquaSight leverages advanced computer vision techniques for the automated detection and analysis of ships in aerial and satellite imagery. (1 day ago)
 
 #### 📫 How to reach me
 
