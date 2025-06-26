@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Nightdragon2000/Interactive-Ship-Tracking-System](https://github.com/Nightdragon2000/Interactive-Ship-Tracking-System) - Interactive system for visualizing live AIS ship data on a physical 3D map using a projector and gesture-based interaction. Combines Python, PostgreSQL, and computer vision tools to decode AIS messages and display real-time vessel positions with intuitive user control. (1 day ago)
-- [romnegrillo/side-view-ship-detection](https://github.com/romnegrillo/side-view-ship-detection) - Computer vision project to detect a side view ship in a harbor with desktop application ported in Raspberry Pi. (1 day ago)
-- [rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection](https://github.com/rohit-sahoo/AquaSight-Computer_Vision_for_Autonomous_Ship_Detection) - AquaSight leverages advanced computer vision techniques for the automated detection and analysis of ships in aerial and satellite imagery. (1 day ago)
+- [tjntomas/MI-Bluetooth-Remote-for-Home-Assistant](https://github.com/tjntomas/MI-Bluetooth-Remote-for-Home-Assistant) - Use a bluetooth remote control with Home Assistant (today)
+- [ArturSpirin/pyPS4Controller](https://github.com/ArturSpirin/pyPS4Controller) - Light module (less than 30KB) without any dependencies designed to provide hooks for PS4 Controller events (today)
+- [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols (today)
 
 #### 📫 How to reach me
 
