@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([test-release-1](https://github.com/facebook/dotslash/releases/tag/test-release-1), 1 day ago) - Simplified executable deployment
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 1 day ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 1 day ago) - Terraform MySQL provider – unofficial fork
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 day ago) - Simplified executable deployment
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 2 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 2 days ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tjntomas/MI-Bluetooth-Remote-for-Home-Assistant](https://github.com/tjntomas/MI-Bluetooth-Remote-for-Home-Assistant) - Use a bluetooth remote control with Home Assistant (today)
-- [ArturSpirin/pyPS4Controller](https://github.com/ArturSpirin/pyPS4Controller) - Light module (less than 30KB) without any dependencies designed to provide hooks for PS4 Controller events (today)
-- [Arduino-IRremote/Arduino-IRremote](https://github.com/Arduino-IRremote/Arduino-IRremote) - Infrared remote library for Arduino: send and receive infrared signals with multiple protocols (today)
+- [dwcaress/MB-System](https://github.com/dwcaress/MB-System) - MB-System is an open source software package for the processing and display of bathymetry and backscatter imagery data derived from multibeam, interferometry, and sidescan sonars. (1 day ago)
+- [tjntomas/MI-Bluetooth-Remote-for-Home-Assistant](https://github.com/tjntomas/MI-Bluetooth-Remote-for-Home-Assistant) - Use a bluetooth remote control with Home Assistant (1 day ago)
+- [ArturSpirin/pyPS4Controller](https://github.com/ArturSpirin/pyPS4Controller) - Light module (less than 30KB) without any dependencies designed to provide hooks for PS4 Controller events (1 day ago)
 
 #### 📫 How to reach me
 
