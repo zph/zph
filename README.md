@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (6 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (6 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (7 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (8 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (10 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (10 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
 
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 day ago) - Simplified executable deployment
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 2 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 2 days ago) - Terraform MySQL provider – unofficial fork
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 2 days ago) - Simplified executable deployment
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 3 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 3 days ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dwcaress/MB-System](https://github.com/dwcaress/MB-System) - MB-System is an open source software package for the processing and display of bathymetry and backscatter imagery data derived from multibeam, interferometry, and sidescan sonars. (1 day ago)
-- [tjntomas/MI-Bluetooth-Remote-for-Home-Assistant](https://github.com/tjntomas/MI-Bluetooth-Remote-for-Home-Assistant) - Use a bluetooth remote control with Home Assistant (1 day ago)
-- [ArturSpirin/pyPS4Controller](https://github.com/ArturSpirin/pyPS4Controller) - Light module (less than 30KB) without any dependencies designed to provide hooks for PS4 Controller events (1 day ago)
+- [ttu/ruuvitag-sensor](https://github.com/ttu/ruuvitag-sensor) - Python package for communicating with RuuviTag BLE Sensor and for decoding sensor data from broadcasted data (1 day ago)
+- [dwcaress/MB-System](https://github.com/dwcaress/MB-System) - MB-System is an open source software package for the processing and display of bathymetry and backscatter imagery data derived from multibeam, interferometry, and sidescan sonars. (2 days ago)
+- [tjntomas/MI-Bluetooth-Remote-for-Home-Assistant](https://github.com/tjntomas/MI-Bluetooth-Remote-for-Home-Assistant) - Use a bluetooth remote control with Home Assistant (2 days ago)
 
 #### 📫 How to reach me
 
