@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), today) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 3 days ago) - Simplified executable deployment
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.3](https://github.com/dagu-org/dagu/releases/tag/v1.17.3), 4 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) ([v3.0.78](https://github.com/petoju/terraform-provider-mysql/releases/tag/v3.0.78), 4 days ago) - Terraform MySQL provider – unofficial fork
 
 #### 🔨 My recent Pull Requests
