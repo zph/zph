@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 1 day ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 4 days ago) - Simplified executable deployment
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), 6 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 2 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 5 days ago) - Simplified executable deployment
+- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), 1 week ago) - A modern runtime for JavaScript and TypeScript.
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras (2 days ago)
-- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure &amp; application monitoring (2 days ago)
-- [ttlappalainen/NMEA2000](https://github.com/ttlappalainen/NMEA2000) - NMEA2000 library for Arduino (2 days ago)
+- [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package  (1 day ago)
+- [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras (3 days ago)
+- [Checkmk/checkmk](https://github.com/Checkmk/checkmk) - Checkmk - Best-in-class infrastructure &amp; application monitoring (3 days ago)
 
 #### 📫 How to reach me
 
