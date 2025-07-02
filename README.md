@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units. (1 day ago)
-- [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package  (2 days ago)
-- [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras (4 days ago)
+- [RichardoMrMu/python-onvif](https://github.com/RichardoMrMu/python-onvif) - control hikcamera using onvif test code (today)
+- [lumeohq/onvif-rs](https://github.com/lumeohq/onvif-rs) - A native Rust ONVIF client library. (today)
+- [kerberos-io/camera-to-rtsp](https://github.com/kerberos-io/camera-to-rtsp) - A container that helps us converting USB cameras and Raspberry Pi camera to a RTSP stream (today)
 
 #### 📫 How to reach me
 
