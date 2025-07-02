@@ -15,8 +15,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (7 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (7 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (8 months ago)
-- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (10 months ago)
-- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (10 months ago)
+- [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (11 months ago)
+- [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (11 months ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (1 year ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 2 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 5 days ago) - Simplified executable deployment
-- [denoland/deno](https://github.com/denoland/deno) ([v2.3.7](https://github.com/denoland/deno/releases/tag/v2.3.7), 1 week ago) - A modern runtime for JavaScript and TypeScript.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 3 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 6 days ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units. (today)
-- [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package  (1 day ago)
-- [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras (3 days ago)
+- [rtlsdrblog/rtl-sdr-blog](https://github.com/rtlsdrblog/rtl-sdr-blog) - Modified Osmocom drivers with enhancements for RTL-SDR Blog V3 and V4 units. (1 day ago)
+- [starkillerOG/reolink_aio](https://github.com/starkillerOG/reolink_aio) - Reolink NVR/camera API PyPI package  (2 days ago)
+- [QuantumEntangledAndy/neolink](https://github.com/QuantumEntangledAndy/neolink) - An RTSP bridge to Reolink IP cameras (4 days ago)
 
 #### 📫 How to reach me
 
