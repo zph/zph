@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 1 day ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 3 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 6 days ago) - Simplified executable deployment
+- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 2 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 4 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 week ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [RichardoMrMu/python-onvif](https://github.com/RichardoMrMu/python-onvif) - control hikcamera using onvif test code (today)
-- [lumeohq/onvif-rs](https://github.com/lumeohq/onvif-rs) - A native Rust ONVIF client library. (today)
-- [kerberos-io/camera-to-rtsp](https://github.com/kerberos-io/camera-to-rtsp) - A container that helps us converting USB cameras and Raspberry Pi camera to a RTSP stream (today)
+- [RichardoMrMu/python-onvif](https://github.com/RichardoMrMu/python-onvif) - control hikcamera using onvif test code (1 day ago)
+- [lumeohq/onvif-rs](https://github.com/lumeohq/onvif-rs) - A native Rust ONVIF client library. (1 day ago)
+- [kerberos-io/camera-to-rtsp](https://github.com/kerberos-io/camera-to-rtsp) - A container that helps us converting USB cameras and Raspberry Pi camera to a RTSP stream (1 day ago)
 
 #### 📫 How to reach me
 
