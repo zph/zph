@@ -26,7 +26,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 months ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 months ago)
 
 #### 🌱 My latest projects
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 2 days ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 4 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 3 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 5 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 week ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [RichardoMrMu/python-onvif](https://github.com/RichardoMrMu/python-onvif) - control hikcamera using onvif test code (1 day ago)
-- [lumeohq/onvif-rs](https://github.com/lumeohq/onvif-rs) - A native Rust ONVIF client library. (1 day ago)
-- [kerberos-io/camera-to-rtsp](https://github.com/kerberos-io/camera-to-rtsp) - A container that helps us converting USB cameras and Raspberry Pi camera to a RTSP stream (1 day ago)
+- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (today)
+- [keesverruijt/mayara](https://github.com/keesverruijt/mayara) - Marine Yacht Radar server (today)
+- [KEGustafsson/signalk-onvif-camera](https://github.com/KEGustafsson/signalk-onvif-camera) -  (today)
 
 #### 📫 How to reach me
 
