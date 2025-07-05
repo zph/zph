@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 months ago)
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 3 days ago) - A modern runtime for JavaScript and TypeScript.
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 5 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
+- [denoland/deno](https://github.com/denoland/deno) ([v2.4.0](https://github.com/denoland/deno/releases/tag/v2.4.0), 4 days ago) - A modern runtime for JavaScript and TypeScript.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 6 days ago) - Local-first workflow engine, built for self-hosting. Alternative to Airflow, Cron, etc. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 week ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (today)
-- [keesverruijt/mayara](https://github.com/keesverruijt/mayara) - Marine Yacht Radar server (today)
-- [KEGustafsson/signalk-onvif-camera](https://github.com/KEGustafsson/signalk-onvif-camera) -  (today)
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. (1 day ago)
+- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (1 day ago)
+- [keesverruijt/mayara](https://github.com/keesverruijt/mayara) - Marine Yacht Radar server (1 day ago)
 
 #### 📫 How to reach me
 
