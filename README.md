@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 6 days ago) - Local-first workflow engine, built for self-hosting. It aims to solve greater problems.
+- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 1 week ago) - Local-first workflow engine, built for self-hosting. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 week ago) - Simplified executable deployment
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 months ago) - A component manager for TiDB
 
@@ -90,15 +90,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (11 months ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (1 year ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [SignalK/node-red-embedded](https://github.com/SignalK/node-red-embedded) - Node red nodes for use with the signalk-node-red plugin (today)
-- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. (1 day ago)
-- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (1 day ago)
+- [SignalK/node-red-embedded](https://github.com/SignalK/node-red-embedded) - Node red nodes for use with the signalk-node-red plugin (1 day ago)
+- [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. (2 days ago)
+- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (2 days ago)
 
 #### 📫 How to reach me
 
