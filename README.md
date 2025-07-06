@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [dagu-org/dagu](https://github.com/dagu-org/dagu) ([v1.17.4](https://github.com/dagu-org/dagu/releases/tag/v1.17.4), 1 week ago) - Local-first workflow engine, built for self-hosting. It aims to solve greater problems.
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.5](https://github.com/facebook/dotslash/releases/tag/v0.5.5), 1 week ago) - Simplified executable deployment
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 months ago) - A component manager for TiDB
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire: (today)
 - [SignalK/node-red-embedded](https://github.com/SignalK/node-red-embedded) - Node red nodes for use with the signalk-node-red plugin (1 day ago)
 - [bluenviron/mediamtx](https://github.com/bluenviron/mediamtx) - Ready-to-use SRT / WebRTC / RTSP / RTMP / LL-HLS media server and media proxy that allows to read, publish, proxy, record and playback video and audio streams. (2 days ago)
-- [bkeepers/signalk-tides](https://github.com/bkeepers/signalk-tides) - A SignalK plugin that provides tidal predictions for the vessel&#39;s position from various online sources. (2 days ago)
 
 #### 📫 How to reach me
 
