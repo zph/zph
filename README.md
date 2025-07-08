@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mnpg/Reolink_api_documentations](https://github.com/mnpg/Reolink_api_documentations) - Reolink API official and unofficial documentations (today)
-- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire: (1 day ago)
-- [SignalK/node-red-embedded](https://github.com/SignalK/node-red-embedded) - Node red nodes for use with the signalk-node-red plugin (2 days ago)
+- [mnpg/Reolink_api_documentations](https://github.com/mnpg/Reolink_api_documentations) - Reolink API official and unofficial documentations (1 day ago)
+- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire: (2 days ago)
+- [SignalK/node-red-embedded](https://github.com/SignalK/node-red-embedded) - Node red nodes for use with the signalk-node-red plugin (3 days ago)
 
 #### 📫 How to reach me
 
