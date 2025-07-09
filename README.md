@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (today)
 - [containerd/overlaybd](https://github.com/containerd/overlaybd) - Overlaybd: a block based remote image format. The storage backend of containerd/accelerated-container-image. (1 day ago)
 - [mnpg/Reolink_api_documentations](https://github.com/mnpg/Reolink_api_documentations) - Reolink API official and unofficial documentations (2 days ago)
-- [abhiTronix/vidgear](https://github.com/abhiTronix/vidgear) - A High-performance cross-platform Video Processing Python framework powerpacked with unique trailblazing features :fire: (3 days ago)
 
 #### 📫 How to reach me
 
