@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible) (today)
+- [OnkarRuikar/bt-macro-remote](https://github.com/OnkarRuikar/bt-macro-remote) - Remote control for executing macros over Bluetooth (today)
 - [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (2 days ago)
-- [containerd/overlaybd](https://github.com/containerd/overlaybd) - Overlaybd: a block based remote image format. The storage backend of containerd/accelerated-container-image. (3 days ago)
-- [mnpg/Reolink_api_documentations](https://github.com/mnpg/Reolink_api_documentations) - Reolink API official and unofficial documentations (4 days ago)
 
 #### 📫 How to reach me
 
