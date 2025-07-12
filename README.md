@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [T-vK/ESP32-BLE-Keyboard](https://github.com/T-vK/ESP32-BLE-Keyboard) - Bluetooth LE Keyboard library for the ESP32 (Arduino IDE compatible) (1 day ago)
-- [OnkarRuikar/bt-macro-remote](https://github.com/OnkarRuikar/bt-macro-remote) - Remote control for executing macros over Bluetooth (1 day ago)
-- [AlexxIT/go2rtc](https://github.com/AlexxIT/go2rtc) - Ultimate camera streaming application with support RTSP, RTMP, HTTP-FLV, WebRTC, MSE, HLS, MP4, MJPEG, HomeKit, FFmpeg, etc. (3 days ago)
+- [pypilot/pypilot_doc](https://github.com/pypilot/pypilot_doc) - official pypilot user manual (today)
+- [pypilot/workbook](https://github.com/pypilot/workbook) -  (today)
+- [AndreasW29/pypilot-tinypilot-mysolution-infos](https://github.com/AndreasW29/pypilot-tinypilot-mysolution-infos) - Guide and kicad schematics (today)
 
 #### 📫 How to reach me
 
