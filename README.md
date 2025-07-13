@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application (1 day ago)
-- [pypilot/pypilot_doc](https://github.com/pypilot/pypilot_doc) - official pypilot user manual (1 day ago)
-- [pypilot/workbook](https://github.com/pypilot/workbook) -  (1 day ago)
+- [meri-imperiumi/signalk-aws-iot](https://github.com/meri-imperiumi/signalk-aws-iot) - Signal K plugin that sends metrics to AWS IoT (today)
+- [dgiardini/rtl-ais](https://github.com/dgiardini/rtl-ais) - A simple AIS tuner and generic dual-frequency FM demodulator (today)
+- [jvde-github/AIS-catcher](https://github.com/jvde-github/AIS-catcher) - AIS receiver for RTL SDR dongles, Airspy R2, Airspy Mini, Airspy HF&#43;, HackRF, SDRplay and SoapySDR  (today)
 
 #### 📫 How to reach me
 
