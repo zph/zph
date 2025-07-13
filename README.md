@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 months ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 3 days ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 4 days ago) - Simplified executable deployment
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 months ago) - A component manager for TiDB
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [pypilot/pypilot_doc](https://github.com/pypilot/pypilot_doc) - official pypilot user manual (today)
-- [pypilot/workbook](https://github.com/pypilot/workbook) -  (today)
-- [AndreasW29/pypilot-tinypilot-mysolution-infos](https://github.com/AndreasW29/pypilot-tinypilot-mysolution-infos) - Guide and kicad schematics (today)
+- [breezy-weather/breezy-weather](https://github.com/breezy-weather/breezy-weather) - A Material Design Weather Application (1 day ago)
+- [pypilot/pypilot_doc](https://github.com/pypilot/pypilot_doc) - official pypilot user manual (1 day ago)
+- [pypilot/workbook](https://github.com/pypilot/workbook) -  (1 day ago)
 
 #### 📫 How to reach me
 
