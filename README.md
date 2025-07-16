@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [AK-Homberger/M5Stack-NMEA-2000-Display-CAN-BUS](https://github.com/AK-Homberger/M5Stack-NMEA-2000-Display-CAN-BUS) - This repository shows how to use the M5Stack as NMEA 2000 Display and WiFi Gateway. (1 day ago)
-- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview (2 days ago)
-- [KennethTM/sonarlight](https://github.com/KennethTM/sonarlight) - Python library for reading and exploring the content of the sonar data (3 days ago)
+- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (today)
+- [ieb/N2KNMEA0183Wifi](https://github.com/ieb/N2KNMEA0183Wifi) - N2K and NMEA0183 Wifi Server for ESP32 exposing http, tcp and udp services. (today)
+- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Let Home Assistant see! (today)
 
 #### 📫 How to reach me
 
