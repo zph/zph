@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 6 days ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 1 week ago) - Simplified executable deployment
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 months ago) - A component manager for TiDB
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview (1 day ago)
-- [KennethTM/sonarlight](https://github.com/KennethTM/sonarlight) - Python library for reading and exploring the content of the sonar data (2 days ago)
-- [Kafkar/NMEA_Simulator](https://github.com/Kafkar/NMEA_Simulator) -  (2 days ago)
+- [AK-Homberger/M5Stack-NMEA-2000-Display-CAN-BUS](https://github.com/AK-Homberger/M5Stack-NMEA-2000-Display-CAN-BUS) - This repository shows how to use the M5Stack as NMEA 2000 Display and WiFi Gateway. (1 day ago)
+- [thomasnordquist/MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer) - An all-round MQTT client that provides a structured topic overview (2 days ago)
+- [KennethTM/sonarlight](https://github.com/KennethTM/sonarlight) - Python library for reading and exploring the content of the sonar data (3 days ago)
 
 #### 📫 How to reach me
 
