@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (today)
-- [ieb/N2KNMEA0183Wifi](https://github.com/ieb/N2KNMEA0183Wifi) - N2K and NMEA0183 Wifi Server for ESP32 exposing http, tcp and udp services. (today)
-- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Let Home Assistant see! (today)
+- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (1 day ago)
+- [ieb/N2KNMEA0183Wifi](https://github.com/ieb/N2KNMEA0183Wifi) - N2K and NMEA0183 Wifi Server for ESP32 exposing http, tcp and udp services. (1 day ago)
+- [valentinfrlch/ha-llmvision](https://github.com/valentinfrlch/ha-llmvision) - Let Home Assistant see! (1 day ago)
 
 #### 📫 How to reach me
 
