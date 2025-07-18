@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (today)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (1 day ago)
 - [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (2 days ago)
-- [ieb/N2KNMEA0183Wifi](https://github.com/ieb/N2KNMEA0183Wifi) - N2K and NMEA0183 Wifi Server for ESP32 exposing http, tcp and udp services. (2 days ago)
 
 #### 📫 How to reach me
 
