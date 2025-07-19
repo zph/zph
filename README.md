@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 months ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (today)
-- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (1 day ago)
-- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (2 days ago)
+- [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (1 day ago)
+- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (2 days ago)
+- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (3 days ago)
 
 #### 📫 How to reach me
 
