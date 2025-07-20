@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (today)
 - [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (2 days ago)
 - [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (3 days ago)
-- [wellenvogel/esp32-nmea2000](https://github.com/wellenvogel/esp32-nmea2000) - nmea2000 gateway with ESP32 (4 days ago)
 
 #### 📫 How to reach me
 
