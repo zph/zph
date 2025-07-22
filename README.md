@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (today)
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (2 days ago)
 - [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (4 days ago)
-- [StreamController/StreamController](https://github.com/StreamController/StreamController) - An elegant Linux app for the Elgato Stream Deck with support for plugins (5 days ago)
 
 #### 📫 How to reach me
 
