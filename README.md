@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 1 week ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 2 weeks ago) - Simplified executable deployment
 - [pingcap/tiup](https://github.com/pingcap/tiup) ([v1.16.2](https://github.com/pingcap/tiup/releases/tag/v1.16.2), 3 months ago) - A component manager for TiDB
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (today)
-- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (2 days ago)
-- [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (4 days ago)
+- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (1 day ago)
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (3 days ago)
+- [speters/rs109m](https://github.com/speters/rs109m) - RS-109M AIS net locator buoy configurator (5 days ago)
 
 #### 📫 How to reach me
 
