@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices (1 day ago)
-- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (2 days ago)
-- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (4 days ago)
+- [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices (2 days ago)
+- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (3 days ago)
+- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (5 days ago)
 
 #### 📫 How to reach me
 
