@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [espruino/EspruinoHub](https://github.com/espruino/EspruinoHub) - A BLE -&gt; MQTT bridge for Raspberry Pi and other Embedded devices (2 days ago)
-- [koggertech/KoggerApp](https://github.com/koggertech/KoggerApp) - KoggerApp is an open-source hydrographic and survey software (3 days ago)
-- [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software (5 days ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 day ago)
+- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (1 day ago)
+- [sam-cox/pytides](https://github.com/sam-cox/pytides) - Tide prediction and analysis in python. (1 day ago)
 
 #### 📫 How to reach me
 
