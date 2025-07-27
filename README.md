@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (1 day ago)
-- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (1 day ago)
-- [sam-cox/pytides](https://github.com/sam-cox/pytides) - Tide prediction and analysis in python. (1 day ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 days ago)
+- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (2 days ago)
+- [sam-cox/pytides](https://github.com/sam-cox/pytides) - Tide prediction and analysis in python. (2 days ago)
 
 #### 📫 How to reach me
 
