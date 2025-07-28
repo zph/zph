@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (7 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (7 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (8 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (9 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (11 months ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (11 months ago)
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 days ago)
-- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (2 days ago)
-- [sam-cox/pytides](https://github.com/sam-cox/pytides) - Tide prediction and analysis in python. (2 days ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (3 days ago)
+- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (3 days ago)
+- [sam-cox/pytides](https://github.com/sam-cox/pytides) - Tide prediction and analysis in python. (3 days ago)
 
 #### 📫 How to reach me
 
