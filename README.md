@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tides](https://github.com/zph/tides) -  (1 day ago)
+- [zph/tides](https://github.com/zph/tides) -  (2 days ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (2 days ago)
-- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (5 days ago)
-- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (5 days ago)
+- [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (3 days ago)
+- [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (6 days ago)
+- [paulokuong/noaa](https://github.com/paulokuong/noaa) - NOAA Weather Service Python SDK (6 days ago)
 
 #### 📫 How to reach me
 
