@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tides](https://github.com/zph/tides) -  (6 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 weeks ago)
+- [zph/tides](https://github.com/zph/tides) -  (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
 #### 🌱 My latest projects
@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.7](https://github.com/facebook/dotslash/releases/tag/v0.5.7), 3 weeks ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 7 months ago) - Nim toy program to dedupe and absolute path the PATH env var
+- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 8 months ago) - Nim toy program to dedupe and absolute path the PATH env var
 
 #### 🔨 My recent Pull Requests
 
