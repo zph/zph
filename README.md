@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/tides](https://github.com/zph/tides) -  (1 week ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
 #### 🌱 My latest projects
