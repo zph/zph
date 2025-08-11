@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (today)
-- [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (1 week ago)
+- [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (1 day ago)
+- [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (2 weeks ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
 
 #### 📫 How to reach me
