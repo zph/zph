@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tides](https://github.com/zph/tides) -  (1 week ago)
+- [zph/tides](https://github.com/zph/tides) -  (2 weeks ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 month ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 months ago)
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (1 day ago)
+- [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (2 days ago)
 - [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (2 weeks ago)
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps. (2 weeks ago)
 
