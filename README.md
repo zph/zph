@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 days ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 days ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 8 months ago) - Nim toy program to dedupe and absolute path the PATH env var
 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (5 months ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (5 months ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (6 months ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (6 months ago)
 
 #### 📓 Gists
