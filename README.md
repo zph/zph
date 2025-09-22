@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (6 months ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (6 months ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (7 months ago)
 - [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (7 months ago)
 
 #### 📓 Gists
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [amelielabs/amelie](https://github.com/amelielabs/amelie) - Relational Database for High-Intensity, Contention-Free OLTP. (3 days ago)
+- [amelielabs/amelie](https://github.com/amelielabs/amelie) - Relational Database for High-Intensity, Contention-Free OLTP. (4 days ago)
 - [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (1 month ago)
 - [pulquero/BatteryAggregator](https://github.com/pulquero/BatteryAggregator) -  (1 month ago)
 
