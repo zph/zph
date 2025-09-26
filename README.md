@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (9 months ago)
-- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (9 months ago)
+- [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (10 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (11 months ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 year ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (1 year ago)
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jg-rp/liquid](https://github.com/jg-rp/liquid) - A Python engine for the Liquid template language. (1 day ago)
+- [jg-rp/liquid](https://github.com/jg-rp/liquid) - A Python engine for the Liquid template language. (2 days ago)
 - [amelielabs/amelie](https://github.com/amelielabs/amelie) - Relational Database for High-Intensity, Contention-Free OLTP. (1 week ago)
 - [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (1 month ago)
 
