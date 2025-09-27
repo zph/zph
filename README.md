@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tides](https://github.com/zph/tides) -  (1 month ago)
+- [zph/tides](https://github.com/zph/tides) -  (2 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 months ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 months ago)
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jg-rp/liquid](https://github.com/jg-rp/liquid) - A Python engine for the Liquid template language. (2 days ago)
+- [jg-rp/liquid](https://github.com/jg-rp/liquid) - A Python engine for the Liquid template language. (3 days ago)
 - [amelielabs/amelie](https://github.com/amelielabs/amelie) - Relational Database for High-Intensity, Contention-Free OLTP. (1 week ago)
 - [wdantuma/signalk-radar](https://github.com/wdantuma/signalk-radar) - Radar server companion to signalk (1 month ago)
 
