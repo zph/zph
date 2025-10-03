@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (1 day ago)
-- [jg-rp/liquid](https://github.com/jg-rp/liquid) - A Python engine for the Liquid template language. (1 week ago)
-- [amelielabs/amelie](https://github.com/amelielabs/amelie) - Relational Database for High-Intensity, Contention-Free OLTP. (2 weeks ago)
+- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (1 day ago)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (1 day ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
 
 #### 📫 How to reach me
 
