@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 1 month ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 8 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
-- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 9 months ago) - Nim toy program to dedupe and absolute path the PATH env var
+- [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 10 months ago) - Nim toy program to dedupe and absolute path the PATH env var
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (1 day ago)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (1 day ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (2 days ago)
+- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (2 days ago)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (2 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 days ago)
 
 #### 📫 How to reach me
 
