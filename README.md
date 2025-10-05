@@ -86,7 +86,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (7 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (7 months ago)
-- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (7 months ago)
+- [zh move to ruff](https://github.com/zph/runbook/pull/27) on [zph/runbook](https://github.com/zph/runbook) (8 months ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (2 days ago)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (2 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (3 days ago)
+- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (3 days ago)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (3 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (4 days ago)
 
 #### 📫 How to reach me
 
