@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 day ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 months ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 months ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (3 days ago)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (3 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (4 days ago)
+- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (4 days ago)
+- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (4 days ago)
+- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (5 days ago)
 
 #### 📫 How to reach me
 
