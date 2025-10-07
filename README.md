@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [zalando/otelcol-lightstep-receiver](https://github.com/zalando/otelcol-lightstep-receiver) -  (today)
 - [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (5 days ago)
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (5 days ago)
-- [apple/container](https://github.com/apple/container) - A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  (6 days ago)
 
 #### 📫 How to reach me
 
