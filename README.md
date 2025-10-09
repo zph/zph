@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 days ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [zalando/otelcol-lightstep-receiver](https://github.com/zalando/otelcol-lightstep-receiver) -  (1 day ago)
-- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (6 days ago)
-- [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Airweave lets agents search any app (6 days ago)
+- [HazyResearch/ThunderKittens](https://github.com/HazyResearch/ThunderKittens) - Tile primitives for speedy kernels (1 day ago)
+- [zalando/otelcol-lightstep-receiver](https://github.com/zalando/otelcol-lightstep-receiver) -  (2 days ago)
+- [vutrinh274/local_lakehouse](https://github.com/vutrinh274/local_lakehouse) -  (1 week ago)
 
 #### 📫 How to reach me
 
