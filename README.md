@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (5 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (6 days ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 day ago)
-- [percona/orchestrator](https://github.com/percona/orchestrator) -  (1 day ago)
-- [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service (1 day ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 day ago)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (2 days ago)
+- [percona/orchestrator](https://github.com/percona/orchestrator) -  (2 days ago)
 
 #### 📫 How to reach me
 
