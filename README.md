@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (1 day ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (5 days ago)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (6 days ago)
+- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (2 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (6 days ago)
+- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 week ago)
 
 #### 📫 How to reach me
 
