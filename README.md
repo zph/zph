@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (today)
+- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (1 day ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (7 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (7 months ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (2 days ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (6 days ago)
+- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (3 days ago)
+- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 - [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 week ago)
 
 #### 📫 How to reach me
