@@ -14,7 +14,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (10 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (10 months ago)
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (11 months ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 year ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (1 year ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (1 year ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 week ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 weeks ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 1 month ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 months ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 8 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 10 months ago) - Nim toy program to dedupe and absolute path the PATH env var
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (2 days ago)
+- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (3 days ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (7 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (7 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (4 days ago)
+- [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (1 day ago)
+- [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (5 days ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
-- [davila7/claude-code-templates](https://github.com/davila7/claude-code-templates) - CLI tool for configuring and monitoring Claude Code (1 week ago)
 
 #### 📫 How to reach me
 
