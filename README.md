@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jeff-hykin/bash2deno](https://github.com/jeff-hykin/bash2deno) -  (today)
 - [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (4 days ago)
 - [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (1 week ago)
-- [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 
 #### 📫 How to reach me
 
