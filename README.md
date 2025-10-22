@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 weeks ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (5 days ago)
+- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (6 days ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (7 months ago)
-- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (7 months ago)
+- [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (8 months ago)
 
 #### 📓 Gists
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (3 days ago)
+- [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (4 days ago)
 - [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (1 week ago)
 - [atuinsh/desktop](https://github.com/atuinsh/desktop) - 📖 Runbooks that run  (1 week ago)
 
