@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (2 weeks ago)
 - [zph/tides](https://github.com/zph/tides) -  (2 months ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jeff-hykin/bash2deno](https://github.com/jeff-hykin/bash2deno) -  (2 days ago)
-- [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (6 days ago)
+- [jeff-hykin/bash2deno](https://github.com/jeff-hykin/bash2deno) -  (3 days ago)
+- [LINBIT/drbd](https://github.com/LINBIT/drbd) - LINBIT DRBD kernel module (1 week ago)
 - [valkey-io/valkey-search](https://github.com/valkey-io/valkey-search) - valkey-search is a C&#43;&#43; module which extends valkey with vector search and secondary indexing capabilities. It enables users to index and query data stored in Valkey using complex queries with filters while maintaining high performance and scalability.  (1 week ago)
 
 #### 📫 How to reach me
