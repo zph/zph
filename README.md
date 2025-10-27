@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (today)
 - [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (2 days ago)
 - [opensnowcat/opensnowcat-collector](https://github.com/opensnowcat/opensnowcat-collector) - OpenSnowcat Collector, an open source fork of Snowplow (Apache 2.0 License)  (2 days ago)
-- [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (2 days ago)
 
 #### 📫 How to reach me
 
