@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (5 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (6 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 weeks ago)
-- [zph/tides](https://github.com/zph/tides) -  (2 months ago)
+- [zph/tides](https://github.com/zph/tides) -  (3 months ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (1 day ago)
-- [opensnowcat/opensnowcat-collector](https://github.com/opensnowcat/opensnowcat-collector) - OpenSnowcat Collector, an open source fork of Snowplow (Apache 2.0 License)  (1 day ago)
-- [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (1 day ago)
+- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (2 days ago)
+- [opensnowcat/opensnowcat-collector](https://github.com/opensnowcat/opensnowcat-collector) - OpenSnowcat Collector, an open source fork of Snowplow (Apache 2.0 License)  (2 days ago)
+- [dimo414/bkt](https://github.com/dimo414/bkt) - a subprocess caching utility, available as a command line binary and a Rust library. (2 days ago)
 
 #### 📫 How to reach me
 
