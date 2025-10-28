@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (10 months ago)
+- [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (11 months ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (11 months ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (1 year ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (6 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 weeks ago)
 - [zph/tides](https://github.com/zph/tides) -  (3 months ago)
 
@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (1 week ago)
-- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (7 months ago)
+- [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (8 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (8 months ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (today)
-- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (2 days ago)
-- [opensnowcat/opensnowcat-collector](https://github.com/opensnowcat/opensnowcat-collector) - OpenSnowcat Collector, an open source fork of Snowplow (Apache 2.0 License)  (2 days ago)
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (today)
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (1 day ago)
+- [steveklabnik/jujutsu-tutorial](https://github.com/steveklabnik/jujutsu-tutorial) - trying to figure out this jujutsu thing (3 days ago)
 
 #### 📫 How to reach me
 
