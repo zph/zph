@@ -79,12 +79,12 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 months ago) - Simplified executable deployment
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 8 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [zph/pather](https://github.com/zph/pather) ([v0.2.0](https://github.com/zph/pather/releases/tag/v0.2.0), 10 months ago) - Nim toy program to dedupe and absolute path the PATH env var
 
 #### 🔨 My recent Pull Requests
 
-- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (1 week ago)
+- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (2 weeks ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (8 months ago)
 - [Zh get tests running](https://github.com/zph/session-manager-plugin/pull/1) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (8 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service. (today)
-- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (1 day ago)
-- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (2 days ago)
+- [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service. (1 day ago)
+- [superfly/corrosion](https://github.com/superfly/corrosion) - Gossip-based service discovery (and more) for large distributed systems. (2 days ago)
+- [dmno-dev/varlock](https://github.com/dmno-dev/varlock) - .env files built for sharing powered by @env-spec decorator comments (3 days ago)
 
 #### 📫 How to reach me
 
