@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (3 weeks ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 weeks ago)
 - [zph/tides](https://github.com/zph/tides) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Pipelex/pipelex](https://github.com/Pipelex/pipelex) - Pipelex: open-source language for AI Agents to create and run repeatable AI workflows (today)
-- [duckdb/ducklake](https://github.com/duckdb/ducklake) - DuckLake is an integrated data lake and catalog format (1 day ago)
-- [olric-data/olric](https://github.com/olric-data/olric) - Distributed, in-memory key/value store and cache. It can be used as an embedded Go library and a language-independent service. (3 days ago)
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A Streaming, Replicated, Reactive Multi-Modal Database for the Edge. (WIP) (1 day ago)
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android (1 day ago)
+- [djsteffey/usaa_full_transaction_exporter](https://github.com/djsteffey/usaa_full_transaction_exporter) -  (1 day ago)
 
 #### 📫 How to reach me
 
