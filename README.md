@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (4 weeks ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 days ago)
+- [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/tides](https://github.com/zph/tides) -  (3 months ago)
 
 #### 🌱 My latest projects
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 day ago)
+- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 days ago)
 - [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (2 weeks ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (8 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A Streaming, Replicated, Reactive Multi-Modal Database for the Edge. (WIP) (2 days ago)
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android (2 days ago)
-- [djsteffey/usaa_full_transaction_exporter](https://github.com/djsteffey/usaa_full_transaction_exporter) -  (2 days ago)
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A Streaming, Replicated, Reactive Multi-Modal Database for the Edge. (WIP) (3 days ago)
+- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android (3 days ago)
+- [djsteffey/usaa_full_transaction_exporter](https://github.com/djsteffey/usaa_full_transaction_exporter) -  (3 days ago)
 
 #### 📫 How to reach me
 
