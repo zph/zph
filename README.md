@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (today)
 - [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/ (2 days ago)
-- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - Built for Seamless, Message-Bus-Style Replication at the Edge. (WIP) (5 days ago)
-- [foobnix/LibreraReader](https://github.com/foobnix/LibreraReader) - Book Reader for Android (5 days ago)
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A log-native database that replicates like a message bus — purpose-built for distributed, edge-scale systems. (5 days ago)
 
 #### 📫 How to reach me
 
