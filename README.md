@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (5 days ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 - [zph/tides](https://github.com/zph/tides) -  (3 months ago)
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (4 days ago)
+- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (5 days ago)
 - [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (3 weeks ago)
 - [Fix issue with task_summary breaking if planning=True](https://github.com/zph/crewAI/pull/1) on [zph/crewAI](https://github.com/zph/crewAI) (8 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (today)
-- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/ (2 days ago)
-- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A log-native database that replicates like a message bus — purpose-built for distributed, edge-scale systems. (5 days ago)
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (1 day ago)
+- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/ (3 days ago)
+- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - A log-native database that replicates like a message bus — purpose-built for distributed, edge-scale systems. (6 days ago)
 
 #### 📫 How to reach me
 
