@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 
