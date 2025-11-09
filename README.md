@@ -24,15 +24,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 
 #### 🌱 My latest projects
 
+- [zph/dax-issue-300-repro](https://github.com/zph/dax-issue-300-repro) - 
 - [zph/tides](https://github.com/zph/tides) - 
 - [zph/dotslash-packages](https://github.com/zph/dotslash-packages) - 
-- [zph/tome-cli](https://github.com/zph/tome-cli) - 
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Modernize build scripts and tidy up logging](https://github.com/zph/session-manager-plugin/pull/2) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (today)
-- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (6 days ago)
-- [Feature/pagefind search integration](https://github.com/zph/dashapp-docs/pull/1) on [zph/dashapp-docs](https://github.com/zph/dashapp-docs) (3 weeks ago)
+- [fix: auto-detect non-interactive environments for stdio inheritance](https://github.com/zph/dax/pull/1) on [zph/dax](https://github.com/zph/dax) (1 day ago)
+- [Modernize build scripts and tidy up logging](https://github.com/zph/session-manager-plugin/pull/2) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 day ago)
+- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (2 days ago)
-- [deepnote/deepnote](https://github.com/deepnote/deepnote) - Deepnote is a drop-in replacement for Jupyter with an AI-first design, sleek UI, new blocks, and native data integrations. Use Python, R, and SQL locally in your favorite IDE, then scale to Deepnote cloud for real-time collaboration, Deepnote agent, and deployable data apps. https://deepnote.com/ (4 days ago)
-- [ankur-anand/unisondb](https://github.com/ankur-anand/unisondb) - Log-native, real-time database for AI, Edge AI, and Edge Computing — replicates like a message bus. (1 week ago)
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. (1 day ago)
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun (1 day ago)
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (3 days ago)
 
 #### 📫 How to reach me
 
