@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/dashapp-docs](https://github.com/zph/dashapp-docs) - Deprecated versions of MongoDB documentation as Dash app bundle (1 month ago)
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: auto-detect non-interactive environments for stdio inheritance](https://github.com/zph/dax/pull/1) on [zph/dax](https://github.com/zph/dax) (1 day ago)
-- [Modernize build scripts and tidy up logging](https://github.com/zph/session-manager-plugin/pull/2) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 day ago)
-- [[Prototype] Implement pre-run hooks with .hooks.d support](https://github.com/zph/tome-cli/pull/15) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
+- [feat: Add SQLite storage engine with encrypted columns and Argon2id h…](https://github.com/zph/chain/pull/7) on [zph/chain](https://github.com/zph/chain) (1 day ago)
+- [fix: auto-detect non-interactive environments for stdio inheritance](https://github.com/zph/dax/pull/1) on [zph/dax](https://github.com/zph/dax) (2 days ago)
+- [Modernize build scripts and tidy up logging](https://github.com/zph/session-manager-plugin/pull/2) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. (1 day ago)
-- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun (1 day ago)
-- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (3 days ago)
+- [logicalclocks/rondb](https://github.com/logicalclocks/rondb) - This is RonDB, a distribution of NDB Cluster developed and used by Hopsworks AB. It also contains development branches of RonDB. (1 day ago)
+- [opencloud-eu/opencloud](https://github.com/opencloud-eu/opencloud) - 🌤️This is the main repository of the OpenCloud server. It contains the golang codebase for the backend services. (2 days ago)
+- [marko-js/marko](https://github.com/marko-js/marko) - A declarative, HTML-based language that makes building web apps fun (2 days ago)
 
 #### 📫 How to reach me
 
