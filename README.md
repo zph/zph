@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a &#34;bang line&#34; in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code. (today)
+- [matryer/goscript](https://github.com/matryer/goscript) - Goscript: Runtime execution of Go code. (today)
 - [strongdm/leash](https://github.com/strongdm/leash) - Leash by StrongDM - take your AI agents for a walk (1 day ago)
-- [POWR1/Xage1.0](https://github.com/POWR1/Xage1.0) -  (1 day ago)
-- [mongodb-js/mongosh](https://github.com/mongodb-js/mongosh) - The MongoDB Shell (1 day ago)
 
 #### 📫 How to reach me
 
