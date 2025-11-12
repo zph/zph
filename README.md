@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) -  (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (2 days ago)
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.6](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.6), 2 days ago) - 
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), today) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 months ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [singaraiona/rayforce](https://github.com/singaraiona/rayforce) - Fast columnar database (today)
 - [erning/gorun](https://github.com/erning/gorun) - gorun is a tool enabling one to put a &#34;bang line&#34; in the source code of a Go program to run it, or to run such a source code file explicitly. It was created in an attempt to make experimenting with Go more appealing to people used to Python and similar languages which operate most visibly with source code. (1 day ago)
 - [matryer/goscript](https://github.com/matryer/goscript) - Goscript: Runtime execution of Go code. (1 day ago)
-- [strongdm/leash](https://github.com/strongdm/leash) - Leash by StrongDM - take your AI agents for a walk (2 days ago)
 
 #### 📫 How to reach me
 
