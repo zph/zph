@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/mup](https://github.com/zph/mup) -  (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) -  (3 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (today)
+- [zph/mup](https://github.com/zph/mup) -  (today)
 - [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (1 day ago)
-- [sabyadi/mongolocust](https://github.com/sabyadi/mongolocust) - MongoDB Workload generation with Locust. (1 day ago)
-- [praetorian-inc/noseyparker](https://github.com/praetorian-inc/noseyparker) - Nosey Parker is a command-line tool that finds secrets and sensitive information in textual data and Git history. (1 day ago)
 
 #### 📫 How to reach me
 
