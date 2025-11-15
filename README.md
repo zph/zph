@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (today)
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 day ago)
-- [locustio/locust](https://github.com/locustio/locust) - Write scalable load tests in plain Python 🚗💨 (2 days ago)
 
 #### 📫 How to reach me
 
