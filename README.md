@@ -24,15 +24,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) -  (5 days ago)
 
 #### 🌱 My latest projects
 
+- [zph/url-to-md](https://github.com/zph/url-to-md) - 
 - [zph/mup](https://github.com/zph/mup) - 
 - [zph/dax-issue-300-repro](https://github.com/zph/dax-issue-300-repro) - 
-- [zph/tides](https://github.com/zph/tides) - 
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (today)
 - [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (1 day ago)
 - [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (2 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
 
 #### 📫 How to reach me
 
