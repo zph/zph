@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 day ago)
-- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) -  (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 4 days ago) - 
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 5 days ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 months ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Replace `m` and `mlaunch` with golang equivalents and create `mongo-cluster` to simplify startup/teardown in tests](https://github.com/zph/mongo-scaffold/pull/1) on [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) (6 days ago)
+- [Replace `m` and `mlaunch` with golang equivalents and create `mongo-cluster` to simplify startup/teardown in tests](https://github.com/zph/mongo-scaffold/pull/1) on [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) (1 week ago)
 - [feat: Add SQLite storage engine with encrypted columns and Argon2id h…](https://github.com/zph/chain/pull/7) on [zph/chain](https://github.com/zph/chain) (1 week ago)
 - [fix: auto-detect non-interactive environments for stdio inheritance](https://github.com/zph/dax/pull/1) on [zph/dax](https://github.com/zph/dax) (1 week ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (today)
-- [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (1 day ago)
-- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (2 days ago)
+- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (1 day ago)
+- [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (2 days ago)
+- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (3 days ago)
 
 #### 📫 How to reach me
 
