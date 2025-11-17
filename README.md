@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [geico/cassandra-sql](https://github.com/geico/cassandra-sql) -  (today)
 - [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (1 day ago)
 - [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (2 days ago)
-- [ochinchina/supervisord](https://github.com/ochinchina/supervisord) - a go-lang supervisor implementation (3 days ago)
 
 #### 📫 How to reach me
 
