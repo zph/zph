@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [awslabs/amazon-dynamodb-tools](https://github.com/awslabs/amazon-dynamodb-tools) - Tools to make effective use of DynamoDB easier. (today)
+- [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal (today)
 - [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️ (1 day ago)
-- [geico/cassandra-sql](https://github.com/geico/cassandra-sql) -  (1 day ago)
-- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (2 days ago)
 
 #### 📫 How to reach me
 
