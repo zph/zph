@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 5 days ago) - 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 2 months ago) - Simplified executable deployment
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 6 days ago) - 
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [geico/cassandra-sql](https://github.com/geico/cassandra-sql) -  (today)
-- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (1 day ago)
-- [SvenskaSpel/locust-plugins](https://github.com/SvenskaSpel/locust-plugins) - A set of useful plugins/extensions for Locust (2 days ago)
+- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️ (1 day ago)
+- [geico/cassandra-sql](https://github.com/geico/cassandra-sql) -  (1 day ago)
+- [nathabonfim59/md-fetch](https://github.com/nathabonfim59/md-fetch) - A CLI tool and REST API that converts web content to clean Markdown, bypassing anti-scraping measures using headless browsers. Perfect for AI/LLM applications (2 days ago)
 
 #### 📫 How to reach me
 
