@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [awslabs/amazon-dynamodb-tools](https://github.com/awslabs/amazon-dynamodb-tools) - Tools to make effective use of DynamoDB easier. (1 day ago)
-- [kaushiksrini/parqeye](https://github.com/kaushiksrini/parqeye) - Peek inside Parquet files right from your terminal (1 day ago)
-- [moazbuilds/CodeMachine-CLI](https://github.com/moazbuilds/CodeMachine-CLI) - CodeMachine is a CLI-native orchestration platform that uses coordinated multi-agent AI workflows to adaptively transform specification files into production-ready code. ⚡️ (2 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (today)
+- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (today)
+- [hashicorp/go-metrics](https://github.com/hashicorp/go-metrics) - A Golang library for exporting performance and runtime metrics to external metrics systems (i.e. statsite, statsd) (today)
 
 #### 📫 How to reach me
 
