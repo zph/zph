@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Zh fixing ci](https://github.com/zph/terraform-provider-mysql/pull/15) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (today)
 - [Zh new release](https://github.com/zph/terraform-provider-mysql/pull/11) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
 - [Replace `m` and `mlaunch` with golang equivalents and create `mongo-cluster` to simplify startup/teardown in tests](https://github.com/zph/mongo-scaffold/pull/1) on [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) (1 week ago)
-- [feat: Add SQLite storage engine with encrypted columns and Argon2id h…](https://github.com/zph/chain/pull/7) on [zph/chain](https://github.com/zph/chain) (1 week ago)
 
 #### 📓 Gists
 
