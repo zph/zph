@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (5 days ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Zh new release](https://github.com/zph/terraform-provider-mysql/pull/11) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
 - [Replace `m` and `mlaunch` with golang equivalents and create `mongo-cluster` to simplify startup/teardown in tests](https://github.com/zph/mongo-scaffold/pull/1) on [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) (1 week ago)
 - [feat: Add SQLite storage engine with encrypted columns and Argon2id h…](https://github.com/zph/chain/pull/7) on [zph/chain](https://github.com/zph/chain) (1 week ago)
-- [fix: auto-detect non-interactive environments for stdio inheritance](https://github.com/zph/dax/pull/1) on [zph/dax](https://github.com/zph/dax) (1 week ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (today)
-- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (today)
-- [hashicorp/go-metrics](https://github.com/hashicorp/go-metrics) - A Golang library for exporting performance and runtime metrics to external metrics systems (i.e. statsite, statsd) (today)
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors (1 day ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 day ago)
+- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (1 day ago)
 
 #### 📫 How to reach me
 
