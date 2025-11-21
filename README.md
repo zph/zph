@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Zh fixing ci](https://github.com/zph/terraform-provider-mysql/pull/15) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (today)
-- [Zh new release](https://github.com/zph/terraform-provider-mysql/pull/11) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Replace `m` and `mlaunch` with golang equivalents and create `mongo-cluster` to simplify startup/teardown in tests](https://github.com/zph/mongo-scaffold/pull/1) on [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) (1 week ago)
+- [Zh automatic signing releases in ci](https://github.com/zph/terraform-provider-mysql/pull/17) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Use test containers for CI. ](https://github.com/zph/terraform-provider-mysql/pull/16) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Testcontainers experiment](https://github.com/petoju/terraform-provider-mysql/pull/259) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (1 day ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors (1 day ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (1 day ago)
-- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (1 day ago)
+- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors (2 days ago)
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (2 days ago)
+- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (2 days ago)
 
 #### 📫 How to reach me
 
