@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [alin23/Lunar](https://github.com/alin23/Lunar) - Intelligent adaptive brightness for your external monitors (2 days ago)
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust (2 days ago)
-- [Mic92/strace-macos](https://github.com/Mic92/strace-macos) - A clone of the strace command for macOS (2 days ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (today)
+- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit (today)
+- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (today)
 
 #### 📫 How to reach me
 
