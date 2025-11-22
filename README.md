@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (5 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Zh automatic signing releases in ci](https://github.com/zph/terraform-provider-mysql/pull/17) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Use test containers for CI. ](https://github.com/zph/terraform-provider-mysql/pull/16) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Testcontainers experiment](https://github.com/petoju/terraform-provider-mysql/pull/259) on [petoju/terraform-provider-mysql](https://github.com/petoju/terraform-provider-mysql) (1 day ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Update VERSION to 3.0.62011](https://github.com/zph/terraform-provider-mysql/pull/20) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (today)
-- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit (today)
-- [kavishdevar/librepods](https://github.com/kavishdevar/librepods) - AirPods liberated from Apple&#39;s ecosystem. (today)
+- [portofcontext/pctx](https://github.com/portofcontext/pctx) - The pctx framework replaces LLM tool calling with a Code Mode that runs in secure sandboxes. (1 day ago)
+- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (1 day ago)
+- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit (1 day ago)
 
 #### 📫 How to reach me
 
