@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [portofcontext/pctx](https://github.com/portofcontext/pctx) - The pctx framework replaces LLM tool calling with a Code Mode that runs in secure sandboxes. (1 day ago)
-- [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter (1 day ago)
-- [modu-ai/moai-adk](https://github.com/modu-ai/moai-adk) - MoAI - Agentic Development Kit (1 day ago)
+- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (today)
+- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (today)
+- [afadil/wealthfolio](https://github.com/afadil/wealthfolio) - A Beautiful Private and Secure Desktop Investment Tracking Application (today)
 
 #### 📫 How to reach me
 
