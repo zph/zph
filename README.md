@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/mup](https://github.com/zph/mup) -  (1 day ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 
 #### 🌱 My latest projects
 
