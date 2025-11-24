@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (1 day ago)
+- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 days ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. (1 day ago)
-- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (1 day ago)
-- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (1 day ago)
+- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. (2 days ago)
+- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (2 days ago)
+- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (2 days ago)
 
 #### 📫 How to reach me
 
