@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (4 days ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 1 week ago) - 
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 2 weeks ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 days ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
+- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. (3 days ago)
-- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (3 days ago)
-- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (3 days ago)
+- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. (4 days ago)
+- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (4 days ago)
+- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (4 days ago)
 
 #### 📫 How to reach me
 
