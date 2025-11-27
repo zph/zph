@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [gotestyourself/gotestsum](https://github.com/gotestyourself/gotestsum) - &#39;go test&#39; runner with output optimized for humans, JUnit XML for CI integration, and a summary of the test results. (5 days ago)
-- [turbot/steampipe-plugin-prometheus](https://github.com/turbot/steampipe-plugin-prometheus) - Use SQL to instantly query Prometheus metrics, alerts, labels and more. Open source CLI. No DB required. (5 days ago)
-- [chime/terraform-aws-alternat](https://github.com/chime/terraform-aws-alternat) - High availability implementation of AWS NAT instances. (5 days ago)
+- [google/goblet](https://github.com/google/goblet) - Git caching proxy (today)
+- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor. (today)
+- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social (today)
 
 #### 📫 How to reach me
 
