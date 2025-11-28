@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [mongodb/specifications](https://github.com/mongodb/specifications) - Specifications related to MongoDB (today)
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (today)
 - [google/goblet](https://github.com/google/goblet) - Git caching proxy (1 day ago)
-- [RooCodeInc/Roo-Code](https://github.com/RooCodeInc/Roo-Code) - Roo Code gives you a whole dev team of AI agents in your code editor. (1 day ago)
-- [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Open Source AI coding assistant for planning, building, and fixing code. We frequently merge features from open-source projects while building our own vision. Follow us: kilocode.ai/social (1 day ago)
 
 #### 📫 How to reach me
 
