@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mongodb/specifications](https://github.com/mongodb/specifications) - Specifications related to MongoDB (1 day ago)
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 day ago)
-- [google/goblet](https://github.com/google/goblet) - Git caching proxy (2 days ago)
+- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom (today)
+- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (today)
+- [BinSquare/ERA](https://github.com/BinSquare/ERA) - Open source local sandboxing for running AI generated code. (today)
 
 #### 📫 How to reach me
 
