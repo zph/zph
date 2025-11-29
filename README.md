@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 day ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 
@@ -80,11 +80,11 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 2 weeks ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 9 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 10 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
+- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mongodb/specifications](https://github.com/mongodb/specifications) - Specifications related to MongoDB (today)
-- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (today)
-- [google/goblet](https://github.com/google/goblet) - Git caching proxy (1 day ago)
+- [mongodb/specifications](https://github.com/mongodb/specifications) - Specifications related to MongoDB (1 day ago)
+- [chr15m/runprompt](https://github.com/chr15m/runprompt) - Tiny script to run .prompt files (1 day ago)
+- [google/goblet](https://github.com/google/goblet) - Git caching proxy (2 days ago)
 
 #### 📫 How to reach me
 
