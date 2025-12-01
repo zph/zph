@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom (1 day ago)
-- [MadAppGang/dingo](https://github.com/MadAppGang/dingo) -   A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility (1 day ago)
-- [BinSquare/ERA](https://github.com/BinSquare/ERA) - Open source local sandboxing for running AI generated code. (1 day ago)
+- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (1 day ago)
+- [hungthai1401/occtx](https://github.com/hungthai1401/occtx) - opencode context manager for switching between multiple opencode.json configurations (1 day ago)
+- [axiomhq/hyperloglog](https://github.com/axiomhq/hyperloglog) - HyperLogLog with lots of sugar (Sparse, LogLog-Beta bias correction and TailCut space reduction) brought to you by Axiom (2 days ago)
 
 #### 📫 How to reach me
 
