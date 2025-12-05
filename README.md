@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (2 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 
@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [oodle-ai/safepool](https://github.com/oodle-ai/safepool) - sync.Pool made easy (today)
-- [LeanerCloud/AutoSpotting](https://github.com/LeanerCloud/AutoSpotting) - Saves up to 90% of AWS EC2 costs by automating the use of spot instances on existing AutoScaling groups. Installs in minutes using CloudFormation or Terraform. Convenient to deploy at scale using StackSets. Uses tagging to avoid launch configuration changes. Automated spot termination handling. Reliable fallback to on-demand instances. (1 day ago)
-- [gitui-org/gitui](https://github.com/gitui-org/gitui) - Blazing 💥 fast terminal-ui for git written in rust 🦀 (4 days ago)
+- [apache/fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics. (1 day ago)
+- [tidesdb/tidesdb](https://github.com/tidesdb/tidesdb) - High-performance durable, transactional embeddable storage engine designed for flash and RAM optimization. (1 day ago)
+- [oodle-ai/safepool](https://github.com/oodle-ai/safepool) - sync.Pool made easy (1 day ago)
 
 #### 📫 How to reach me
 
