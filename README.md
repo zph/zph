@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (2 weeks ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 weeks ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (today)
-- [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS (today)
-- [apache/fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics. (2 days ago)
+- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (1 day ago)
+- [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS (1 day ago)
+- [apache/fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics. (3 days ago)
 
 #### 📫 How to reach me
 
