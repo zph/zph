@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 weeks ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
+- [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (today)
 - [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (1 day ago)
 - [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 30&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (1 day ago)
-- [marmotdata/marmot](https://github.com/marmotdata/marmot) - Marmot helps teams discover, understand, and leverage their data with powerful search and lineage visualisation tools. It&#39;s designed to make data accessible for everyone. (1 day ago)
 
 #### 📫 How to reach me
 
