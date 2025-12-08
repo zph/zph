@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ZoneMinder/zoneminder](https://github.com/ZoneMinder/zoneminder) - ZoneMinder is a free, open source Closed-circuit television software application developed for Linux which supports IP, USB and Analog cameras.  (1 day ago)
-- [cardisoft/cardinal](https://github.com/cardisoft/cardinal) - Fastest file searching tool for macOS (1 day ago)
-- [apache/fluss](https://github.com/apache/fluss) - Apache Fluss is a streaming storage built for real-time analytics. (3 days ago)
+- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (1 day ago)
+- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 30&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (1 day ago)
+- [marmotdata/marmot](https://github.com/marmotdata/marmot) - Marmot helps teams discover, understand, and leverage their data with powerful search and lineage visualisation tools. It&#39;s designed to make data accessible for everyone. (1 day ago)
 
 #### 📫 How to reach me
 
