@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (today)
-- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (1 day ago)
-- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 30&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (1 day ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (1 day ago)
+- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (2 days ago)
+- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 30&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (2 days ago)
 
 #### 📫 How to reach me
 
