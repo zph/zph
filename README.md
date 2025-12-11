@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -78,9 +78,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 day ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 4 weeks ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0-rc2.2](https://github.com/zph/runbook/releases/tag/1.0.0-rc2.2), 10 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (2 days ago)
-- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (3 days ago)
-- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 35&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (3 days ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
+- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (4 days ago)
+- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 35&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (4 days ago)
 
 #### 📫 How to reach me
 
