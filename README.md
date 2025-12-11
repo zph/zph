@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [microsoft/docfind](https://github.com/microsoft/docfind) - A high-performance document search engine built in Rust with WebAssembly support. (today)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
 - [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (4 days ago)
-- [ykdojo/claude-code-tips](https://github.com/ykdojo/claude-code-tips) - 35&#43; tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code&#39;s minion, and Claude Code running itself in a container (4 days ago)
 
 #### 📫 How to reach me
 
