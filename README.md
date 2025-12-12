@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/mup](https://github.com/zph/mup) -  (1 week ago)
-- [zph/url-to-md](https://github.com/zph/url-to-md) -  (3 weeks ago)
+- [zph/mup](https://github.com/zph/mup) -  (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 day ago) - 
-- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 4 weeks ago) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 2 days ago) - 
+- [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 1 month ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [microsoft/docfind](https://github.com/microsoft/docfind) - A high-performance document search engine built in Rust with WebAssembly support. (today)
-- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (3 days ago)
-- [vibhanshu2001/memcloud](https://github.com/vibhanshu2001/memcloud) - MemCloud is a distributed in-memory data store written in Rust. It allows nodes (such as macOS and Linux machines) on a local network to pool their RAM, creating a shared, ephemeral storage cloud. (4 days ago)
+- [pg-sharding/spqr](https://github.com/pg-sharding/spqr) - Stateless Postgres Query Router. (1 day ago)
+- [microsoft/docfind](https://github.com/microsoft/docfind) - A high-performance document search engine built in Rust with WebAssembly support. (1 day ago)
+- [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent (4 days ago)
 
 #### 📫 How to reach me
 
