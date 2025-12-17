@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (today)
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (3 days ago)
 - [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
-- [fractalbits-labs/fractalbits-main](https://github.com/fractalbits-labs/fractalbits-main) - The ultimate S3 compatible high performance object storage in the AI era. (4 days ago)
 
 #### 📫 How to reach me
 
