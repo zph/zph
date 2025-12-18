@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 - [zph/mup](https://github.com/zph/mup) -  (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -80,7 +80,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 week ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 1 month ago) - 
-- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 3 months ago) - Simplified executable deployment
+- [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 4 months ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (today)
-- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (3 days ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (4 days ago)
+- [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (1 day ago)
+- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (4 days ago)
+- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (5 days ago)
 
 #### 📫 How to reach me
 
