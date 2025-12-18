@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions &#43; settings-based model switching. (today)
 - [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (1 day ago)
 - [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (4 days ago)
-- [exo-explore/exo](https://github.com/exo-explore/exo) - Run your own AI cluster at home with everyday devices 📱💻 🖥️⌚ (5 days ago)
 
 #### 📫 How to reach me
 
