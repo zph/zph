@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [artie-labs/ducktape](https://github.com/artie-labs/ducktape) - Lightweight REST API for DuckDB with HTTP/2 streaming support. (today)
 - [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions &#43; settings-based model switching. (1 day ago)
 - [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (2 days ago)
-- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (5 days ago)
 
 #### 📫 How to reach me
 
