@@ -26,7 +26,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
-- [zph/mup](https://github.com/zph/mup) -  (2 weeks ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions &#43; settings-based model switching. (today)
-- [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (1 day ago)
-- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (4 days ago)
+- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions &#43; settings-based model switching. (1 day ago)
+- [buildkite/zstash](https://github.com/buildkite/zstash) - WIP of a cache save and restore tool. (2 days ago)
+- [fwdcloudsec/granted](https://github.com/fwdcloudsec/granted) - The easiest way to access AWS. (5 days ago)
 
 #### 📫 How to reach me
 
