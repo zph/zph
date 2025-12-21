@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
-- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
-- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
+- [Release/v3.0.62012](https://github.com/zph/terraform-provider-mysql/pull/22) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
+- [Feature/cleanup travis scripts](https://github.com/zph/terraform-provider-mysql/pull/21) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (1 day ago)
-- [artie-labs/ducktape](https://github.com/artie-labs/ducktape) - Lightweight REST API for DuckDB with HTTP/2 streaming support. (1 day ago)
-- [kaitranntt/ccs](https://github.com/kaitranntt/ccs) - Switch between multiple Claude accounts and AI models (GLM, Kimi) instantly. Multi-account support with concurrent sessions &#43; settings-based model switching. (2 days ago)
+- [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (1 day ago)
+- [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (2 days ago)
+- [artie-labs/ducktape](https://github.com/artie-labs/ducktape) - Lightweight REST API for DuckDB with HTTP/2 streaming support. (2 days ago)
 
 #### 📫 How to reach me
 
