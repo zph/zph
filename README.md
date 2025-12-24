@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (today)
 - [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (4 days ago)
 - [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (5 days ago)
-- [artie-labs/ducktape](https://github.com/artie-labs/ducktape) - Lightweight REST API for DuckDB with HTTP/2 streaming support. (5 days ago)
 
 #### 📫 How to reach me
 
