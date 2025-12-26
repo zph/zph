@@ -26,7 +26,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
-- [zph/mup](https://github.com/zph/mup) -  (3 weeks ago)
+- [zph/mup](https://github.com/zph/mup) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (1 day ago)
-- [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (5 days ago)
-- [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (6 days ago)
+- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (2 days ago)
+- [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (6 days ago)
+- [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (1 week ago)
 
 #### 📫 How to reach me
 
