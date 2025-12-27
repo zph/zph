@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (2 days ago)
-- [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (6 days ago)
-- [envirobly/stepped](https://github.com/envirobly/stepped) - Stepped is a Rails engine for orchestrating complex workflows as a tree of actions (1 week ago)
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (1 day ago)
+- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (3 days ago)
+- [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (1 week ago)
 
 #### 📫 How to reach me
 
