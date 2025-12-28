@@ -26,7 +26,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 weeks ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
-- [zph/mup](https://github.com/zph/mup) -  (4 weeks ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (1 day ago)
-- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (3 days ago)
+- [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (2 days ago)
+- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (4 days ago)
 - [Sevii/agent-marketplace](https://github.com/Sevii/agent-marketplace) - Plugin Marketplace for Claude Code (1 week ago)
 
 #### 📫 How to reach me
