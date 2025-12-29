@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (today)
 - [rex-rs/rex](https://github.com/rex-rs/rex) - Rex is a safe and usable kernel extension framework that allows loading and executing Rust kernel extension programs in the place of eBPF. (1 day ago)
 - [gomods/athens](https://github.com/gomods/athens) - A Go module datastore and proxy (3 days ago)
-- [bep/execrpc](https://github.com/bep/execrpc) - RCP via os/exec with generic types. (5 days ago)
 
 #### 📫 How to reach me
 
