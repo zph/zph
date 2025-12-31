@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 weeks ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 2 weeks ago) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 3 weeks ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 1 month ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 4 months ago) - Simplified executable deployment
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [pb-/gmail-mbox-codec](https://github.com/pb-/gmail-mbox-codec) - A tiny script to enable efficient incremental file-based backups from Gmail takeouts. (today)
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (1 day ago)
-- [google/copybara](https://github.com/google/copybara) - Copybara: A tool for transforming and moving code between repositories. (1 day ago)
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (1 day ago)
+- [pb-/gmail-mbox-codec](https://github.com/pb-/gmail-mbox-codec) - A tiny script to enable efficient incremental file-based backups from Gmail takeouts. (1 day ago)
+- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (2 days ago)
 
 #### 📫 How to reach me
 
