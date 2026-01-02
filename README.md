@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
@@ -90,15 +90,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 📓 Gists
 
-- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (1 year ago)
+- [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (2 years ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
 - [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
 
 #### ⭐ Recent Stars
 
-- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (2 days ago)
-- [pb-/gmail-mbox-codec](https://github.com/pb-/gmail-mbox-codec) - A tiny script to enable efficient incremental file-based backups from Gmail takeouts. (2 days ago)
-- [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in *nix systems or through your browser. (3 days ago)
+- [simplynd/expense-ai](https://github.com/simplynd/expense-ai) -  (1 day ago)
+- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (3 days ago)
+- [pb-/gmail-mbox-codec](https://github.com/pb-/gmail-mbox-codec) - A tiny script to enable efficient incremental file-based backups from Gmail takeouts. (3 days ago)
 
 #### 📫 How to reach me
 
