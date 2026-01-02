@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [simplynd/expense-ai](https://github.com/simplynd/expense-ai) -  (1 day ago)
-- [Lulzx/zpdf](https://github.com/Lulzx/zpdf) - Zero-copy PDF text extraction library written in Zig. High-performance, memory-mapped parsing with SIMD acceleration. (3 days ago)
-- [pb-/gmail-mbox-codec](https://github.com/pb-/gmail-mbox-codec) - A tiny script to enable efficient incremental file-based backups from Gmail takeouts. (3 days ago)
+- [litesql/ha-sync](https://github.com/litesql/ha-sync) - SQLite extension to sync HA database with local SQLite (today)
+- [litesql/ha](https://github.com/litesql/ha) - Highly available leaderless SQLite cluster powered by embedded NATS JetStream server (today)
+- [maxpert/marmot](https://github.com/maxpert/marmot) - A distributed SQLite server with MySQL wire compatible interface (today)
 
 #### 📫 How to reach me
 
