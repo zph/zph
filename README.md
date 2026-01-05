@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LaunchPlatform/beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract) - The simple library for extracting all kind of bank account transaction export files, mostly for beanhub-import to ingest and generate transactions (1 day ago)
-- [Julian/alubia](https://github.com/Julian/alubia) - Bits and bobs for beancount benefit. (2 days ago)
-- [beancount/fava](https://github.com/beancount/fava) - Fava - web interface for Beancount (2 days ago)
+- [LaunchPlatform/beanhub-import-demo](https://github.com/LaunchPlatform/beanhub-import-demo) - Demo for beanhub-import (1 day ago)
+- [LaunchPlatform/beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract) - The simple library for extracting all kind of bank account transaction export files, mostly for beanhub-import to ingest and generate transactions (2 days ago)
+- [Julian/alubia](https://github.com/Julian/alubia) - Bits and bobs for beancount benefit. (3 days ago)
 
 #### 📫 How to reach me
 
