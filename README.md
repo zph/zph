@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
