@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LaunchPlatform/beanhub-import-demo](https://github.com/LaunchPlatform/beanhub-import-demo) - Demo for beanhub-import (1 day ago)
-- [LaunchPlatform/beanhub-extract](https://github.com/LaunchPlatform/beanhub-extract) - The simple library for extracting all kind of bank account transaction export files, mostly for beanhub-import to ingest and generate transactions (2 days ago)
-- [Julian/alubia](https://github.com/Julian/alubia) - Bits and bobs for beancount benefit. (3 days ago)
+- [m-d-brown/plain-text-accounting-tools](https://github.com/m-d-brown/plain-text-accounting-tools) - Python libraries for extracting information from PDF statements of American financial institutions, particularly to import into a Beancount ledger. (1 day ago)
+- [redstreet/beancount_reds_importers](https://github.com/redstreet/beancount_reds_importers) - Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers. (1 day ago)
+- [beancount/beanprice](https://github.com/beancount/beanprice) - Daily price quotes fetching library for plain-text accounting (1 day ago)
 
 #### 📫 How to reach me
 
