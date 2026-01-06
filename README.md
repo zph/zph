@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (today)
+- [beancount/beanquery](https://github.com/beancount/beanquery) - A customizable lightweight SQL query tool that works on tabular data, including Beancount. (today)
 - [m-d-brown/plain-text-accounting-tools](https://github.com/m-d-brown/plain-text-accounting-tools) - Python libraries for extracting information from PDF statements of American financial institutions, particularly to import into a Beancount ledger. (1 day ago)
-- [redstreet/beancount_reds_importers](https://github.com/redstreet/beancount_reds_importers) - Simple ingesting tools for Beancount (plain text, double entry accounting software). More importantly, a framework to allow you to easily write your own importers. (1 day ago)
-- [beancount/beanprice](https://github.com/beancount/beanprice) - Daily price quotes fetching library for plain-text accounting (1 day ago)
 
 #### 📫 How to reach me
 
