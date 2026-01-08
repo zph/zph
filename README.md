@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (3 weeks ago)
-- [zph/mup](https://github.com/zph/mup) -  (1 month ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [LaunchPlatform/beanhub-cli](https://github.com/LaunchPlatform/beanhub-cli) - Command line tools for BeanHub or Beancount users (1 day ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (1 day ago)
-- [c4pt0r/tip](https://github.com/c4pt0r/tip) - Swiss Knife for TiDB (1 day ago)
+- [LaunchPlatform/beanhub-cli](https://github.com/LaunchPlatform/beanhub-cli) - Command line tools for BeanHub or Beancount users (2 days ago)
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 days ago)
+- [c4pt0r/tip](https://github.com/c4pt0r/tip) - Swiss Knife for TiDB (2 days ago)
 
 #### 📫 How to reach me
 
