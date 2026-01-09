@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage) -  (today)
 - [justbyitself/veritaclis](https://github.com/justbyitself/veritaclis) - Test runner for CLI commands (1 day ago)
 - [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure. (1 day ago)
-- [LaunchPlatform/beanhub-cli](https://github.com/LaunchPlatform/beanhub-cli) - Command line tools for BeanHub or Beancount users (3 days ago)
 
 #### 📫 How to reach me
 
