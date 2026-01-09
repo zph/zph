@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 weeks ago)
 
 #### 🌱 My latest projects
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 4 weeks ago) - 
+- [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 month ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 1 month ago) - 
 - [facebook/dotslash](https://github.com/facebook/dotslash) ([v0.5.8](https://github.com/facebook/dotslash/releases/tag/v0.5.8), 4 months ago) - Simplified executable deployment
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (today)
-- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (today)
+- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (1 day ago)
+- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (1 day ago)
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure. (today)
-- [LaunchPlatform/beanhub-cli](https://github.com/LaunchPlatform/beanhub-cli) - Command line tools for BeanHub or Beancount users (2 days ago)
-- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent. (2 days ago)
+- [justbyitself/veritaclis](https://github.com/justbyitself/veritaclis) - Test runner for CLI commands (1 day ago)
+- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure. (1 day ago)
+- [LaunchPlatform/beanhub-cli](https://github.com/LaunchPlatform/beanhub-cli) - Command line tools for BeanHub or Beancount users (3 days ago)
 
 #### 📫 How to reach me
 
