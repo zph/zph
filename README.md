@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (1 day ago)
-- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (1 day ago)
+- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (2 days ago)
+- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (2 days ago)
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage) -  (today)
-- [justbyitself/veritaclis](https://github.com/justbyitself/veritaclis) - Test runner for CLI commands (1 day ago)
-- [anomalyco/sst](https://github.com/anomalyco/sst) - Build full-stack apps on your own infrastructure. (1 day ago)
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login. (1 day ago)
+- [richhickson/claudecodeusage](https://github.com/richhickson/claudecodeusage) -  (1 day ago)
+- [justbyitself/veritaclis](https://github.com/justbyitself/veritaclis) - Test runner for CLI commands (2 days ago)
 
 #### 📫 How to reach me
 
