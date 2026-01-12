@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,14 +78,14 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), today) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 1 day ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 month ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (3 days ago)
-- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (3 days ago)
+- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (4 days ago)
+- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (4 days ago)
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [redstreet/beancount_reds_plugins](https://github.com/redstreet/beancount_reds_plugins) - Miscellaneous plugins for Beancount double entry accounting (today)
-- [Akuukis/beancount_interpolate](https://github.com/Akuukis/beancount_interpolate) - Beancount plugin to interpolate transactions for better report accuracy on daily level. (today)
-- [barcia/beancount-skill](https://github.com/barcia/beancount-skill) - Agent Skill to handle personal finances with plain text accounting with Beancount (1 day ago)
+- [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (1 day ago)
+- [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (1 day ago)
+- [redstreet/beancount_reds_plugins](https://github.com/redstreet/beancount_reds_plugins) - Miscellaneous plugins for Beancount double entry accounting (1 day ago)
 
 #### 📫 How to reach me
 
