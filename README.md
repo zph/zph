@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [coder/httpjail](https://github.com/coder/httpjail) - HTTP(s) request filter for processes (today)
 - [icloud-photos-downloader/icloud_photos_downloader](https://github.com/icloud-photos-downloader/icloud_photos_downloader) - A command-line tool to download photos from iCloud (2 days ago)
 - [pr-pm/prpm](https://github.com/pr-pm/prpm) - The universal registry for AI coding tools (2 days ago)
-- [redstreet/beancount_reds_plugins](https://github.com/redstreet/beancount_reds_plugins) - Miscellaneous plugins for Beancount double entry accounting (2 days ago)
 
 #### 📫 How to reach me
 
