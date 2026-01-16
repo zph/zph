@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (4 days ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 week ago)
 
 #### 🌱 My latest projects
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 4 days ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 5 days ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 month ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 2 months ago) - 
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jepsen-io/elle](https://github.com/jepsen-io/elle) - Black-box transactional safety checker based on cycle detection (today)
-- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (1 day ago)
-- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (1 day ago)
+- [jepsen-io/elle](https://github.com/jepsen-io/elle) - Black-box transactional safety checker based on cycle detection (1 day ago)
+- [litmuschaos/litmus](https://github.com/litmuschaos/litmus) - Litmus helps  SREs and developers practice chaos engineering in a Cloud-native way. Chaos experiments are published at the ChaosHub  (https://hub.litmuschaos.io). Community notes is at https://hackmd.io/a4Zu_sH4TZGeih-xCimi3Q (2 days ago)
+- [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀 (2 days ago)
 
 #### 📫 How to reach me
 
