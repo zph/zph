@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [the-michael-toy/llm-context-md](https://github.com/the-michael-toy/llm-context-md) - Proposing a common approach to maintaining LLM context files in a complex source tree (today)
 - [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations. (1 day ago)
 - [percona/percona-clustersync-mongodb](https://github.com/percona/percona-clustersync-mongodb) - Cluster-to-Cluster MongoDB replication (1 day ago)
-- [VictoriaMetrics/VictoriaLogs](https://github.com/VictoriaMetrics/VictoriaLogs) - Fast and easy to use database for logs, which can efficiently handle terabytes of logs (1 day ago)
 
 #### 📫 How to reach me
 
