@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [awslabs/duvet](https://github.com/awslabs/duvet) - A requirements traceability tool (today)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (today)
 - [the-michael-toy/llm-context-md](https://github.com/the-michael-toy/llm-context-md) - Proposing a common approach to maintaining LLM context files in a complex source tree (1 day ago)
-- [malloydata/malloy](https://github.com/malloydata/malloy) - Malloy is a modern open source language for describing data relationships and transformations. (2 days ago)
-- [percona/percona-clustersync-mongodb](https://github.com/percona/percona-clustersync-mongodb) - Cluster-to-Cluster MongoDB replication (2 days ago)
 
 #### 📫 How to reach me
 
