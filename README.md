@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) -  (today)
 - [dmachard/dnsdist-config-examples](https://github.com/dmachard/dnsdist-config-examples) - Configuration examples for DNSdist PowerDNS (1 day ago)
 - [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist (1 day ago)
-- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️ (2 days ago)
 
 #### 📫 How to reach me
 
