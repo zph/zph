@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 week ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 week ago)
 
@@ -86,7 +86,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (1 week ago)
 - [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (1 week ago)
-- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
+- [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️ (1 day ago)
-- [trycua/cua](https://github.com/trycua/cua) - Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). (2 days ago)
-- [awslabs/duvet](https://github.com/awslabs/duvet) - A requirements traceability tool (2 days ago)
+- [dmachard/dnsdist-config-examples](https://github.com/dmachard/dnsdist-config-examples) - Configuration examples for DNSdist PowerDNS (1 day ago)
+- [PowerDNS/pdns](https://github.com/PowerDNS/pdns) - PowerDNS Authoritative, PowerDNS Recursor, dnsdist (1 day ago)
+- [elC0mpa/aws-doctor](https://github.com/elC0mpa/aws-doctor) - Diagnose AWS costs, detect idle resources, and optimize cloud spending directly from your terminal. 🩺 ☁️ (2 days ago)
 
 #### 📫 How to reach me
 
