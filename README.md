@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [opral/lix](https://github.com/opral/lix) - A universal version control system for AI agents. (today)
 - [alibaba/AliSQL](https://github.com/alibaba/AliSQL) - AliSQL is a MySQL branch originated from Alibaba Group. Fetch document from Release Notes at bottom. (1 day ago)
 - [davidbeesley/claude-chill](https://github.com/davidbeesley/claude-chill) -  (1 day ago)
-- [dmachard/dnsdist-config-examples](https://github.com/dmachard/dnsdist-config-examples) - Configuration examples for DNSdist PowerDNS (2 days ago)
 
 #### 📫 How to reach me
 
