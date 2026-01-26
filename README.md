@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [tidesdb/tidesql](https://github.com/tidesdb/tidesql) - A space and write optimized pluggable MariaDB engine. (today)
+- [Use-Tusk/fence](https://github.com/Use-Tusk/fence) - Lightweight, container-free sandbox for running commands with network and filesystem restrictions (today)
 - [tidewave-ai/tidewave_phoenix](https://github.com/tidewave-ai/tidewave_phoenix) - Tidewave for Phoenix (1 day ago)
-- [abhinav/git-spice](https://github.com/abhinav/git-spice) - Manage stacked Git branches (2 days ago)
-- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework &amp; software development methodology that works. (2 days ago)
 
 #### 📫 How to reach me
 
