@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python. (1 day ago)
-- [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research. (1 day ago)
-- [awslabs/shuttle](https://github.com/awslabs/shuttle) - Shuttle is a library for testing concurrent Rust code (1 day ago)
+- [kristianaryanto/Quack-Cluster](https://github.com/kristianaryanto/Quack-Cluster) -  (1 day ago)
+- [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python. (2 days ago)
+- [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research. (2 days ago)
 
 #### 📫 How to reach me
 
