@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 2 weeks ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 3 weeks ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 1 month ago) - 
 - [zph/mongo-scaffold](https://github.com/zph/mongo-scaffold) ([v0.9.8](https://github.com/zph/mongo-scaffold/releases/tag/v0.9.8), 2 months ago) - 
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kristianaryanto/Quack-Cluster](https://github.com/kristianaryanto/Quack-Cluster) -  (1 day ago)
-- [TkTech/chancy](https://github.com/TkTech/chancy) - A postgres-backed task queue for Python. (2 days ago)
-- [microsoft/bf-tree](https://github.com/microsoft/bf-tree) - Bf-Tree is a modern read-write-optimized concurrent larger-than-memory range index in Rust from MS Research. (2 days ago)
+- [circulosmeos/gztool](https://github.com/circulosmeos/gztool) - extract random-positioned data from gzip files with no penalty, including gzip tailing like with &#39;tail -f&#39; ! (today)
+- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (1 day ago)
+- [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager (1 day ago)
 
 #### 📫 How to reach me
 
