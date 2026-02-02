@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (2 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [coreos/gzran](https://github.com/coreos/gzran) - gzip indexer for random access into compressed files (today)
-- [circulosmeos/gztool](https://github.com/circulosmeos/gztool) - extract random-positioned data from gzip files with no penalty, including gzip tailing like with &#39;tail -f&#39; ! (today)
-- [FreeCAD/FreeCAD](https://github.com/FreeCAD/FreeCAD) - Official source code of FreeCAD, a free and opensource multiplatform 3D parametric modeler. (1 day ago)
+- [chadcwilliams/Convert_Muse_Files](https://github.com/chadcwilliams/Convert_Muse_Files) -  (1 day ago)
+- [labstreaminglayer/App-LabRecorder](https://github.com/labstreaminglayer/App-LabRecorder) - An application for streaming one or more LSL streams to disk in XDF file format. (1 day ago)
+- [kowalej/BlueMuse](https://github.com/kowalej/BlueMuse) - Windows 10 app to stream data from Muse EEG headsets via LSL (Lab Streaming Layer). (1 day ago)
 
 #### 📫 How to reach me
 
