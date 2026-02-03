@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (3 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [MackeyStingray/o2r](https://github.com/MackeyStingray/o2r) -  (today)
-- [ecostech/viatom-ble](https://github.com/ecostech/viatom-ble) - Python script to read sensor values over BLE from Viatom ring oxygen monitors (today)
-- [chadcwilliams/Convert_Muse_Files](https://github.com/chadcwilliams/Convert_Muse_Files) -  (1 day ago)
+- [facebook/wdt](https://github.com/facebook/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. (1 day ago)
+- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (1 day ago)
+- [MackeyStingray/o2r](https://github.com/MackeyStingray/o2r) -  (1 day ago)
 
 #### 📫 How to reach me
 
