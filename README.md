@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (3 weeks ago)
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (3 weeks ago)
-- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (3 weeks ago)
+- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (4 weeks ago)
+- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (4 weeks ago)
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wesm/msgvault](https://github.com/wesm/msgvault) - Archive a lifetime of email and chat. Offline search, analytics, and AI query over your full message history. Powered by DuckDB (1 day ago)
-- [facebook/wdt](https://github.com/facebook/wdt) - Warp speed Data Transfer (WDT)  is an embeddedable library (and command line tool) aiming to transfer data between 2 systems as fast as possible over multiple TCP paths. (2 days ago)
-- [gavrielc/nanoclaw](https://github.com/gavrielc/nanoclaw) - My personal Claude assistant that runs in Apple containers. Lightweight, secure, and built to be understood and customized for your own needs. (2 days ago)
+- [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (1 day ago)
+- [aragossa/pii-shield](https://github.com/aragossa/pii-shield) - Zero-code K8s sidecar for log sanitization. Detects secrets via Entropy Analysis, preserves JSON integrity, and redacts PII deterministically. 🛡️ (1 day ago)
+- [superfly/tokenizer](https://github.com/superfly/tokenizer) - HTTP proxy that injects 3rd party credentials into requests (1 day ago)
 
 #### 📫 How to reach me
 
