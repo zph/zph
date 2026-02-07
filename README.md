@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tszheichoi/awesome-sensor-logger](https://github.com/tszheichoi/awesome-sensor-logger) - Collection of tools, resources and sample code to use alongside the Sensor Logger app (1 day ago)
-- [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server (2 days ago)
-- [commaai/miniray](https://github.com/commaai/miniray) - Minimal library for distributed python work. Can efficiently run CPU and GPU tasks across 100s of machines. (2 days ago)
+- [killme2008/devtap](https://github.com/killme2008/devtap) - Bridge build/dev process output to AI coding sessions via MCP — supports Claude Code, Codex, OpenCode, Gemini CLI, and aider (today)
+- [villagesql/villagesql-server](https://github.com/villagesql/villagesql-server) - VillageSQL (today)
+- [eljojo/rememory](https://github.com/eljojo/rememory) - have a plan for the worst-case scenario (today)
 
 #### 📫 How to reach me
 
