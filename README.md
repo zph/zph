@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (4 weeks ago)
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (4 weeks ago)
-- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (4 weeks ago)
+- [feat: add pre-import hook support](https://github.com/zph/beanhub-import/pull/1) on [zph/beanhub-import](https://github.com/zph/beanhub-import) (1 month ago)
+- [feat: support custom extractors via module:// URI scheme](https://github.com/LaunchPlatform/beanhub-import/pull/18) on [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) (1 month ago)
 - [Make make lint optional and non-failing in CI](https://github.com/zph/terraform-provider-mysql/pull/23) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server (1 day ago)
-- [commaai/miniray](https://github.com/commaai/miniray) - Minimal library for distributed python work. Can efficiently run CPU and GPU tasks across 100s of machines. (1 day ago)
-- [ptsochantaris/trailer](https://github.com/ptsochantaris/trailer) - Managing Pull Requests and Issues For GitHub &amp; GitHub Enterprise (2 days ago)
+- [tszheichoi/awesome-sensor-logger](https://github.com/tszheichoi/awesome-sensor-logger) - Collection of tools, resources and sample code to use alongside the Sensor Logger app (1 day ago)
+- [sqldef/sqldef](https://github.com/sqldef/sqldef) - Idempotent schema management for MySQL, PostgreSQL, SQLite, and SQL Server (2 days ago)
+- [commaai/miniray](https://github.com/commaai/miniray) - Minimal library for distributed python work. Can efficiently run CPU and GPU tasks across 100s of machines. (2 days ago)
 
 #### 📫 How to reach me
 
