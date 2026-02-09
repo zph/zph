@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (3 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (4 weeks ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (1 day ago)
-- [caleberi/hercules-dfs](https://github.com/caleberi/hercules-dfs) - An attempt to reproduce Google Filesystem 2002 (1 day ago)
-- [killme2008/devtap](https://github.com/killme2008/devtap) - Bridge build/dev process output to AI coding sessions via MCP — supports Claude Code, Codex, OpenCode, Gemini CLI, and aider (1 day ago)
+- [sandys/kappal](https://github.com/sandys/kappal) -  (1 day ago)
+- [ellyseum/claude-vault](https://github.com/ellyseum/claude-vault) - Secure secrets handling for Claude Code - keeps API keys out of session logs (1 day ago)
+- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
 
 #### 📫 How to reach me
 
