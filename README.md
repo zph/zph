@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient. (today)
+- [mitchellh/vouch](https://github.com/mitchellh/vouch) - A community trust management system based on explicit vouches to participate. (today)
 - [sandys/kappal](https://github.com/sandys/kappal) -  (1 day ago)
-- [ellyseum/claude-vault](https://github.com/ellyseum/claude-vault) - Secure secrets handling for Claude Code - keeps API keys out of session logs (1 day ago)
-- [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need. (2 days ago)
 
 #### 📫 How to reach me
 
