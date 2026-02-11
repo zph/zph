@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ZStud/reef](https://github.com/ZStud/reef) - Paste bash into fish. It just works. (today)
 - [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox. (2 days ago)
 - [simplyblock/vela](https://github.com/simplyblock/vela) - Postgres Backend Platform with full stack (auth, APIs, functions), instant cloning, branching and separation of compute and storage. Built for self-hosting. (2 days ago)
-- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient. (2 days ago)
 
 #### 📫 How to reach me
 
