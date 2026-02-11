@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (4 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox. (1 day ago)
-- [simplyblock/vela](https://github.com/simplyblock/vela) - Postgres Backend Platform with full stack (auth, APIs, functions), instant cloning, branching and separation of compute and storage. Built for self-hosting. (1 day ago)
-- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient. (1 day ago)
+- [jingkaihe/matchlock](https://github.com/jingkaihe/matchlock) - Matchlock secures AI agent workloads with a Linux-based sandbox. (2 days ago)
+- [simplyblock/vela](https://github.com/simplyblock/vela) - Postgres Backend Platform with full stack (auth, APIs, functions), instant cloning, branching and separation of compute and storage. Built for self-hosting. (2 days ago)
+- [google/wireit](https://github.com/google/wireit) - Wireit upgrades your npm/pnpm/yarn scripts to make them smarter and more efficient. (2 days ago)
 
 #### 📫 How to reach me
 
