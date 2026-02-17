@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (1 day ago)
-- [agentika-labs/grepika](https://github.com/agentika-labs/grepika) -  (2 days ago)
-- [mickamy/sql-tap](https://github.com/mickamy/sql-tap) - Watch SQL traffic in real-time with a TUI (2 days ago)
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (1 day ago)
+- [zachlatta/freeflow](https://github.com/zachlatta/freeflow) - Free and open source alternative to Wispr Flow / Superwhisper / Monologue / etc (1 day ago)
+- [preservim/vim-pencil](https://github.com/preservim/vim-pencil) - Rethinking Vim as a tool for writing (1 day ago)
 
 #### 📫 How to reach me
 
