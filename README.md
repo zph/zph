@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Jay9185/Trmnl-Aviation-monitor](https://github.com/Jay9185/Trmnl-Aviation-monitor) - A clean, high-contrast Air Traffic Monitor for TRMNL E-ink displays. Includes custom layouts (Vertical, Horizontal, Quadrant) and a Cloudflare Worker script for fetching flight data. (today)
 - [taleshape-com/shaper](https://github.com/taleshape-com/shaper) - Visualize and share your data. All in SQL. Powered by DuckDB. (2 days ago)
 - [dannymcc/bluehood](https://github.com/dannymcc/bluehood) - Monitor your local neighbourhood&#39;s bluetooth activity (3 days ago)
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly (4 days ago)
 
 #### 📫 How to reach me
 
