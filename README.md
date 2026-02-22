@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [eng-floe/floecat](https://github.com/eng-floe/floecat) - The home of Floecat: A catalog of catalogs for open table formats (today)
 - [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl) - A community-driven CLI tool for managing NextDNS profiles declaratively. (1 day ago)
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your LLM coding agents on macOS so they can only touch the files they need (1 day ago)
-- [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25&#43; databases and any API. (2 days ago)
 
 #### 📫 How to reach me
 
