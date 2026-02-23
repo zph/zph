@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (today)
+- [DASE-DASLab/FDBKeeper](https://github.com/DASE-DASLab/FDBKeeper) - Official repository for the paper &#34;FDBKeeper: Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases&#34; (PVLDB 2025) (today)
 - [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service (1 day ago)
-- [eng-floe/floecat](https://github.com/eng-floe/floecat) - The home of Floecat: A catalog of catalogs for open table formats (1 day ago)
-- [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl) - A community-driven CLI tool for managing NextDNS profiles declaratively. (2 days ago)
 
 #### 📫 How to reach me
 
