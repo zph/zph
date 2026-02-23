@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [eng-floe/floecat](https://github.com/eng-floe/floecat) - The home of Floecat: A catalog of catalogs for open table formats (today)
-- [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl) - A community-driven CLI tool for managing NextDNS profiles declaratively. (1 day ago)
-- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your LLM coding agents on macOS so they can only touch the files they need (1 day ago)
+- [github/freno](https://github.com/github/freno) - freno: cooperative, highly available throttler service (1 day ago)
+- [eng-floe/floecat](https://github.com/eng-floe/floecat) - The home of Floecat: A catalog of catalogs for open table formats (1 day ago)
+- [danielmeint/nextdnsctl](https://github.com/danielmeint/nextdnsctl) - A community-driven CLI tool for managing NextDNS profiles declaratively. (2 days ago)
 
 #### 📫 How to reach me
 
