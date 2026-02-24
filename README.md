@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (today)
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (1 day ago)
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (1 day ago)
-- [DASE-DASLab/FDBKeeper](https://github.com/DASE-DASLab/FDBKeeper) - Official repository for the paper &#34;FDBKeeper: Enabling Scalable Coordination Services for Metadata Management using Distributed Key-Value Databases&#34; (PVLDB 2025) (1 day ago)
 
 #### 📫 How to reach me
 
