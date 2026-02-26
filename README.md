@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules. (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (1 day ago)
-- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (2 days ago)
-- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (2 days ago)
+- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (2 days ago)
+- [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude&#39;s agent-sdk), and injects relevant context back into future sessions. (3 days ago)
+- [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity (3 days ago)
 
 #### 📫 How to reach me
 
