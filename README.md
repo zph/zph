@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 
 #### 🌱 My latest projects
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 day ago)
-- [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Update to modern hashicorp registry release pattern](https://github.com/zph/terraform-provider-mysql/pull/24) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (2 days ago)
+- [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Update to modern hashicorp registry release pattern](https://github.com/zph/terraform-provider-mysql/pull/24) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agent Swarm framework for AI coding agents and more! (1 day ago)
-- [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53. (1 day ago)
-- [aws-samples/sample-s3-hybrid-cache](https://github.com/aws-samples/sample-s3-hybrid-cache) -  (1 day ago)
+- [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agent Swarm framework for AI coding agents and more! (2 days ago)
+- [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53. (2 days ago)
+- [aws-samples/sample-s3-hybrid-cache](https://github.com/aws-samples/sample-s3-hybrid-cache) -  (2 days ago)
 
 #### 📫 How to reach me
 
