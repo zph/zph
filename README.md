@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (today)
 - [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agent Swarm framework for AI coding agents and more! (2 days ago)
 - [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53. (2 days ago)
-- [aws-samples/sample-s3-hybrid-cache](https://github.com/aws-samples/sample-s3-hybrid-cache) -  (2 days ago)
 
 #### 📫 How to reach me
 
