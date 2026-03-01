@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [imperativelabs/orkestra](https://github.com/imperativelabs/orkestra) - Stop overpaying for LLM calls. Orkestra automatically routes every prompt to the cheapest model that can handle it. (today)
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies (1 day ago)
 - [desplega-ai/agent-swarm](https://github.com/desplega-ai/agent-swarm) - Agent Swarm framework for AI coding agents and more! (3 days ago)
-- [awslabs/route53-infima](https://github.com/awslabs/route53-infima) - Library for managing service-level fault isolation using Amazon Route 53. (3 days ago)
 
 #### 📫 How to reach me
 
