@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/tome-cli](https://github.com/zph/tome-cli) -  (5 days ago)
 - [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go (1 month ago)
 
 #### 🌱 My latest projects
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (4 days ago)
-- [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
-- [Update to modern hashicorp registry release pattern](https://github.com/zph/terraform-provider-mysql/pull/24) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
+- [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (5 days ago)
+- [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
+- [Update to modern hashicorp registry release pattern](https://github.com/zph/terraform-provider-mysql/pull/24) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [asmeyatsky/chimera](https://github.com/asmeyatsky/chimera) -  (1 day ago)
-- [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.  (1 day ago)
-- [imperativelabs/orkestra](https://github.com/imperativelabs/orkestra) - Stop overpaying for LLM calls. Orkestra automatically routes every prompt to the cheapest model that can handle it. (1 day ago)
+- [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) - Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform (1 day ago)
+- [asmeyatsky/chimera](https://github.com/asmeyatsky/chimera) -  (2 days ago)
+- [sqlpage/SQLPage](https://github.com/sqlpage/SQLPage) - Fast SQL-only data application builder. Automatically build a UI on top of SQL queries.  (2 days ago)
 
 #### 📫 How to reach me
 
