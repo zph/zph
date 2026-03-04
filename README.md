@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (today)
 - [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (6 days ago)
 - [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
-- [Update to modern hashicorp registry release pattern](https://github.com/zph/terraform-provider-mysql/pull/24) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
 
 #### 📓 Gists
 
