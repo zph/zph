@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [fix(plan): accept empty input as default, fix duplicate -p, add test and warnings](https://github.com/zph/runbook/pull/29) on [zph/runbook](https://github.com/zph/runbook) (today)
 - [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (2 days ago)
 - [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
-- [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (today)
 - [zipline-ai/chronon](https://github.com/zipline-ai/chronon) -  (1 day ago)
 - [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale. (3 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 days ago)
 
 #### 📫 How to reach me
 
