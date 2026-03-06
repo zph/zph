@@ -12,6 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 day ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
@@ -20,12 +21,11 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (2 years ago)
 - [NLB Target Handling During pre-change and post-change Hooks](https://blog.xargs.io/post/2023-07-22-nlb-target-handling-during-pre-change-and-post-change-hooks/) (2 years ago)
 - [Use presigned AWS STS get-caller-identity for authentication](https://blog.xargs.io/post/2023-07-01-use-presigned-aws-sts-get-caller-identity-for-authentication/) (2 years ago)
-- [On Reliability](https://blog.xargs.io/post/2023-05-10-on-reliability/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
 - [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (1 day ago)
+- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (2 days ago)
 - [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
 - [Use new key B8C5BD2628C8C77B1B8D3F4AB7A1517FBC3FF1AF due to lack of subkey support on Registry](https://github.com/zph/terraform-provider-mysql/pull/25) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale. (2 days ago)
-- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (2 days ago)
-- [open-constructs/cdk-terrain](https://github.com/open-constructs/cdk-terrain) - Define infrastructure resources using programming constructs and provision them using OpenTofu/Terraform (3 days ago)
+- [zipline-ai/chronon](https://github.com/zipline-ai/chronon) -  (1 day ago)
+- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale. (3 days ago)
+- [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect (3 days ago)
 
 #### 📫 How to reach me
 
