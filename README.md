@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 day ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (2 days ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
-- [zph/tome-cli](https://github.com/zph/tome-cli) -  (1 week ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix(plan): accept empty input as default, fix duplicate -p, add test and warnings](https://github.com/zph/runbook/pull/29) on [zph/runbook](https://github.com/zph/runbook) (today)
-- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (2 days ago)
-- [Add symlink resolution for executable discovery](https://github.com/zph/tome-cli/pull/18) on [zph/tome-cli](https://github.com/zph/tome-cli) (1 week ago)
+- [Add catch_up_timeout_millis, mongodb_profiler, and mongodb_server_par…](https://github.com/zph/terraform-provider-mongodb/pull/5) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 day ago)
+- [fix(plan): accept empty input as default, fix duplicate -p, add test and warnings](https://github.com/zph/runbook/pull/29) on [zph/runbook](https://github.com/zph/runbook) (1 day ago)
+- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (3 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (today)
-- [zipline-ai/chronon](https://github.com/zipline-ai/chronon) -  (1 day ago)
-- [risingwavelabs/risingwave](https://github.com/risingwavelabs/risingwave) - Event streaming platform for agents, apps, and analytics. Continuously ingest, transform, and serve event data in real time, at scale. (3 days ago)
+- [googleworkspace/cli](https://github.com/googleworkspace/cli) - Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. (1 day ago)
+- [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service (1 day ago)
+- [ydb-platform/ydb](https://github.com/ydb-platform/ydb) - YDB is an open source Distributed SQL Database that combines high availability and scalability with strong consistency and ACID transactions (1 day ago)
 
 #### 📫 How to reach me
 
