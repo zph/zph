@@ -25,8 +25,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/mup](https://github.com/zph/mup) -  (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [finbarr/yolobox](https://github.com/finbarr/yolobox) - Let your AI go full send. Your home directory stays home. (today)
 - [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases (1 day ago)
 - [kantord/blogtato](https://github.com/kantord/blogtato) - A CLI RSS/Atom feed reader inspired by Taskwarrior (1 day ago)
-- [mem9-ai/mem9](https://github.com/mem9-ai/mem9) -  (1 day ago)
 
 #### 📫 How to reach me
 
