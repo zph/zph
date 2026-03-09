@@ -12,8 +12,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (1 day ago)
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (3 days ago)
+- [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (2 days ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (4 days ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (5 days ago)
+- [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 1 day ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
+- [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 2 days ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 1 month ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/tome-cli](https://github.com/zph/tome-cli) ([v0.2.0](https://github.com/zph/tome-cli/releases/tag/v0.2.0), 2 months ago) - 
 
 #### 🔨 My recent Pull Requests
 
-- [Add catch_up_timeout_millis, mongodb_profiler, and mongodb_server_par…](https://github.com/zph/terraform-provider-mongodb/pull/5) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (2 days ago)
-- [fix(plan): accept empty input as default, fix duplicate -p, add test and warnings](https://github.com/zph/runbook/pull/29) on [zph/runbook](https://github.com/zph/runbook) (2 days ago)
-- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (4 days ago)
+- [Add catch_up_timeout_millis, mongodb_profiler, and mongodb_server_par…](https://github.com/zph/terraform-provider-mongodb/pull/5) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (3 days ago)
+- [fix(plan): accept empty input as default, fix duplicate -p, add test and warnings](https://github.com/zph/runbook/pull/29) on [zph/runbook](https://github.com/zph/runbook) (3 days ago)
+- [feat(connector): add mongo-oplog source connector with E2E test](https://github.com/zph/risingwave/pull/1) on [zph/risingwave](https://github.com/zph/risingwave) (5 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [databricks/dicer](https://github.com/databricks/dicer) - Dicer auto-sharder: Infrastructure for building sharded services (1 day ago)
-- [jszmajda/how_i_claude](https://github.com/jszmajda/how_i_claude) - Notes and skills for how I use Claude Code (1 day ago)
-- [cruzdb/zlog](https://github.com/cruzdb/zlog) - A high-performance distributed shared-log for Ceph (1 day ago)
+- [planetscale/database-skills](https://github.com/planetscale/database-skills) - Skills for AI agents working with databases (1 day ago)
+- [kantord/blogtato](https://github.com/kantord/blogtato) - A CLI RSS/Atom feed reader inspired by Taskwarrior (1 day ago)
+- [mem9-ai/mem9](https://github.com/mem9-ai/mem9) -  (1 day ago)
 
 #### 📫 How to reach me
 
