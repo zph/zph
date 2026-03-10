@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/gotester](https://github.com/zph/gotester) - Golang test digester for nicer outputs (1 day ago)
 - [zph/runbook](https://github.com/zph/runbook) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻 (3 days ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [temporalio/omes](https://github.com/temporalio/omes) - A load generator for Temporal (today)
 - [linvon/cuckoo-filter](https://github.com/linvon/cuckoo-filter) - Cuckoo Filter go implement, better than Bloom Filter, configurable and space optimized  布谷鸟过滤器的Go实现，优于布隆过滤器，可以定制化过滤器参数，并进行了空间优化 (1 day ago)
 - [seiflotfy/cuckoofilter](https://github.com/seiflotfy/cuckoofilter) - Cuckoo Filter: Practically Better Than Bloom (1 day ago)
-- [tannerryan/ring](https://github.com/tannerryan/ring) - Package ring provides a high performance and thread safe Go implementation of a bloom filter. (1 day ago)
 
 #### 📫 How to reach me
 
