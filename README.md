@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (6 days ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [parquet-go/parquet-go](https://github.com/parquet-go/parquet-go) - High-performance Go package to read and write Parquet files (1 day ago)
-- [EdoStra/Marketing-for-Founders](https://github.com/EdoStra/Marketing-for-Founders) - Practical marketing resources to get the first 10 / 100 / 1000 users for your SaaS / App / Startup (2 days ago)
-- [miniflux/v2](https://github.com/miniflux/v2) - Minimalist and opinionated feed reader (2 days ago)
+- [tontinton/maki](https://github.com/tontinton/maki) - AI coding agent (today)
+- [GreyhavenHQ/greyproxy](https://github.com/GreyhavenHQ/greyproxy) - SOCKS5 and DNS proxy for greywall (today)
+- [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - CLI agent sandbox with with dynamic config &amp; visibility via greyproxy. (today)
 
 #### 📫 How to reach me
 
