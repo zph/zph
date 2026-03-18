@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (today)
 - [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. (2 days ago)
 - [tontinton/maki](https://github.com/tontinton/maki) - AI coding agent (2 days ago)
-- [GreyhavenHQ/greyproxy](https://github.com/GreyhavenHQ/greyproxy) - SOCKS5 and DNS proxy for greywall (2 days ago)
 
 #### 📫 How to reach me
 
