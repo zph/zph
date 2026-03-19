@@ -12,9 +12,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (6 days ago)
+- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (1 week ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (1 week ago)
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 week ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (2 weeks ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 week ago)
 
 #### 🌱 My latest projects
@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (4 days ago)
-- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
+- [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (5 days ago)
+- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 week ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [adammiribyan/zeroboot](https://github.com/adammiribyan/zeroboot) - Sub-millisecond VM sandboxes for AI agents via copy-on-write forking (today)
-- [windmill-labs/windmill](https://github.com/windmill-labs/windmill) - Open-source developer platform to power your entire infra and turn scripts into webhooks, workflows and UIs. Fastest workflow engine (13x vs Airflow). Open-source alternative to Retool and Temporal. (2 days ago)
-- [tontinton/maki](https://github.com/tontinton/maki) - AI coding agent (2 days ago)
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. (1 day ago)
+- [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - **Rustunnel** is a open-source tunnel service written in Rust that replicates the core functionality of ngrok. It exposes local services running behind NAT/firewalls to the public internet through a relay server self-hosted or our managed service. (1 day ago)
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development (1 day ago)
 
 #### 📫 How to reach me
 
