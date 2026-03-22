@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 week ago)
 
 #### 🌱 My latest projects
@@ -92,13 +92,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [jira-cli](https://gist.github.com/917d1ca2ac2becd15375ce8caf89563a) (2 years ago)
 - [Deno wrapper for pagerduty-cli](https://gist.github.com/790e9259a9afa4ab7741a493994d8fa8) (2 years ago)
-- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (2 years ago)
+- [EBS disk warming script using fio](https://gist.github.com/5935caeeebc001e2af38f087da19d5af) (3 years ago)
 
 #### ⭐ Recent Stars
 
-- [termux/termux-app](https://github.com/termux/termux-app) - Termux - a terminal emulator application for Android OS extendible by variety of packages. (2 days ago)
-- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. (3 days ago)
-- [joaoh82/rustunnel](https://github.com/joaoh82/rustunnel) - **Rustunnel** is a open-source tunnel service written in Rust that replicates the core functionality of ngrok. It exposes local services running behind NAT/firewalls to the public internet through a relay server self-hosted or our managed service. (3 days ago)
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac. (1 day ago)
+- [ghostty-org/ghostling](https://github.com/ghostty-org/ghostling) - A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 (1 day ago)
+- [arendst/Tasmota](https://github.com/arendst/Tasmota) - Alternative firmware for ESP8266 and ESP32 based devices with easy configuration using webUI, OTA updates, automation using timers or rules, expandability and entirely local control over MQTT, HTTP, Serial or KNX. Full documentation at (1 day ago)
 
 #### 📫 How to reach me
 
