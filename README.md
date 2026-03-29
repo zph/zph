@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [bachya/pytile](https://github.com/bachya/pytile) - 📡 A simple Python API for Tile® Bluetooth trackers (1 day ago)
-- [russellromney/haqlite](https://github.com/russellromney/haqlite) - High-availability SQLite with one line of code &#43; an S3 bucket (1 day ago)
-- [orbitinghail/graft](https://github.com/orbitinghail/graft) - Graft is an open-source transactional storage engine optimized for lazy, partial, and strongly consistent replication—perfect for edge, offline-first, and distributed applications. (1 day ago)
+- [Hacksore/bluelinky](https://github.com/Hacksore/bluelinky) - An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO (1 day ago)
+- [bachya/pytile](https://github.com/bachya/pytile) - 📡 A simple Python API for Tile® Bluetooth trackers (2 days ago)
+- [russellromney/haqlite](https://github.com/russellromney/haqlite) - High-availability SQLite with one line of code &#43; an S3 bucket (2 days ago)
 
 #### 📫 How to reach me
 
