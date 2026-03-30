@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -86,7 +86,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (2 weeks ago)
 - [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
-- [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (2 weeks ago)
+- [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (3 weeks ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Hacksore/bluelinky](https://github.com/Hacksore/bluelinky) - An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO (1 day ago)
-- [bachya/pytile](https://github.com/bachya/pytile) - 📡 A simple Python API for Tile® Bluetooth trackers (2 days ago)
-- [russellromney/haqlite](https://github.com/russellromney/haqlite) - High-availability SQLite with one line of code &#43; an S3 bucket (2 days ago)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (1 day ago)
+- [Hacksore/bluelinky](https://github.com/Hacksore/bluelinky) - An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO (2 days ago)
+- [bachya/pytile](https://github.com/bachya/pytile) - 📡 A simple Python API for Tile® Bluetooth trackers (3 days ago)
 
 #### 📫 How to reach me
 
