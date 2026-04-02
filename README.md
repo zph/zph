@@ -12,9 +12,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (2 weeks ago)
+- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (3 weeks ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (3 weeks ago)
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (3 weeks ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (4 weeks ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (2 weeks ago)
-- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
+- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
 - [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (3 weeks ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (3 days ago)
-- [Hacksore/bluelinky](https://github.com/Hacksore/bluelinky) - An unofficial nodejs API wrapper for Hyundai bluelink and Kia UVO (4 days ago)
-- [bachya/pytile](https://github.com/bachya/pytile) - 📡 A simple Python API for Tile® Bluetooth trackers (5 days ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (1 day ago)
+- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (4 days ago)
 
 #### 📫 How to reach me
 
