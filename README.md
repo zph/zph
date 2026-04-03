@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 weeks ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (1 day ago)
-- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (1 day ago)
-- [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents. (4 days ago)
+- [simplefin/simplefin.github.com](https://github.com/simplefin/simplefin.github.com) - SimpleFIN standard and website (1 day ago)
+- [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
+- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (2 days ago)
 
 #### 📫 How to reach me
 
