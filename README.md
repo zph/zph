@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [picoHz/taxy](https://github.com/picoHz/taxy) - A reverse proxy server with built-in WebUI, supporting TCP/UDP/HTTP/TLS/WebSocket, written in Rust. (today)
 - [simplefin/simplefin.github.com](https://github.com/simplefin/simplefin.github.com) - SimpleFIN standard and website (1 day ago)
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal (2 days ago)
-- [afshinm/zerobox](https://github.com/afshinm/zerobox) - Lightweight, cross-platform process sandboxing powered by OpenAI Codex&#39;s runtime. Sandbox any command with file, network, and credential controls. (2 days ago)
 
 #### 📫 How to reach me
 
