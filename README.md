@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 weeks ago)
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (4 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (today)
-- [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go (1 day ago)
-- [informalsystems/quint](https://github.com/informalsystems/quint) - An executable specification language  with delightful tooling based on the temporal logic of actions (TLA) (2 days ago)
+- [Apaezmx/pgproto](https://github.com/Apaezmx/pgproto) - Postgres extension to manage Google protobuffers natively (1 day ago)
+- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 day ago)
+- [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go (2 days ago)
 
 #### 📫 How to reach me
 
