@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (4 weeks ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.1.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.1.0), 3 weeks ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.1.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.1.0), 4 weeks ago) - MongoDB Terraform Provider
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 1 month ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.3.0](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.3.0), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 
@@ -86,7 +86,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (3 weeks ago)
 - [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
-- [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (4 weeks ago)
+- [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Apaezmx/pgproto](https://github.com/Apaezmx/pgproto) - Postgres extension to manage Google protobuffers natively (1 day ago)
-- [maaslalani/sheets](https://github.com/maaslalani/sheets) - Terminal based spreadsheet tool (1 day ago)
-- [ivov/lisette](https://github.com/ivov/lisette) - A little language inspired by Rust that compiles to Go (2 days ago)
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (1 day ago)
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. (1 day ago)
+- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 day ago)
 
 #### 📫 How to reach me
 
