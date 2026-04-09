@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (3 weeks ago)
+- [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (4 weeks ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (1 month ago)
 - [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 month ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (4 weeks ago)
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -85,7 +85,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (3 weeks ago)
-- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
+- [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
 - [Update Golden Tests for better review](https://github.com/zph/terraform-provider-mongodb/pull/1) on [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (1 day ago)
-- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. (1 day ago)
-- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (1 day ago)
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (2 days ago)
+- [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. (2 days ago)
+- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (2 days ago)
 
 #### 📫 How to reach me
 
