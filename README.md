@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [MarkSRobinson/nginx-pkl](https://github.com/MarkSRobinson/nginx-pkl) -  (today)
 - [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (3 days ago)
 - [matthartman/ghost-pepper](https://github.com/matthartman/ghost-pepper) - Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. (3 days ago)
-- [zmeyer44/Locker](https://github.com/zmeyer44/Locker) -  (3 days ago)
 
 #### 📫 How to reach me
 
