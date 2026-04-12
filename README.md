@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jszmajda/lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding (today)
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 days ago)
 - [MarkSRobinson/nginx-pkl](https://github.com/MarkSRobinson/nginx-pkl) -  (2 days ago)
-- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (5 days ago)
 
 #### 📫 How to reach me
 
