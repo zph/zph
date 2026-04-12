@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (1 day ago)
-- [MarkSRobinson/nginx-pkl](https://github.com/MarkSRobinson/nginx-pkl) -  (1 day ago)
-- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (4 days ago)
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents (2 days ago)
+- [MarkSRobinson/nginx-pkl](https://github.com/MarkSRobinson/nginx-pkl) -  (2 days ago)
+- [solod-dev/solod](https://github.com/solod-dev/solod) - A subset of Go that translates to C (5 days ago)
 
 #### 📫 How to reach me
 
