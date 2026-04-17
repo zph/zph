@@ -17,15 +17,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 month ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
-- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (1 year ago)
+- [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 years ago)
 - [2024 State of the Union](https://blog.xargs.io/post/2024-08-06-2024-state-of-the-union/) (2 years ago)
 - [Improved e2e testing by replacing bats-core with deno&#43;dax](https://blog.xargs.io/post/2024-08-06-improved-e2e-testing-by-replacing-bats-core-with-deno-dax/) (2 years ago)
 - [DBOps Automating infrastructure operations](https://blog.xargs.io/post/2024-05-04-dbops-automating-infrastructure-operations/) (2 years ago)
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage (2 days ago)
-- [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries (2 days ago)
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents (3 days ago)
+- [CITGuru/openduck](https://github.com/CITGuru/openduck) - Distributed DuckDB - dual execution and differential storage (3 days ago)
+- [ilum-cloud/duck_lineage](https://github.com/ilum-cloud/duck_lineage) - A extension for DuckDB, which captures lineage events for executed queries (3 days ago)
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the next-gen IDE for building with coding agents (4 days ago)
 
 #### 📫 How to reach me
 
