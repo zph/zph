@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix ssm port forward](https://github.com/zph/session-manager-plugin/pull/3) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 week ago)
+- [fix ssm port forward](https://github.com/zph/session-manager-plugin/pull/3) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 weeks ago)
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (1 month ago)
 - [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [milch/mistty](https://github.com/milch/mistty) -  (3 days ago)
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (3 days ago)
-- [zby/commonplace](https://github.com/zby/commonplace) - Methodology for agent-operated knowledge bases. Wiki ethos, markdown files, agent skills. (6 days ago)
+- [milch/mistty](https://github.com/milch/mistty) -  (4 days ago)
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (4 days ago)
+- [zby/commonplace](https://github.com/zby/commonplace) - Methodology for agent-operated knowledge bases. Wiki ethos, markdown files, agent skills. (1 week ago)
 
 #### 📫 How to reach me
 
