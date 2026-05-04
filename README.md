@@ -14,7 +14,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (1 month ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (1 month ago)
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (1 month ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (2 months ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (1 year ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (1 year ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 years ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture (today)
-- [milch/mistty](https://github.com/milch/mistty) -  (5 days ago)
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal. (5 days ago)
+- [nautechsystems/nautilus_agents](https://github.com/nautechsystems/nautilus_agents) - Open agent protocol for NautilusTrader (1 day ago)
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture (1 day ago)
+- [milch/mistty](https://github.com/milch/mistty) -  (6 days ago)
 
 #### 📫 How to reach me
 
