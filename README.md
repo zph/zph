@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nautechsystems/nautilus_agents](https://github.com/nautechsystems/nautilus_agents) - Open agent protocol for NautilusTrader (3 days ago)
-- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture (3 days ago)
+- [nautechsystems/nautilus_agents](https://github.com/nautechsystems/nautilus_agents) - Open agent protocol for NautilusTrader (4 days ago)
+- [nautechsystems/nautilus_trader](https://github.com/nautechsystems/nautilus_trader) - Production-grade Rust-native trading engine with deterministic event-driven architecture (4 days ago)
 - [milch/mistty](https://github.com/milch/mistty) -  (1 week ago)
 
 #### 📫 How to reach me
