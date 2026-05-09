@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (1 month ago)
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
 #### 🌱 My latest projects
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix ssm port forward](https://github.com/zph/session-manager-plugin/pull/3) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 weeks ago)
+- [fix ssm port forward](https://github.com/zph/session-manager-plugin/pull/3) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 weeks ago)
 - [Fix MySQL schema migrations for TiDB compatibility](https://github.com/zph/temporal/pull/1) on [zph/temporal](https://github.com/zph/temporal) (1 month ago)
 - [zh improve documentation](https://github.com/zph/terraform-provider-mysql/pull/26) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cachecannon/cachecannon](https://github.com/cachecannon/cachecannon) - A load generation and performance testing tool for caches (1 day ago)
-- [Netflix/hollow](https://github.com/Netflix/hollow) - Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. (1 day ago)
-- [nautechsystems/nautilus_agents](https://github.com/nautechsystems/nautilus_agents) - Open agent protocol for NautilusTrader (5 days ago)
+- [cachecannon/cachecannon](https://github.com/cachecannon/cachecannon) - A load generation and performance testing tool for caches (2 days ago)
+- [Netflix/hollow](https://github.com/Netflix/hollow) - Hollow is a java library and toolset for disseminating in-memory datasets from a single producer to many consumers for high performance read-only access. (2 days ago)
+- [nautechsystems/nautilus_agents](https://github.com/nautechsystems/nautilus_agents) - Open agent protocol for NautilusTrader (6 days ago)
 
 #### 📫 How to reach me
 
