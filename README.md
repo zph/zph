@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (4 days ago)
+- [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (5 days ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (2 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (2 months ago)
 - [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (2 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mongodb/mongo-spark](https://github.com/mongodb/mongo-spark) - The MongoDB Spark Connector (3 days ago)
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (4 days ago)
-- [JoachimSchipper/ssh-init-vm](https://github.com/JoachimSchipper/ssh-init-vm) - Stop MITM on the first SSH connection, on any VPS/cloud provider (4 days ago)
+- [mongodb/mongo-spark](https://github.com/mongodb/mongo-spark) - The MongoDB Spark Connector (4 days ago)
+- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (5 days ago)
+- [JoachimSchipper/ssh-init-vm](https://github.com/JoachimSchipper/ssh-init-vm) - Stop MITM on the first SSH connection, on any VPS/cloud provider (5 days ago)
 
 #### 📫 How to reach me
 
