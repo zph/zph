@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [sleuth-io/sx](https://github.com/sleuth-io/sx) - sx is a package manager for AI coding assistants (today)
+- [ljtn/epiq](https://github.com/ljtn/epiq) - CLI based issue tracker TUI - distributed and  backed by git (today)
 - [madflojo/tasks](https://github.com/madflojo/tasks) - Package tasks is an easy to use in-process scheduler for recurring tasks in Go (1 day ago)
-- [mongodb/mongo-spark](https://github.com/mongodb/mongo-spark) - The MongoDB Spark Connector (5 days ago)
-- [bruin-data/ingestr](https://github.com/bruin-data/ingestr) - ingestr is a CLI tool to copy data between any databases with a single command seamlessly. (6 days ago)
 
 #### 📫 How to reach me
 
