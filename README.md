@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [veerendra2/shelly_device_exporter](https://github.com/veerendra2/shelly_device_exporter) - A Prometheus exporter for Shelly Gen 2&#43; devices. (today)
 - [janos/singleflight](https://github.com/janos/singleflight) - Duplicate function call suppression with context (1 day ago)
 - [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep&#43;read (1 day ago)
-- [relytcloud/pg_ducklake](https://github.com/relytcloud/pg_ducklake) - Native lakehouse experience in Postgres powered by DuckDB &amp; Ducklake (1 day ago)
 
 #### 📫 How to reach me
 
