@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [veerendra2/shelly_device_exporter](https://github.com/veerendra2/shelly_device_exporter) - A Prometheus exporter for Shelly Gen 2&#43; devices. (today)
-- [janos/singleflight](https://github.com/janos/singleflight) - Duplicate function call suppression with context (1 day ago)
-- [MinishLab/semble](https://github.com/MinishLab/semble) - Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep&#43;read (1 day ago)
+- [lance-format/lance-duckdb](https://github.com/lance-format/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (1 day ago)
+- [firetiger-oss/stripes](https://github.com/firetiger-oss/stripes) - Streaming pretty-printer for JSON, YAML, XML, HTML, CSV, protobuf, and text — Go library and CLI (1 day ago)
+- [firetiger-oss/concurrent](https://github.com/firetiger-oss/concurrent) - A modern take on structured concurrency in Go (1 day ago)
 
 #### 📫 How to reach me
 
