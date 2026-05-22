@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [lance-format/lance-duckdb](https://github.com/lance-format/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (2 days ago)
-- [firetiger-oss/stripes](https://github.com/firetiger-oss/stripes) - Streaming pretty-printer for JSON, YAML, XML, HTML, CSV, protobuf, and text — Go library and CLI (2 days ago)
-- [firetiger-oss/concurrent](https://github.com/firetiger-oss/concurrent) - A modern take on structured concurrency in Go (2 days ago)
+- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (1 day ago)
+- [lance-format/lance-duckdb](https://github.com/lance-format/lance-duckdb) - The lance extensions for DuckDB enable reading and writing of lance tables. (3 days ago)
+- [firetiger-oss/stripes](https://github.com/firetiger-oss/stripes) - Streaming pretty-printer for JSON, YAML, XML, HTML, CSV, protobuf, and text — Go library and CLI (3 days ago)
 
 #### 📫 How to reach me
 
