@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (5 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (6 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [opendata-oss/opendata](https://github.com/opendata-oss/opendata) - OpenData is a collection of open source databases built on a common, object-native storage and infrastructure foundation.  (today)
-- [alecthomas/chroma](https://github.com/alecthomas/chroma) - A general purpose syntax highlighter in pure Go  (2 days ago)
-- [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters (3 days ago)
+- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. (1 day ago)
+- [tontinton/maki](https://github.com/tontinton/maki) - An efficient AI coding agent (1 day ago)
+- [sony/gobreaker](https://github.com/sony/gobreaker) - Circuit Breaker implemented in Go (1 day ago)
 
 #### 📫 How to reach me
 
