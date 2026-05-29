@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [earendil-works/absurd](https://github.com/earendil-works/absurd) - An experiment in durability (today)
+- [tensorzero/durable](https://github.com/tensorzero/durable) - Durable execution in Postgres (today)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode (3 days ago)
-- [Netflix/concurrency-limits](https://github.com/Netflix/concurrency-limits) -  (4 days ago)
-- [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running. (5 days ago)
 
 #### 📫 How to reach me
 
