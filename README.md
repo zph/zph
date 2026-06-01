@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [OlegHQ/agentpack](https://github.com/OlegHQ/agentpack) - 🤖 The package manager for AI coding agents — pin, resolve, and sync skills &amp; plugins across Claude Code, Cursor, OpenCode, Codex, Grok, and Antigravity (today)
 - [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (1 day ago)
 - [NLnetLabs/roto](https://github.com/NLnetLabs/roto) - (Codeberg mirror) The statically-typed, compiled embedded scripting language for Rust, used by Rotonda. (1 day ago)
-- [obeli-sk/obelisk](https://github.com/obeli-sk/obelisk) - Durable &amp; Deterministic Workflow Engine (2 days ago)
 
 #### 📫 How to reach me
 
