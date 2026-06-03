@@ -16,7 +16,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 - [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (3 weeks ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (2 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (2 months ago)
-- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (2 months ago)
+- [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (3 months ago)
 - [Incremental Technical Automation](https://blog.xargs.io/post/2024-12-02-incremental-technical-automation/) (2 years ago)
 - [2024: The Rise of S3-Backed OLTP Databases](https://blog.xargs.io/post/2024-11-30-2024-predictions-for-databases-oltp/) (2 years ago)
 - [Database Best Practices](https://blog.xargs.io/post/2024-10-24-database-reliability-and-best-practices/) (2 years ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (2 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jszmajda/lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding (1 day ago)
-- [OlegHQ/agentpack](https://github.com/OlegHQ/agentpack) - 🤖 The package manager for AI coding agents — pin, resolve, and sync skills &amp; plugins across Claude Code, Cursor, OpenCode, Codex, Grok, and Antigravity (1 day ago)
-- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (2 days ago)
+- [jszmajda/lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding (2 days ago)
+- [OlegHQ/agentpack](https://github.com/OlegHQ/agentpack) - 🤖 The package manager for AI coding agents — pin, resolve, and sync skills &amp; plugins across Claude Code, Cursor, OpenCode, Codex, Grok, and Antigravity (2 days ago)
+- [viggy28/streambed](https://github.com/viggy28/streambed) - Stream Postgres to Apache Iceberg on S3 via logical replication, queryable over the Postgres wire protocol.  (3 days ago)
 
 #### 📫 How to reach me
 
