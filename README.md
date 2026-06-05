@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [lm-sys/RouteLLM](https://github.com/lm-sys/RouteLLM) - A framework for serving and evaluating LLM routers - save LLM costs without compromising quality (today)
+- [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Battle-tested at Alibaba&#39;s scale. Hybrid architecture code review tool: deterministic pipelines &#43; LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible. (today)
 - [utibeabasi6/mercek](https://github.com/utibeabasi6/mercek) - A local-first desktop IDE for Amazon ECS (today)
-- [jszmajda/lid](https://github.com/jszmajda/lid) - Linked-Intent Development - a SDD methodology for agentic coding (4 days ago)
-- [OlegHQ/agentpack](https://github.com/OlegHQ/agentpack) - 🤖 The package manager for AI coding agents — pin, resolve, and sync skills &amp; plugins across Claude Code, Cursor, OpenCode, Codex, Grok, and Antigravity (4 days ago)
 
 #### 📫 How to reach me
 
