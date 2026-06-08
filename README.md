@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (today)
 - [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens. (2 days ago)
 - [microsoft/duroxide](https://github.com/microsoft/duroxide) -  (2 days ago)
-- [microsoft/pg_durable](https://github.com/microsoft/pg_durable) - PostgreSQL in-database durable execution (3 days ago)
 
 #### 📫 How to reach me
 
