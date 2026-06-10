@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (today)
 - [schacon/ticgit](https://github.com/schacon/ticgit) - Git based distributed ticketing system, built on git-meta (1 day ago)
 - [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (2 days ago)
-- [zdk/lowfat](https://github.com/zdk/lowfat) - lowfat - slim your command output. strips noise, saves tokens. (4 days ago)
 
 #### 📫 How to reach me
 
