@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update test matrix versions](https://github.com/zph/terraform-provider-mysql/pull/30) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
-- [Simplify test runner orchestration](https://github.com/zph/terraform-provider-mysql/pull/29) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
-- [Update provider documentation](https://github.com/zph/terraform-provider-mysql/pull/28) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Add TiDB syntax coverage for resource controls and placement](https://github.com/zph/terraform-provider-mysql/pull/34) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (today)
+- [Cover TiDB runaway query controls](https://github.com/zph/terraform-provider-mysql/pull/33) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (today)
+- [Backport upstream patches w/ attribution](https://github.com/zph/terraform-provider-mysql/pull/32) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (today)
 
 #### 📓 Gists
 
