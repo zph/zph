@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 months ago)
 
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update test matrix versions](https://github.com/zph/terraform-provider-mysql/pull/30) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Simplify test runner orchestration](https://github.com/zph/terraform-provider-mysql/pull/29) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Update provider documentation](https://github.com/zph/terraform-provider-mysql/pull/28) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Update test matrix versions](https://github.com/zph/terraform-provider-mysql/pull/30) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Simplify test runner orchestration](https://github.com/zph/terraform-provider-mysql/pull/29) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Update provider documentation](https://github.com/zph/terraform-provider-mysql/pull/28) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (2 days ago)
-- [schacon/ticgit](https://github.com/schacon/ticgit) - Git based distributed ticketing system, built on git-meta (3 days ago)
-- [garethgeorge/backrest](https://github.com/garethgeorge/backrest) - Backrest is a web UI and orchestrator for restic backup. (4 days ago)
+- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (today)
+- [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers &amp; Linux machines (3 days ago)
+- [schacon/ticgit](https://github.com/schacon/ticgit) - Git based distributed ticketing system, built on git-meta (4 days ago)
 
 #### 📫 How to reach me
 
