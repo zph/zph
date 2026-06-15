@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 months ago)
 
 #### 🌱 My latest projects
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
-- [Add TiDB syntax coverage for resource controls and placement](https://github.com/zph/terraform-provider-mysql/pull/34) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 day ago)
+- [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
+- [Add TiDB syntax coverage for resource controls and placement](https://github.com/zph/terraform-provider-mysql/pull/34) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device. (1 day ago)
-- [colinvkim/Radix](https://github.com/colinvkim/Radix) - Modern, extremely fast macOS disk space analyzer. (1 day ago)
-- [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local (1 day ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (1 day ago)
+- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (1 day ago)
+- [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - A meta-harness for all your AI agents.  Omnigent provides a common layer over Claude Code, Codex, Pi, and the agents you write yourself: swap or combine harnesses without rewriting, keep them in check with policies and sandboxing, and collaborate in real time on the same live session, from any device. (2 days ago)
 
 #### 📫 How to reach me
 
