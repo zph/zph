@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 days ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 months ago)
 
 #### 🌱 My latest projects
@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
-- [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
-- [Add TiDB syntax coverage for resource controls and placement](https://github.com/zph/terraform-provider-mysql/pull/34) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 days ago)
+- [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
+- [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
+- [Add TiDB syntax coverage for resource controls and placement](https://github.com/zph/terraform-provider-mysql/pull/34) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (5 days ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS (2 days ago)
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (3 days ago)
-- [tamnd/kage](https://github.com/tamnd/kage) - Shadow any website for offline viewing, with the JavaScript stripped out (3 days ago)
+- [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍 (1 day ago)
+- [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS (3 days ago)
+- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (4 days ago)
 
 #### 📫 How to reach me
 
