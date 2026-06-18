@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [crertel/stonkler](https://github.com/crertel/stonkler) - Easy Golang securities tool. (today)
 - [reflex-dev/reflex](https://github.com/reflex-dev/reflex) - 🕸️ Web apps in pure Python 🐍 (1 day ago)
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Open source MCP Servers for AWS (3 days ago)
-- [earendil-works/pi](https://github.com/earendil-works/pi) - AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI (4 days ago)
 
 #### 📫 How to reach me
 
