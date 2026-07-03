@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Search the coding agent history already on your machine (today)
 - [brandur/redis-cell](https://github.com/brandur/redis-cell) - A Redis module that provides rate limiting in Redis as a single command. (1 day ago)
 - [nolabs-ai/nono](https://github.com/nolabs-ai/nono) - Sandbox any AI agent in seconds - zero setup, zero latency. (1 day ago)
-- [josh-project/josh](https://github.com/josh-project/josh) - Git at scale platform (1 day ago)
 
 #### 📫 How to reach me
 
