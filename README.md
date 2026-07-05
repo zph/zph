@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [localstorm/mailkick-oss](https://github.com/localstorm/mailkick-oss) - MailKick agent for email handling  (today)
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (2 days ago)
 - [alecthomas/aim](https://github.com/alecthomas/aim) - AIM - AI-assisted verified SQL migration generator (2 days ago)
-- [block/cachew](https://github.com/block/cachew) - Cachew (pronounced cashew) is a super-fast application-level pass-through cache (2 days ago)
 
 #### 📫 How to reach me
 
