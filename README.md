@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (3 weeks ago)
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (3 months ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [localstorm/mailkick-oss](https://github.com/localstorm/mailkick-oss) - MailKick agent for email handling  (1 day ago)
-- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (3 days ago)
-- [alecthomas/aim](https://github.com/alecthomas/aim) - AIM - AI-assisted verified SQL migration generator (3 days ago)
+- [pettijohn/corsair-ai-workstation-performance-level-linux](https://github.com/pettijohn/corsair-ai-workstation-performance-level-linux) - A Linux driver and optional minimal UI that can read the performance level of the Corsair AI Workstation 300 Series. (1 day ago)
+- [localstorm/mailkick-oss](https://github.com/localstorm/mailkick-oss) - MailKick agent for email handling  (2 days ago)
+- [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library. (4 days ago)
 
 #### 📫 How to reach me
 
