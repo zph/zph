@@ -24,15 +24,15 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 day ago)
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 weeks ago)
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider (4 months ago)
 
 #### 🌱 My latest projects
 
+- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) - MongoDB Terraform Provider
 - [zph/gotester](https://github.com/zph/gotester) - Golang test digester for nicer outputs
-- [zph/gorun](https://github.com/zph/gorun) - Minimal execution wrapper for go
 
 ### 📖 Interests and Excitement:
 * Founding my own startup
