@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (4 weeks ago)
+- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
 #### 🌱 My latest projects
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (4 days ago)
+- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (5 days ago)
 - [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (1 day ago)
-- [junhoyeo/tokscale](https://github.com/junhoyeo/tokscale) - 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw, Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard &#43; 2D/3D Contributions Graph (1 day ago)
-- [conductor-oss/conductor](https://github.com/conductor-oss/conductor) - Conductor is an event driven agentic workflow engine providing durable and highly resilient execution engine for applications and AI Agents (3 days ago)
+- [kstenerud/yoloai](https://github.com/kstenerud/yoloai) - AI agent sandboxing done right. (1 day ago)
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (1 day ago)
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (2 days ago)
 
 #### 📫 How to reach me
 
