@@ -25,7 +25,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 👷 What I'm currently working on
 
 - [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (4 days ago)
+- [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (5 days ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kstenerud/yoloai](https://github.com/kstenerud/yoloai) - AI agent sandboxing done right. (3 days ago)
-- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (3 days ago)
-- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (4 days ago)
+- [kstenerud/yoloai](https://github.com/kstenerud/yoloai) - AI agent sandboxing done right. (4 days ago)
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (4 days ago)
+- [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (5 days ago)
 
 #### 📫 How to reach me
 
