@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 4 weeks ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 1 month ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.1.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.1.0), 4 months ago) - MongoDB Terraform Provider
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 4 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [kstenerud/yoloai](https://github.com/kstenerud/yoloai) - AI agent sandboxing done right. (6 days ago)
-- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (6 days ago)
+- [kstenerud/yoloai](https://github.com/kstenerud/yoloai) - AI agent sandboxing done right. (1 week ago)
+- [earendil-works/gondolin](https://github.com/earendil-works/gondolin) - Experimental Linux microvm setup with a TypeScript Control Plane as Agent Sandbox (1 week ago)
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage (1 week ago)
 
 #### 📫 How to reach me
