@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 week ago)
+- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (2 weeks ago)
 - [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (today)
-- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (1 day ago)
-- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (1 day ago)
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 day ago)
+- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (2 days ago)
+- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (2 days ago)
 
 #### 📫 How to reach me
 
