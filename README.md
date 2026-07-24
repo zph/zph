@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 day ago)
-- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (2 days ago)
-- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (2 days ago)
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (2 days ago)
+- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (3 days ago)
+- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (3 days ago)
 
 #### 📫 How to reach me
 
