@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (1 month ago)
+- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (2 months ago)
 - [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (2 months ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (4 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (4 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 week ago)
 - [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (2 days ago)
-- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (3 days ago)
-- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (3 days ago)
+- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (3 days ago)
+- [pgplex/pgparser](https://github.com/pgplex/pgparser) - Pure Go PostgreSQL Parser. 100% compatible with PostgreSQL 17.7 AST and regression tests. (4 days ago)
+- [Hikari-Systems/slater](https://github.com/Hikari-Systems/slater) - Low-memory graphdb with Bolt&#43;tls support, at-rest encryption &amp; vectors designed for local replica graph use cases. (4 days ago)
 
 #### 📫 How to reach me
 
