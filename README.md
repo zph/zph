@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/mup](https://github.com/zph/mup) -  (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (2 weeks ago)
 
 #### 🌱 My latest projects
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite. (1 day ago)
-- [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it. (3 days ago)
+- [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite. (2 days ago)
+- [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it. (4 days ago)
 - [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 week ago)
 
 #### 📫 How to reach me
