@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (today)
 - [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite and Postgres. (6 days ago)
 - [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it. (1 week ago)
-- [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) - Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. (1 week ago)
 
 #### 📫 How to reach me
 
