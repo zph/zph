@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (3 weeks ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (today)
-- [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite and Postgres. (6 days ago)
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (1 day ago)
+- [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite and Postgres. (1 week ago)
 - [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it. (1 week ago)
 
 #### 📫 How to reach me
