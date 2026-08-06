@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (3 weeks ago)
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (3 weeks ago)
+- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (4 weeks ago)
 - [Add TiDB placement attachment resources](https://github.com/zph/terraform-provider-mysql/pull/36) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Update VERSION to 3.0.62015](https://github.com/zph/terraform-provider-mysql/pull/35) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (1 day ago)
+- [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (1 day ago)
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (2 days ago)
 - [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite and Postgres. (1 week ago)
-- [tracewayapp/traceway](https://github.com/tracewayapp/traceway) - The only tool you need to know what is happening and how to fix it. (1 week ago)
 
 #### 📫 How to reach me
 
