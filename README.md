@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (3 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (1 day ago)
-- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (2 days ago)
-- [wjordan/syzy](https://github.com/wjordan/syzy) - Local-first, multi-writer replication for SQLite and Postgres. (1 week ago)
+- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (1 day ago)
+- [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (2 days ago)
+- [jdx/pitchfork](https://github.com/jdx/pitchfork) - Daemons with DX (3 days ago)
 
 #### 📫 How to reach me
 
