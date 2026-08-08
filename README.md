@@ -97,7 +97,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### ⭐ Recent Stars
 
 - [snail007/goproxy](https://github.com/snail007/goproxy) - 🔥  Proxy is a high performance HTTP(S) proxies, SOCKS5 proxies,WEBSOCKET, TCP, UDP proxy server implemented by golang. Now, it supports chain-style proxies,nat forwarding in different lan,TCP/UDP port forwarding, SSH forwarding.Proxy是golang实现的高性能http,https,websocket,tcp,socks5代理服务器,支持内网穿透,链式代理,通讯加密,智能HTTP,SOCKS5代理,黑白名单,限速,限流量,限连接数,跨平台,KCP支持,认证API。 (today)
-- [ZimengXiong/tinyTouch](https://github.com/ZimengXiong/tinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (2 days ago)
+- [ZimengXiong/TinyTouch](https://github.com/ZimengXiong/TinyTouch) - authenticate, sudo, login with your fingerprint wire(less)ly without having to spend $149 at the cost of some security (2 days ago)
 - [denoland/celld](https://github.com/denoland/celld) - self-hosted, distributed Durable Objects (3 days ago)
 
 #### 📫 How to reach me
