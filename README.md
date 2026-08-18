@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (2 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/mup](https://github.com/zph/mup) -  (3 weeks ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 month ago)
 
 #### 🌱 My latest projects
@@ -84,8 +84,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
-- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (6 days ago)
+- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
+- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 month ago)
 
 #### 📓 Gists
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [yey-boats/instruments](https://github.com/yey-boats/instruments) - Flexible marine instruments system for ESP32 based screens (1 day ago)
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. (6 days ago)
-- [malisper/pgrust](https://github.com/malisper/pgrust) - Postgres rewritten in Rust, now faster than Postgres and Clickhouse (1 week ago)
+- [sbender9/signalk-path-mapper](https://github.com/sbender9/signalk-path-mapper) -  (1 day ago)
+- [yey-boats/instruments](https://github.com/yey-boats/instruments) - Flexible marine instruments system for ESP32 based screens (2 days ago)
+- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. (1 week ago)
 
 #### 📫 How to reach me
 
