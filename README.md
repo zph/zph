@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sbender9/signalk-path-mapper](https://github.com/sbender9/signalk-path-mapper) -  (1 day ago)
-- [yey-boats/instruments](https://github.com/yey-boats/instruments) - Flexible marine instruments system for ESP32 based screens (2 days ago)
-- [ansible/awx](https://github.com/ansible/awx) - AWX provides a web-based user interface, REST API, and task engine built on top of Ansible. It is one of the upstream projects for Red Hat Ansible Automation Platform. (1 week ago)
+- [NearlCrews/signalk-binnacle](https://github.com/NearlCrews/signalk-binnacle) - WebGL chart plotter for Signal K (today)
+- [MarineYachtRadar/mayara-server](https://github.com/MarineYachtRadar/mayara-server) - Marine Yacht Radar - Server (today)
+- [trondhindenes/signalk-orca-core](https://github.com/trondhindenes/signalk-orca-core) -  (today)
 
 #### 📫 How to reach me
 
