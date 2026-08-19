@@ -78,8 +78,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 1 month ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.1.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.1.0), 5 months ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.2.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.2.0), today) - MongoDB Terraform Provider
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NearlCrews/signalk-binnacle](https://github.com/NearlCrews/signalk-binnacle) - WebGL chart plotter for Signal K (today)
-- [MarineYachtRadar/mayara-server](https://github.com/MarineYachtRadar/mayara-server) - Marine Yacht Radar - Server (today)
-- [trondhindenes/signalk-orca-core](https://github.com/trondhindenes/signalk-orca-core) -  (today)
+- [NearlCrews/signalk-binnacle](https://github.com/NearlCrews/signalk-binnacle) - WebGL chart plotter for Signal K (1 day ago)
+- [MarineYachtRadar/mayara-server](https://github.com/MarineYachtRadar/mayara-server) - Marine Yacht Radar - Server (1 day ago)
+- [trondhindenes/signalk-orca-core](https://github.com/trondhindenes/signalk-orca-core) -  (1 day ago)
 
 #### 📫 How to reach me
 
