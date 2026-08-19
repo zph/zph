@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [panaaj/sk-ais-status-plugin](https://github.com/panaaj/sk-ais-status-plugin) - Signal K plugin for providing a curated AIS stream to clients. (today)
 - [NearlCrews/signalk-binnacle](https://github.com/NearlCrews/signalk-binnacle) - WebGL chart plotter for Signal K (1 day ago)
 - [MarineYachtRadar/mayara-server](https://github.com/MarineYachtRadar/mayara-server) - Marine Yacht Radar - Server (1 day ago)
-- [trondhindenes/signalk-orca-core](https://github.com/trondhindenes/signalk-orca-core) -  (1 day ago)
 
 #### 📫 How to reach me
 
