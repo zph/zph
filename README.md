@@ -84,9 +84,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (today)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 week ago)
-- [fix: embed AWS-compatible release version](https://github.com/zph/session-manager-plugin/pull/4) on [zph/session-manager-plugin](https://github.com/zph/session-manager-plugin) (1 month ago)
 
 #### 📓 Gists
 
