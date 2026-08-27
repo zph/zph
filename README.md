@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
-- [zph/mup](https://github.com/zph/mup) -  (4 weeks ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 month ago)
 
 #### 🌱 My latest projects
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.2.1](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.2.1), 6 days ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.2.1](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.2.1), 1 week ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 5 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (2 days ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (3 days ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NearlCrews/signalk-virtual-weather-sensors](https://github.com/NearlCrews/signalk-virtual-weather-sensors) - Signal K plugin providing 24&#43; environmental data points from AccuWeather, with NMEA2000-aligned paths. (2 days ago)
-- [openwatersio/aiscast](https://github.com/openwatersio/aiscast) - Open AIS aggregation hub: aisstream.io-compatible streams from open feeds and volunteer receivers (5 days ago)
+- [NearlCrews/signalk-virtual-weather-sensors](https://github.com/NearlCrews/signalk-virtual-weather-sensors) - Signal K plugin providing 24&#43; environmental data points from AccuWeather, with NMEA2000-aligned paths. (3 days ago)
+- [openwatersio/aiscast](https://github.com/openwatersio/aiscast) - Open AIS aggregation hub: aisstream.io-compatible streams from open feeds and volunteer receivers (6 days ago)
 - [panaaj/sk-ais-status-plugin](https://github.com/panaaj/sk-ais-status-plugin) - Signal K plugin for providing a curated AIS stream to clients. (1 week ago)
 
 #### 📫 How to reach me
