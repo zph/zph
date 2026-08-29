@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 month ago)
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (4 days ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (5 days ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 weeks ago)
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [NearlCrews/signalk-virtual-weather-sensors](https://github.com/NearlCrews/signalk-virtual-weather-sensors) - Signal K plugin providing 24&#43; environmental data points from AccuWeather, with NMEA2000-aligned paths. (4 days ago)
+- [NearlCrews/signalk-virtual-weather-sensors](https://github.com/NearlCrews/signalk-virtual-weather-sensors) - Signal K plugin providing 24&#43; environmental data points from AccuWeather, with NMEA2000-aligned paths. (5 days ago)
 - [openwatersio/aiscast](https://github.com/openwatersio/aiscast) - Open AIS aggregation hub: aisstream.io-compatible streams from open feeds and volunteer receivers (1 week ago)
 - [panaaj/sk-ais-status-plugin](https://github.com/panaaj/sk-ais-status-plugin) - Signal K plugin for providing a curated AIS stream to clients. (1 week ago)
 
