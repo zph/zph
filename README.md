@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 month ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.3.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.3.0), 2 days ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.3.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.3.0), 3 days ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (1 day ago)
-- [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (2 days ago)
-- [macjl/signalk-grib-weather-provider](https://github.com/macjl/signalk-grib-weather-provider) - SignalK Weather API provider for local GRIB2 files (GFS, AROME, ICON, ARPEGE) (2 days ago)
+- [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (2 days ago)
+- [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (3 days ago)
+- [macjl/signalk-grib-weather-provider](https://github.com/macjl/signalk-grib-weather-provider) - SignalK Weather API provider for local GRIB2 files (GFS, AROME, ICON, ARPEGE) (3 days ago)
 
 #### 📫 How to reach me
 
