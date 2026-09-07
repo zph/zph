@@ -13,7 +13,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 #### 📜 My recent blog posts
 
 - [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (3 months ago)
-- [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (3 months ago)
+- [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (4 months ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (5 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (6 months ago)
 - [Surviving Database Migrations: Ambitious and a little crazy](https://blog.xargs.io/post/2026-03-05-surviving-database-migrations-ambitious-and-a-little-crazy/) (6 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/mup](https://github.com/zph/mup) -  (1 month ago)
 - [zph/bisync](https://github.com/zph/bisync) - Two directional rsync (1 month ago)
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.3.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.3.0), 5 days ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.3.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.3.0), 6 days ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (1 week ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (2 weeks ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 weeks ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (4 days ago)
-- [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (5 days ago)
-- [macjl/signalk-grib-weather-provider](https://github.com/macjl/signalk-grib-weather-provider) - SignalK Weather API provider for local GRIB2 files (GFS, AROME, ICON, ARPEGE) (5 days ago)
+- [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (5 days ago)
+- [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (6 days ago)
+- [macjl/signalk-grib-weather-provider](https://github.com/macjl/signalk-grib-weather-provider) - SignalK Weather API provider for local GRIB2 files (GFS, AROME, ICON, ARPEGE) (6 days ago)
 
 #### 📫 How to reach me
 
