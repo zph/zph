@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (today)
 - [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (5 days ago)
 - [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (6 days ago)
-- [macjl/signalk-grib-weather-provider](https://github.com/macjl/signalk-grib-weather-provider) - SignalK Weather API provider for local GRIB2 files (GFS, AROME, ICON, ARPEGE) (6 days ago)
 
 #### 📫 How to reach me
 
