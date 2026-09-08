@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (today)
+- [rgleason/weather_routing_pi](https://github.com/rgleason/weather_routing_pi) - Weather Routing plugin for OpenCPN (today)
 - [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (1 day ago)
-- [sbender9/signalk-buddylist-plugin](https://github.com/sbender9/signalk-buddylist-plugin) - Provides a buddy list for Signal K Node Server (6 days ago)
-- [macjl/signalk-grib-downloader](https://github.com/macjl/signalk-grib-downloader) - SignalK plugin scheduling GRIB downloads (GFS, AROME, ARPEGE, ICON-EU) — auto after each model run or manual, with a map-based management webapp. (1 week ago)
 
 #### 📫 How to reach me
 
