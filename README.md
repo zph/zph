@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 day ago)
-- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (2 days ago)
+- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (today)
-- [rgleason/weather_routing_pi](https://github.com/rgleason/weather_routing_pi) - Weather Routing plugin for OpenCPN (today)
-- [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (1 day ago)
+- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (1 day ago)
+- [rgleason/weather_routing_pi](https://github.com/rgleason/weather_routing_pi) - Weather Routing plugin for OpenCPN (1 day ago)
+- [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (2 days ago)
 
 #### 📫 How to reach me
 
