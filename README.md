@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (2 days ago)
-- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (2 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (3 days ago)
+- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 
 #### 🌱 My latest projects
 
@@ -78,15 +78,15 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.3.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.3.0), 1 week ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.0), 1 day ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
 - [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (2 weeks ago)
-- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
-- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (4 weeks ago)
+- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
+- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (1 day ago)
-- [rgleason/weather_routing_pi](https://github.com/rgleason/weather_routing_pi) - Weather Routing plugin for OpenCPN (1 day ago)
-- [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (2 days ago)
+- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (2 days ago)
+- [rgleason/weather_routing_pi](https://github.com/rgleason/weather_routing_pi) - Weather Routing plugin for OpenCPN (2 days ago)
+- [matztam/signalk-beluga-core](https://github.com/matztam/signalk-beluga-core) - A SignalK plugin that emulates an ORCA Core marine sensor hub. It makes the ORCA app connect to your SignalK server. (3 days ago)
 
 #### 📫 How to reach me
 
