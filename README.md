@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 week ago)
 - [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 week ago)
 
