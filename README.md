@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 week ago)
 - [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 week ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [noforeignland/nfl-signalk](https://github.com/noforeignland/nfl-signalk) - SignalK plugin to update boat track on noforeignland (3 days ago)
-- [ory/lumen](https://github.com/ory/lumen) - Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec. (5 days ago)
-- [seandepagnier/weather_routing_pi](https://github.com/seandepagnier/weather_routing_pi) - weather routing plugin for opencpn (1 week ago)
+- [ClickHouse/walshadow](https://github.com/ClickHouse/walshadow) - Sub-second Postgres replication to ClickHouse using physical WAL (1 day ago)
+- [noforeignland/nfl-signalk](https://github.com/noforeignland/nfl-signalk) - SignalK plugin to update boat track on noforeignland (4 days ago)
+- [ory/lumen](https://github.com/ory/lumen) - Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec. (6 days ago)
 
 #### 📫 How to reach me
 
