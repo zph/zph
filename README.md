@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 week ago)
 - [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 week ago)
 
@@ -79,7 +79,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔭 Latest releases I've contributed to
 
 - [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.0), 1 week ago) - MongoDB Terraform Provider
-- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 2 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
+- [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 3 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/walshadow](https://github.com/ClickHouse/walshadow) - Sub-second Postgres replication to ClickHouse using physical WAL (1 day ago)
-- [noforeignland/nfl-signalk](https://github.com/noforeignland/nfl-signalk) - SignalK plugin to update boat track on noforeignland (4 days ago)
-- [ory/lumen](https://github.com/ory/lumen) - Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec. (6 days ago)
+- [ClickHouse/walshadow](https://github.com/ClickHouse/walshadow) - Sub-second Postgres replication to ClickHouse using physical WAL (2 days ago)
+- [noforeignland/nfl-signalk](https://github.com/noforeignland/nfl-signalk) - SignalK plugin to update boat track on noforeignland (5 days ago)
+- [ory/lumen](https://github.com/ory/lumen) - Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec. (1 week ago)
 
 #### 📫 How to reach me
 
