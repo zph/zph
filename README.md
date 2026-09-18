@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [ClickHouse/walshadow](https://github.com/ClickHouse/walshadow) - Sub-second Postgres replication to ClickHouse using physical WAL (2 days ago)
-- [noforeignland/nfl-signalk](https://github.com/noforeignland/nfl-signalk) - SignalK plugin to update boat track on noforeignland (5 days ago)
-- [ory/lumen](https://github.com/ory/lumen) - Save 30% token costs when using Claude Code, Codex, OpenCode for free - with open source, local semantic search. Works for small and large codebases and monorepos! Enterprise-ready and fully compliant via Ollama and SQLite-vec. (1 week ago)
+- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (today)
+- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (today)
+- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (today)
 
 #### 📫 How to reach me
 
