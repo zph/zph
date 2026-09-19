@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 week ago)
 - [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 week ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (today)
-- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (today)
-- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (today)
+- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (1 day ago)
+- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (1 day ago)
+- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (1 day ago)
 
 #### 📫 How to reach me
 
