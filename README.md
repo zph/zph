@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (5 days ago)
-- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (1 week ago)
-- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (2 weeks ago)
+- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -84,7 +84,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (3 weeks ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (4 weeks ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (1 day ago)
-- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (2 days ago)
-- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (2 days ago)
+- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (2 days ago)
+- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (3 days ago)
+- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (3 days ago)
 
 #### 📫 How to reach me
 
