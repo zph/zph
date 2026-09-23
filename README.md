@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (3 months ago)
+- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (4 months ago)
 - [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (4 months ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (6 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (6 months ago)
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.0), 1 week ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.0](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.0), 2 weeks ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 3 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 6 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (4 weeks ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (1 month ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (3 days ago)
-- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (4 days ago)
-- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (4 days ago)
+- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (4 days ago)
+- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (5 days ago)
+- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (5 days ago)
 
 #### 📫 How to reach me
 
