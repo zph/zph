@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (4 days ago)
-- [TylerBoni/autopilot-433-remote](https://github.com/TylerBoni/autopilot-433-remote) -  (5 days ago)
-- [NKSR22/arduino-ibt2-motor-driver](https://github.com/NKSR22/arduino-ibt2-motor-driver) - This library is designed to be easy to use while providing the flexibility to work with a wide range of microcontrollers (MCUs) like Arduino AVR boards, ESP32, STM32, and more. It allows for easy configuration of hardware-specific parameters such as PWM range, ADC resolution, and ADC reference voltage. (5 days ago)
+- [openeverest/provider-tidb](https://github.com/openeverest/provider-tidb) - OpenEverest provider for TiDB - uses official operator (1 day ago)
+- [aditya-ramabadran/drivingbench_harness_v1](https://github.com/aditya-ramabadran/drivingbench_harness_v1) - Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot &#43; MCP tools. (1 day ago)
+- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (5 days ago)
 
 #### 📫 How to reach me
 
