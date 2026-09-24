@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
 - [openeverest/provider-tidb](https://github.com/openeverest/provider-tidb) - OpenEverest provider for TiDB - uses official operator (1 day ago)
 - [aditya-ramabadran/drivingbench_harness_v1](https://github.com/aditya-ramabadran/drivingbench_harness_v1) - Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot &#43; MCP tools. (1 day ago)
-- [tigrisdata/objgit](https://github.com/tigrisdata/objgit) - Git backed by object storage (5 days ago)
 
 #### 📫 How to reach me
 
