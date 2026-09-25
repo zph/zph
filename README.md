@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
-- [zph/signalk-bathymetry](https://github.com/zph/signalk-bathymetry) -  (2 weeks ago)
-- [zph/signalk-constants](https://github.com/zph/signalk-constants) - Publish user-configured constant values to Signal K (2 weeks ago)
+- [zph/signalk-history-provider-transform](https://github.com/zph/signalk-history-provider-transform) -  (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/signalk-charts-provider-progressive](https://github.com/zph/signalk-charts-provider-progressive) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory. (today)
-- [openeverest/provider-tidb](https://github.com/openeverest/provider-tidb) - OpenEverest provider for TiDB - uses official operator (1 day ago)
-- [aditya-ramabadran/drivingbench_harness_v1](https://github.com/aditya-ramabadran/drivingbench_harness_v1) - Harness/code for DrivingBench v1, which allows frontier LLMs to control cars via Comma/openpilot &#43; MCP tools. (1 day ago)
+- [sailingnaturali/signalk-notification-router](https://github.com/sailingnaturali/signalk-notification-router) - Route Signal K notifications to MQTT, Telegram and an agent webhook — two push lanes with independent failure modes (today)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (today)
+- [macjl/signalk-history-explorer](https://github.com/macjl/signalk-history-explorer) - Signal K webapp for exploring History API paths and values (today)
 
 #### 📫 How to reach me
 
