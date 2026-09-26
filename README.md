@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/signalk-history-provider-transform](https://github.com/zph/signalk-history-provider-transform) -  (1 day ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/signalk-history-provider-transform](https://github.com/zph/signalk-history-provider-transform) -  (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
 - [zph/signalk-charts-provider-progressive](https://github.com/zph/signalk-charts-provider-progressive) -  (1 week ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [sailingnaturali/signalk-notification-router](https://github.com/sailingnaturali/signalk-notification-router) - Route Signal K notifications to MQTT, Telegram and an agent webhook — two push lanes with independent failure modes (today)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (today)
-- [macjl/signalk-history-explorer](https://github.com/macjl/signalk-history-explorer) - Signal K webapp for exploring History API paths and values (today)
+- [sailingnaturali/signalk-notification-router](https://github.com/sailingnaturali/signalk-notification-router) - Route Signal K notifications to MQTT, Telegram and an agent webhook — two push lanes with independent failure modes (1 day ago)
+- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (1 day ago)
+- [macjl/signalk-history-explorer](https://github.com/macjl/signalk-history-explorer) - Signal K webapp for exploring History API paths and values (1 day ago)
 
 #### 📫 How to reach me
 
