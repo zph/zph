@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 day ago)
 - [zph/signalk-history-provider-transform](https://github.com/zph/signalk-history-provider-transform) -  (4 days ago)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 
 #### 🌱 My latest projects
 
