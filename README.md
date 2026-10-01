@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [ljtn/epiq](https://github.com/ljtn/epiq) - Distributed, code-native issue tracker - audit workflows via time-travel (today)
 - [nassim-arifette/jevgrep](https://github.com/nassim-arifette/jevgrep) - Jev-powered semantic code search for coding agents — find behavior across repositories via CLI or MCP, with exact source excerpts and line numbers. (1 day ago)
 - [sailingnaturali/signalk-notification-router](https://github.com/sailingnaturali/signalk-notification-router) - Route Signal K notifications to MQTT, Telegram and an agent webhook — two push lanes with independent failure modes (6 days ago)
-- [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST (6 days ago)
 
 #### 📫 How to reach me
 
