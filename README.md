@@ -24,8 +24,8 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
-- [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (4 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (5 days ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 week ago)
 
 #### 🌱 My latest projects
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [nickn17/evDash](https://github.com/nickn17/evDash) - EV dashboard - software for small dev boards connected to the car via obd2 BLE4 or CAN bus.  (1 day ago)
-- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.  (4 days ago)
-- [XEngineeringLLC/XREG-010](https://github.com/XEngineeringLLC/XREG-010) - Open source firmware and web interface for the XREG-010 marine alternator regulator by X Engineering. Product info and docs: xengineering.net (4 days ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 day ago)
+- [lnenad/lipwise](https://github.com/lnenad/lipwise) - Private voice dictation for Windows, macOS and Linux. Hold a shortcut, talk, and Lipwise types what you meant into any app: speech recognition runs on your computer, and an AI editor understands &#34;scratch that&#34;, lists and rewrites. Works with local AI, Claude or OpenAI. (1 day ago)
+- [nickn17/evDash](https://github.com/nickn17/evDash) - EV dashboard - software for small dev boards connected to the car via obd2 BLE4 or CAN bus.  (2 days ago)
 
 #### 📫 How to reach me
 
