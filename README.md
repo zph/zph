@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
-- [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (6 days ago)
-- [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 week ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
+- [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (1 week ago)
+- [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (2 weeks ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 days ago)
-- [lnenad/lipwise](https://github.com/lnenad/lipwise) - Private voice dictation for Windows, macOS and Linux. Hold a shortcut, talk, and Lipwise types what you meant into any app: speech recognition runs on your computer, and an AI editor understands &#34;scratch that&#34;, lists and rewrites. Works with local AI, Claude or OpenAI. (2 days ago)
-- [nickn17/evDash](https://github.com/nickn17/evDash) - EV dashboard - software for small dev boards connected to the car via obd2 BLE4 or CAN bus.  (3 days ago)
+- [POWR1/Villagr](https://github.com/POWR1/Villagr) - Codebase for Admin Portal &amp; Mobile App (1 day ago)
+- [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (3 days ago)
+- [lnenad/lipwise](https://github.com/lnenad/lipwise) - Private voice dictation for Windows, macOS and Linux. Hold a shortcut, talk, and Lipwise types what you meant into any app: speech recognition runs on your computer, and an AI editor understands &#34;scratch that&#34;, lists and rewrites. Works with local AI, Claude or OpenAI. (3 days ago)
 
 #### 📫 How to reach me
 
