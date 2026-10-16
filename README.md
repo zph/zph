@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (4 days ago)
 - [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (1 week ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (2 weeks ago)
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [POWR1/Villagr](https://github.com/POWR1/Villagr) - Codebase for Admin Portal &amp; Mobile App (5 days ago)
+- [POWR1/Villagr](https://github.com/POWR1/Villagr) - Codebase for Admin Portal &amp; Mobile App (6 days ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (1 week ago)
 - [lnenad/lipwise](https://github.com/lnenad/lipwise) - Private voice dictation for Windows, macOS and Linux. Hold a shortcut, talk, and Lipwise types what you meant into any app: speech recognition runs on your computer, and an AI editor understands &#34;scratch that&#34;, lists and rewrites. Works with local AI, Claude or OpenAI. (1 week ago)
 
