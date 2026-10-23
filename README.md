@@ -12,7 +12,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 📜 My recent blog posts
 
-- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (4 months ago)
+- [The Perfect Proxy: Technical Specification](https://blog.xargs.io/post/2026-05-26-the-perfect-proxy-technical-specification/) (5 months ago)
 - [The Perfect Proxy: The Power of Limits](https://blog.xargs.io/post/2026-05-10-the-perfect-proxy-the-power-of-limits/) (5 months ago)
 - [TiDB Resource Controls: 2 years into Best Practices](https://blog.xargs.io/post/2026-03-12-tidb-resource-controls-2-years-into-best-practices/) (7 months ago)
 - [Field Reference Paths as Transactional Extensions](https://blog.xargs.io/post/2026-03-07-field-reference-paths-as-transactional-extensions/) (7 months ago)
@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (2 weeks ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (3 weeks ago)
 
@@ -78,13 +78,13 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.6](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.6), 1 day ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.6](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.6), 2 days ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 4 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 7 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
 #### 🔨 My recent Pull Requests
 
-- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (1 month ago)
+- [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (2 months ago)
 - [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 - [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
 
@@ -96,7 +96,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers. (6 days ago)
+- [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers. (1 week ago)
 - [POWR1/Villagr](https://github.com/POWR1/Villagr) - Codebase for Admin Portal &amp; Mobile App (1 week ago)
 - [cjpais/Handy](https://github.com/cjpais/Handy) - A free, open source, and extensible speech-to-text application that works completely offline. (2 weeks ago)
 
