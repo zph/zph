@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (today)
 - [motamman/signalk-weather-router-plus](https://github.com/motamman/signalk-weather-router-plus) -  (1 day ago)
 - [Saffsanity/sill](https://github.com/Saffsanity/sill) - Any window from your Mac, live on your iPhone or iPad. Touch, Apple Pencil, trackpad and keys. Free, open source, no servers. (1 week ago)
-- [POWR1/Villagr](https://github.com/POWR1/Villagr) - Codebase for Admin Portal &amp; Mobile App (2 weeks ago)
 
 #### 📫 How to reach me
 
