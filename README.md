@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (6 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 week ago)
 - [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (3 weeks ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 month ago)
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil! (3 days ago)
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) - Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. (3 days ago)
-- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (5 days ago)
+- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil! (4 days ago)
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) - Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. (4 days ago)
+- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (6 days ago)
 
 #### 📫 How to reach me
 
