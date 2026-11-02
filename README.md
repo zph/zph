@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (today)
 - [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil! (1 week ago)
 - [dsmurrell/onkey](https://github.com/dsmurrell/onkey) - Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. (1 week ago)
-- [pieteroskam/autopilot](https://github.com/pieteroskam/autopilot) - ESP32 autopilot BLE (1 week ago)
 
 #### 📫 How to reach me
 
