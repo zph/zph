@@ -85,8 +85,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 #### 🔨 My recent Pull Requests
 
 - [Integrate supplemental Orca AIS, timestamps, routes, and metrics](https://github.com/zph/signalk-orca-core/pull/1) on [zph/signalk-orca-core](https://github.com/zph/signalk-orca-core) (2 months ago)
-- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
-- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (2 months ago)
+- [Update VERSION to 3.0.62016](https://github.com/zph/terraform-provider-mysql/pull/38) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 months ago)
+- [Read back TiDB max_user_connections via runtime column probe](https://github.com/zph/terraform-provider-mysql/pull/37) on [zph/terraform-provider-mysql](https://github.com/zph/terraform-provider-mysql) (3 months ago)
 
 #### 📓 Gists
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (6 days ago)
-- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil! (1 week ago)
-- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) - Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. (1 week ago)
+- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (1 week ago)
+- [codykociemba/NoLongerEvil-Thermostat](https://github.com/codykociemba/NoLongerEvil-Thermostat) - Breathe fresh life into your bricked Nest, now with 100% less evil! (2 weeks ago)
+- [dsmurrell/onkey](https://github.com/dsmurrell/onkey) - Learn to sing the songs you love. A free, open-source singing trainer for Mac that listens to the music you play. (2 weeks ago)
 
 #### 📫 How to reach me
 
