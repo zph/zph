@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (today)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
 - [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (1 month ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 month ago)
 
@@ -96,8 +96,8 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (1 day ago)
-- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (1 day ago)
+- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (2 days ago)
+- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (2 days ago)
 - [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (2 weeks ago)
 
 #### 📫 How to reach me
