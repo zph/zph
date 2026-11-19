@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [iamd3vil/blobasaur](https://github.com/iamd3vil/blobasaur) - A Blob store based on SQLite compatible with Redis protocol (today)
 - [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (3 days ago)
 - [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (3 days ago)
-- [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) - Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. (2 weeks ago)
 
 #### 📫 How to reach me
 
