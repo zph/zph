@@ -24,7 +24,7 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (3 days ago)
 - [zph/signalk-vhf-watch](https://github.com/zph/signalk-vhf-watch) - Experimental receive-only marine VHF monitor with private live listening and rolling replay for Signal K (1 month ago)
 - [zph/signalk-pager](https://github.com/zph/signalk-pager) - Reliable Pushover paging and Telegram incident acknowledgements for Signal K (1 month ago)
 
@@ -78,7 +78,7 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### 🔭 Latest releases I've contributed to
 
-- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.6](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.6), 2 weeks ago) - MongoDB Terraform Provider
+- [zph/terraform-provider-mongodb](https://github.com/zph/terraform-provider-mongodb) ([v0.5.6](https://github.com/zph/terraform-provider-mongodb/releases/tag/v0.5.6), 3 weeks ago) - MongoDB Terraform Provider
 - [LaunchPlatform/beanhub-import](https://github.com/LaunchPlatform/beanhub-import) ([1.4.1](https://github.com/LaunchPlatform/beanhub-import/releases/tag/1.4.1), 5 months ago) - Beanhub-import is a simple, declarative, smart, and easy-to-use library for importing extracted transactions from beanhub-extract. It generates Beancount transactions based on predefined rules.
 - [zph/runbook](https://github.com/zph/runbook) ([1.0.0](https://github.com/zph/runbook/releases/tag/1.0.0), 8 months ago) - 📖 CLI for dynamic runbooks: a structured and auditable approach to creating and executing operational procedures, bridging the gap between simple shell scripts and more complex tooling 💻
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [iamd3vil/blobasaur](https://github.com/iamd3vil/blobasaur) - A Blob store based on SQLite compatible with Redis protocol (today)
-- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (3 days ago)
-- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (3 days ago)
+- [iamd3vil/blobasaur](https://github.com/iamd3vil/blobasaur) - A Blob store based on SQLite compatible with Redis protocol (1 day ago)
+- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (4 days ago)
+- [yay/awdl-toggle](https://github.com/yay/awdl-toggle) - A native macOS Control Center toggle that persistently enables or suppresses AWDL. (4 days ago)
 
 #### 📫 How to reach me
 
