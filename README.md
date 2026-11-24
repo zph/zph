@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
+- [sous-labs/songe](https://github.com/sous-labs/songe) - A training engine for your local model, using your idle compute (today)
 - [mjwsolo/localcode](https://github.com/mjwsolo/localcode) - Agentic coding. Local models. On your Mac. (1 day ago)
 - [iamd3vil/blobasaur](https://github.com/iamd3vil/blobasaur) - A Blob store based on SQLite compatible with Redis protocol (5 days ago)
-- [james-howard/AWDLControl](https://github.com/james-howard/AWDLControl) - A Mac utility to automatically disable AWDL to reduce lag spikes when playing online games (1 week ago)
 
 #### 📫 How to reach me
 
