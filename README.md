@@ -24,9 +24,9 @@ I'm deeply interested in results and less interested in the exact tools/technolo
 
 #### 👷 What I'm currently working on
 
-- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (today)
-- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (1 day ago)
-- [zph/mup](https://github.com/zph/mup) -  (6 days ago)
+- [zph/dotfiles](https://github.com/zph/dotfiles) - My dotfiles (1 day ago)
+- [zph/hermit-packages](https://github.com/zph/hermit-packages) - hermit package declarations (2 days ago)
+- [zph/mup](https://github.com/zph/mup) -  (1 week ago)
 
 #### 🌱 My latest projects
 
@@ -96,9 +96,9 @@ I'm very fortunate to be happily employed with a few standing offers but if you 
 
 #### ⭐ Recent Stars
 
-- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android (today)
-- [sous-labs/songe](https://github.com/sous-labs/songe) - A training engine for your local model, using your idle compute (3 days ago)
-- [mjwsolo/localcode](https://github.com/mjwsolo/localcode) - Agentic coding. Local models. On your Mac. (4 days ago)
+- [tlockney/cdp-kernel](https://github.com/tlockney/cdp-kernel) - A Jupyter kernel for TypeScript and JavaScript, extracted from Deno, that runs notebooks on several JavaScript runtimes. (today)
+- [idsaymichelle/LimitLookUp](https://github.com/idsaymichelle/LimitLookUp) - Claude Code &amp; Codex usage limits on iPhone, Apple Watch, Mac and Android. Open source, no server, you build it yourself. (1 day ago)
+- [Genymobile/gnirehtet](https://github.com/Genymobile/gnirehtet) - Gnirehtet provides reverse tethering for Android (1 day ago)
 
 #### 📫 How to reach me
 
